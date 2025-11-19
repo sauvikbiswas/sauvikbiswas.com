@@ -1,0 +1,4 @@
+baseURL = 'https://sauvikbiswas.com/'
+languageCode = 'en-us'
+title = 'Sauvik Biswas'
+theme = 'typo'
