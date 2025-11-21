@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sauvik Biswas</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://sauvikbiswas.com/categories/</link>
     <description>Recent content in Categories on Sauvik Biswas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sauvikbiswas.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works</title>
+      <link>https://sauvikbiswas.com/categories/works/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://sauvikbiswas.com/categories/works/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
