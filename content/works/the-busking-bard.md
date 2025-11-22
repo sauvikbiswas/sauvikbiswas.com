@@ -3,7 +3,7 @@ title: "The Busking Bard"
 date: 2020-07-31
 categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 

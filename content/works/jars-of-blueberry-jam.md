@@ -3,7 +3,7 @@ title: "Jars of Blueberry Jam"
 date: 2022-11-17
 categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 
