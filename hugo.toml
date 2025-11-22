@@ -2,3 +2,11 @@ baseURL = 'https://sauvikbiswas.com/'
 languageCode = 'en-us'
 title = 'Sauvik Biswas'
 theme = 'typo'
+
+[params]
+paginationSize = 100
+
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
