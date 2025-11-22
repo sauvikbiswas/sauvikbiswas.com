@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2014-03-16
 ---
 
 > All great men write logs. All logs are not written by great men.
@@ -11,4 +10,4 @@ In a way, it is a form of non-invasive voyeurism. Through these entries, I invit
 
 I will buck the trend of splitting my interests into multiple blogs. While subject specific blogs are great, they are not for me. (I have tried.) In a sense, when you are reading through the entries, I don't want myself to split into the images of one isolated traveler, or that of a musician, or a person who enjoys cycling or that of a geek locked up in his den with comic books, but of a _person_ who enjoys all these things.
 
-[![](images/PICT_20171206_134707-150x150.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/03/PICT_20171206_134707.jpg)
+![Me sitting on a bridge in Vishnuprayag](sauvik_bridge.jpg)

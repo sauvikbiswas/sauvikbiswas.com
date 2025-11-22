@@ -1,6 +1,5 @@
 ---
 title: "Now"
-date: 2019-05-20
 ---
 
 ## Reading List
