@@ -1,7 +1,7 @@
 ---
 title: "Bowl for Alms"
 date: 2020-09-14
-categories: 
+categories:
   - "works"
 tags: 
   - "poetry"

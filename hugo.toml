@@ -14,3 +14,15 @@ colorPalette = 'base16-eighties'
 enabled = true
 showCurrentPage = true
 home = "Home"
+
+[[params.menu]]
+name = "works"
+url = "/works"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "now"
+url = "/now"

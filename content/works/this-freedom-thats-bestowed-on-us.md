@@ -1,7 +1,7 @@
 ---
 title: "This freedom that's bestowed on us"
 date: 2020-05-16
-categories: 
+categories:
   - "works"
 tags: 
   - "poetry"

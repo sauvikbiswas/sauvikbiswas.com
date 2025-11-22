@@ -1,7 +1,7 @@
 ---
 title: "The Bomberman and the Locksmith"
 date: 2020-08-01
-categories: 
+categories:
   - "works"
 tags: 
   - "play"

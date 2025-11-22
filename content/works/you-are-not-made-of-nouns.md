@@ -1,7 +1,7 @@
 ---
 title: "You are not made of nouns"
 date: 2020-05-26
-categories: 
+categories:
   - "works"
 tags: 
   - "poetry"

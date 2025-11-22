@@ -1,9 +1,9 @@
 ---
 title: "Apathy for the Future"
 date: 2021-04-16
-categories: 
+categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 
