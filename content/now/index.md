@@ -2,6 +2,7 @@
 title: "Now"
 categories:
   - "static"
+hidePagination: true
 ---
 
 ## Reading List
