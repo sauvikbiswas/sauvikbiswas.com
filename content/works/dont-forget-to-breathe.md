@@ -1,9 +1,9 @@
 ---
 title: "Don’t forget to breathe"
 date: 2020-08-18
-categories: 
+categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "A TV reporter stuck on page two-and-a-half"
 date: 2020-08-09
-categories: 
+categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 
@@ -51,6 +51,8 @@ As soon as he's spotted with his girlfriend behind,
 She fixes her hair and the state of her mind.
 Her cameraman signals as he shoots from afar.
 “Here comes Mr. Roy—the rising young star.”
+```
+```
 ```
 
 **_Notes:_** The topic came from a discussion with Amit Prabhakar. I told him that I can write a very short story. It became a poem instead. _—S.B (09.08.2020)_

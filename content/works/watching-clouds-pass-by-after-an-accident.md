@@ -1,9 +1,9 @@
 ---
 title: "Watching clouds pass by after an accident"
 date: 2020-09-30
-categories: 
+categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 

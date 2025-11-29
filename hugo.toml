@@ -3,10 +3,26 @@ languageCode = 'en-us'
 title = 'Sauvik Biswas'
 theme = 'typo'
 
+[taxonomies]
+tag = 'tags'
+
 [params]
 paginationSize = 100
+colorPalette = 'base16-eighties'
 
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
 home = "Home"
+
+[[params.menu]]
+name = "works"
+url = "/works"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "now"
+url = "/now"

@@ -1,9 +1,9 @@
 ---
 title: "Backpacking and the Journey of Personal Growth"
 date: 2021-09-21
-categories: 
+categories:
   - "works"
-tags: 
+tags:
   - "article"
   - "published"
 ---

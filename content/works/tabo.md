@@ -1,9 +1,9 @@
 ---
 title: "Tabo"
 date: 2020-09-01
-categories: 
+categories:
   - "works"
-tags: 
+tags:
   - "poetry"
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "Now"
+categories:
+  - "static"
 ---
 
 ## Reading List
