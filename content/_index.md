@@ -13,6 +13,6 @@ You can navigate to:
 - [Works](/works) — My writings and creative works
 
 The following pages are still hosted on Wordpress
-- [Posts](https://sauvikbiswas.com/) — My blog
-- [Travelogue](https://sauvikbiswas.com/travelogue/) — A ToC-style page for posts related to my travels
-- [On Comics](https://sauvikbiswas.com/comics/) — A ToC-style page for posts related comics
+- [Posts](https://sauvikbiswas.com/wp/) — My blog
+- [Travelogue](https://sauvikbiswas.com/wp/travelogue/) — A ToC-style page for posts related to my travels
+- [On Comics](https://sauvikbiswas.com/wp/comics/) — A ToC-style page for posts related comics
