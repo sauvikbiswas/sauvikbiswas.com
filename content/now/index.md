@@ -2,6 +2,7 @@
 title: "Now"
 categories:
   - "static"
+hidePagination: true
 ---
 
 ## Reading List
@@ -14,6 +15,6 @@ categories:
 
 ## Paused Projects
 
-An instructional piece on personal finance called [Y-Finance](https://sauvikbiswas.com/YF/).
+An instructional piece on personal finance called [Y-Finance](https://sauvikbiswas.com/wp/YF/).
 
 [publisher](https://github.com/sauvikbiswas/publisher): Static site generator. Updates and commits are more frequent as I am using it to publish Y-Finance. I have asked a friend in NIT Patna to use it for writing his mathematics class notes.

@@ -2,6 +2,7 @@
 title: "About"
 categories:
   - "static"
+hidePagination: true
 ---
 
 > All great men write logs. All logs are not written by great men.
