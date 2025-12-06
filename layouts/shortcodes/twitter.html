@@ -1,0 +1,19 @@
+{{- $cards := .Get "cards" -}}
+{{- $lang := .Get "lang" | default "en" -}}
+{{- $conversation := .Get "conversation" -}}
+{{- $url := .Get "url" -}}
+{{- $text := .Get "text" -}}
+{{- $author := .Get "author" -}}
+{{- $date := .Get "date" -}}
+
+<blockquote class="twitter-tweet"{{ if $cards }} data-cards="{{ $cards }}"{{ end }}{{ if $lang }} data-lang="{{ $lang }}"{{ end }}{{ if $conversation }} data-conversation="{{ $conversation }}"{{ end }}>
+  {{- if $text -}}
+  <p dir="ltr" lang="{{ $lang }}">{{ $text }}</p>
+  {{- end -}}
+  {{- if and $author $date $url -}}
+  — {{ $author }} <a href="{{ $url }}">{{ $date }}</a>
+  {{- else if $url -}}
+  <a href="{{ $url }}">View tweet</a>
+  {{- end -}}
+</blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -9,3 +9,9 @@ a:hover {
 .light {
     background-color: rgb(255, 255, 255);
 }
+
+/* Fix image container sizing to prevent white space */
+figure .img-container {
+    max-width: calc(var(--w) * 1px);
+    max-height: min(calc(var(--h) * 1px), var(--figure-img-max-height));
+}

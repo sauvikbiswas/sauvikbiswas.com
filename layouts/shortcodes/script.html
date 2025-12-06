@@ -1,0 +1,2 @@
+<script{{ if .Get "async" }} async{{ end }}{{ if .Get "defer" }} defer{{ end }}{{ with .Get "src" }} src="{{ . }}"{{ end }}{{ with .Get "charset" }} charset="{{ . }}"{{ end }}></script>
+
