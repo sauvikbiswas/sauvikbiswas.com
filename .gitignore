@@ -2,3 +2,14 @@ export/
 .DS_Store
 public/
 .hugo_build.lock
+content/posts/*.jpg
+content/posts/*.jpeg
+content/posts/*.png
+content/posts/*.gif
+content/posts/*.webp
+content/posts/*.svg
+content/posts/*.mp4
+content/posts/*.mov
+content/posts/*.avi
+content/posts/*.mkv
+content/posts/*.webm
