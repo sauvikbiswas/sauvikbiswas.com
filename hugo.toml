@@ -16,6 +16,10 @@ showCurrentPage = true
 home = "Home"
 
 [[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
 name = "works"
 url = "/works"
 
