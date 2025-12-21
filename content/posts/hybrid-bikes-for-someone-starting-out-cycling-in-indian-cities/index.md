@@ -20,13 +20,13 @@ In this post I have summarised the things that I usually tell people when they 
 
 _Clarification:_ If you have ridden only heavy roadsters like Hero Jet, this will be your "first" bike. If you are riding as an adult after n years, this will be your "first" bike. If you have been riding those heavy BSOs (bicycle shaped object) with front and rear suspensions that are targeted at kids (see image below), this will be your "first" bike.
 
-\[caption id="attachment\_2176" align="alignnone" width="850"\][![This is a BSO. If a bike looks remotely like this, you are looking at a BSO. They come in various names but they are essentially the same.](BSO-e1470582042335.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/BSO.jpg) This is a BSO. If a bike looks remotely like this, you are looking at a BSO. They come in various names but they are essentially the same. Read why you shouldn't buy a BSO [here](https://www.southcoastbikes.co.uk/Dont-Buy-a-Cheap-Bike).\[/caption\]
+{{< figure src="BSO-e1470582042335.jpg" caption="This is a BSO. If a bike looks remotely like this, you are looking at a BSO. They come in various names but they are essentially the same. Read why you shouldn't buy a BSO [here](https://www.southcoastbikes.co.uk/Dont-Buy-a-Cheap-Bike)." >}}
 
 A hybrid is a catch-all term for a bike that is has a bit of features borrowed from the discipline of road bike design (thinner tyres, thinner frame tubes) and some features borrowed from the book of mountain bike design (tougher drivetrain components, straight handlebar).
 
 If you are a beginner and would want to get into cycling, it is a great entry point for either of those specialised sports (road or MTB). You can even test out the waters and see if some discipline is for you. If you want to bikepack or tour on tarmac, they are great to learn the ins and outs of bicycle touring without the hefty investment of a touring specific cycle. If you want to ride around in the city, this is all you'll need. In fact, this can be your workhorse even when you have bought a specific bike for some specific need and would look great alongside it's brother.
 
-\[caption id="attachment\_2196" align="alignnone" width="700"\][![Now compare this shape with the BSO above. They also come in a variety of names and geometries.](hybrid-1024x603.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/hybrid.jpg) Now compare this shape with the BSO above. They also come in a variety of names and geometries.\[/caption\]
+{{< figure src="hybrid-1024x603.jpg" caption="Now compare this shape with the BSO above. They also come in a variety of names and geometries." >}}
 
 However, if you know that you want to get into a specific discipline upfront, be prepared to shell out good money for a specialised (not Specialized, the brand; although they are good, too) bike.
 
@@ -38,7 +38,7 @@ Here are some points that a beginner should know.
 
 Some people also call it the diamond design. This is the simplest design one can come up with that will take all loads on the bicycle without getting into fancy tube shapes and irrational welded junctions like the ones in BSOs. You should get a bike with this. Top of the line hardtail MTBs and road bikes use the same design, too. (They have different proportions and angles.)
 
-\[caption id="attachment\_2177" align="alignnone" width="666"\][![This design has stood the test of time. Unless there is poor workmanship or a catastrophic crash, there is no reason why this design would fail.](double-triangle-design.png)](http://sauvikbiswas.com/wp-content/uploads/2016/08/double-triangle-design.png) This design has stood the test of time. Unless there is poor workmanship or a catastrophic crash, there is no reason why this design would fail. It's good to know the nomenclature of the tubes, too. The unlabelled tube is called rear stay.\[/caption\]
+{{< figure src="double-triangle-design.png" caption="This design has stood the test of time. Unless there is poor workmanship or a catastrophic crash, there is no reason why this design would fail. It's good to know the nomenclature of the tubes, too. The unlabelled tube is called rear stay." >}}
 
 Rear suspension based designs are not cheap. They cost a lot. You can buy three mid-range city motorbikes with that money. If your bike with rear suspension costs less than the cost of one motorbike, it is going to be horrible. Some of the BSOs come at 10% of that cost, making them not only bad but maybe even unsafe.
 
@@ -52,9 +52,9 @@ For a commuter bike, this is essential. Especially, if you are riding in the rai
 
 Stay away from the plastic fenders. These are mounted like a cantilever and will vibrate while riding. The ends will throw more mud on your back.
 
-\[caption id="attachment\_2179" align="alignnone" width="700"\][![These are plastic, cantilever, clip-on fenders used on MTBs for temporary protection. If you are riding trails, you wouldn't mind a few splashes on your back. Image: patski@MTBR](IMG_6267-1024x768.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_6267.jpg) These are plastic, cantilever, clip-on fenders used on MTBs for temporary protection. If you are riding trails, you wouldn't mind a few splashes on your back. Image: patski@MTBR\[/caption\]
+{{< figure src="IMG_6267-1024x768.jpg" caption="These are plastic, cantilever, clip-on fenders used on MTBs for temporary protection. If you are riding trails, you wouldn't mind a few splashes on your back. Image: patski@MTBR" >}}
 
-\[caption id="attachment\_2180" align="alignnone" width="375"\][![However, you wouldn't want a line of mud spray on your back if you plan to go to office. These are the kind of fender you should look for.](rambouillet_frontquarter.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/rambouillet_frontquarter.jpg) However, you wouldn't want a line of mud spray on your back if you plan to go to office. These are the kind of fenders you should look for. Image: Sheldon Brown\[/caption\]
+{{< figure src="rambouillet_frontquarter.jpg" caption="However, you wouldn't want a line of mud spray on your back if you plan to go to office. These are the kind of fenders you should look for. Image: Sheldon Brown" >}}
 
 Sheldon Brown [has a nice article](http://www.sheldonbrown.com/fenders.html) on fenders.
 
@@ -63,7 +63,7 @@ Sheldon Brown [has a nice article](http://www.sheldonbrown.com/fenders.html) on 
 1. If you have a front suspension fork, chances are that it will not have eyelets for full fenders. There are workarounds but this kind of gives away the fact that such bikes are not designed keeping daily commute in mind.
 2. If you have aspirations to be a bikepacker or tourer and you are testing waters with this hybrid bike, look for dual eyelets on each side of the frame along with a par of attachment points on the rear stay. You can attach pannier racks. It is possible to mount both on the same eyelet but I wouldn't advise that.
 
-\[caption id="attachment\_2182" align="alignnone" width="700"\][![Notice the two mounting points near the rear dropout for fenders and panniers.](mounts-1024x683.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/mounts.jpg) Notice the two mounting points near the rear dropout for fenders and panniers.\[/caption\]
+{{< figure src="mounts-1024x683.jpg" caption="Notice the two mounting points near the rear dropout for fenders and panniers." >}}
 
 ### d) Know that there is a right sized frame for _you_.
 
@@ -77,7 +77,7 @@ This is one such video
 
 Here is how to check for correct frame size
 
-\[caption id="attachment\_2186" align="alignnone" width="460"\][![This is from a old Schwinn catalogue.](sizing.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/sizing.jpg) This is from a old Schwinn catalogue.\[/caption\]
+{{< figure src="sizing.jpg" caption="This is from a old Schwinn catalogue." >}}
 
 **Warning:** _**A wrong sized bike will cause injury in the long run.**_
 

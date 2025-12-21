@@ -35,7 +35,7 @@ Phoney Bone, driven by his sense of greed, opens up a betting shop. His trump ca
 
 Things do not go as planned. En route, Smiley and Phoney Bone fall off the race and are chased by rat creatures, who in turn ruin the entire race.
 
-\[caption id="attachment\_843" align="alignnone" width="648"\][![Jeff Smith makes most of the chase sequences fun. This is one extreme end of it.](IMG_0004-1-648x1024.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/IMG_0004-1.jpg) Jeff Smith makes most of the chase sequences fun. This is one extreme end of it.\[/caption\]
+{{< figure src="IMG_0004-1-648x1024.jpg" caption="Jeff Smith makes most of the chase sequences fun. This is one extreme end of it." >}}
 
 There are two things that Jeff Smith intertwines in this crazy narrative. The first is Bone’s growing affection for Thorn. He even ends up writing love poems when he is not busy reading Moby Dick or helping out grandma Ben and Thorn with their chores. This feeling is not yet reciprocated by Thorn. The second thing is merely hinted at - the importance of dreams. There is one segment where Thorn has a weird dream about taking shelter in a cave full Dragons. She concludes that the events must have been from her childhood and the tattered map that the Bones had found was drawn by her. It was a map of the Dragon’s Den.
 
@@ -51,19 +51,19 @@ I had a faint sensation that both grandma Ben and Lucius know more than most peo
 
 The artwork is not consistent in the first volume. Taking into consideration that Jeff Smith wrote the series in a span of 14 years, the level of consistency he brought to the books was well beyond my expectation. The depiction of the characters becomes more structured and matured as the series progresses into volume 2. Also, the lines are more articulated and thinner.
 
-\[caption id="attachment\_845" align="alignnone" width="1024"\][![Bone-1-beginning](IMG_0005-1024x978.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/IMG_0005.jpg) [![Bone-1-end](IMG_0006-1024x998.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/IMG_0006.jpg) The quality of illustration improves as we move from beginning towards the end of volume 1.\[/caption\]
+{{< figure src="IMG_0005-1024x978.jpg" caption="The quality of illustration improves as we move from beginning towards the end of volume 1." >}}
 
 Allow me to also comment on the brilliant panelling and pacing of the story. I know it is too early to judge from the first two volumes. Yet, there are sections involving chase sequences and visual gags that was depicted masterfully.
 
-\[caption id="attachment\_844" align="alignnone" width="625"\][![Bone-2-gag](IMG_0003-1-625x1024.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/IMG_0003-1.jpg) Visual gags like this are scattered throughout the books. They ease the otherwise heavy plot.\[/caption\]
+{{< figure src="IMG_0003-1-625x1024.jpg" caption="Visual gags like this are scattered throughout the books. They ease the otherwise heavy plot." >}}
 
 The original release was in Black and White. The volumes I own are colour editions published by Scholastic. The colouring was done by Steve Hamaker. I haven’t seen the B&W edition but as of today, it is competitively priced if you want to get it in India. The production of this B&W edition, published by Cartoon Books, suffer from ink bleed through thin pages, as evident from the image below as well as the reviews on Amazon.
 
 I would have to disagree with Seth T. Hahne of GoodOkBad [regarding the colour edition](http://goodokbad.com/index.php/reviews/bone_review). I liked the colour edition a lot. I am not challenging his opinion either. I know that B&W artwork can have a different level of impact altogether. It all boils down to which version you have read first. The first impression of a work creates a positive bias towards itself.
 
-\[caption id="attachment\_847" align="alignnone" width="687"\][![A page from the Black & White edition of Bone.](Bone_001-20-687x1024.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/Bone_001-20.jpg) A page from the Black & White edition of Bone.\[/caption\]
+{{< figure src="Bone_001-20-687x1024.jpg" caption="A page from the Black & White edition of Bone." >}}
 
-\[caption id="attachment\_848" align="alignnone" width="620"\][![Same page in the coloured edition.](IMG_0002-1-620x1024.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/IMG_0002-1.jpg) Same page in the coloured edition.\[/caption\]
+{{< figure src="IMG_0002-1-620x1024.jpg" caption="Same page in the coloured edition." >}}
 
 I loved the fact that the lettering was done by hand - possibly by Jeff Smith himself. The variation of line thickness and font allowed me to reenact the vocalisations in my head pretty easily.
 

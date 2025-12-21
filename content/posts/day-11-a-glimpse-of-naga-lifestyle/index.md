@@ -14,13 +14,13 @@ tags:
 
 In Kharagpur, the [collage](http://en.wikipedia.org/wiki/Collage) competitions had a strange rule. No cutting instruments were to be used. That included scissors, knives or identity cards. The last example of a cutting instrument made little sense until today. We felt hungry and the breakfast wasn't ready at 8:00 am\[1\]. Nandy had a pound of local cake  and we decided to have some slices. We did not have any sharp objects in our bag owing to airport baggage regulations. Instead, we used my identity card.
 
-\[caption id="attachment\_450" align="alignnone" width="1600"\][![This is why IIT Kharagpur collage competitions had identity cards classified as cutting tool,](DSC02571_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02571_1600_1200.jpg) This is why IIT Kharagpur collage competitions had identity cards classified as cutting tool,\[/caption\]
+{{< figure src="DSC02571_1600_1200.jpg" caption="This is why IIT Kharagpur collage competitions had identity cards classified as cutting tool," >}}
 
 ## A crash course in modern Naga life (or at least Naga life around Kohima)
 
 Our host, Keenie\[2\], was a very amicable and chatty person. We ended up spending a lot of time talking with her about various things - but mostly about their culture.
 
-\[caption id="attachment\_454" align="alignnone" width="1600"\][![Our nice host, Kanie, She shared a lot of stories with us.](DSC02581_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02581_1600_1200.jpg) Our nice host, Keenie, She shared a lot of stories with us.\[/caption\]
+{{< figure src="DSC02581_1600_1200.jpg" caption="Our nice host, Keenie, She shared a lot of stories with us." >}}
 
 There are many individual tribes that constitute the Nagas. They have their own customs but modern exposure has brought them together. Each tribe has their own language but they all resort to a creole called Nagamese in order to communicate with each other and with the neighbouring Assamese and Bengali folks. As a Bengali, I could understand their speech but it would be difficult for me to speak unless I spend a month with them.
 
@@ -28,31 +28,31 @@ Naga families are large. Our host were nine sisters and two brothers. They have 
 
 In the slopes they build terraced lands and grow rice in the summer and potatoes in the winter. Apart from this, they also grow leafy vegetables like cabbage, cauliflower, broccoli and roots like carrots. The slopes and the climate are ideal for many kinds of fruit like plums, peaches, banana, wild apples. Keenie shared a dry wild apple pickled in some spices. It tasted a lot like gooseberries dipped in jaggery. We also tasted some local sugarcane. It was sweeter than the usual ones we get in the planes.
 
-\[caption id="attachment\_451" align="alignnone" width="1600"\][![DSC02585_1600_1200](DSC02585_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02585_1600_1200.jpg) Pickled and sweetened wild apples.\[/caption\]
+{{< figure src="DSC02585_1600_1200.jpg" caption="Pickled and sweetened wild apples." >}}
 
 The Naga household prepares a lot of different meats. Pork is their staple (they even hang the meat in their kitchen in the winter). They also eat various birds as well as chicken and duck. Nowadays, they buy the poultry chicks and rear them with local diet instead of the pellets that chicken in the plains are given. Dog meat is considered a delicacy and is prepared only twice or thrice a year. In the villages, the Nagas also hunt and eat porcupine, fox, bear and certain kinds of snakes.
 
 They have their own utensils and utility baskets made of wood and bamboo. Each girl in a Naga household carries a basket of her own. Baskets that are intricately woven can cost around ten thousand rupees. In recent times, the price has increased steeply since there aren't many people left who can build these traditional baskets.
 
-\[caption id="attachment\_452" align="alignnone" width="1600"\][![The first basket is the most expensive (about 8000 rupees). The last one is the cheapest and the coarsest (about 800 rupees). It is for daily use. The second from right is a special basket used during harvest.](DSC02584_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02584_1600_1200.jpg) The first basket is the most expensive (about 8000 rupees). The last one is the cheapest and the coarsest (about 800 rupees). It is for daily use. The second from right is a special basket used during harvest.\[/caption\]
+{{< figure src="about 8000 rupees" caption="The first basket is the most expensive (about 8000 rupees). The last one is the cheapest and the coarsest (about 800 rupees). It is for daily use. The second from right is a special basket used during harvest." >}}
 
 Naga life is pretty much self sustained. Everything is grown and hunted locally. They don't depend on outsiders. There is a disparity of wealth though. Many contractors and businessmen are pretty rich. They say that if a car is released in India, Nagaland will be the first one to show it on the roads. The car problem is very evident in Kohima. A distance that needs thirty minutes may take over two hours due to jam. The road is narrow with no scope of expansion and the vehicle density is high. We observed a very similar situation in Shillong, though Kohima appeared to be a bit worse.
 
 The connectivity is a huge problem and government hasn't been doing much to improve it. There are no airports (one in Dimapur runs two flights or so in a week). There are no railway lines that penetrate into the heart of Nagaland. Corruption is rampant and funds don't percolate. The only lifeline, road network, becomes unpredictable in the monsoon season due to landslides. If the landslide is severe, it may take about a whole month to restore the vehicle flow back to normal. Two years ago, the road between Kigwema nad Kohima was blocked. It took over two and half hours for the villagers to access Kohima via another route. Important resources like healthcare is only available in larger places like Kohima. Villages and smaller settlements have nothing more than primary healthcare centres, which usually close by 7:00 pm.
 
-\[caption id="attachment\_453" align="alignnone" width="1600"\][![The Lalhou household had quite a few kittens. Here's me with two of them.](DSC02576_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02576_1600_1200.jpg) The Lalhou household had quite a few kittens. Here's me with two of them.\[/caption\]
+{{< figure src="DSC02576_1600_1200.jpg" caption="The Lalhou household had quite a few kittens. Here's me with two of them." >}}
 
 ## An unexpected find back at (a silent) Dimapur
 
 At 12:00 pm we bid goodbye to our wonderful host and headed for the road, in order to reach Dimapur before sunset. On a Sunday, Kohima and Dimapur (and possibly other towns in Nagaland) are completely non-operational. Vehicles are fewer, too.
 
-\[caption id="attachment\_455" align="alignnone" width="1600"\][![Dimapur city tower area looks like a ghost town on a Sunday. All the shops were closed.](DSC02589_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02589_1600_1200.jpg) Dimapur City Tower area looks like a ghost town on a Sunday. All the shops were closed.\[/caption\]
+{{< figure src="DSC02589_1600_1200.jpg" caption="Dimapur City Tower area looks like a ghost town on a Sunday. All the shops were closed." >}}
 
 The roads were empty. We walked a lot looking for two cups of tea. The drummer guy I met earlier had suggested Jumping Bean as a place that hosted live bands. It turns out they only have bands on the second Friday of every month. I was surprised to find a lot of bootlegged anime DVDs. There were a few mangas and comic book, too. These weren't bootlegged. It turns out that the owner is an anime / manga fan. We spent almost two hours at Jumping Bean. Not a single soul entered through the doors.
 
-\[caption id="attachment\_456" align="alignnone" width="1600"\][![The stage at Jumping Bean Cafe.](DSC02590_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02590_1600_1200.jpg) The stage at Jumping Bean Cafe.\[/caption\]
+{{< figure src="DSC02590_1600_1200.jpg" caption="The stage at Jumping Bean Cafe." >}}
 
-\[caption id="attachment\_457" align="alignnone" width="1600"\][![One side of the cafe had bootlegged anime DVDs and original manga volumes.](DSC02591_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02591_1600_1200.jpg) One side of the cafe had bootlegged anime DVDs and original manga volumes.\[/caption\]
+{{< figure src="DSC02591_1600_1200.jpg" caption="One side of the cafe had bootlegged anime DVDs and original manga volumes." >}}
 
 We ended up at the waiting room of Dimapur railway station for our 11:14 pm Intercity Express back to Guwahati. I have drafted this entire post here.
 

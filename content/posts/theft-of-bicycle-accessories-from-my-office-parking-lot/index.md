@@ -16,8 +16,8 @@ A disheartening mail to the concerned persons ensured, which was later forwarded
 
 Cumulatively, the loss is about INR 4500. Here are the images of the items stolen.
 
-\[caption id="" align="alignnone" width="320"\]![Planet Bike Blaze Two Watt Micro LED Headlight](61e4qHnXBdL._AC_UL320_SR320,320_.jpg) Planet Bike Blaze Two Watt Micro LED Headlight\[/caption\]
+{{< figure src="Planet Bike Blaze Two Watt Micro LED Headlight" caption="Planet Bike Blaze Two Watt Micro LED Headlight" >}}
 
-\[caption id="" align="alignnone" width="320"\]![Btwin Bike-Computer-Count-8 Computer, Adult (Black)](416G-EOqOjL._AC_UL320_SR320,320_.jpg) Btwin Bike-Computer-Count-8 Computer, Adult (Black)\[/caption\]
+{{< figure src="Black" caption="Btwin Bike-Computer-Count-8 Computer, Adult (Black)" >}}
 
 I usually, took them off whenever I parked my cycle in public places but never in my office parking lot.

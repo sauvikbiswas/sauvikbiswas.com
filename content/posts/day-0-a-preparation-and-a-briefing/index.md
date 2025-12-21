@@ -35,11 +35,11 @@ The final item list and the packed version looks like this:
 
 Satish is an old friend. He is a colleague of Sudipto and has seen us live more times than anyone else. I was so surprised to see him as this year's tour director that I exclaimed, "Really!" I knew he was associated with TfN but I did not know that he would be the tour director.
 
-\[caption id="attachment\_2551" align="alignnone" width="1280"\][![](DSC02955.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/DSC02955.jpg) Satish giving his pre-tour speech.\[/caption\]
+{{< figure src="DSC02955.jpg" caption="Satish giving his pre-tour speech." >}}
 
 He was not the only one to brief us about the tour. There was Karthik (the broom), Francis (the race director), Sridhar (the guy spearheading TfN), and a word from the various sponsors.
 
-\[caption id="attachment\_2565" align="alignnone" width="1280"\][![](DSC02952.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/DSC02952.jpg) The four organisers - Sridhar, Francis, Deepak, Badri. I still don't know who is Jack Lee. Our invitations for the tour were signed by this absent dude.\[/caption\]
+{{< figure src="DSC02952.jpg" caption="The four organisers - Sridhar, Francis, Deepak, Badri. I still don't know who is Jack Lee. Our invitations for the tour were signed by this absent dude." >}}
 
 If there was one word to sum it all up, it was "safety". Everyone recounted how important safety was for our own sake. There were people riding to raise money for various charitable causes.
 
@@ -49,7 +49,7 @@ There were newbies and veterans alike. For some this was their 5th TfN. For some
 
 The TfN goodie bags were so full of stuff that I decided to repack my bag and deposit it early tomorrow morning. Especially because there were duplicate items in the sanitation and toiletry department.
 
-\[caption id="attachment\_2555" align="alignnone" width="3933"\][![](IMG_20161215_192739-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161215_192739-1.jpg) The goodies!\[/caption\]
+{{< figure src="IMG_20161215_192739-1.jpg" caption="The goodies!" >}}
 
 There the three important items in the lower-left corner of the photograph. My bib number is 80. I have a sticker that I must place on my backpack so that it can be placed in the right room at the next location. Then there are a set of top-tube stickers that are essentially cue sheets for each leg of the race. There is also a wrist-band ([Wiz ID](http://www.wizbiker.com/wizid)) that has medical information and emergency contact.
 

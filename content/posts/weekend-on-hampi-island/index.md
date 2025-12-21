@@ -25,7 +25,7 @@ Mogit made it at 11:13 pm. He would have barely made that hypothetical bus at 11
 
 I remembered that there was one time we had travelled through the Western Ghats at odd hours on KSRTC buses. That gave me an idea. If we could walk to KSRTC bus stop at Majestic, we could practically go anywhere. Let's say that the thought process payed off along with a generous dosage of coincidence from Lady Luck. Just as we were about to enter the bus stand, I spotted a bus with its board spelling Hosapete in Kannada. [Hosapete](https://goo.gl/maps/FJcto1NuNjE2) is like 12 or 15 kms from Hampi.
 
-\[caption id="attachment\_2252" align="alignnone" width="4032"\][![We paid INR 1082 for this trip per person. That includes the 750 rupees worth of AC sleeper berths that we missed. Here we were, on a bus not suitable for overnight trips, sitting on the last row, where each pothole and bump gets amplified.](IMG_20160813_233526.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_20160813_233526.jpg) We paid INR 1082 for this trip per person. That includes the 750 rupees worth of AC sleeper berths that we missed. Here we were, on a bus not suitable for overnight trips, sitting on the last row, where the motion on each pothole and bump got amplified.\[/caption\]
+{{< figure src="IMG_20160813_233526.jpg" caption="We paid INR 1082 for this trip per person. That includes the 750 rupees worth of AC sleeper berths that we missed. Here we were, on a bus not suitable for overnight trips, sitting on the last row, where the motion on each pothole and bump got amplified." >}}
 
 By the time we reached Hosapete, it was 8:00 am the next morning. We got in an auto that dropped us at Hampi for 180 rupees.
 
@@ -33,25 +33,25 @@ By the time we reached Hosapete, it was 8:00 am the next morning. We got in an a
 
 Hampi is an old town. It's mostly the remains of the Vijayanagara Kingdom that draws the crowd. That's only one half of the demographic that visits this place. [Here is a good account of that half from one of my friends](https://sanhitatravelfreak.wordpress.com/2016/02/06/hampi/). The other pulse of Hampi is in its hippie culture that thrives on the other side (north) of the river. People call it Hampi island although the place is technically not an island.
 
-\[caption id="attachment\_2254" align="alignnone" width="1280"\][![This place, right across the Virupaksha temple is the dock. Once can take a motorboat for 10 rupees and get across to Hampi island.](DSC01057.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01057.jpg) This place, right across the Virupaksha temple is the dock. One can take a motorboat for 10 rupees and get across to Hampi island.\[/caption\]
+{{< figure src="DSC01057.jpg" caption="This place, right across the Virupaksha temple is the dock. One can take a motorboat for 10 rupees and get across to Hampi island." >}}
 
-\[caption id="attachment\_2255" align="alignnone" width="1280"\][![DSC01058](DSC01058.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01058.jpg) Two mahouts giving their elephant a bath.\[/caption\]
+{{< figure src="DSC01058.jpg" caption="Two mahouts giving their elephant a bath." >}}
 
 Both of us were hungry. We entered the first restaurant that we spotted. It was either called _Funky Monkey_ or _Funky and Monkey_. Little did we know that this would not be the last time that we would find establishments that weren't sure of their own names. (Take for example, a restaurant called Ever Green Restaurant. They had Every Green Restaurant printed on their menu cards.)
 
 I gulped down some expensive aloo parathas while Mogit satisfied himself with Funky Breakfast on the menu. After the long distance cycling last day, I was very hungry.
 
-\[caption id="attachment\_2256" align="alignnone" width="1280"\][![This is Funky Breakfast. Notice the Persian book Mogit is reading. It's actually a book of poetry but he likes to call it terrorist literature.](DSC01066.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01066.jpg) This is Funky Breakfast. Notice the Persian book Mogit is reading. It's actually a book of poetry but he likes to call it terrorist literature.\[/caption\]
+{{< figure src="DSC01066.jpg" caption="This is Funky Breakfast. Notice the Persian book Mogit is reading. It's actually a book of poetry but he likes to call it terrorist literature." >}}
 
 A lot of kids sell a standard Hampi guide book (map included) along with postcards. We did not buy any but were able to strike up a conversation with many of these kids. One of the kids misread Mogit's book for a Urdu book (He was learning Urdu at his madarsa).
 
-\[caption id="attachment\_2257" align="alignnone" width="1280"\][![This is Usain Basa. He has a long way to go in his quest for learning Urdu. However, he is just three letters away from being the fastest man on Earth.](DSC01065.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01065.jpg) This is Usain Basa. He has a long way to go in his quest for learning Urdu. However, he is just three letters away from being the fastest man on Earth.\[/caption\]
+{{< figure src="DSC01065.jpg" caption="This is Usain Basa. He has a long way to go in his quest for learning Urdu. However, he is just three letters away from being the fastest man on Earth." >}}
 
-\[caption id="attachment\_2259" align="alignnone" width="1280"\][![Mr. Basha marketing his stone carvings. He didn't hesitate to disclose the fact that he charges disproportionate prices from foreigners.](DSC01072.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01072.jpg) Mr. Basha marketing his stone carvings. He didn't hesitate to disclose the fact that he charges disproportionate prices from foreigners. He had left his container of trinkets on our table. We asked one of the kids to send him back.\[/caption\]
+{{< figure src="DSC01072.jpg" caption="Mr. Basha marketing his stone carvings. He didn't hesitate to disclose the fact that he charges disproportionate prices from foreigners. He had left his container of trinkets on our table. We asked one of the kids to send him back." >}}
 
 We used our greedy algorithm to get hold of a room at Funky Monkey itself for 250 rupees. It was a bamboo and clay house with thatched roof. These are the kind of houses I had back in my paternal village, while growing up. Nowadays, such houses aren't visible.
 
-\[caption id="attachment\_2260" align="alignnone" width="853"\][![Forget everything. This notice is the real reason why we decided to book a room here.](DSC01074.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01074.jpg) Forget everything. This notice is the real reason why we decided to book a room here.\[/caption\]
+{{< figure src="DSC01074.jpg" caption="Forget everything. This notice is the real reason why we decided to book a room here." >}}
 
 ## A bike to roam around
 
@@ -61,35 +61,35 @@ We went around and visited quite some places on this side of the river (Tungabha
 
 I think it was me who did not wan't to go around the ruins. We just drove around to interesting places. The great Hanuman temple with its sunset point was also on the way. We postponed it till sunset and decided to visit the [Pampa Sarovar](https://goo.gl/maps/g28kBmLnhRy), [Anegundi](https://goo.gl/maps/SxsYttCR4kw) and [Sanapur reservoir](https://goo.gl/maps/1dKkaxy84h62).
 
-\[caption id="attachment\_2263" align="alignnone" width="1280"\][![Pampa Sarovar. There was a pump attached to this sarovar.](DSC01079.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01079.jpg) Pampa Sarovar. There was a pump attached to this sarovar. No joke.\[/caption\]
+{{< figure src="DSC01079.jpg" caption="Pampa Sarovar. There was a pump attached to this sarovar. No joke." >}}
 
-\[caption id="attachment\_2264" align="alignnone" width="1280"\][![The Lakshmi temple adjacent to the sarovar.](DSC01080.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01080.jpg) The Lakshmi temple adjacent to the sarovar.\[/caption\]
+{{< figure src="DSC01080.jpg" caption="The Lakshmi temple adjacent to the sarovar." >}}
 
-\[caption id="attachment\_2265" align="alignnone" width="1280"\][![This breathtaking view of Tungabhadra from the top of a small bouldery hill surpasses the temples at Anegundi.](DSC01094-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01094-1.jpg) This breathtaking view of Tungabhadra from the top of a small bouldery hill surpasses the temples at Anegundi. While trekking up the boulders, I realised that the Nike shoes I have been wearing for the last year is a piece of garbage.\[/caption\]
+{{< figure src="DSC01094-1.jpg" caption="This breathtaking view of Tungabhadra from the top of a small bouldery hill surpasses the temples at Anegundi. While trekking up the boulders, I realised that the Nike shoes I have been wearing for the last year is a piece of garbage." >}}
 
-\[caption id="attachment\_2261" align="alignnone" width="853"\][![The village of Anegundi uses skeuomorphs like this to blend in modern utilities with the rustic designs. ](DSC01088.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01088.jpg) The village of Anegundi uses skeuomorphs like this to blend in modern utilities with the rustic designs.\[/caption\]
+{{< figure src="DSC01088.jpg" caption="The village of Anegundi uses skeuomorphs like this to blend in modern utilities with the rustic designs." >}}
 
-\[caption id="attachment\_2268" align="alignnone" width="1280"\][![Sanapur reservoir was brimming with water. The entry to the reservoir is lower than the reservoir levels. We got splashed over by overflowing water throughout our time on that stretch of the road.](DSC01111.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01111.jpg) Sanapur reservoir was brimming with water. The entry to the reservoir is lower than the reservoir levels. We got splashed on by overflowing water throughout our time on that stretch of the road.\[/caption\]
+{{< figure src="DSC01111.jpg" caption="Sanapur reservoir was brimming with water. The entry to the reservoir is lower than the reservoir levels. We got splashed on by overflowing water throughout our time on that stretch of the road." >}}
 
-\[caption id="attachment\_2267" align="alignnone" width="1280"\][![Sanapur reservoir has crocodiles!](DSC01113.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01113.jpg) Sanapur reservoir has crocodiles!\[/caption\]
+{{< figure src="DSC01113.jpg" caption="Sanapur reservoir has crocodiles!" >}}
 
 ## An afternoon interjected by sudden bursts of downpour
 
 On our way to Sanapur, we encountered a sudden downpur. This was the first of many we would be encountering throughout the afternoon. We tried our best to stop at tea shops. We were successful only once!
 
-\[caption id="attachment\_2270" align="alignnone" width="1280"\][![Here is Mogit's Sudeep level shot.](DSC01109.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01109.jpg) Here is Mogit's [Sudeep](https://en.wikipedia.org/wiki/Sudeep) impersonation.\[/caption\]
+{{< figure src="DSC01109.jpg" caption="Here is Mogit's [Sudeep](https://en.wikipedia.org/wiki/Sudeep) impersonation." >}}
 
 We were headed towards Hosapete reservoir. It is one of the largest dams on Tungabhadra river. The distance was about 25 km from Sanapur. We rode first on a state highway and then on the National highway. Little did we know that we would eventually exit Hampi via this route the next day.
 
-\[caption id="attachment\_2271" align="alignnone" width="1280"\][![No matter where we looked at, all we sa were rice fields on either side of the highways.](DSC01116.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01116.jpg) No matter where we looked at, all we saw were rice fields on either side of the highways.\[/caption\]
+{{< figure src="DSC01116.jpg" caption="No matter where we looked at, all we saw were rice fields on either side of the highways." >}}
 
-\[caption id="attachment\_2272" align="alignnone" width="1280"\][![This is the junction of the state and the national highway. We had to take shelter because of the rains.](DSC01120.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01120.jpg) This is the junction of the [state and the national highway](https://goo.gl/maps/BiWBRFQZP652). We had to take shelter because of the rains.\[/caption\]
+{{< figure src="DSC01120.jpg" caption="This is the junction of the [state and the national highway](https://goo.gl/maps/BiWBRFQZP652). We had to take shelter because of the rains." >}}
 
-\[caption id="attachment\_2273" align="alignnone" width="1280"\][![DSC01133](DSC01133.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01133.jpg) This is the reservoir as seen from the dam.\[/caption\]
+{{< figure src="DSC01133.jpg" caption="This is the reservoir as seen from the dam." >}}
 
-\[caption id="attachment\_2274" align="alignnone" width="1280"\][![DSC01135](DSC01135.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01135.jpg) Locals usually trade eatables like roasted corn. But only if the weather permits.\[/caption\]
+{{< figure src="DSC01135.jpg" caption="Locals usually trade eatables like roasted corn. But only if the weather permits." >}}
 
-\[caption id="attachment\_2275" align="alignnone" width="1280"\][![DSC01138](DSC01138.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01138.jpg) This is the aftermath of a sudden downpour. The vendors had packed their stuff up.\[/caption\]
+{{< figure src="DSC01138.jpg" caption="This is the aftermath of a sudden downpour. The vendors had packed their stuff up." >}}
 
 We walked quite a bit. The lack of vegetation or shelter along the shores was a concern since the rains interrupted our walk at least thrice. In the end, we took the same road back to Hampi island.
 
@@ -99,13 +99,13 @@ We had plans of trekking up the Hanuman mandir but the rains foiled our plans.
 
 Hampi island fashions itself like a mini [Kasol](http://sauvikbiswas.com/tag/kasol/). The food is mostly geared towards foreigners. The menus for all of the restaurants look identical. The restaurants also use a floor based sitting arrangement - something that I had experienced at [Jim Morrison's Cafe at Kasol](/posts/day-16-a-trail-along-the-parvati-river/). However, unlike the awesome Israeli food back in Kasol, most places serve some derivative of Italian food. There are a few that excel though. One of them is Gouthami German Bakery. Their pizzas were especially good.
 
-\[caption id="attachment\_2276" align="alignnone" width="1280"\][![The common sitting arrangement found in all restaurants.](DSC01096.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01096.jpg) The common sitting arrangement found in all restaurants.\[/caption\]
+{{< figure src="DSC01096.jpg" caption="The common sitting arrangement found in all restaurants." >}}
 
-\[caption id="attachment\_2277" align="alignnone" width="1280"\][![This was a very nice wood-fire pan pizza.](DSC01098.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01098.jpg) This was a very nice wood-fire pan pizza.\[/caption\]
+{{< figure src="DSC01098.jpg" caption="This was a very nice wood-fire pan pizza." >}}
 
-\[caption id="attachment\_2278" align="alignnone" width="1280"\][![Funky Monkey had many dogs and puppies as pets.](DSC01163.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01163.jpg) Funky Monkey had many dogs and puppies as pets.\[/caption\]
+{{< figure src="DSC01163.jpg" caption="Funky Monkey had many dogs and puppies as pets." >}}
 
-\[caption id="attachment\_2279" align="alignnone" width="1280"\][![Psychedelic artwork isn't far behind. The third poster on the second row has borrowed heavily from Tool's 10,000 days artwork.](DSC01210.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01210.jpg) Psychedelic artwork isn't far behind. The third poster on the second row is a copy of [Oversoul by Alex Grey](http://alexgrey.com/art/paintings/soul/oversoul/). It is from the same series of paintings that are used in [Tool's 10,000 days](https://en.wikipedia.org/wiki/10,000_Days#Artwork) artwork.\[/caption\]
+{{< figure src="DSC01210.jpg" caption="Psychedelic artwork isn't far behind. The third poster on the second row is a copy of [Oversoul by Alex Grey](http://alexgrey.com/art/paintings/soul/oversoul/). It is from the same series of paintings that are used in [Tool's 10,000 days](https://en.wikipedia.org/wiki/10,000_Days#Artwork) artwork." >}}
 
 These places are frequented by people who want to spend hours making a joint and sharing that with their mates. I don't think that Hampi offers such a wide array of cannabis by-products like its elder brother up North. Still, it's a place that people can opt for in order to experience an extended period of hedonism.
 
@@ -115,15 +115,15 @@ Mogit and me crossed the river with the intention to visit a few places in Hampi
 
 Hampi had decorated itself in tri-colour - right from stickers, to badges, to full fledged flags. Almost all two wheelers had our National Flag mounted on it. Although I appreciated the intent, the guys riding these bikes were being reckless.
 
-\[caption id="attachment\_2281" align="alignnone" width="1280"\][![A group of patriotic bikers stopped for some rest.](DSC01217.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01217.jpg) A group of patriotic bikers stopped for some rest.\[/caption\]
+{{< figure src="DSC01217.jpg" caption="A group of patriotic bikers stopped for some rest." >}}
 
-\[caption id="attachment\_2282" align="alignnone" width="1280"\][![I shot this when these bikes, along with their owners, were transported by boats.](DSC01207.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01207.jpg) I shot this when these bikes, along with their owners, were transported by a boat.\[/caption\]
+{{< figure src="DSC01207.jpg" caption="I shot this when these bikes, along with their owners, were transported by a boat." >}}
 
 A guy at a teashop explained that these kids would go on creating a ruckus throughout the day, drink at night and create some more ruckus. Many would fall into some gutter and a few would die. He said all of this in a very serious tone and then asked us if we needed some cannabis.
 
 A Catalanian guy, who was staying at Funky Monkey, had earlier asked us about various routes to Kerala. We found him taking photographs of bikers while they were busy dancing and creating a ruckus in general. The idea of their photos being taken by a foreign photographer added fuel to their fire.
 
-\[caption id="attachment\_2283" align="alignnone" width="1280"\][![The National Flag on a mast in Huligi.](DSC01221.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01221.jpg) The National Flag on a mast in Huligi.\[/caption\]
+{{< figure src="DSC01221.jpg" caption="The National Flag on a mast in Huligi." >}}
 
 Our intention was to take the same road we had ridden the last day and reach Hosapete - only this time on a bus. I was ready to waste a few hours at Hosapete than miss our reserved bus a second time. Our luck was on our side. We had to switch buses at a place called Huligi and there was no delay. As a result, we reached Hosapet at 4:00 pm. We had 7 hours to spare!
 
@@ -133,12 +133,12 @@ On our way to the KSRTC bus stand in Hosapete, I had seen a banner advertising I
 
 As luck would have it, we had 30 mins before the show started and the theatre was 15 mins away. It was after a long time that I watched a movie on a single screen. The whistles and hooting all formed an integral part of the Dolby 7.1 surround sound.
 
-\[caption id="attachment\_2284" align="alignnone" width="4032"\][![The screen at Mir Alam Theatre. The alignment of projection and sound was much better than some of the screens at my local PVR.](IMG_20160815_171653.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_20160815_171653.jpg) The screen at Mir Alam Theatre. The alignment of projection and sound was much better than some of the screens at my local PVR.\[/caption\]
+{{< figure src="IMG_20160815_171653.jpg" caption="The screen at Mir Alam Theatre. The alignment of projection and sound was much better than some of the screens at my local PVR." >}}
 
 After some heavy meal at an upmarket restaurant, we walked around the town. I clicked quite a few low-light, long exposure shots.
 
-\[caption id="attachment\_2285" align="alignnone" width="1280"\][![I don't know who this is but it was a prominent statue at the crossing near railway station.](DSC01233.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01233.jpg) I don't know who this is but it was a prominent statue at the crossing near railway station.\[/caption\]
+{{< figure src="DSC01233.jpg" caption="I don't know who this is but it was a prominent statue at the crossing near railway station." >}}
 
-\[caption id="attachment\_2286" align="alignnone" width="1280"\][![The canal near railway station illuminated by the street lights.](DSC01235.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01235.jpg) The canal near railway station illuminated by the street lights.\[/caption\]
+{{< figure src="DSC01235.jpg" caption="The canal near railway station illuminated by the street lights." >}}
 
 The SRE Travels route 333 bus from Hosapete to Bangalore left exactly at 11:15 pm. We did not miss it this time.

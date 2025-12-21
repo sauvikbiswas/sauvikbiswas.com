@@ -32,6 +32,6 @@ Let me address another question. What about self-depreciating humour? The necess
 
 Actually, even jokes that rely on wordplay require the hierarchical stratification of classes. It is necessary that the audience does that exercise on the various semantic outcomes of such statements. The laugh ensues when they hit upon the one that is absurd. For most people, the hierarchy is something like reality is better than the impossible, which in turn is better than the improbable.
 
-\[caption id="attachment\_1995" align="alignnone" width="692"\][![Are you talking about a broken political system in Japan?](diet-joke-image.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/03/diet-joke-image.jpg) Are you talking about a broken political system in Japan?\[/caption\]
+{{< figure src="diet-joke-image.jpg" caption="Are you talking about a broken political system in Japan?" >}}
 
 **Note:** I will be more than happy to entertain counter examples. I sincerely doubt if my two hour thought process would topple the centuries old study on [theories of humour](https://en.wikipedia.org/wiki/Theories_of_humor).

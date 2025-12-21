@@ -1,0 +1,6 @@
+sftp:
+  host: ip
+  port: 22
+  user: z
+  password: y
+  root: x

@@ -19,4 +19,4 @@ There may be [countless arguments that weigh in favour of not paying](https://ww
 
 I can feel that the course gets harder as the subject gets deeper. There are programming assignments, too. Once I have completed the assignments, I will put them up on my GitHub profile. I am trying to write concise solutions to the problems, vectorising as much as possible.
 
-\[caption id="attachment\_2330" align="alignnone" width="3024"\][![Surreal photo of the day!](IMG_20160807_131113.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_20160807_131113.jpg) Surreal photo of the day!\[/caption\]
+{{< figure src="IMG_20160807_131113.jpg" caption="Surreal photo of the day!" >}}

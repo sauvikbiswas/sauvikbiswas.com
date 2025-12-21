@@ -16,13 +16,13 @@ coverImage: "IMG_20161218_173058.jpg"
 
 Kalpetta was fully covered with dense fog. Nothing was visible outside the hotel. After a brief session of cleaning my drivetrain, I sat down and waited for the flag-off. We started at 8:00 am.
 
-\[caption id="attachment\_2602" align="alignnone" width="4032"\][![](IMG_20161218_074853.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_074853.jpg) The riders waited for a long time for the flag-off!\[/caption\]
+{{< figure src="IMG_20161218_074853.jpg" caption="The riders waited for a long time for the flag-off!" >}}
 
-\[caption id="attachment\_2614" align="alignnone" width="4032"\][![](IMG_20161218_091952.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_091952.jpg) We passed the beautiful tea plantations multiple times at multiple places.\[/caption\]
+{{< figure src="IMG_20161218_091952.jpg" caption="We passed the beautiful tea plantations multiple times at multiple places." >}}
 
 The terrain was unforgiving. There were constant ups and downs. At times I was using my easiest gears and only managed about 7-8 kmph. The downhills were the only saving grace. But that did not stop the climbs from being brutal.
 
-\[caption id="attachment\_2615" align="alignnone" width="4032"\][![](IMG_20161218_133105.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_133105.jpg) These bamboo grooves provided the much needed respite from the horrible temperatures. I believe we passed though areas where the temperatures were soaring around 35 degrees.\[/caption\]
+{{< figure src="IMG_20161218_133105.jpg" caption="These bamboo grooves provided the much needed respite from the horrible temperatures. I believe we passed though areas where the temperatures were soaring around 35 degrees." >}}
 
 You wouldn't know how happy I was to see the lunch station at the 84 kilometre mark.
 
@@ -38,21 +38,21 @@ We saw deers and elephants up close. A mother and her cub were so close that it 
 
 We were asked to reach support station 2 (just before the climb) by 1:30 pm. I reached there at 3:55 pm. The guys at the station clearly told us that we were not going to make it.
 
-\[caption id="attachment\_2607" align="alignnone" width="4032"\][![](IMG_20161218_155548.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_155548.jpg) Support station at the base of the climb. Station 3 was after 9 kms and station 4 after another 7. That's how demanding the climb is.\[/caption\]
+{{< figure src="IMG_20161218_155548.jpg" caption="Support station at the base of the climb. Station 3 was after 9 kms and station 4 after another 7. That's how demanding the climb is." >}}
 
 **How does >10% gradient feel like?** In short, brutal. At times I was on the bike. At other times, when the speed fell below 4 kmph, I walked and pushed it forward. At times my bike stopped and rolled backwards. After a few kilometres, my brain stopped working. I occasionally stopped and sipped some water and moved forward. I even borrowed some electrolytes from a support motorbike. That's when I realised that one of my bottles was missing. I have no idea what had happened. I was so spaced out.
 
-\[caption id="attachment\_2609" align="alignnone" width="3024"\][![](IMG_20161218_164517.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_164517.jpg) This is the first hairpin bend (36/36). Daylight wasn't on my side. I decided to push myself till the next support station (bend 16/36).\[/caption\]
+{{< figure src="IMG_20161218_164517.jpg" caption="This is the first hairpin bend (36/36). Daylight wasn't on my side. I decided to push myself till the next support station (bend 16/36)." >}}
 
-\[caption id="attachment\_2608" align="alignnone" width="4032"\][![](IMG_20161218_165511.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_165511.jpg) The organises have a sadistic bent of mind. I have dropped multiple f-bombs on seeing this.\[/caption\]
+{{< figure src="IMG_20161218_165511.jpg" caption="The organises have a sadistic bent of mind. I have dropped multiple f-bombs on seeing this." >}}
 
-\[caption id="attachment\_2610" align="alignnone" width="4032"\][![](IMG_20161218_170000.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_170000.jpg) This is how average riders like me attacked the climb. One of the guys is getting ready to get on the saddle only to get back to walking in 100 metres.\[/caption\]
+{{< figure src="IMG_20161218_170000.jpg" caption="This is how average riders like me attacked the climb. One of the guys is getting ready to get on the saddle only to get back to walking in 100 metres." >}}
 
 Meanwhile, I received the news that there were two accidents somewhere uphill. One of them involving Michael, a rider from Sweden, was serious. As the sunlight was dimming out, I made the only sensible decision of the entire climb (I am amazed that in spite of being bonked, I was able to make any decision.) I decided to stop at support station 3 (at reverse-counted 16 of 36 hairpin bends or approximately at 60% of the climb). There were riders who decided to move on. Since I had no lights, I decided to stop for the sake of my own safety. My other roommate and many others pushed their bikes in the dark and completed the course. While I could have done that, too, I think it would be best to ride at least 80% of the climb.
 
-\[caption id="attachment\_2611" align="alignnone" width="4032"\][![](IMG_20161218_173058.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_173058.jpg) Look at the hairpin bend and the elevation before and after that!!!!\[/caption\]
+{{< figure src="IMG_20161218_173058.jpg" caption="Look at the hairpin bend and the elevation before and after that!!!!" >}}
 
-\[caption id="attachment\_2612" align="alignnone" width="4032"\][![](IMG_20161218_182346.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_182346.jpg) By the time I reached the support station 3 (16/36), it was dark. The chill in the air was numbing. I desperately needed tea before getting on the truck.\[/caption\]
+{{< figure src="IMG_20161218_182346.jpg" caption="By the time I reached the support station 3 (16/36), it was dark. The chill in the air was numbing. I desperately needed tea before getting on the truck." >}}
 
 There were four kinds of people who completed Kalahatty:
 

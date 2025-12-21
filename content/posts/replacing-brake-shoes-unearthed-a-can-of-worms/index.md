@@ -19,17 +19,17 @@ The pads had come earlier but I waited for the weekend to replace them. The idea
 
 The pads were worn out well beyond their service life. Here is a picture of the horror-
 
-\[caption id="attachment\_2737" align="alignnone" width="3024"\][![](IMG_20170115_130713.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/IMG_20170115_130713.jpg) Some of them were not even aligned properly with the rim. This must have happened over the years, while I did not pay any attention to them.\[/caption\]
+{{< figure src="IMG_20170115_130713.jpg" caption="Some of them were not even aligned properly with the rim. This must have happened over the years, while I did not pay any attention to them." >}}
 
 I noticed quite a lot of other things that were disturbing.
 
 Firstly, the springs on one of the brake arms of each of the front and rear brakes were damaged. There was no spring-back. During past services, the spring wire was bent further to increase the tension. While this can be a solution to a scenario that requires minor adjustments, it is not an advisable thing if the spring-back tension required is quite high.
 
-\[caption id="attachment\_2738" align="alignnone" width="2872"\][![](IMG_20170116_213512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/IMG_20170116_213512.jpg) I could take this spring out of the retaining mechanism without dislodging the noodle from the holder. That's how bad the spring wire has become.\[/caption\]
+{{< figure src="IMG_20170116_213512.jpg" caption="I could take this spring out of the retaining mechanism without dislodging the noodle from the holder. That's how bad the spring wire has become." >}}
 
 Secondly, the brake wires were practically gone.
 
-\[caption id="attachment\_2739" align="alignnone" width="4032"\][![](IMG_20170115_130748.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/IMG_20170115_130748.jpg) Check the top-left of this picture to know how unusable the wire has become.\[/caption\]
+{{< figure src="IMG_20170115_130748.jpg" caption="Check the top-left of this picture to know how unusable the wire has become." >}}
 
 Thirdly, the brake wires, especially the rear one, did not move freely through the cable housing. I sprayed some 3M 4-way lubricant into the housing but it did not help. Judging by the gooey stuff on the cable, I think that the steel coil on the inner side of the housing must have rusted.
 

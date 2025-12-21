@@ -15,7 +15,7 @@ After that puncture last Sunday, I repaired the tube (and posted a photo). What 
 
 I had no spare tubes left. So, I immediately placed an order for four Conti Race tubes and a patch kit. [Mastermind Bicycle Studio](http://www.mastermindbikes.in/welcome.html) were prompt in delivering them. Here they are:
 
-\[caption id="attachment\_2368" align="alignnone" width="853"\][![Apparently Park Tools has collaborated with 3M for the adhesive technology.](DSC01491.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01491.jpg) Apparently Park Tools has collaborated with 3M for the adhesive technology used in GP-2.\[/caption\]
+{{< figure src="DSC01491.jpg" caption="Apparently Park Tools has collaborated with 3M for the adhesive technology used in GP-2." >}}
 
 The good part is that these tubes are compatible with 700x25c tyres in case I decide to swap my 700x23c's.
 
@@ -23,7 +23,7 @@ The good part is that these tubes are compatible with 700x25c tyres in case I de
 
 One of my colleagues, Dhananjay Deshmukh (a tech enthusiast in general and an aspiring ham radio operator in specific), lent me his [Mobius Actioncam](https://www.mobius-actioncam.com/) so that I can mount it on my cycle handlebar and shoot some footages of my weekend rides.
 
-\[caption id="attachment\_2369" align="alignnone" width="1280"\][![The camera has a base mount and an USB connector. There are some tidbits inside but they are of no use for me. Dhananjay threw in some zip ties that came handy.](DSC01489.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01489.jpg) The camera has a base mount and an USB connector. There are some tidbits inside but they are of no use for me. Dhananjay threw in some zip ties that came handy.\[/caption\]
+{{< figure src="DSC01489.jpg" caption="The camera has a base mount and an USB connector. There are some tidbits inside but they are of no use for me. Dhananjay threw in some zip ties that came handy." >}}
 
 I had the mount of [my stolen bike light](/posts/theft-of-bicycle-accessories-from-my-office-parking-lot/). I unscrewed the top channel. And lo and behold! I was left with the nicest bike mount for the Mobius cam. Two zip ties did the rest of the job.
 
@@ -31,4 +31,4 @@ I had the mount of [my stolen bike light](/posts/theft-of-bicycle-accessories-fr
 
 I mounted it on the handlebar and took some sample videos. The quality is pretty good. I will swap out Dhananjay's 2 GB MicroSD card with a spare 16 GB one lying somewhere in my boxes. That would give me some extra minutes of footage.
 
-\[caption id="attachment\_2371" align="alignnone" width="1280"\][![From L to R: Mako Night Rider bike light mount, Cateye Strada Slim and Mobius on a Planet Bike lamp mount.](DSC01493.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01493.jpg) From L to R: Mako Night Rider bike light mount, Cateye Strada Slim and Mobius on a Planet Bike lamp mount.\[/caption\]
+{{< figure src="DSC01493.jpg" caption="From L to R: Mako Night Rider bike light mount, Cateye Strada Slim and Mobius on a Planet Bike lamp mount." >}}

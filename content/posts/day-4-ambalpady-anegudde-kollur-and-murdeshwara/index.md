@@ -29,13 +29,13 @@ Our driver then took us to Anegudde Hanuman temple. We were there by 10:15 am. T
 
 [![](DSC03747.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03747.jpg)
 
-\[caption id="attachment\_3048" align="alignnone" width="4000"\][![](DSC03750.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03750.jpg) This beautiful mural was on one of the walls.\[/caption\]
+{{< figure src="DSC03750.jpg" caption="This beautiful mural was on one of the walls." >}}
 
 ## Kollur
 
 The driver took a detour from the National Highway and drove through Mookambika Wildlife Sanctuary to reach Kollur. Kollur is located in the heart of Karnataka, yet Malayalam texts are prominently visible in almost all road signs and notices. A lot of Keralites come to this place. There was a long queue in Kollur temple. There is a restriction on what can be worn inside the temple — we did not enter the inside of the temple at all. Instead, my mom lit a lamp (for which they charged some money).
 
-\[caption id="attachment\_3049" align="alignnone" width="6000"\][![](DSC03760.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03760.jpg) The queue wrapped itself around the temple\[/caption\]
+{{< figure src="DSC03760.jpg" caption="The queue wrapped itself around the temple" >}}
 
 [![](DSC03762.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03762.jpg)
 
@@ -47,7 +47,7 @@ We were fortunate enough to reach Murdeshwara sometime around 2:30 pm. The templ
 
 The beach at Murdeshwara wasn’t as good as Tannirbhavi in Mangalore or Malpe in Udupi. Still, devotees flocked in the hot sun to entertain themselves with some standard water-sports on the northern side of the temple. This made the beach much more crowded than the ones that I have mentioned earlier.
 
-\[caption id="attachment\_3054" align="alignnone" width="5530"\][![](DSC03775-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03775-1.jpg) Southern side of the beach is for fishermen. With no tourists in sight, it's very serene and peaceful.\[/caption\]
+{{< figure src="DSC03775-1.jpg" caption="Southern side of the beach is for fishermen. With no tourists in sight, it's very serene and peaceful." >}}
 
 What I did not like about Kollur and Murdeshwara is the over-commercialisation of the places. Not to mention, these places are over-crowded, too.
 

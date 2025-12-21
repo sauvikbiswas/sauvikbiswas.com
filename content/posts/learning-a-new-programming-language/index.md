@@ -5,7 +5,7 @@ categories:
   - "coding"
 ---
 
-\[caption id="attachment\_2204" align="alignnone" width="4032"\][![This is how one of the arterial roads look at 6:00 in the morning. In two hours the road would be crowded (and possibly jammed).](IMG_20160809_061008.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_20160809_061008.jpg) This is how one of the arterial roads look at 6:00 in the morning. By 8:00 am every weekday, the road becomes crowded (and possibly jammed).\[/caption\]
+{{< figure src="and possibly jammed" caption="This is how one of the arterial roads look at 6:00 in the morning. By 8:00 am every weekday, the road becomes crowded (and possibly jammed)." >}}
 
 ## 8 hours of TCL (and not so much of Tk)
 
@@ -25,4 +25,4 @@ I like something about the way courses are designed by the US universities. They
 
 [Sudipto](http://www.sudiptabiswas.com/) (my childhood friend, singer of Dark Project) works on OpenStack and he says that there are major contributors to this open source project, who have background in liberal and performing arts. Go figure!
 
-\[caption id="attachment\_2207" align="alignnone" width="1280"\][![... and this is the epitome of surrealism.](DSC01043.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01043.jpg) ... and this is the epitome of surrealism.\[/caption\]
+{{< figure src="DSC01043.jpg" caption="... and this is the epitome of surrealism." >}}

@@ -12,7 +12,7 @@ tags:
 
 Tigerair allows a carry-on allowance of max 2 pieces with a combined weight not exceeding 10 kg. Or so the tag says. I made sure that I pack the lightest stuff, eg. tracksuits that weigh no more than 100-200 g each.
 
-\[caption id="attachment\_775" align="alignnone" width="3456"\][![Quechua for the win! 22 l Forclaz and a 5 l Arpaez strapped to it. The entire assembly weighs less than 7 kgs.](DSC03870.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC03870.jpg) Quechua for the win! 22 l Forclaz and a 5 l Arpaez strapped to it. The entire assembly weighs less than 7 kgs.\[/caption\]
+{{< figure src="DSC03870.jpg" caption="Quechua for the win! 22 l Forclaz and a 5 l Arpaez strapped to it. The entire assembly weighs less than 7 kgs." >}}
 
 ## A test of patience
 
@@ -20,9 +20,9 @@ The wait time is a true test of patience. Firstly, a person needs a lot of patie
 
 The 3 lone counters of Tigerair is operated by Air India staff. They were helpful enough with the process and the immigration-customs-security checks were relatively fast.
 
-\[caption id="attachment\_776" align="alignnone" width="4608"\][![The strangest part was the serpentine manoeuvre through the empty nylon strapped guide lines.](DSC03871.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC03871.jpg) The strangest part was the serpentine manoeuvre through the empty nylon strapped guide lines.\[/caption\]
+{{< figure src="DSC03871.jpg" caption="The strangest part was the serpentine manoeuvre through the empty nylon strapped guide lines." >}}
 
-\[caption id="attachment\_777" align="alignnone" width="4608"\][![The relatively vibrant international lounge. Most people around me have already fallen asleep on the chairs and sofas as I upload this entry.](DSC03872.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC03872.jpg) The relatively vibrant international lounge. Most people around me have already fallen asleep on the chairs and sofas as I upload this entry.\[/caption\]
+{{< figure src="DSC03872.jpg" caption="The relatively vibrant international lounge. Most people around me have already fallen asleep on the chairs and sofas as I upload this entry." >}}
 
 A colleague of mine\* suggested that I make a note of all the stuff in the duty free shops en route to my destination. That way I can pick things up on my way back and I do not have to worry about lugging around too much weight.
 

@@ -15,7 +15,7 @@ I was working on mixing our (I don't know what this new project will be named) n
 
 I came across a nifty trick to trigger a pure tone along with the kick and give it a very controlled ring.
 
-\[caption id="attachment\_758" align="alignnone" width="1605"\][![reaper-sidechain](reaper-sidechain.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/reaper-sidechain.jpg) Click on the image to see a large version in a new window.The numbers correspond to the steps described below.\[/caption\]
+{{< figure src="reaper-sidechain.jpg" caption="Click on the image to see a large version in a new window.The numbers correspond to the steps described below." >}}
 
 Here is a four step process to do it.
 

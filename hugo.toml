@@ -20,6 +20,10 @@ name = "works"
 url = "/works"
 
 [[params.menu]]
+name = "travelogue"
+url = "/travelogue"
+
+[[params.menu]]
 name = "about"
 url = "/about"
 

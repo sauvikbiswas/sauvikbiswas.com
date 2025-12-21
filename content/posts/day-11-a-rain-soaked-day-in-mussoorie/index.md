@@ -13,31 +13,31 @@ It had rained all night. When I woke up, it was still raining. Nothing was visib
 
 The weather was definitely a spoilsport for the townsfolk as the tourists alike. Not a single shop was open in the Landour Bazaar area. As I walked towards Mall Road, the surroundings felt like they had been completely deserted. It was such a contrast from yesterday night's hustle and bustle. The visibility was low. I found a couple of groups huddled around make-shift bonfires here and there. The cycle-rickshaws that operated between Jhula Ghar and Library Chowk lay as if they were abandoned.
 
-\[caption id="attachment\_3327" align="alignnone" width="4032"\][![](IMG_20171212_132000.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171212_132000.jpg) Visibility was pretty low.\[/caption\]
+{{< figure src="IMG_20171212_132000.jpg" caption="Visibility was pretty low." >}}
 
-\[caption id="attachment\_3328" align="alignnone" width="4032"\][![](IMG_20171212_111753.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171212_111753.jpg) A couple of guys trying to jump-start a cold and rain-soaked car.\[/caption\]
+{{< figure src="IMG_20171212_111753.jpg" caption="A couple of guys trying to jump-start a cold and rain-soaked car." >}}
 
-\[caption id="attachment\_3329" align="alignnone" width="4032"\][![](IMG_20171212_114014.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171212_114014.jpg) Union Church in Landour Bazaar.\[/caption\]
+{{< figure src="IMG_20171212_114014.jpg" caption="Union Church in Landour Bazaar." >}}
 
-\[caption id="attachment\_3330" align="alignnone" width="4032"\][![](IMG_20171212_120753.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171212_120753.jpg) Cycle-rickshaws without their owners at Jhula Ghar.\[/caption\]
+{{< figure src="IMG_20171212_120753.jpg" caption="Cycle-rickshaws without their owners at Jhula Ghar." >}}
 
 ## Gun Hill
 
 A famous spot in Mussoorie is Gun Hill. I walked all the way up only to find a deserted hill top with an inch of rain water over the concrete. The viewpoint on the top of Gun Hill was surrounded by a lot of shops—mostly that sold fast food, souvenirs, clothes, trinkets and packaged magic items. (Who else could be the face of these magic shops but Daniel Radcliffe as Harry Potter!) These shops left only a few spots from where one could see Mussoorie.
 
-\[caption id="attachment\_3335" align="alignnone" width="3265"\][![](IMG_20171212_122608.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171212_122608.jpg) Temple on top of Gun Hill\[/caption\]
+{{< figure src="IMG_20171212_122608.jpg" caption="Temple on top of Gun Hill" >}}
 
-\[caption id="attachment\_3336" align="alignnone" width="4032"\][![](IMG_20171212_123059.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171212_123059.jpg) Shops on the top of Gun Hill hadn't opened owing to the rain and fog.\[/caption\]
+{{< figure src="IMG_20171212_123059.jpg" caption="Shops on the top of Gun Hill hadn't opened owing to the rain and fog." >}}
 
-\[caption id="attachment\_3337" align="alignnone" width="6000"\][![](DSC04282.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04282.jpg) Landour area from Gun Hill. That single tall tower at the centre is Landour Clock Tower.\[/caption\]
+{{< figure src="DSC04282.jpg" caption="Landour area from Gun Hill. That single tall tower at the centre is Landour Clock Tower." >}}
 
 ## Company Gardens
 
 Once I started descending Gun Hill, the rain intensified. At that point, I was headed towards Company Garden. After a long walk through the rain, over shortcuts littered with white hail particles, I reached the entrance and paid nineteen rupees to get inside the garden premises. A rainy winter day was not the best day to visit the place. Everything was barren. I could only imagine the colourful bloom of the spring. The small boating area was a pathetic sight—the pool was covered in algae and hyacinth and one of the boats had been toppled over. They might eventually take care of it before spring.
 
-\[caption id="attachment\_3338" align="alignnone" width="6000"\][![](DSC04283.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04283.jpg) Company Garden's entrance.\[/caption\]
+{{< figure src="DSC04283.jpg" caption="Company Garden's entrance." >}}
 
-\[caption id="attachment\_3339" align="alignnone" width="3859"\][![](DSC04300.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04300.jpg) These were being cultivated under a plastic shed.\[/caption\]
+{{< figure src="DSC04300.jpg" caption="These were being cultivated under a plastic shed." >}}
 
 There was also a wax museum inside the garden premises that housed a few good wax replicas and a few okay ones. For hundred rupees, I was allowed to spot Barrack Obama, Saddam Hussein, Gandhi and Hitler under one roof.
 
@@ -45,17 +45,17 @@ There was also a wax museum inside the garden premises that housed a few good wa
 
 From the gardens, I walked through the [LBSNAA](https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_National_Academy_of_Administration) campus to reach the Tibetan settlement. The shorter, non-motorable route passed through many hostels that housed the students of the two Tibetan schools. Right beside the schools and hostels was [Shedup Choephilling Temple and Monastery](https://goo.gl/maps/NdiHhqaMFMT2).
 
-\[caption id="attachment\_3342" align="alignnone" width="6000"\][![](DSC04302.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04302.jpg) One of the hostels for students who study at the Tibetan Schools.\[/caption\]
+{{< figure src="DSC04302.jpg" caption="One of the hostels for students who study at the Tibetan Schools." >}}
 
-\[caption id="attachment\_3343" align="alignnone" width="5078"\][![](DSC04305.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04305.jpg) Shedup Choephilling Temple\[/caption\]
+{{< figure src="DSC04305.jpg" caption="Shedup Choephilling Temple" >}}
 
-\[caption id="attachment\_3345" align="alignnone" width="6000"\][![](DSC04306.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04306.jpg) The Buddha statue inside the temple.\[/caption\]
+{{< figure src="DSC04306.jpg" caption="The Buddha statue inside the temple." >}}
 
-\[caption id="attachment\_3344" align="alignnone" width="5045"\][![](DSC04308.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04308.jpg) Two kids, who were doing their school work inside the temple, agreed to pose for a photograph.\[/caption\]
+{{< figure src="DSC04308.jpg" caption="Two kids, who were doing their school work inside the temple, agreed to pose for a photograph." >}}
 
 A few steps away from the temple was the famous Flag Hill. Innumerable _lung-ta_ prayer flags covered the Buddha statue.
 
-\[caption id="attachment\_3347" align="alignnone" width="6000"\][![](DSC04312.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04312.jpg) One must navigate through these flags to get to the top.\[/caption\]
+{{< figure src="DSC04312.jpg" caption="One must navigate through these flags to get to the top." >}}
 
 [![](DSC04316.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04316.jpg)
 
@@ -73,4 +73,4 @@ On my way back I stopped at Cambridge Book Shop. They stocked signed copies of R
 
 I finished my day with a bowl of _thentuk_ at Momo's Tibetan Restaurant. It was one of the few days where I had not over-eaten.
 
-\[caption id="attachment\_3350" align="alignnone" width="6000"\][![](DSC04333.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04333.jpg) Momo's Tibetan Restaurant. A foreigner came inside to ask if they had free wi-fi.\[/caption\]
+{{< figure src="DSC04333.jpg" caption="Momo's Tibetan Restaurant. A foreigner came inside to ask if they had free wi-fi." >}}

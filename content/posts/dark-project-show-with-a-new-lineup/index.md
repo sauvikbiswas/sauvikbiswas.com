@@ -38,7 +38,7 @@ The second was my guitar. The pickups I have are very muddy. The guitar also lac
 
 Later that night, while we were having our dinner, we got to know that a few UG students from IISc had come to the show. They were not of legal drinking age and blueFROG management did not let them enter the venue as it serves alcohol. We all went out and personally apologised to them. We even promised them that we would refund their tickets once we had the money from blueFROG.
 
-\[caption id="attachment\_3655" align="alignnone" width="3024"\][![](IMG_20180405_162726.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/04/IMG_20180405_162726.jpg) Outside the venue\[/caption\]
+{{< figure src="IMG_20180405_162726.jpg" caption="Outside the venue" >}}
 
 ## The gig itself
 
@@ -50,9 +50,9 @@ I think we played the tightest gig till date. This includes all the new element
 
 This was Shawn and Arpit's maiden show with the band. Heck, it was Arpit's maiden show; prior to this he had never played an entire setlist.
 
-\[caption id="attachment\_3657" align="alignnone" width="4032"\][![](IMG_20180405_174602.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/04/IMG_20180405_174602.jpg) Shawn setting up his interface\[/caption\]
+{{< figure src="IMG_20180405_174602.jpg" caption="Shawn setting up his interface" >}}
 
-\[caption id="attachment\_3656" align="alignnone" width="4032"\][![](IMG_20180405_174505.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/04/IMG_20180405_174505.jpg) Arpit during the soundcheck. He thoroughly enjoyed his maiden performance.\[/caption\]
+{{< figure src="IMG_20180405_174505.jpg" caption="Arpit during the soundcheck. He thoroughly enjoyed his maiden performance." >}}
 
 We weren't able to recoded the gig. There wasn't anyone to take care of that. However, I saw a couple of audience members take a few videos. Here's one of them posted on YouTube.
 

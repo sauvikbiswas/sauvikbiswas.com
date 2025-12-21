@@ -19,25 +19,25 @@ I had already caught a bad cold. I popped in half a pill of Cetrizin and slept t
 
 We did not have much time for the day. The Hotel reception suggested that we visit Pykara Lake and the places along the way. Most places remained open till 5:30 pm. We had about 4 hours to do the trip. Pykara is about 45 mins drive from Ooty. The driver suggested that we go there first and then visit all the places on our way back.
 
-\[caption id="attachment\_2087" align="alignnone" width="1280"\][![Pykara Boat House. We had to wait for a few minutes for some other families so that we could book a 10 seater boat.](DSC00273.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00273.jpg) Pykara Boat House. We had to wait for a few minutes for some other families so that we could book a 10 seater boat.\[/caption\]
+{{< figure src="DSC00273.jpg" caption="Pykara Boat House. We had to wait for a few minutes for some other families so that we could book a 10 seater boat." >}}
 
-\[caption id="attachment\_2088" align="alignnone" width="1280"\][![Pykara Falls is a separate spot  a few kilometers before Pykara Lake.](DSC00297.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00297.jpg) Pykara Falls is a separate spot a few kilometers before Pykara Lake.\[/caption\]
+{{< figure src="DSC00297.jpg" caption="Pykara Falls is a separate spot a few kilometers before Pykara Lake." >}}
 
-\[caption id="attachment\_2089" align="alignnone" width="1280"\][![A panorama of Kamaraj Sagar Dam.](DSC00327.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00327.jpg) A panorama of Kamaraj Sagar Dam.\[/caption\]
+{{< figure src="DSC00327.jpg" caption="A panorama of Kamaraj Sagar Dam." >}}
 
 We also stopped at a few spots that are famous as shooting locales for movies. These weren't that interesting at all and were no different that the ones we had visited in Kodaikanal.
 
-\[caption id="attachment\_2091" align="alignnone" width="853"\][![Staircase that arrives somewhere... but not here.](DSC00299.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00299.jpg) Staircase that leads somewhere... but not here.\[/caption\]
+{{< figure src="DSC00299.jpg" caption="Staircase that leads somewhere... but not here." >}}
 
-\[caption id="attachment\_2092" align="alignnone" width="1280"\][![A kid enjoying some savouries on a horse cart.](DSC00305.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00305.jpg) A kid enjoying some savouries on a horse cart.\[/caption\]
+{{< figure src="DSC00305.jpg" caption="A kid enjoying some savouries on a horse cart." >}}
 
 After we were done with the site seeing, we walked around the market area of Ooty. The market is quite lively.
 
-\[caption id="attachment\_2093" align="alignnone" width="1280"\][![The fountain at Charring Cross.](DSC00336-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00336-1.jpg) The fountain at Charring Cross.\[/caption\]
+{{< figure src="DSC00336-1.jpg" caption="The fountain at Charring Cross." >}}
 
-\[caption id="attachment\_2094" align="alignnone" width="1280"\][![Spots of light create a starry canopy at night.](DSC00334.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00334.jpg) Ooty lights itself up at night.\[/caption\]
+{{< figure src="DSC00334.jpg" caption="Ooty lights itself up at night." >}}
 
-\[caption id="attachment\_2095" align="alignnone" width="1280"\][![A lady was selling handmade stuff made of bamboo and wood. They looked pretty nice but were too fragile for us to carry.](DSC00339.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00339.jpg) A lady was selling handmade stuff made of bamboo and wood. They looked pretty nice but were too fragile for us to carry.\[/caption\]
+{{< figure src="DSC00339.jpg" caption="A lady was selling handmade stuff made of bamboo and wood. They looked pretty nice but were too fragile for us to carry." >}}
 
 It is possible to do this site-seeing trip on a bus. The walks would be longer and it might take the entire day instead of the four and half hours we took in a car.
 

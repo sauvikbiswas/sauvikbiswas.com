@@ -25,13 +25,13 @@ Firstly, the length of the song was trimmed. Especially, before the introduction
 
 Secondly, the drum is actually a cajon acting as a kick drum and a muted snare drum mic'ed using two overheads, one kick and two room mics. It gave a nice earthy sound. However, it was a massive work to shape the tone and make it work with the track during mixing. I am happy how it all turned out.
 
-\[caption id="attachment\_3690" align="alignnone" width="1440"\][![](32914167_10160479608110720_3632175184196141056_o.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/07/32914167_10160479608110720_3632175184196141056_o.jpg) Shawn with his peace sign. Notice the mismatched overhead mics.\[/caption\]
+{{< figure src="32914167_10160479608110720_3632175184196141056_o.jpg" caption="Shawn with his peace sign. Notice the mismatched overhead mics." >}}
 
-\[caption id="attachment\_3691" align="alignnone" width="1536"\][![](33028070_10160479813120720_428095556649222144_o.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/07/33028070_10160479813120720_428095556649222144_o.jpg) Close-up of the cajon setup.\[/caption\]
+{{< figure src="33028070_10160479813120720_428095556649222144_o.jpg" caption="Close-up of the cajon setup." >}}
 
 Thirdly, the introductory violin piece is the very first piece played by Arpit. We revisited the piece for an alternate version many a times, but in the end, I chose to incorporate that instead of all others. For me it sounded the most authentic.
 
-\[caption id="attachment\_3689" align="alignnone" width="1440"\][![](30977456_10160397787130720_1096674005745615218_o.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/07/30977456_10160397787130720_1096674005745615218_o.jpg) Arpit tracking violin in my room.\[/caption\]
+{{< figure src="30977456_10160397787130720_1096674005745615218_o.jpg" caption="Arpit tracking violin in my room." >}}
 
 Fourthly, the instrumental interlude has a small vocal part. Also, a bit of "aahs" were added to the beginning of the second verse. Some other parts of the original song were shifted to the violin.
 
@@ -41,7 +41,7 @@ Penultimately, I decided to tackle the softer solo between the heavy instrumenta
 
 Lastly, The original vocals are delivered in a very flat manner according to Sudipto. In my opinion, he put a bit more melodic soul to the otherwise "flatter" approach preferred by Mr. Wilson. Sadly, I don't know how to qualitatively describe what he means although I can appreciate the difference.
 
-\[caption id="attachment\_3693" align="alignnone" width="1080"\][![](33190639_228644531058023_33120949540749312_n.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/07/33190639_228644531058023_33120949540749312_n.jpg) Shawn tracking Sudipto's vocals at Sound Awake Studios.\[/caption\]
+{{< figure src="33190639_228644531058023_33120949540749312_n.jpg" caption="Shawn tracking Sudipto's vocals at Sound Awake Studios." >}}
 
 The only person who didn't have to revisit anything was Sricharan with the bass. He is so good as a player that he had to sit through it once and he was done with it.
 

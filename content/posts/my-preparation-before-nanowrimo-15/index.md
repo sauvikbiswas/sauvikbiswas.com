@@ -22,7 +22,7 @@ Since 95% of the novel will be spanking new, I have to prepare many things in a
 
 My world building started with a map and some rough timelines. I drew two rough maps and one detailed map. The detailed map is the place where the events of the entire first volume will occur. While drawing the maps, I had so many ideas regarding the history of the world. The surprising part was that these ideas were very coherent and made sense within the fictional world. I intend to use them somewhere downstream.
 
-\[caption id="attachment\_1237" align="alignnone" width="1280"\][![It's all on some graph papers](DSC04703.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/10/DSC04703.jpg) It's all on some graph papers\[/caption\]
+{{< figure src="DSC04703.jpg" caption="It's all on some graph papers" >}}
 
 The idea behind this approach is borrowed from [Holly Lisle](http://hollylisle.com/how-i-drew-a-map-and-sold-three-books-and-a-world/). She has quite a few pointers regarding this. I have also received some help from [here](http://www.worldbuilding.co.uk/the-authors-guide-to-drawing-maps/).
 
@@ -34,7 +34,7 @@ Joseph Campbell had written about the hero's 12 step program. You can read about
 
 There is a nine block adaptation of the monomyth. It is also called the [rubik's cube method](http://writingwhilethericeboils.blogspot.in/2011/10/rubiks-cube-plotting-in-9-easy-steps.html). I have used that to chalk out major events.
 
-\[caption id="attachment\_1240" align="alignnone" width="1122"\][![Monomyth and Rubik's Cube superimposed.](Screenshot-2015-10-24-11.59.39.png)](http://sauvikbiswas.com/wp-content/uploads/2015/10/Screenshot-2015-10-24-11.59.39.png) Monomyth and rubik's cube blocks superimposed.\[/caption\]
+{{< figure src="Screenshot-2015-10-24-11.59.39.png" caption="Monomyth and rubik's cube blocks superimposed." >}}
 
 Long ago, I had also tried using the [snowflake method](http://www.advancedfictionwriting.com/articles/snowflake-method/) to construct a novel. Although it is an excellent tool, I did not find it suitable for my own use. I am using some basic constructs (especially, the first few steps) and then I will leave the rest to spontaneity.
 
@@ -42,7 +42,7 @@ Long ago, I had also tried using the [snowflake method](http://www.advancedficti
 
 I have been using Scrivener for a lot of projects. I will be using the same along with a cloud backed drive to churn out the novel. Here is how things look as of today -
 
-\[caption id="attachment\_1241" align="alignnone" width="1946"\][![The folders represent each block of the rubik's cube and the sub pages on the left are scenes.](Screenshot-2015-10-24-12.02.30.png)](http://sauvikbiswas.com/wp-content/uploads/2015/10/Screenshot-2015-10-24-12.02.30.png) The folders represent each block of the rubik's cube and the sub pages on the left are scenes.\[/caption\]
+{{< figure src="Screenshot-2015-10-24-12.02.30.png" caption="The folders represent each block of the rubik's cube and the sub pages on the left are scenes." >}}
 
 I have stopped planning. I have a solid foundation of the first 25% and the last 25% of the novel. Plotting the middle has been chaotic.
 

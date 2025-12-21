@@ -12,29 +12,29 @@ Yesterday, it took us 122 minutes to cover a distance of 16 kms from my home to 
 
 The place that I had booked is about 3-4 kms from the town centre. We reached with about an hour to spare before our check-in time (10:00 am). The owner was kind enough to get our room ready before time.
 
-\[caption id="attachment\_2040" align="alignnone" width="1280"\][![Our hotel building.](DSC00065.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00065.jpg) Our hotel building.\[/caption\]
+{{< figure src="DSC00065.jpg" caption="Our hotel building." >}}
 
-\[caption id="attachment\_2039" align="alignnone" width="1280"\][![Kid's play area inside our hotel premises.](DSC00063.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00063.jpg) Kid's play area inside our hotel premises.\[/caption\]
+{{< figure src="DSC00063.jpg" caption="Kid's play area inside our hotel premises." >}}
 
 ## Walking around the town and the lake
 
 I had scheduled all our site-seeing trips for tomorrow and day after tomorrow. We had nothing to do but roam around the town. My mom also needed a woollen shawl (for those early morning temperatures). The owner of the hotel dropped us at Naidupuram junction. We took a shared Omni to reach the Club Road junction.
 
-\[caption id="attachment\_2041" align="alignnone" width="1730"\][![A quick plot shows that we had walked 7.5 kms. https://goo.gl/maps/QwHkocsmzFo](Screenshot-2016-04-29-20.22.09.png)](http://sauvikbiswas.com/wp-content/uploads/2016/04/Screenshot-2016-04-29-20.22.09.png) A quick plot shows that we had walked 7.5 kms. [https://goo.gl/maps/QwHkocsmzFo](https://goo.gl/maps/QwHkocsmzFo)\[/caption\]
+{{< figure src="Screenshot-2016-04-29-20.22.09.png" caption="A quick plot shows that we had walked 7.5 kms. [https://goo.gl/maps/QwHkocsmzFo](https://goo.gl/maps/QwHkocsmzFo)" >}}
 
 Here are a few photographs from our walk.
 
-\[caption id="attachment\_2045" align="alignnone" width="1280"\][![Kodaikanal Bazaar Road. My mom bought a cheap woollen shawl from one of the shops.](DSC00088.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00088.jpg) Kodaikanal Bazaar Road. My mom bought a cheap woollen shawl from one of the shops.\[/caption\]
+{{< figure src="DSC00088.jpg" caption="Kodaikanal Bazaar Road. My mom bought a cheap woollen shawl from one of the shops." >}}
 
-\[caption id="attachment\_2044" align="alignnone" width="1280"\][![The minarets of Jamia Masjid on Bazaar Road.](DSC00086.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00086.jpg) The minarets of Jamia Masjid on Bazaar Road.\[/caption\]
+{{< figure src="DSC00086.jpg" caption="The minarets of Jamia Masjid on Bazaar Road." >}}
 
-\[caption id="attachment\_2046" align="alignnone" width="1280"\][![A lot of people into angling sit on the banks of the Kodaikanal lake. This man was trying hard to throw his hook into the deeper waters.](DSC00125.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00125.jpg) A lot of people into angling sit on the banks of the Kodaikanal lake. This man was trying hard to throw his hook into the deeper waters.\[/caption\]
+{{< figure src="DSC00125.jpg" caption="A lot of people into angling sit on the banks of the Kodaikanal lake. This man was trying hard to throw his hook into the deeper waters." >}}
 
-\[caption id="attachment\_2048" align="alignnone" width="1280"\][![Kids enjoyed the paid horse-riding experience with their guides on a bicycle!](DSC00123.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00123.jpg) Kids enjoyed the paid horse-riding experience with their guides on a bicycle!\[/caption\]
+{{< figure src="DSC00123.jpg" caption="Kids enjoyed the paid horse-riding experience with their guides on a bicycle!" >}}
 
-\[caption id="attachment\_2049" align="alignnone" width="1280"\][![Bicycles were also available for hire. I got to know that BSA had a tandem model called Duo. It is not a traditional tandem bike because of its dual freewheel design. I also found that a lot of guys had made some custom tandem bikes by welding two normal cycles together. I would be very cautious about renting them.](DSC00130.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00130.jpg) Bicycles were also available for hire. I got to know that BSA had a tandem model called Duo. It is not a traditional tandem bike because of its dual freewheel design. I also found that a lot of guys had made some custom tandem bikes by welding two normal cycles together. I would be very cautious about renting them.\[/caption\]
+{{< figure src="DSC00130.jpg" caption="Bicycles were also available for hire. I got to know that BSA had a tandem model called Duo. It is not a traditional tandem bike because of its dual freewheel design. I also found that a lot of guys had made some custom tandem bikes by welding two normal cycles together. I would be very cautious about renting them." >}}
 
-\[caption id="attachment\_2050" align="alignnone" width="1280"\][![How can there be no boating rides in a lake that is huge enough to have a perimeter of 4.6 kms? As the day progressed, the length of the queues for boating increased.](DSC00118.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00118.jpg) How can there be no boating rides in a lake that is huge enough to have a perimeter of 4.6 kms? As the day progressed, the length of the queues for boating increased.\[/caption\]
+{{< figure src="DSC00118.jpg" caption="How can there be no boating rides in a lake that is huge enough to have a perimeter of 4.6 kms? As the day progressed, the length of the queues for boating increased." >}}
 
 ## A disappointing day for our stomachs
 
@@ -44,7 +44,7 @@ In the morning, we had our breakfast at a restaurant called Mahaveer Restaurant.
 
 Later we had some average coffee at Potluck cafe. I think their business is more focussed on beverage related pottery rather than the beverage itself. While the presentation was good, the coffee was barely comparable to the stuff I get near my office.
 
-\[caption id="attachment\_2043" align="alignnone" width="1280"\][![Coffee at Potluck Cafe. The coffee had way too much chicory for my taste.](DSC00084.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/04/DSC00084.jpg) Coffee at Potluck Cafe. The coffee had way too much chicory for my taste.\[/caption\]
+{{< figure src="DSC00084.jpg" caption="Coffee at Potluck Cafe. The coffee had way too much chicory for my taste." >}}
 
 We had our lunch at a hotel which calls itself Punjab Hotel. It is just opposite to Potluck Cafe. The food was a far cry from anything Punjabi. However, to their credit, the mix veg was good. Not to mention, the chicken dish was absolutely forgettable. The hotel served our purpose of filling our stomach.
 

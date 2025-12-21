@@ -23,19 +23,19 @@ The last group consists of hotels that charge 1500 or more for double rooms. The
 
 Here is a picture of our room.
 
-\[caption id="attachment\_223" align="alignnone" width="1600"\][![DSC02215_1600_1200](DSC02215_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02215_1600_1200.jpg) This is room 315 of Maitri Residency. The other wall has a TV mounted on it.\[/caption\]
+{{< figure src="DSC02215_1600_1200.jpg" caption="This is room 315 of Maitri Residency. The other wall has a TV mounted on it." >}}
 
 ## Guwahati as a commuter's city.
 
 Nandy mentioned that this place reminded him of Ranchi. The streets are not as crowded as Kolkata, nor are the people as busy as Bangalore. The terrain is mildly uneven, with slopes that are within five degrees from the spirit level. The unevenness is due to the proximity of a few hills. Yet, it is far gentler than what a Bangalore dweller is used to.
 
-\[caption id="attachment\_224" align="alignnone" width="1600"\]![DSC02216_1600_1200](DSC02216_1600_1200.jpg) The vehicle density of Guwahati isn't that high.\[/caption\]
+{{< figure src="DSC02216_1600_1200.jpg" caption="The vehicle density of Guwahati isn't that high." >}}
 
 What I found surprising was the lack of bicycles. The extent of the city is not that big. Almost everyone commutes by public transport or by cars. The former comprises of privately run buses and autos while the latter consists of low and mid range cars owned by individuals. I am not so well aware of the purchasing power of this city but it appeared to me that most people find it a necessity rather than a luxury to own a car. The cars pose their own problems. There are no dedicated parking spaces near most commercial hubs\[2\]. As a result, more than half of the road width is occupied by parked cars in commercial areas.
 
-\[caption id="attachment\_226" align="alignnone" width="1600"\]![DSC02220_1600_1200](DSC02220_1600_1200.jpg) The main markets, like Fancy Bazaar, are thriving hubs of general purpose commercial activity.\[/caption\]
+{{< figure src="DSC02220_1600_1200.jpg" caption="The main markets, like Fancy Bazaar, are thriving hubs of general purpose commercial activity." >}}
 
-\[caption id="attachment\_225" align="alignnone" width="1600"\]![DSC02219_1600_1200](DSC02219_1600_1200.jpg) Even in this messy picture, one can clearly make out that stationary cars have eaten up a lot of road space.\[/caption\]
+{{< figure src="DSC02219_1600_1200.jpg" caption="Even in this messy picture, one can clearly make out that stationary cars have eaten up a lot of road space." >}}
 
 The vehicle density is lower than most metros and certainly lower than Bangalore, which makes it an excellent city to commute via a very basic geared bicycle. To my dismay, I could spot only three bicycles - all variants of the classic English bike still used in India\[3\]. The city is very laid back and the people are very helpful\[4\]. This would be an ideal mode of commuting over here.
 
@@ -47,11 +47,11 @@ I was searching for some good momos. I tried a "meh" momo in Paltan Bazaar follo
 
 Tripadvisor had [good ratings](http://www.tripadvisor.in/Restaurant_Review-g503692-d3518751-Reviews-Naga_Kitchen-Guwahati_Assam.html) for Naga Kitchen. Although it was about ten kilometers from Fancy Bazaar, we decided to try it out. I hoped to get some amazing momos this time, but that wasn't the case. The momos were not bad but [Yak's Kitchen in Bangalore](/posts/searching-for-waldies-replacement-yaks-kitchen/ "Searching for Waldies replacement: Yak’s Kitchen") will clobber these momos any day. The main course was not exceptional but not bad either. The layout and the decoration of the place was really good.
 
-\[caption id="attachment\_228" align="alignnone" width="1600"\]![DSC02222_1600_1200](DSC02222_1600_1200.jpg) Nandy waiting for his food. He was starving.\[/caption\]
+{{< figure src="DSC02222_1600_1200.jpg" caption="Nandy waiting for his food. He was starving." >}}
 
-\[caption id="attachment\_227" align="alignnone" width="1600"\][![DSC02221_1600_1200](DSC02221_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02221_1600_1200.jpg) Naga weapons and jewellery used as decor.\[/caption\]
+{{< figure src="DSC02221_1600_1200.jpg" caption="Naga weapons and jewellery used as decor." >}}
 
-\[caption id="attachment\_229" align="alignnone" width="1600"\][![DSC02223_1600_1200](DSC02223_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02223_1600_1200.jpg) I don't know what the portraits represent. The other wall had wooden Naga style utensils.\[/caption\]
+{{< figure src="DSC02223_1600_1200.jpg" caption="I don't know what the portraits represent. The other wall had wooden Naga style utensils." >}}
 
 **Notes:**
 

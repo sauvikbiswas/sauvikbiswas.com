@@ -22,7 +22,7 @@ I have used dithering before. We all have. But never earlier had I come across a
 
 Note: Dithering is the action of adding white noise to a signal before downsampling. [This page](http://www.djtechtools.com/2012/09/26/a-djs-guide-to-audio-files-and-bitrates/) has a nice example (see the portrait below). Audio dithering is technically no different from image dithering.
 
-\[caption id="attachment\_1163" align="alignnone" width="700"\][![Effect of additive noise for dithering in images. The noise helps retention of the profile better at lower bit depths.](dithering-explained-1024x556.png)](http://sauvikbiswas.com/wp-content/uploads/2014/04/dithering-explained.png) Effect of additive noise for dithering in images. The noise helps retention of the profile better at lower bit depths.\[/caption\]
+{{< figure src="dithering-explained-1024x556.png" caption="Effect of additive noise for dithering in images. The noise helps retention of the profile better at lower bit depths." >}}
 
 This doesn't matter much. For the master render, I would be using 48kHz sampling rate anyways. I can then use a better resampling + dither algorithm to get a pleasing master track.
 

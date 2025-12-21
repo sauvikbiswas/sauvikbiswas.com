@@ -13,15 +13,15 @@ tags:
 
 The entire Shillong runs on Maruti 800. Refurbished. Repaired. Re-repaired. But they are Maruti 800s. It appeared to me that all the Maruti 800s that had been decommissioned by the factory and disowned by their owners, landed up on Butcher Road in Shillong, and started their new life as shared cab service in and around Shillong. For a mere 10 rupees one can travel from anywhere to anywhere in Shillong.
 
-\[caption id="attachment\_264" align="alignnone" width="1600"\][![DSC02250_1600_1200](DSC02250_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02250_1600_1200.jpg) Maruti 800s in taxi stand at Anjali.\[/caption\]
+{{< figure src="DSC02250_1600_1200.jpg" caption="Maruti 800s in taxi stand at Anjali." >}}
 
-\[caption id="attachment\_267" align="alignnone" width="1600"\]![DSC02254_1600_1200](DSC02254_1600_1200.jpg) A series of Maruti 800s were held up by a jam in Shillong.\[/caption\]
+{{< figure src="DSC02254_1600_1200.jpg" caption="A series of Maruti 800s were held up by a jam in Shillong." >}}
 
-\[caption id="attachment\_266" align="alignnone" width="1600"\][![DSC02252_1600_1200](DSC02252_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02252_1600_1200.jpg) A view of Butcher Road in Shillong where most of the repair and refurbishment of cars take place.\[/caption\]
+{{< figure src="DSC02252_1600_1200.jpg" caption="A view of Butcher Road in Shillong where most of the repair and refurbishment of cars take place." >}}
 
 These Maruti 800s are everywhere and contribute to the unusual vehicle density in Shillong. The traffic scenario is so bad that we decided to walk from Police Bazaar to Anjali Bus Stand and it took us 30 minutes to and fro. Had we taken a cab, it would have taken us more than two hours. Needless to say, that there are walk-able shortcuts that reduce the distance between two points when compared to the distance via motorable road between the same two points.
 
-\[caption id="attachment\_263" align="alignnone" width="1600"\]![DSC02249_1600_1200](DSC02249_1600_1200.jpg) Shortcuts like this through the cantonment area are really picturesque and are well worth the walk.\[/caption\]
+{{< figure src="DSC02249_1600_1200.jpg" caption="Shortcuts like this through the cantonment area are really picturesque and are well worth the walk." >}}
 
 These used cabs are well utilised in Shillong, but once their residual strength is squeezed out, they are used as main means of transportation in smaller places like Cherrapunjee.
 
@@ -37,29 +37,29 @@ In fact, this made us realise that that our hotel manager was right. We could ea
 
 If you are a backpacker, nothing can be better than _By The Way_, a small dorm run by Haprit. He charges only 250 per bed and the rooms are cleaner than the hotel rooms we had occupied in Guwahati and Shillong. Haprit also shared a photocopied, hand drawn map and explained the various places we can visit.
 
-\[caption id="attachment\_268" align="alignnone" width="1600"\]![DSC02260_1600_1200](DSC02260_1600_1200.jpg) Haprit in front of one of the dorms.\[/caption\]
+{{< figure src="DSC02260_1600_1200.jpg" caption="Haprit in front of one of the dorms." >}}
 
 By the time we settled in Cherrapunjee, it was already quite late and we ended up having our lunch at a nearby restaurant.
 
-\[caption id="attachment\_271" align="alignnone" width="1600"\]![DSC02264_1600_1200](DSC02264_1600_1200.jpg) Avron Restaurtant had a thick menu with lot of Indian and Tibetan items.\[/caption\]
+{{< figure src="DSC02264_1600_1200.jpg" caption="Avron Restaurtant had a thick menu with lot of Indian and Tibetan items." >}}
 
-\[caption id="attachment\_269" align="alignnone" width="1600"\]![DSC02261_1600_1200](DSC02261_1600_1200.jpg) A view from the window of the restaurant.\[/caption\]
+{{< figure src="DSC02261_1600_1200.jpg" caption="A view from the window of the restaurant." >}}
 
 Cherrapunjee is a poorer place as compared to Shillong. It is barely a town. A ten minutes walk landed us in an agrarian landscape. However, the food prices are comparable to that in Shillong. I guess that the poor connectivity contributes to the inflated price.
 
-\[caption id="attachment\_273" align="alignnone" width="1600"\]![DSC02266_1600_1200](DSC02266_1600_1200.jpg) The dome of meteorological department in Cherrapunjee.\[/caption\]
+{{< figure src="DSC02266_1600_1200.jpg" caption="The dome of meteorological department in Cherrapunjee." >}}
 
-\[caption id="attachment\_274" align="alignnone" width="1600"\]![DSC02267_1600_1200](DSC02267_1600_1200.jpg) A landmark in Cherrapunjee.\[/caption\]
+{{< figure src="DSC02267_1600_1200.jpg" caption="A landmark in Cherrapunjee." >}}
 
-\[caption id="attachment\_278" align="alignnone" width="1600"\][![DSC02279_1600_1200](DSC02279_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02279_1600_1200.jpg) Shops at Eco Park. They are there to cater the school kids and the tourists.\[/caption\]
+{{< figure src="DSC02279_1600_1200.jpg" caption="Shops at Eco Park. They are there to cater the school kids and the tourists." >}}
 
-\[caption id="attachment\_277" align="alignnone" width="5457"\][![DSC02278_5457_1200](DSC02278_5457_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02278_5457_1200.jpg) A panorama of the view point at Eco Park.\[/caption\]
+{{< figure src="DSC02278_5457_1200.jpg" caption="A panorama of the view point at Eco Park." >}}
 
-\[caption id="attachment\_276" align="alignnone" width="1600"\][![DSC02280_1600_1200](DSC02280_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02280_1600_1200.jpg) After sunset, the atmosphere is magical (and cold).\[/caption\]
+{{< figure src="DSC02280_1600_1200.jpg" caption="After sunset, the atmosphere is magical (and cold)." >}}
 
 Later we took a shared cab to Eco Park. A group of school kids had their excursion / outing. They were busy playing loud music in the bus and dancing. The water bodies that form the main attraction had already dried up by October and there was nothing interesting to observe.
 
-\[caption id="attachment\_272" align="alignnone" width="1600"\]![DSC02265_1600_1200](DSC02265_1600_1200.jpg) Sunset from Eco Park\[/caption\]
+{{< figure src="DSC02265_1600_1200.jpg" caption="Sunset from Eco Park" >}}
 
 ## An unexpected music fest
 
@@ -69,9 +69,9 @@ We also met two guys who shared the dorms at _By the Way_. The first was a Germa
 
 Four bands took the stage for the night. The first band, which played Assamese original composition (ESP from Jorhat), was really interesting. I was very impressed by their bass guitarist. The rest three were also good but the fusion of Assamese folk and rock of the first band sounded the best.
 
-\[caption id="attachment\_279" align="alignnone" width="1600"\][![DSC02290_1600_1200](DSC02290_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02290_1600_1200.jpg) Localites enjoying the music beside a bonfire. They had to pay only 200 as compared us outsiders, who paid 500 each.\[/caption\]
+{{< figure src="DSC02290_1600_1200.jpg" caption="Localites enjoying the music beside a bonfire. They had to pay only 200 as compared us outsiders, who paid 500 each." >}}
 
-\[caption id="attachment\_280" align="alignnone" width="1600"\][![DSC02282_1600_1200](DSC02282_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02282_1600_1200.jpg) I don't know the name of this band but their [ESP](http://www.reverbnation.com/easternsoulplayersesp/songs)'s fusion of Assamese folk and rock was a treat.\[/caption\]
+{{< figure src="DSC02282_1600_1200.jpg" caption="I don't know the name of this band but their [ESP](http://www.reverbnation.com/easternsoulplayersesp/songs)'s fusion of Assamese folk and rock was a treat." >}}
 
 **Notes:**
 

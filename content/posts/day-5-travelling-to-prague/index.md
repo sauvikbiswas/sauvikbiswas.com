@@ -20,10 +20,10 @@ It took about five hours to reach Prague from Munich. As the bus moved north, th
 
 The hostel was about twenty minutes walk from the Main Railway station. Before I could do anything, I needed to exchange some Euros into Czech Korunas. The exchange shops near the railway station charged a very high commission. I exchanged whatever bare minimum was necessary to last me until the next day. I will go to a different shop for my next exchange.
 
-\[caption id="attachment\_3797" align="alignnone" width="700"\][![](DSC5412-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5412.jpg) Národní Museum (National Museum) at night.\[/caption\]
+{{< figure src="DSC5412-768x512.jpg" caption="Národní Museum (National Museum) at night." >}}
 
-\[caption id="attachment\_3796" align="alignnone" width="700"\][![](DSC5407-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5407.jpg) The park outside Church of Saint Ludmila hosted a big christmas market.\[/caption\]
+{{< figure src="DSC5407-768x512.jpg" caption="The park outside Church of Saint Ludmila hosted a big christmas market." >}}
 
-\[caption id="attachment\_3798" align="alignnone" width="700"\][![](IMG_20181205_182806-768x576.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/IMG_20181205_182806.jpg) I had a very wintery dinner at the christmas maket— Glühwein and Goulash.\[/caption\]
+{{< figure src="IMG_20181205_182806-768x576.jpg" caption="I had a very wintery dinner at the christmas maket— Glühwein and Goulash." >}}
 
 I had not yet planned for anything in Prague. I was quite tired. I felt that the best was to go to sleep, wake up the next day and plan out the visits.

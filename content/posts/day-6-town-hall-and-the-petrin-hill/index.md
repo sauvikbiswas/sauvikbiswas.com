@@ -15,21 +15,21 @@ As soon as I got out of my hostel, my phone network went off. Only my GPS worke
 
 Christmas markets were all around and local people as well as tourists flooded these markets. Even the old Havel's market had decorated itself in festive colours.
 
-\[caption id="attachment\_3807" align="alignnone" width="700"\][![](DSC5415-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5415.jpg) The Christmas market near the town hall had blacksmiths who made decorative relics and bells. Interestingly, all blacksmiths had two signs in English, "Please, Don't ring like crazy fools. We are at work here :-), thank you." and "Please note: But our products because you like them, not because you want discount." The font and colour selections were identical across all blacksmith stalls.\[/caption\]
+{{< figure src="DSC5415-768x512.jpg" caption="The Christmas market near the town hall had blacksmiths who made decorative relics and bells. Interestingly, all blacksmiths had two signs in English, _Please, Don't ring like crazy fools. We are at work here :-), thank you._ and _Please note: Buy our products because you like them, not because you want discount._ The font and colour selections were identical across all blacksmith stalls." >}}
 
-\[caption id="attachment\_3808" align="alignnone" width="700"\][![](DSC5420-768x1152.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5420.jpg) This [astronomical clock](https://en.wikipedia.org/wiki/Prague_astronomical_clock) of the Town Hall is maintained by 6 clocksmiths. They are the only ones allowed to enter the mechanism room. It is said that the stopping of the clocks is a bad omen. The last time it happened, it was for four minutes on December 31, 2001. The next year saw [a great flood](https://en.wikipedia.org/wiki/2002_European_floods) that devastated Prague.\[/caption\]
+{{< figure src="DSC5420-768x1152.jpg" caption="This [astronomical clock](https://en.wikipedia.org/wiki/Prague_astronomical_clock) of the Town Hall is maintained by 6 clocksmiths. They are the only ones allowed to enter the mechanism room. It is said that the stopping of the clocks is a bad omen. The last time it happened, it was for four minutes on December 31, 2001. The next year saw [a great flood](https://en.wikipedia.org/wiki/2002_European_floods) that devastated Prague." >}}
 
 The Old Town Hall and all its elements have been painstakingly repaired, restored and overhauled over the past two years. A exhibition of replicas and photographs of the restoration work was displayed inside under the name, "The Rebirth".
 
-\[caption id="attachment\_3809" align="alignnone" width="700"\][![](DSC5422-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5422.jpg) One of the rooms displaying various restorations carried out.\[/caption\]
+{{< figure src="DSC5422-768x512.jpg" caption="One of the rooms displaying various restorations carried out." >}}
 
 The ticket to the towers also included a guided tour of the underground and the Municipal halls. Sadly, there was some political event being held inside the hall and was closed to the general public. The underground rooms were from the 11th century.
 
-\[caption id="attachment\_3810" align="alignnone" width="700"\][![](DSC5424-768x768.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5424.jpg) These underground houses have elements spanning nine decades. The only original element is the flooring, which in turn was at the street level back in the days. Prague got frequently flooded and the street level rose year on year, thus pushing the rooms further underground. Much later when the water subsided, these rooms were used as cellars and prisons. Nowadays, most of these underground rooms are used as bars, pubs and loud musical venues.\[/caption\]
+{{< figure src="DSC5424-768x768.jpg" caption="These underground houses have elements spanning nine decades. The only original element is the flooring, which in turn was at the street level back in the days. Prague got frequently flooded and the street level rose year on year, thus pushing the rooms further underground. Much later when the water subsided, these rooms were used as cellars and prisons. Nowadays, most of these underground rooms are used as bars, pubs and loud musical venues." >}}
 
-\[caption id="attachment\_3811" align="alignnone" width="700"\][![](DSC5428-768x1152.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5428.jpg) A cross made from charred wood left behind by the Nazis before the liberation of Prague in 1945. It is a remembrance to those who had died in the town hall when the Nazis set it on fire before fleeing.\[/caption\]
+{{< figure src="DSC5428-768x1152.jpg" caption="A cross made from charred wood left behind by the Nazis before the liberation of Prague in 1945. It is a remembrance to those who had died in the town hall when the Nazis set it on fire before fleeing." >}}
 
-\[caption id="attachment\_3812" align="alignnone" width="700"\][![](DSC5429-768x768.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5429.jpg) The path to the Town Hall Tower.\[/caption\]
+{{< figure src="DSC5429-768x768.jpg" caption="The path to the Town Hall Tower." >}}
 
 I took many photographs of Prague from the tower. However, the best views were from a tower I would visit later that day.
 
@@ -39,11 +39,11 @@ As I walked towards Charles Bridge, I noticed a significant number of agents off
 
 There are many statues on either sides of the bridge. [Wikipedia has a nice list](https://en.wikipedia.org/wiki/List_of_statues_on_Charles_Bridge).
 
-\[caption id="attachment\_3813" align="alignnone" width="700"\][![](DSC5439.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5439.jpg) A statue of [Charles IV](https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor), the namesake of the bridge, can be seen on the Old Town Hall side.\[/caption\]
+{{< figure src="DSC5439.jpg" caption="A statue of [Charles IV](https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor), the namesake of the bridge, can be seen on the Old Town Hall side." >}}
 
-\[caption id="attachment\_3814" align="alignnone" width="700"\][![](DSC5440-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5440.jpg) View of Prague from the bridge.\[/caption\]
+{{< figure src="DSC5440-768x512.jpg" caption="View of Prague from the bridge." >}}
 
-\[caption id="attachment\_3815" align="alignnone" width="700"\][![](DSC5442-768x1152.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5442.jpg) Statue of John, the Nepomunk. This is the oldest statue. He was thrown from the bridge. People touched the base for good luck.\[/caption\]
+{{< figure src="DSC5442-768x1152.jpg" caption="Statue of John, the Nepomunk. This is the oldest statue. He was thrown from the bridge. People touched the base for good luck." >}}
 
 [![](DSC5444-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5444.jpg)
 
@@ -53,16 +53,16 @@ Petřín hill has a large number of statues and sights. In the absence of any mo
 
 [![](IMG_20181206_143837-768x576.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/IMG_20181206_143837.jpg)
 
-\[caption id="attachment\_3817" align="alignnone" width="700"\][![](DSC5456-768x475.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5456.jpg) A wall called "Hunger Wall" split the hill into two. As I climbed up, occasionally switching sides through the archways, I couldn't make out what purpose it served in the first place. It made no sense. Well, you can read all about that [here](https://en.wikipedia.org/wiki/Hunger_Wall), including the fact that "hunger wall" is a Czech euphemism for useless public works.\[/caption\]
+{{< figure src="DSC5456-768x475.jpg" caption="A wall called _Hunger Wall_ split the hill into two. As I climbed up, occasionally switching sides through the archways, I couldn't make out what purpose it served in the first place. It made no sense. Well, you can read all about that [here](https://en.wikipedia.org/wiki/Hunger_Wall), including the fact that _hunger wall_ is a Czech euphemism for useless public works." >}}
 
-\[caption id="attachment\_3819" align="alignnone" width="700"\][![](DSC5460-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5460.jpg) The Štefánik observatory at the top of the hill.\[/caption\]
+{{< figure src="DSC5460-768x512.jpg" caption="The Štefánik observatory at the top of the hill." >}}
 
-\[caption id="attachment\_3818" align="alignnone" width="700"\][![](DSC5459-768x544.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5459.jpg) A statue of [Milan Rastislav Štefánik](https://en.wikipedia.org/wiki/Milan_Rastislav_%C5%A0tef%C3%A1nik), the namesake of the observatory.\[/caption\]
+{{< figure src="DSC5459-768x544.jpg" caption="A statue of [Milan Rastislav Štefánik](https://en.wikipedia.org/wiki/Milan_Rastislav_%C5%A0tef%C3%A1nik), the namesake of the observatory." >}}
 
-\[caption id="attachment\_3820" align="alignnone" width="700"\][![](DSC5468-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5468.jpg) The observation tower atop the hill gives the best view of the city; especially the old city.\[/caption\]
+{{< figure src="DSC5468-768x512.jpg" caption="The observation tower atop the hill gives the best view of the city; especially the old city." >}}
 
-\[caption id="attachment\_3821" align="alignnone" width="700"\][![](DSC5472-768x1170.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5472.jpg) The tower itself looked grand with all the lights on.\[/caption\]
+{{< figure src="DSC5472-768x1170.jpg" caption="The tower itself looked grand with all the lights on." >}}
 
-\[caption id="attachment\_3822" align="alignnone" width="700"\][![](DSC5476-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5476.jpg) Czechoslovakia was a communist state from 1945 to 1989 until Velvet Revolution happened. This [memorial](https://en.wikipedia.org/wiki/Memorial_to_the_Victims_of_Communism) looked even ghastlier in the evening light.\[/caption\]
+{{< figure src="DSC5476-768x512.jpg" caption="Czechoslovakia was a communist state from 1945 to 1989 until Velvet Revolution happened. This [memorial](https://en.wikipedia.org/wiki/Memorial_to_the_Victims_of_Communism) looked even ghastlier in the evening light." >}}
 
 I was back at the hostel by six in the evening. I had walked somewhere between twelve to fifteen kilometres. I was so exhausted that I dozed off. When I woke up, I went to a nearby restaurant and gulped down a massive (and I mean XL size massive) Doner wrap.

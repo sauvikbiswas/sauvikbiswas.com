@@ -41,4 +41,4 @@ I have not mentioned in my earlier posts but I had been munching on peanuts eve
 
 [![](IMG_20171209_180022.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171209_180022.jpg)
 
-\[caption id="attachment\_3257" align="alignnone" width="4032"\][![](IMG_20171209_192335.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171209_192335.jpg) View of Uttarkashi bus stop from my hotel veranda.\[/caption\]
+{{< figure src="IMG_20171209_192335.jpg" caption="View of Uttarkashi bus stop from my hotel veranda." >}}
