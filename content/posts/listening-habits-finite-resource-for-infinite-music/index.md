@@ -9,8 +9,7 @@ tags:
   - "physical-audio-medium"
 ---
 
-\[caption id="attachment\_499" align="alignnone" width="480"\][![music-collection](music-collection.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/01/music-collection.jpg)  
-Image from [Audiogen Hub](http://hub.audiogon.com/blog/2013/07/25/is-vinyl-making-a-comeback/)\[/caption\]
+{{< figure src="music-collection.jpg" caption="Image from [Audiogen Hub](http://hub.audiogon.com/blog/2013/07/25/is-vinyl-making-a-comeback/)" >}}
 
 ## Music as a disposable commodity
 

@@ -11,9 +11,7 @@ paginationSize = 100
 colorPalette = 'base16-eighties'
 
 [params.breadcrumbs]
-enabled = true
-showCurrentPage = true
-home = "Home"
+enabled = false
 
 [[params.menu]]
 name = "posts"
@@ -26,6 +24,10 @@ url = "/works"
 [[params.menu]]
 name = "travelogue"
 url = "/travelogue"
+
+[[params.menu]]
+name = "comics"
+url = "/comics"
 
 [[params.menu]]
 name = "about"

@@ -26,8 +26,7 @@ I had the entire afternoon and night to visit the two places in Udupi — St. Ma
 
 St. Mary’s Island closes by 5:00 pm. In order to go there, one has to take a ferry from Malpe beach, which itself is about eight kilometres from the city. The last ferry from Malpe beach leaves at 4:30 pm. The booking guy had a very dry sense of humour. It was almost as if his mood was oscillating around the boundaries of irritability. For three-hundred rupees per person, one can cross a bit of the ocean and reach the island.
 
-\[caption id="attachment\_3027" align="alignnone" width="6000"\][![](DSC03678.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03678.jpg) Visitor: "Can we stay beyond 5:30?"  
-Booking guy: "Yes, and we'll be staying in our homes."\[/caption\]
+{{< figure src="DSC03678.jpg" caption="Visitor: \"Can we stay beyond 5:30?\" Booking guy: \"Yes, and we'll be staying in our homes.\"" >}}
 
 {{< figure src="DSC03705.jpg" caption="Malpe beach was quite crowded owing to the long weekend." >}}
 
