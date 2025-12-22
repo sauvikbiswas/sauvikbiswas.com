@@ -20,7 +20,7 @@ Every year November 1 is celebrated as Karnataka Rajyotsava (Karnataka State for
 
 The organisers (Alok Shostri and fellow riders who were volunteering) went through the mandatory equipment check - ACP legal bike, helmet, front and rear lights, Audax India registration number pinned to the bike and reflective vest - before handing us our brevet cards.
 
-\[caption id="attachment\_2981" align="alignnone" width="4032"\][![](IMG_20171101_052602.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_052602.jpg) Sixty-six riders had assembled in front of the stadium - a good turnout by any standards.\[/caption\]
+{{< figure src="IMG_20171101_052602.jpg" caption="Sixty-six riders had assembled in front of the stadium - a good turnout by any standards." >}}
 
 At around 5:50, Alok flagged-off the BRM and we were all on our own.
 
@@ -34,7 +34,7 @@ Inside Chikaballapur, I rode with Vivek, who took my checkpoint photograph. He d
 
 The route from Chikaballapur to Chintamani wasn't that good. The rough roads killed my momentum very frequently. Someone on a local cycling group had put out a warning. It wasn't as bad as he had claimed it to be. Still the constant jerks caused a lot of upper body fatigue. I could feel the pain in my lower back return. The constant drizzle didn't help either.
 
-\[caption id="attachment\_2984" align="alignnone" width="4032"\][![](IMG_20171101_112201.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_112201.jpg) I am standing on the road. A small stretch on one side is getting laid. The entire 36 km stretch was punctuated by such construction.\[/caption\]
+{{< figure src="IMG_20171101_112201.jpg" caption="I am standing on the road. A small stretch on one side is getting laid. The entire 36 km stretch was punctuated by such construction." >}}
 
 This is when I realised that I had not put on my gloves. I had left them at home! I stopped numerous times to stretch my back and give my palms some rest. I made sure that I my breaks coincided with tea stalls to replenish some of my energy. I also topped up on my biscuit supply. Many people (mostly locals and passers-by) were curious to know what I was doing. I am sure the other riders had also similar experiences. I tried to converse in Kannada but more often than not, had to give up midway. A lot of school-kids extended their arms for a high-five. I had learned from Manjeet during TfN'16 not to disappoint them.
 
@@ -42,7 +42,7 @@ Alok waited before Chintamani. He marked my brevet card while I gulped an entire
 
 The route from Chintamani to Kolar was very scenic. It passed through villages small hills and and lakes.
 
-\[caption id="attachment\_2985" align="alignnone" width="4032"\][![](IMG_20171101_123456.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_123456.jpg) Karnataka had seen an awful lot of rains during the last few months. The lakes were all filled up.\[/caption\]
+{{< figure src="IMG_20171101_123456.jpg" caption="Karnataka had seen an awful lot of rains during the last few months. The lakes were all filled up." >}}
 
 The jerks from the last stage adversely affected my speed. I was barely holding on to 19 km/h. At times my speed dropped to 15 or 16 and I had a hard time accelerating again. This is when I had the thought if I should retire my pair of puncture-proof Marathon Plus tyres. These were heavy (900 gms each) and had a lot more rolling resistance (>20% when compared to Conti's puncture resistant tyres). I did not find that many tea shops in this stretch either. Most were closed and I had to rely on my stock of biscuits.
 
@@ -56,8 +56,8 @@ From Hoskote to the end point, I rode with Bhavani Suryanarayan and Sanat Rath. 
 
 Once we were at the end point, I got my card signed and deposited it for homologation.
 
-\[caption id="attachment\_2989" align="alignnone" width="3024"\][![](IMG_20171101_174056.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_174056.jpg) My signed brevet card and my cyclo-computer showing 203 kms of ride.\[/caption\]
+{{< figure src="IMG_20171101_174056.jpg" caption="My signed brevet card and my cyclo-computer showing 203 kms of ride." >}}
 
 Sumeet arrived twenty minutes later. After some socialising with fellow riders, we both headed back home.
 
-\[caption id="attachment\_2991" align="alignnone" width="4032"\][![](IMG_20171101_180143.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_180143.jpg) Alok signing the cards for the riders and putting on the final times.\[/caption\]
+{{< figure src="IMG_20171101_180143.jpg" caption="Alok signing the cards for the riders and putting on the final times." >}}

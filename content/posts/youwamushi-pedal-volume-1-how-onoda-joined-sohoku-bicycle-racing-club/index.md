@@ -17,9 +17,9 @@ A few days ago, I received my copies of Yowamushi Pedal Volumes 1 and 2 in Engli
 
 These books are essentially two Japanese volumes translated into one English volume. The manga is thick. The trim size is bigger than usual - almost like the Viz Signature editions.
 
-\[caption id="attachment\_2297" align="alignnone" width="853"\][![Double the size, double the fun!](DSC01237-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01237-1.jpg) Double the size, double the fun! Onoda on the cover.\[/caption\]
+{{< figure src="DSC01237-1.jpg" caption="Double the size, double the fun! Onoda on the cover." >}}
 
-\[caption id="attachment\_2298" align="alignnone" width="853"\][![The cover for Japanese volume 2 is printed on the first page.](DSC01239.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01239.jpg) The cover for Japanese volume 2 (included in this English volume) is printed on the first page. This is Imaizumi.\[/caption\]
+{{< figure src="DSC01239.jpg" caption="The cover for Japanese volume 2 (included in this English volume) is printed on the first page. This is Imaizumi." >}}
 
 ## Storywise, it's a nice, lighthearted read
 
@@ -35,11 +35,11 @@ In the end, Onoda realises that the reason why he wanted to join the manga club 
 
 The art style is very sketchy and may not be to everyone's liking. The anime smoothens it out a lot. In spite of its sketchiness, I really liked the art style. I think it lends very well to the tone of the manga. (This is drastically different from Attack on Titan, whose art style was also sketchy and had to be polished a lot for the anime. I did not like the art style of AoT at all.)
 
-\[caption id="attachment\_2301" align="alignnone" width="933"\][![](IMG_0001.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_0001.jpg) [![IMG_0002](IMG_0002.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_0002.jpg)The speed lines and the jagged pen and brushwork dramatises and exaggerates the action. Somehow, the outcome is quite pleasing to the eye.\[/caption\]
+{{< figure src="IMG_0001.jpg" caption="The speed lines and the jagged pen and brushwork dramatises and exaggerates the action. Somehow, the outcome is quite pleasing to the eye." >}}
 
 Wataru Watanabe uses a lot of wide angle, highly distorted perspectives. This exaggerates the action and brings a sense of urgency. Some of his best panels are spread over two pages. I can't wait to see how he depicts scenes from inter-high.
 
-\[caption id="attachment\_2299" align="alignnone" width="934"\][![Look at the close up of the handlebar and how it renders the front wheel smaller in perspective, or how Imaizumi appears to be so farther away from Onoda. The best panels are spread across two pages. Sadly, my scanner darkens the area near the binding.](IMG_0003.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_0003.jpg) Look at the close up of the handlebar and how it renders the front wheel smaller in perspective, or how Imaizumi appears to be so farther away from Onoda. The best panels are spread across two pages. Sadly, my scanner darkens the area near the binding.\[/caption\]
+{{< figure src="IMG_0003.jpg" caption="Look at the close up of the handlebar and how it renders the front wheel smaller in perspective, or how Imaizumi appears to be so farther away from Onoda. The best panels are spread across two pages. Sadly, my scanner darkens the area near the binding." >}}
 
 There is a lack of concreteness in the character designs, especially in the early chapters. It happens often with serialisations. Even veteran mangakas zero in on all aspects of their character designs only after a few chapters.
 

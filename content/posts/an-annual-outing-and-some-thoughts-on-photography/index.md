@@ -12,7 +12,7 @@ Every year, around this time, our department plans an outing to some place in t
 
 For the sake of privacy, I will not put up the photographs from the activities and general socialising. Instead, I will just walk you through my experiences.
 
-\[caption id="attachment\_2500" align="alignnone" width="1280"\][![The interior roads are nicely paved. The area on the left is another resort that overlooks the Chudanahalli lake.](DSC01629.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01629.jpg) The interior roads are nicely paved. The area on the left is another resort that overlooks the Chudanahalli lake.\[/caption\]
+{{< figure src="DSC01629.jpg" caption="The interior roads are nicely paved. The area on the left is another resort that overlooks the Chudanahalli lake." >}}
 
 There were a lot of dogs in the premises. There was at least one Husky and one Saint Bernard. Since both breeds are native to colder (Arctic) climates, I do not know how they were coping up with the weather of Bangalore. As such both of them were pretty docile and sleepy.
 
@@ -22,7 +22,7 @@ The group had some fun dancing to songs that were blasted through speakers stati
 
 While the group was shaking a leg, the guys at the resort were busy setting up the tents for our overnight sleep. All the ladies skipped the outdoor bed and crashed inside a large room. Quite a few guys chose the comfort of an AC, even if it meant that there were quite a few people crammed up in an 11x11 room.
 
-\[caption id="attachment\_2503" align="alignnone" width="1280"\][![While the group was shaking a leg, the guys at the resort were busy setting up the tents for our overnight sleep.](DSC01671.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01671.jpg) Lots of Quechua Arpenaz 2s.\[/caption\]
+{{< figure src="DSC01671.jpg" caption="Lots of Quechua Arpenaz 2s." >}}
 
 We had good fun with the bonfire and the introduction sessions (read: orientation for the new employees). Some guys had opened up a few cans of beer and enjoyed themselves. It was during this time that something bad happened.
 
@@ -30,17 +30,17 @@ People realised that most of the booze had gone missing. These were stocked in a
 
 This prompted me to carry my bag everywhere with me and not leave it unattended.
 
-\[caption id="attachment\_2505" align="alignnone" width="1280"\][![This is Rueben with his blue swimming cap. Hold on, the story of stealing doesn't end there.](DSC01785.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01785.jpg) This is Rueben with his blue swimming cap. Hold on, the story of stealing doesn't end there.\[/caption\]
+{{< figure src="DSC01785.jpg" caption="This is Rueben with his blue swimming cap. Hold on, the story of stealing doesn't end there." >}}
 
 After Rueben had finished his swim, he took his swimming cap off, kept it on a table nearby and went to have a shower. When he returned, he saw the life guard / supervisor sitting near the table. His cap was missing. The guy categorically denied seeing any cap. After some altercation, he got up and gave Rueben his cap on which he was sitting! He defended himself by saying that he thought Rueben referred to caps that people normally wear. Who would swim with hip-hop caps? And why was he sitting on it unless he had the intention of hiding it from its rightful owner?
 
 That morning I went around exploring the area with some of my colleagues. The most striking place is the Chudanahalli Lake. It is not easy to get there from the resort. One will have to jump the fence and walk through some shrubs in order to get there.
 
-\[caption id="attachment\_2506" align="alignnone" width="1280"\][![There are two such piers jutting out into the lake from the raised walkway on the embankment.](DSC01724.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01724.jpg) There are two such piers jutting out into the lake from the raised walkway on the embankment.\[/caption\]
+{{< figure src="DSC01724.jpg" caption="There are two such piers jutting out into the lake from the raised walkway on the embankment." >}}
 
-\[caption id="attachment\_2507" align="alignnone" width="1280"\][![An artificial lake within the resort premises was used for jet skiing and kayaking.](DSC01736.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01736.jpg) An artificial lake within the resort premises was used for jet skiing and kayaking.\[/caption\]
+{{< figure src="DSC01736.jpg" caption="An artificial lake within the resort premises was used for jet skiing and kayaking." >}}
 
-\[caption id="attachment\_2508" align="alignnone" width="853"\][![There is a zipline that runs over the lake. This is Mainak posing for the camera.](DSC01831.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01831.jpg) There is a zipline that runs over the lake. This is Mainak posing for the camera.\[/caption\]
+{{< figure src="DSC01831.jpg" caption="There is a zipline that runs over the lake. This is Mainak posing for the camera." >}}
 
 There were few other activities, like ATV riding, paintball, etc. I did not do most of the things.
 

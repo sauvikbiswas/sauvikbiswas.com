@@ -26,26 +26,25 @@ I had the entire afternoon and night to visit the two places in Udupi — St. Ma
 
 St. Mary’s Island closes by 5:00 pm. In order to go there, one has to take a ferry from Malpe beach, which itself is about eight kilometres from the city. The last ferry from Malpe beach leaves at 4:30 pm. The booking guy had a very dry sense of humour. It was almost as if his mood was oscillating around the boundaries of irritability. For three-hundred rupees per person, one can cross a bit of the ocean and reach the island.
 
-\[caption id="attachment\_3027" align="alignnone" width="6000"\][![](DSC03678.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03678.jpg) Visitor: "Can we stay beyond 5:30?"  
-Booking guy: "Yes, and we'll be staying in our homes."\[/caption\]
+{{< figure src="DSC03678.jpg" caption="Visitor: \"Can we stay beyond 5:30?\" Booking guy: \"Yes, and we'll be staying in our homes.\"" >}}
 
-\[caption id="attachment\_3031" align="alignnone" width="6000"\][![](DSC03705.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03705.jpg) Malpe beach was quite crowded owing to the long weekend.\[/caption\]
+{{< figure src="DSC03705.jpg" caption="Malpe beach was quite crowded owing to the long weekend." >}}
 
 Once we were on the other side, the ferry operator insisted on getting back in an hour. Since we were there by 3:30 pm, we had ample time to walk around the island. The entire island is made of columnar basaltic lava (my geologist cousin explained that to me) and in parts covered by thick blanket of shells. We walked over the mounds and the shells while clicking photographs. My sister, who has been trying to get fitter, understood the need for doing so when she had to scale the rocks to reach the highest point of the island. With some help from a few strangers, she managed to get on top.
 
-\[caption id="attachment\_3028" align="alignnone" width="6000"\][![](DSC03697.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03697.jpg) The concrete marker is the highest point of the island.\[/caption\]
+{{< figure src="DSC03697.jpg" caption="The concrete marker is the highest point of the island." >}}
 
-\[caption id="attachment\_3029" align="alignnone" width="6000"\][![](DSC03698.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03698.jpg) The northern and central part of the island. There is also has a small shop from where we had some fresh lime soda.\[/caption\]
+{{< figure src="DSC03698.jpg" caption="The northern and central part of the island. There is also has a small shop from where we had some fresh lime soda." >}}
 
-\[caption id="attachment\_3030" align="alignnone" width="6000"\][![](DSC03699.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03699.jpg) The columnar lava rocks are clearly seen here.\[/caption\]
+{{< figure src="DSC03699.jpg" caption="The columnar lava rocks are clearly seen here." >}}
 
 ## Udupi Krishna temple complex
 
 After spending another afternoon at another beach, we were back at our hotel by evening. Following a change of clothes, we ventured out to the Sri Krishna Temple complex, which happened to be right behind our hotel. It is a nice place to spend some time. The entire complex is accessible only via foot. There wasn’t much crowd either, which made our visit a bit more enjoyable.
 
-\[caption id="attachment\_3032" align="alignnone" width="4799"\][![](DSC03714.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03714.jpg) The main temple and the central courtyard\[/caption\]
+{{< figure src="DSC03714.jpg" caption="The main temple and the central courtyard" >}}
 
-\[caption id="attachment\_3033" align="alignnone" width="6000"\][![](DSC03728.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03728.jpg) There is a small pond inside the temple.\[/caption\]
+{{< figure src="DSC03728.jpg" caption="There is a small pond inside the temple." >}}
 
 The complex has many shops that cater to the daily needs of residents. There are a couple of eateries as well as few roadside fast-food vendors. My sister bought a South Indian style filter for making coffee from one of the steel and brassware shops.
 

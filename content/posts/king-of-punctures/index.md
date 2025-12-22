@@ -16,7 +16,7 @@ I can officially declare myself as the king of punctures.
 
 I had plans to do an airport loop. En route, I met a guy, Ram, on his [Lynskey Titanium bike](https://lynskeyperformance.com/road/road-riding/r240/), who invited me to join him and two of his friends to Bagalur. These guys were rolling pretty nicely and were riding at a pace that is slightly higher than mine. But it was not something that I couldn't sustain over a three hour ride.
 
-\[caption id="attachment\_2383" align="alignnone" width="1592"\][![From L to R: Ram, Anantha and Venky.](Screenshot-2016-09-04-09.05.11.png)](http://sauvikbiswas.com/wp-content/uploads/2016/09/Screenshot-2016-09-04-09.05.11.png) From L to R: Ram, Anantha and Venky. This is a screenshot from a clip that was recorded on the [Mobius mounted on my handlebar](/posts/boxed-cycling-stuff/).\[/caption\]
+{{< figure src="Screenshot-2016-09-04-09.05.11.png" caption="From L to R: Ram, Anantha and Venky. This is a screenshot from a clip that was recorded on the [Mobius mounted on my handlebar](/posts/boxed-cycling-stuff/)." >}}
 
 Midway through to Bagalur, I realised that I should exchange phone numbers with one of the guys. While Ram had stopped for a client call, I asked him for his number. Ram casually said, 'Not necessary for now. You are riding at the same pace.'
 
@@ -34,9 +34,9 @@ I had stopped for a break when two kids came up and asked if they could take my 
 
 On my way back, I heard a hiss sound from my rear tyre. I pushed the bike to a shelter and swapped the tube. The shelter turned out to be a flower shop and a distribution centre. The owner's son, Nagesh sat beside me and watched me replace the tube.
 
-\[caption id="attachment\_2386" align="alignnone" width="4032"\][![I did this in 15 minutes. I am getting pretty good at it.](IMG_20160903_101600.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/IMG_20160903_101600.jpg) I did this in 15 minutes. I am getting pretty good at it.\[/caption\]
+{{< figure src="IMG_20160903_101600.jpg" caption="I did this in 15 minutes. I am getting pretty good at it." >}}
 
-\[caption id="attachment\_2387" align="alignnone" width="1150"\][![The culprit was something hard and sharp. It had managed to even notch the edge of the rim.](DSC01501.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01501.jpg) The culprit was something hard and sharp. It had managed to even notch the edge of the rim. Maybe it's time to invest in a pair of [Gatorskin Hardshells](http://www.continental-tires.com/bicycle/tyres/race-tyres/gator-hardshell).\[/caption\]
+{{< figure src="DSC01501.jpg" caption="The culprit was something hard and sharp. It had managed to even notch the edge of the rim. Maybe it's time to invest in a pair of [Gatorskin Hardshells](http://www.continental-tires.com/bicycle/tyres/race-tyres/gator-hardshell)." >}}
 
 It's a sad truth about cycling. It's also known as the [golden truth of cycling](/posts/commuting-by-bicycle-in-bangalore-backpack-essentials/) - punctures are inevitable. I can only imagine some buddha, sitting underneath a tree that's as old as knowledge itself, preaching his disciples this existential truth. His disciples would be wondering, 'Yeah we have heard of the cycle od rebirth, but what is this bicycle?' Some of them would also (wrongly) deduce that the puncture that stops the act of cycling is an allusion to Nirvana that allows one to escape the cycle.
 
@@ -44,9 +44,9 @@ It's a sad truth about cycling. It's also known as the [golden truth of cycling]
 
 Since, I was riding on my own, I dropped to my usual pace and clicked a few photographs on my way back.
 
-\[caption id="attachment\_2388" align="alignnone" width="3926"\][![This is Karnataka - Tamil Nadu border on Bagalur road.](IMG_20160903_104803.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/IMG_20160903_104803.jpg) This is Karnataka - Tamil Nadu border on Bagalur road.\[/caption\]
+{{< figure src="IMG_20160903_104803.jpg" caption="This is Karnataka - Tamil Nadu border on Bagalur road." >}}
 
-\[caption id="attachment\_2389" align="alignnone" width="3741"\][![An empty throne! This is more surreal than the one I saw few weekends ago.](IMG_20160903_112812.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/IMG_20160903_112812.jpg) An empty throne! This is more surreal than the one I saw few weekends ago.\[/caption\]
+{{< figure src="IMG_20160903_112812.jpg" caption="An empty throne! This is more surreal than the one I saw few weekends ago." >}}
 
 ## A word about the Mobius Actioncam
 

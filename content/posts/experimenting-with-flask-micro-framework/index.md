@@ -40,4 +40,4 @@ I loved the Jinja2 templating engine built-into the framework. It was very simpl
 
 Let's face it, even we weren't sure of what we were trying to make.
 
-\[caption id="attachment\_2749" align="alignnone" width="640"\][![](Gecko-Syrup-PiratasdoCapitoUsopp1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/Gecko-Syrup-PiratasdoCapitoUsopp1.jpg) Usopp Pirates\[/caption\]
+{{< figure src="Gecko-Syrup-PiratasdoCapitoUsopp1.jpg" caption="Usopp Pirates" >}}

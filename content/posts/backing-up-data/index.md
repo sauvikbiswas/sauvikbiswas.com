@@ -30,7 +30,7 @@ This is a practice I had developed when I was administering my band's website. U
 
 Nowadays, there are only two things to take care of - dump the database schema and create a copy of the /var/www/html (or wherever you have configured your webserver root) file structure. It does take some time but that idle time is good enough for me to bury myself in a comic book.
 
-\[caption id="attachment\_2452" align="alignnone" width="1616"\][![That's Filezilla dumping the entire data onto my new HDD.](PICT_20160912_213844.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/PICT_20160912_213844.jpg) That's Filezilla dumping the entire website data onto my new HDD. I don't prefer installing an FTP server. SFTP over a standard SSH pipe is a much safer approach.\[/caption\]
+{{< figure src="PICT_20160912_213844.jpg" caption="That's Filezilla dumping the entire website data onto my new HDD. I don't prefer installing an FTP server. SFTP over a standard SSH pipe is a much safer approach." >}}
 
 This doesn't necessarily create a redundancy in the state of the webserver but is an important part of the job. In case I have to migrate the data to a different platform, this will come handy.
 
@@ -40,6 +40,6 @@ I had the earlier backup of my website on the internal SSD of my Mac. With only 
 
 After spending a few hours migrating the Photo and Video libraries to the external HDD and then setting up a manual backup on Time Machine, the storage bar chart of my Mac looks pretty neat.
 
-\[caption id="attachment\_2453" align="alignnone" width="1154"\][![screenshot-2016-09-12-22-18-38](Screenshot-2016-09-12-22.18.38.png)](http://sauvikbiswas.com/wp-content/uploads/2016/09/Screenshot-2016-09-12-22.18.38.png) I do not know why I have 13 GB of audio files. I have a hunch that they might be Garageband instrument samples.\[/caption\]
+{{< figure src="Screenshot-2016-09-12-22.18.38.png" caption="I do not know why I have 13 GB of audio files. I have a hunch that they might be Garageband instrument samples." >}}
 
 There is a caveat to configuring an HDD for Time Machine. Mac formats it to journaled HFS+. Windows cannot natively read it although [some third party solutions exist](http://www.howtogeek.com/252111/how-to-read-a-mac-formatted-drive-on-a-windows-pc/). Linux [can read it but cannot write if it is journaled](http://askubuntu.com/questions/16811/how-well-is-the-hfs-filesystem-supported).

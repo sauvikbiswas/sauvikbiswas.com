@@ -21,7 +21,7 @@ I am yet to see a tour better organised than this. If the notion of a guided tou
 
 I had a few words with the volunteers. They said that their hardest work is one week before the tour. That's when the final recce happens. There are a ton of cogs that must be fitted together to make the machine work. But once the machine starts rolling on day one, everything settles into a nice rhythm and the volunteers enjoy their time, too.
 
-\[caption id="attachment\_2702" align="alignnone" width="4032"\][![](IMG_20161223_212722.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161223_212722.jpg) The TfN core team and the volunteers. They deserved the applause that they got. (Marking team, take a bow!)\[/caption\]
+{{< figure src="IMG_20161223_212722.jpg" caption="The TfN core team and the volunteers. They deserved the applause that they got. (Marking team, take a bow!)" >}}
 
 ## A note about the female riders
 
@@ -43,6 +43,6 @@ In the end, it's a form of meditation - it's just you, the bike and the road.
 
 I think I got stronger as the tour went on. My climbing became better (just by my own standards). I did not even think about Kalahatti when people were discussing about it on the day of the briefing. I shooed it away from my mind. I now know why they were discussing Kalahatti. The 9%-15% slopes of that hill are stuff nightmares are made of. I am sure that the day I will manage to ride up Kalahatti, I will break down and cry.
 
-\[caption id="attachment\_2706" align="alignnone" width="2344"\][![](IMG_20161223_211756-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161223_211756-1.jpg) Me, receiving my participation medal from Deepak Majipatil.\[/caption\]
+{{< figure src="IMG_20161223_211756-1.jpg" caption="Me, receiving my participation medal from Deepak Majipatil." >}}
 
 Now, I am at level 0!

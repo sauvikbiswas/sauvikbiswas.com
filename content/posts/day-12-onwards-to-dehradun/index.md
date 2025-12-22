@@ -15,7 +15,7 @@ It was still raining in Mussoorie, although the weather was not that bad as the 
 
 I wasn't feeling that well either. Yesterday's breakfast—a cheese omelette—wasn't sitting well in my stomach. I had some biscuits and tea followed by an antacid before leaving my hotel.
 
-\[caption id="attachment\_3368" align="alignnone" width="6000"\][![](DSC04334.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04334.jpg) One last view from my hotel in Mussoorie before leaving for Dehradun.\[/caption\]
+{{< figure src="DSC04334.jpg" caption="One last view from my hotel in Mussoorie before leaving for Dehradun." >}}
 
 Visibility in Mussoorie was still poor. My destination was Masonic Bus Stand near Picture Palace. The route was mostly downhill. I did not have to put much effort.
 
@@ -29,16 +29,16 @@ After some light lunch, I ventured out to Clement Town to visit the Mindrolling
 
 The monastery itself was surrounded by a large Tibetan settlement, the inhabitants of which are mostly involved in businesses like travel agencies, groceries and eateries. It was one of the cleaner areas of Dehradun—a far cry from the dirty and smelly area around the railway station. The temple complex itself was covered in lush green grass. A lot of people came with their friends and families to bask in the winter Sun.
 
-\[caption id="attachment\_3362" align="alignnone" width="6000"\][![](DSC04335.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04335.jpg) Entrance to the temple complex.\[/caption\]
+{{< figure src="DSC04335.jpg" caption="Entrance to the temple complex." >}}
 
-\[caption id="attachment\_3363" align="alignnone" width="4000"\][![](DSC04350.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04350.jpg) Statue of White Tara with Mindrolling's Great Peace Stupa in the background.\[/caption\]
+{{< figure src="DSC04350.jpg" caption="Statue of White Tara with Mindrolling's Great Peace Stupa in the background." >}}
 
-\[caption id="attachment\_3364" align="alignnone" width="3645"\][![](DSC04342-e1514830605979.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04342.jpg) A huge statue of Padmasambhava, visible from the outside, adorns the lawn.\[/caption\]
+{{< figure src="DSC04342-e1514830605979.jpg" caption="A huge statue of Padmasambhava, visible from the outside, adorns the lawn." >}}
 
-\[caption id="attachment\_3365" align="alignnone" width="3675"\][![](DSC04345-e1514830658902.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04345.jpg) This Mahabodhi statue in located in the the adjacent area.\[/caption\]
+{{< figure src="DSC04345-e1514830658902.jpg" caption="This Mahabodhi statue in located in the the adjacent area." >}}
 
-\[caption id="attachment\_3366" align="alignnone" width="6000"\][![](DSC04338.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04338.jpg) Monks in front of a Tibetan school. There is also a college that teaches advanced Buddhist studies. It offers a very rigorous course that a novice monk, if selected, has to undertake for nine years.\[/caption\]
+{{< figure src="DSC04338.jpg" caption="Monks in front of a Tibetan school. There is also a college that teaches advanced Buddhist studies. It offers a very rigorous course that a novice monk, if selected, has to undertake for nine years." >}}
 
-\[caption id="attachment\_3367" align="alignnone" width="4055"\][![](DSC04343.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04343.jpg) Praveen came with his friend and played guitar. He played the opening piece of [Nothing Else Matters](https://www.youtube.com/watch?v=tAGnKpE4NCI) pretty well.\[/caption\]
+{{< figure src="DSC04343.jpg" caption="Praveen came with his friend and played guitar. He played the opening piece of [Nothing Else Matters](https://www.youtube.com/watch?v=tAGnKpE4NCI) pretty well." >}}
 
 When I returned back late in the evening, I still felt a bit of discomfort. I ate the simplest food I could find—_roti_ and _dal—_and retired to my room with my copy of Stephen Alter's _Becoming a Mountain_ that I had purchased in Mussoorie. It chronicled an unsuspected attack on him and his wife and his subsequent efforts in rehabilitation, both physically and mentally, through trekking expeditions in the Himalayas. It took my mind off the physical discomfort.

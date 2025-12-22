@@ -15,7 +15,7 @@ Ruskin Bond vividly recalls his last outing with his father in the essay, _**Rem
 
 Jakhoo or Jakko Hill isn’t the same as it was in those times. I stumbled upon an old photograph of that place. It was on Wikipedia.
 
-\[caption id="attachment\_1857" align="alignnone" width="1701"\][![This humble temple is a far cry from the modern edition, which features a huge Hanuman statue that is visible from afar.](Jakku_Temple_Simla.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/01/Jakku_Temple_Simla.jpg) This humble temple of 1912 is a far cry from its modern edition, which features a huge Hanuman statue that is visible from afar.\[/caption\]
+{{< figure src="Jakku_Temple_Simla.jpg" caption="This humble temple of 1912 is a far cry from its modern edition, which features a huge Hanuman statue that is visible from afar." >}}
 
 > … and it hadn’t taken me long to discover the Shimla cinemas. There were three of them — the Regal, the Ritz and the Rivoli.
 

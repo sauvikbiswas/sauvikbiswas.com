@@ -8,7 +8,7 @@ tags:
   - "sunrise"
 ---
 
-\[caption id="attachment\_1999" align="alignnone" width="1988"\][![Screenshot 2016-03-27 21.48.00](Screenshot-2016-03-27-21.48.00.png)](http://sauvikbiswas.com/wp-content/uploads/2016/03/Screenshot-2016-03-27-21.48.00.png) [https://www.strava.com/activities/526809859](https://www.strava.com/activities/526809859)\[/caption\]
+{{< figure src="Screenshot-2016-03-27-21.48.00.png" caption="[https://www.strava.com/activities/526809859](https://www.strava.com/activities/526809859)" >}}
 
 This was the third time that I had ventured towards Chikka Tirupati. The road from my house to Whitefield has improved. However, the road between Whitefield to Chikka Tirupati at present is doomed. There were segments which would put Paris-Roubaix's cobbled roads to shame.
 
@@ -16,7 +16,7 @@ In the wee hours of the morning, when the light was insufficient, my ride compan
 
 This was one of the beautiful shots that I managed to capture.
 
-\[caption id="attachment\_2000" align="alignnone" width="854"\][![At around 6:30 am, the Sun was visible in the sky.](IMG_20160326_063058.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/03/IMG_20160326_063058.jpg) At around 6:30 am, the Sun was visible in the sky.\[/caption\]
+{{< figure src="IMG_20160326_063058.jpg" caption="At around 6:30 am, the Sun was visible in the sky." >}}
 
 I learned a few more things about cycling:
 

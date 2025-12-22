@@ -21,23 +21,23 @@ There are two direct buses. The first bus to Dharamshala leaves at 7:00 am. Sinc
 
 Fortunately, I did not have to walk the entire stretch. I caught a bus coming from Khajjiar and got to Dalhousie bus stop in fifteen minutes. I also had my breakfast there. The owner of a shop called Popular Stores proclaimed that sandwiches are their speciality.
 
-\[caption id="attachment\_1437" align="alignnone" width="1280"\][![Dalhousie bus stop.](DSC04822.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04822.jpg) Dalhousie bus stop.\[/caption\]
+{{< figure src="DSC04822.jpg" caption="Dalhousie bus stop." >}}
 
-\[caption id="attachment\_1438" align="alignnone" width="1280"\][![The sandwiches were nice and the outer crust was crispy. The dip, known as Chamba Chukh, was so tasty that I asked for seconds. It is made by pickling crushed green chilli in lemon juice.](DSC04823.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04823.jpg) The sandwiches were nice and the outer crust was crispy. The dip, known as Chamba Chukh, was so tasty that I asked for seconds. It is made by pickling crushed green chilli in lemon juice.\[/caption\]
+{{< figure src="DSC04823.jpg" caption="The sandwiches were nice and the outer crust was crispy. The dip, known as Chamba Chukh, was so tasty that I asked for seconds. It is made by pickling crushed green chilli in lemon juice." >}}
 
 ## Buses stop anywhere and everywhere
 
 The bus started on time. At around 2:00 pm, it stopped at a junction called Lahru. I had a modest vegetarian meal comprising of two rotis, cauliflower fry, dal and [kadhi](https://en.wikipedia.org/wiki/Kadhi). After my meal, I clicked a few pictures of the place.
 
-\[caption id="attachment\_1439" align="alignnone" width="1280"\][![Before starting the journey the driver offers, or rather shoves into a slit, a twenty rupees note to the deity.](DSC04825.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04825.jpg) Before starting the journey, the driver offers, or rather shoves into a slit, a twenty rupees note to the deity.\[/caption\]
+{{< figure src="DSC04825.jpg" caption="Before starting the journey, the driver offers, or rather shoves into a slit, a twenty rupees note to the deity." >}}
 
-\[caption id="attachment\_1440" align="alignnone" width="1280"\][![Lahru junction. The marker pole at the centre doubles up as waiting spots for travellers.](DSC04826.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04826.jpg) Lahru junction. The marker pole at the centre doubles up as waiting spots for travellers.\[/caption\]
+{{< figure src="DSC04826.jpg" caption="Lahru junction. The marker pole at the centre doubles up as waiting spots for travellers." >}}
 
-\[caption id="attachment\_1441" align="alignnone" width="1280"\][![Lahru has only a handful of shops. The foggy mountains make a picturesque background.](DSC04828.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04828.jpg) Lahru has only a handful of shops. The foggy mountains make a picturesque background.\[/caption\]
+{{< figure src="DSC04828.jpg" caption="Lahru has only a handful of shops. The foggy mountains make a picturesque background." >}}
 
 Things started getting worse from here. The buses in the hills stop even if one person waves his hand. In fact, that's how I got on the bus towards Dalhousie bus stop in the morning. Probably, today was one of those auspicious days for marriage. I saw many decorated tents erected for marriage on my way. A lot of people, after attending these marriages, hopped on to the bus. This not only made the bus crowded, but delayed it considerably.
 
-\[caption id="attachment\_1442" align="alignnone" width="1280"\][![An ascetic feeding two dogs. I took this photo when the bus had stopped to let a large number of marriage attendees in. ](DSC04830.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04830.jpg) An ascetic feeding two dogs. I took this photo when the bus had stopped to let a large number of marriage attendees in.\[/caption\]
+{{< figure src="DSC04830.jpg" caption="An ascetic feeding two dogs. I took this photo when the bus had stopped to let a large number of marriage attendees in." >}}
 
 ## Substitutions!
 
@@ -49,8 +49,8 @@ I checked maps and found that reaching hotel (which was in McLeod Ganj) by walk 
 
 The guy at Hotel Tokyo House offered me a better room in a better hotel called Backpackers Inn without any extra charge.
 
-\[caption id="attachment\_1443" align="alignnone" width="1280"\][![My room in Backpackers Inn. It has a balcony, too.](DSC04832.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04832.jpg) My room in Backpackers Inn. It has a balcony, too.\[/caption\]
+{{< figure src="DSC04832.jpg" caption="My room in Backpackers Inn. It has a balcony, too." >}}
 
 By the time I had settled myself and freshened up, it was 7:15 pm. Most shops had already shut down. I strolled through the area and got into the first Tibetan restaurant that I encountered. Finally, I had some food that was right up my alley.
 
-\[caption id="attachment\_1444" align="alignnone" width="1280"\][![Momos and Thukpa!](DSC04833.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04833.jpg) Momos and Thukpa!\[/caption\]
+{{< figure src="DSC04833.jpg" caption="Momos and Thukpa!" >}}

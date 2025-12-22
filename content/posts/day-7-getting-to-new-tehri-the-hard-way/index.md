@@ -11,7 +11,7 @@ tags:
 coverImage: "DSC04178.jpg"
 ---
 
-\[caption id="attachment\_3245" align="alignnone" width="6000"\][![](DSC04175.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04175.jpg) Morning view from my Joshimath hotel's balcony.\[/caption\]
+{{< figure src="DSC04175.jpg" caption="Morning view from my Joshimath hotel's balcony." >}}
 
 I wanted to pay a visit to Pandukeshwar and Tapovan. I reached the taxi stand at 7:30 AM—very early by the standards of the hill. The taxi stands for both these places are located on either sides of the road that ascends to Auli from the eastern side of Joshimath.
 
@@ -33,6 +33,6 @@ The bus halted at Peepaldali at around 5:00 PM. I stood with my dual-packs, wai
 
 A particularly elderly man named Moti Ram stopped and agreed to give me a lift for a standard price of seventy rupees. He was being honest with the asking price since the distance was almost forty kilometres. He took the road over Tehri dam. The road closed at 7:00 PM sharp, beyond which all vehicles had to take a thirteen kilometre diversion over bad roads to reach the city. When we crossed the dam, it was about 6:00 PM but the sentry asked us to hurry up. Whatever was left of daylight was gone.
 
-\[caption id="attachment\_3246" align="alignnone" width="6000"\][![](DSC04178.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04178.jpg) Tehri dam. Taking photographs on the dam road itself is prohibited. Mr. Moti Ram stopped above for a short smoking break when I clicked this photograph.\[/caption\]
+{{< figure src="DSC04178.jpg" caption="Tehri dam. Taking photographs on the dam road itself is prohibited. Mr. Moti Ram stopped above for a short smoking break when I clicked this photograph." >}}
 
 Mr. Moti Ram dropped me at a hotel just opposite to the ISBT bus stand. Run by an old Mr. Rana, he agreed to rent me a room for two hundred rupees—the kind the required me to unpack my sleeping bag. He even asked me to get a photocopy of my ID proof from a neighbouring shop. Mr. Rana was the kind of person who instructed his guest regarding everything—placement of shoes and bags, operating the television remote and even where to have the evening meal!

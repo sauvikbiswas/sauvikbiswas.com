@@ -17,9 +17,9 @@ There are four major directions one can take to visit various places in and arou
 
 This is a small horticulture campus maintained by Kerala Ecotourism Corporation. This was one of the better places we had visited. The flowers were in full bloom. This was the best 20 rupees for the camera I had paid in the entire trip. If you are a photography enthusiast (and one who doesn't waste precious canvas with a watermark saying "abc photography"), you should definitely pay a visit here. We later visited a Hydel Park in Munnar which also has a nice garden, but it was no where close to Rose Garden.
 
-\[caption id="attachment\_695" align="alignnone" width="1600"\][![An interesting flower called Ladies Shoe.](DSC03673_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03673_1600_1200.jpg) An interesting flower called Ladies Shoe.\[/caption\]
+{{< figure src="DSC03673_1600_1200.jpg" caption="An interesting flower called Ladies Shoe." >}}
 
-\[caption id="attachment\_696" align="alignnone" width="1600"\][![Rose Garden had an entire section of cacti.](DSC03681_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03681_1600_1200.jpg) Rose Garden had an entire section of cacti.\[/caption\]
+{{< figure src="DSC03681_1600_1200.jpg" caption="Rose Garden had an entire section of cacti." >}}
 
 [![DSC03660_1600_1200](DSC03660_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03660_1600_1200.jpg)
 
@@ -29,24 +29,24 @@ This is a small horticulture campus maintained by Kerala Ecotourism Corporation.
 
 There are quite a few places where one can do boating. Mattupetty dam is the only place where speed boating is possible. Pedal boats are available in Kundala dam as well as at Echo point. Our speedboat driver showed us quite a few acrobatics that resembled [short-period and Dutch roll mode of aircraft](http://en.wikipedia.org/wiki/Aircraft_dynamic_modes#Short_period_oscillations).
 
-\[caption id="attachment\_701" align="alignnone" width="1600"\][![Mattupetty dam](DSC03702_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03702_1600_1200.jpg) Mattupetty dam\[/caption\]
+{{< figure src="DSC03702_1600_1200.jpg" caption="Mattupetty dam" >}}
 
-\[caption id="attachment\_700" align="alignnone" width="1600"\][![Kundala dam](DSC03737_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03737_1600_1200.jpg) Kundala dam\[/caption\]
+{{< figure src="DSC03737_1600_1200.jpg" caption="Kundala dam" >}}
 
-\[caption id="attachment\_702" align="alignnone" width="1600"\][![Speed-boating facility at Mattupetty dam.](DSC03708_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03708_1600_1200.jpg) Speed-boating facility at Mattupetty dam.\[/caption\]
+{{< figure src="DSC03708_1600_1200.jpg" caption="Speed-boating facility at Mattupetty dam." >}}
 
-\[caption id="attachment\_703" align="alignnone" width="1600"\][![Our boat driver was busy showing us some acrobatics.](DSC03709_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03709_1600_1200.jpg) Our boat driver was busy showing us some acrobatics.\[/caption\]
+{{< figure src="DSC03709_1600_1200.jpg" caption="Our boat driver was busy showing us some acrobatics." >}}
 
-\[caption id="attachment\_704" align="alignnone" width="1600"\][![Mattupetty valley against the trail of our speed-boat.](DSC03719_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03719_1600_1200.jpg) Mattupetty valley against the trail of our speed-boat.\[/caption\]
+{{< figure src="DSC03719_1600_1200.jpg" caption="Mattupetty valley against the trail of our speed-boat." >}}
 
 ## Munnar is built around the concept of tourism
 
 The prices of things in Munnar is high. Almost everything is built around the idea of tourism. You end up paying for each and everything. There were even designated viewpoints where one could dress up and get their pictures taken as tea workers.
 
-\[caption id="attachment\_705" align="alignnone" width="1600"\][![Tourists getting their pictures taken.](DSC03689_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03689_1600_1200.jpg) Tourists getting their pictures taken.\[/caption\]
+{{< figure src="DSC03689_1600_1200.jpg" caption="Tourists getting their pictures taken." >}}
 
-\[caption id="attachment\_707" align="alignnone" width="1600"\][![The border of Tamil Nadu.](DSC03756_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03756_1600_1200.jpg) The border of Tamil Nadu.\[/caption\]
+{{< figure src="DSC03756_1600_1200.jpg" caption="The border of Tamil Nadu." >}}
 
 We also visited a spice garden. This particular one is owned by one Mr. George. Mr. Anthony, a tour guide, explained the ayurvedic usages of a lot of plants. He is also an experienced salesman. [Oliviera de Figuera](http://tintin.wikia.com/wiki/Oliveira_de_Figueira) comes to my mind.
 
-\[caption id="attachment\_706" align="alignnone" width="1600"\][![Mr. Anthony giving us a tour of the spice garden.](IMG_20150402_153330_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/IMG_20150402_153330_1600_1200.jpg) Mr. Anthony giving us a tour of the spice garden.\[/caption\]
+{{< figure src="IMG_20150402_153330_1600_1200.jpg" caption="Mr. Anthony giving us a tour of the spice garden." >}}

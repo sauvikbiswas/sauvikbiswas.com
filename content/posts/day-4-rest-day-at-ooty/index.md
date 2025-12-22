@@ -12,11 +12,11 @@ coverImage: "IMG_20161219_111421.jpg"
 
 ## The official photoshoot and the red jerseys
 
-There was an official photoshoot in the morning. We also got to know the Kings and Queens of Kalahatty. The Queen of Kalahatty, Lena, is an impressive rider. She rides a Surly steel racer and rides hills like its a piece of cake. The King of Kalahatty, KKR, was in tears while receiving the red jersey. \[caption id="attachment\_2617" align="alignnone" width="2950"\][![](IMG_20161219_110541.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161219_110541.jpg) Lena receiving her Red Queen of Kalahatty jersey.\[/caption\]
+There was an official photoshoot in the morning. We also got to know the Kings and Queens of Kalahatty. The Queen of Kalahatty, Lena, is an impressive rider. She rides a Surly steel racer and rides hills like its a piece of cake. The King of Kalahatty, KKR, was in tears while receiving the red jersey. {{< figure src="IMG_20161219_110541.jpg" caption="Lena receiving her Red Queen of Kalahatty jersey." >}}
 
-\[caption id="attachment\_2618" align="alignnone" width="2980"\][![](IMG_20161219_111126.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161219_111126.jpg) KKR receiving his King of Kalahatty jersey from Michael.\[/caption\]
+{{< figure src="IMG_20161219_111126.jpg" caption="KKR receiving his King of Kalahatty jersey from Michael." >}}
 
-\[caption id="attachment\_2619" align="alignnone" width="2614"\][![](IMG_20161219_111421.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161219_111421.jpg) The Kings and Queens of Kalahatty. From left to right, Dr. Aravind Bhateja (veterans), Lena (overall ladies), Kiran Kumar Raju (elite and overall gents), Lord Venky (masters)\[/caption\]
+{{< figure src="IMG_20161219_111421.jpg" caption="The Kings and Queens of Kalahatty. From left to right, Dr. Aravind Bhateja (veterans), Lena (overall ladies), Kiran Kumar Raju (elite and overall gents), Lord Venky (masters)" >}}
 
 ## Reminiscing the climb
 

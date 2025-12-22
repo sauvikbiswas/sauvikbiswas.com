@@ -12,15 +12,15 @@ tags:
 
 The HRTC bus I took was really efficient. It covered the on-ticket distance of 370 kms in 8 hours time, including two breaks of 25 minutes and 15 minutes respectively. It dropped me at ISBT Kashmere Gate at 5:30 am. Delhi was still covered in fog and I did not want to travel in the darkness.
 
-\[caption id="attachment\_1817" align="alignnone" width="1280"\][![ISBT Kashmere Gate in the morning.](IMG_20151224_062341.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/IMG_20151224_062341.jpg) ISBT Kashmere Gate in the morning. I took this photograph at 6:30 am. Delhi was still in darkness.\[/caption\]
+{{< figure src="IMG_20151224_062341.jpg" caption="ISBT Kashmere Gate in the morning. I took this photograph at 6:30 am. Delhi was still in darkness." >}}
 
 BSNL provides service in Delhi via MTNL-Delhi, which calls its mobile network [Dolphin](http://mtnldelhi.in/dolphin/). As a result, the 3G was pathetic. I swapped the sim in my smartphone with a Vodafone one and I was back on the grid.
 
 Amit Prabhakar, a friend of mine had promised to meet me. Well, he had promised to cover the final ten days of this trip with me, too. Circumstances prevented him from doing so. At least he did not break his promise this time. I met him and his two brothers. One of his brothers accompanied us to the Jama Masjid area to have Karim’s biriyani. This shop’s entrance is through a small alleyway on the road opposite to Jama Masjid’s gate 1 and it’s easy to miss. However, you can ask anyone and they will show you.
 
-\[caption id="attachment\_1819" align="alignnone" width="1280"\][![Jama Masjid from gate 1.](IMG_20151224_124547.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/IMG_20151224_124547.jpg) Jama Masjid from gate 1.\[/caption\]
+{{< figure src="IMG_20151224_124547.jpg" caption="Jama Masjid from gate 1." >}}
 
-\[caption id="attachment\_1818" align="alignnone" width="1280"\][![Amit and his brother, Achyut at Karim's Hotel.](IMG_20151224_122906.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/IMG_20151224_122906.jpg) Amit and his brother, Achyut at Karim's Hotel.\[/caption\]
+{{< figure src="IMG_20151224_122906.jpg" caption="Amit and his brother, Achyut at Karim's Hotel." >}}
 
 Let me tell you, the hype isn’t worth it. I have had better biriyani at places that I wouldn’t even recommend others. If you want to have good biriyani anywhere in India, head over to [Samarkand in Bangalore](/posts/samarkand-on-a-bandh-day/).
 
@@ -37,4 +37,4 @@ At 5:30 pm, I was at my home in Kolkata, thus ending my 20 day long solo backpac
 - If I had made this trip in the summers, I would have definitely done more treks. Parashar Lake from Mandi, Tosh and Malana from Manikaran would be three of them. Then there are innumerable routes from Manali and Dharamshala that one can explore. The snow had also prevented me from hiring a bicycle at Manali.
 - [In words of Gowri Shankar](http://life-s-beautiful.blogspot.in/2015/03/solo-backpacking-part-2.html), a fellow traveller I had met last year, 'The discovery of self should be done at one age or the other. Traveling quickens that process, even more if you are doing it solo.'
 
-\[caption id="attachment\_1820" align="alignnone" width="960"\][![An idol of the founder of Himachal Pradesh, Dr. Yashwant Singh Parmar, at Shimla.](IMG_20151223_112229.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/IMG_20151223_112229.jpg) An idol of the founder of Himachal Pradesh, [Dr. Yashwant Singh Parmar](https://en.wikipedia.org/wiki/Yashwant_Singh_Parmar), at Shimla.\[/caption\]
+{{< figure src="IMG_20151223_112229.jpg" caption="An idol of the founder of Himachal Pradesh, [Dr. Yashwant Singh Parmar](https://en.wikipedia.org/wiki/Yashwant_Singh_Parmar), at Shimla." >}}

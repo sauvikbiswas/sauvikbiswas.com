@@ -14,11 +14,11 @@ coverImage: "DSC04590.jpg"
 
 The sweet shop across the street was visible from our window. I saw them taking out a fresh batch of _samosas_ and alerted Shubhajit. We had our breakfast—_samosas_ and tea. It was in this shop that we met Prem Singh Rana—a frail looking man who smoked bidis with a shaky hand. He had been guiding, porting goods and taking care of logistics in expeditions with the Indian Army until '99, after which a mishap motivated him to abandon the job. He had climbed Black Peak, Banderpunch and Swargarohini in his heyday. Nowadays, he was more than happy to take care of the logistics of a political party's local branch. It was a less riskier job.
 
-\[caption id="attachment\_3531" align="alignnone" width="4032"\][![](IMG_20171220_093142.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171220_093142.jpg) Mr. Prem Singh Rana\[/caption\]
+{{< figure src="IMG_20171220_093142.jpg" caption="Mr. Prem Singh Rana" >}}
 
 Shubhajit knew quite some people from his earlier stays at Purola. He contacted Gautam, a cab driver who took him to Sankri, and Mahavir Singh Kandiyal, the erstwhile manager of the hotel. We went to the upper entrance of Negi Tower (or the terrace?) and waited for them. Mahavir wanted to visit Yamunotri with us.
 
-\[caption id="attachment\_3532" align="alignnone" width="4032"\][![](IMG_20171220_113051.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171220_113051.jpg) Purola from the upper entrance of Negi Tower.\[/caption\]
+{{< figure src="IMG_20171220_113051.jpg" caption="Purola from the upper entrance of Negi Tower." >}}
 
 ## On our way to Janki Chatti
 
@@ -42,20 +42,20 @@ Shubhajit wanted to stay in the GMVN bungalow at Phool Chatti. He was informed 
 
 After some food, we went to Kharsali, a village on the other side of Yamuna. The village housed the Yamuna deity of Yamunotri in a Radharani temple during the winter months. There was also a Shani Temple right beside. It was quite old (nearly seven to eight hundred years) and was  not in the greatest shape. A new temple was being built right in front of the old one. While the new one had elaborate woodwork, the old one had some kind of rustic charm.
 
-\[caption id="attachment\_3540" align="alignnone" width="6000"\][![](DSC04588.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04588.jpg) This temple was about seven to eight hundred years old. From time to time earthquakes had weakened the structure and wooden braces had to be installed to keep its strength intact.\[/caption\]
+{{< figure src="DSC04588.jpg" caption="This temple was about seven to eight hundred years old. From time to time earthquakes had weakened the structure and wooden braces had to be installed to keep its strength intact." >}}
 
-\[caption id="attachment\_3541" align="alignnone" width="6000"\][![](DSC04586.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04586.jpg) The new Shani temple, nearing completion.\[/caption\]
+{{< figure src="DSC04586.jpg" caption="The new Shani temple, nearing completion." >}}
 
-\[caption id="attachment\_3542" align="alignnone" width="6000"\][![](DSC04589.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04589.jpg) The script of this writing is unknown. Although we were told that this was Chinese, it wasn't. It appeared to be an ancestor of Devanagari.\[/caption\]
+{{< figure src="DSC04589.jpg" caption="The script of this writing is unknown. Although we were told that this was Chinese, it wasn't. It appeared to be an ancestor of Devanagari." >}}
 
 Here we met one of the pandits, Raghavanad, who asked us to meet Bharat Das at the Hanuman temple in Yamunotri once we reached there. There were few other pandits at Kharsali, too, who asked us about our whereabouts and where we were settled for the night. For some reason, which I strongly believe can be attributed to the loss of business, everyone was disappointed when they got to know that we weren't staying in Kharsali but at Janki Chatti.
 
-\[caption id="attachment\_3539" align="alignnone" width="6000"\][![](DSC04590.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04590.jpg) Pandit Raghavanand, me, Shubhajit and Mahavir posing beside the Shani temple.\[/caption\]
+{{< figure src="DSC04590.jpg" caption="Pandit Raghavanand, me, Shubhajit and Mahavir posing beside the Shani temple." >}}
 
 We spent the evening inside the Radharani temple and sat with the villagers while the two pandits did the evening Yamuna _aarti_. They used a microphone and a speaker mounted on top of the temple so that the villagers could hear the chants. Prior to that, the pandit narrated how most people had fled the onslaught of Mughal invasion to these hills and how his clan, the Uniyals, came to become the pandits of the temple. They had been doing this for the last six generations.
 
-\[caption id="attachment\_3543" align="alignnone" width="3024"\][![](IMG_20171220_185633-e1515338520580.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171220_185633.jpg) During _aarti_, this spirited kid played the _dhol_ with all his might even though he lacked any rhythm sense.\[/caption\]
+{{< figure src="IMG_20171220_185633-e1515338520580.jpg" caption="During _aarti_, this spirited kid played the _dhol_ with all his might even though he lacked any rhythm sense." >}}
 
 Back at Janki Chatti, a group of porters were huddled near a heater-stove inside Mohit's restaurant drinking hooch (commonly known as _kachhi_) and smoking _charas_. These men told of many trekking routes in and around Yamunotri, including ones that connected Har-ki-Doon and Harsil. However, these were doable only during favourable seasons. Two of them even promised to treat us to wild pheasants but that promise was made under some heavy influence.
 
-\[caption id="attachment\_3545" align="alignnone" width="3970"\][![](IMG_20171220_192317.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171220_192317.jpg) The same earthen oven was used to make rotis, boil water and was used as a heater.\[/caption\]
+{{< figure src="IMG_20171220_192317.jpg" caption="The same earthen oven was used to make rotis, boil water and was used as a heater." >}}

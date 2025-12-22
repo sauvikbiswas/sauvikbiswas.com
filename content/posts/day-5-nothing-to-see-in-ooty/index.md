@@ -11,21 +11,21 @@ tags:
 
 We went to Connoor. All we saw were cliffs, valleys and generic tea estates. There is a small botanical garden called Sim's Park which was in full bloom. Ironically, this smaller sister of Ooty's Botanical Garden had better flora than its elder sibling.
 
-\[caption id="attachment\_2105" align="alignnone" width="1280"\][![Some random shots of flowers to show off my camera.](DSC00405.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00405.jpg) Some random shots of flowers to show off my camera.\[/caption\]
+{{< figure src="DSC00405.jpg" caption="Some random shots of flowers to show off my camera." >}}
 
-\[caption id="attachment\_2106" align="alignnone" width="853"\][![Some more camera-show-off stuff.](DSC00393.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00393.jpg) Some more camera-show-off stuff.\[/caption\]
+{{< figure src="DSC00393.jpg" caption="Some more camera-show-off stuff." >}}
 
-\[caption id="attachment\_2108" align="alignnone" width="1280"\][![A group of kids were drawing in Sim's Park. I thought that they were doing still life. To my dismay, they were drawing Mosques and Minarets.](DSC00362.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00362.jpg) A group of kids were drawing in Sim's Park. I thought that they were doing still life. To my dismay, they were drawing Mosques and Minarets.\[/caption\]
+{{< figure src="DSC00362.jpg" caption="A group of kids were drawing in Sim's Park. I thought that they were doing still life. To my dismay, they were drawing Mosques and Minarets." >}}
 
-\[caption id="attachment\_2104" align="alignnone" width="1280"\][![Singara Tea Estate owned by Mumtaz, the erstwhile Bollywood actress.](DSC00375.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00375.jpg) Singara Tea Estate owned by Mumtaz, the erstwhile Bollywood actress.\[/caption\]
+{{< figure src="DSC00375.jpg" caption="Singara Tea Estate owned by Mumtaz, the erstwhile Bollywood actress." >}}
 
 By the time we finished our site seeing tour, it was pretty late. Even the dim visibility of dusk couldn't dim the enthusiasm of the tourists.
 
-\[caption id="attachment\_2109" align="alignnone" width="1280"\][![Boats and People in Ooty's boat house.](DSC00426.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00426.jpg) Boats and People in Ooty's boat house.\[/caption\]
+{{< figure src="DSC00426.jpg" caption="Boats and People in Ooty's boat house." >}}
 
 We had a lot of time to spare. We walked back to Cherring Cross to have our food. I can recommend Nahar's Sidewalk Cafe for its Pizzas. For a pure vegeterian restaurant, it was excellent.
 
-\[caption id="attachment\_2107" align="alignnone" width="1280"\][![In the evening, we walked around the entire Ooty market that stretched from the Railway Station to Cherring Cross.](DSC00434.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/05/DSC00434.jpg) In the evening, we walked around the entire Ooty market that stretched from the Railway Station to Cherring Cross.\[/caption\]
+{{< figure src="DSC00434.jpg" caption="In the evening, we walked around the entire Ooty market that stretched from the Railway Station to Cherring Cross." >}}
 
 ## A bitter aftertaste: We had a bad driver at Ooty
 

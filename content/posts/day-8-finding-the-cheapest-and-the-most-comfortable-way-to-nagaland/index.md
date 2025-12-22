@@ -16,7 +16,7 @@ Guwahati-Shillong highway is under construction. For most of the part, it is pre
 
 We reached Guwahati at about 2:00 pm and decided to catch the Kamakhya-Dimapur BG Express. The train wasn't very crowded and we were able to get a seat for the entire 250 km stretch.
 
-\[caption id="attachment\_386" align="alignnone" width="1600"\][![Nandy with fellow passengers. The small girl was reading an Assamese to English wordlist.](DSC02444_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02444_1600_1200.jpg) Nandy with fellow passengers. The small girl was reading an Assamese to English wordlist.\[/caption\]
+{{< figure src="DSC02444_1600_1200.jpg" caption="Nandy with fellow passengers. The small girl was reading an Assamese to English wordlist." >}}
 
 The railroad stretch is, for most part, a single line. As a result, the train stopped at many places with multiple tracks to allow other trains to cross. In one such place, just before Lumding Junction, there was a huge JCB loader loading stone chips in an open ceiling goods train wagon. The systematic, rhythmic sound was loud enough to peak my interest in its source.
 
@@ -30,16 +30,16 @@ It was a good decision to take the train route. 250+ kms of serpentine, hilly ro
 
 Dimapur is the largest city in Nagaland. It has a large Christian population. The festive mood of Dimapur was visible from the train as we approached the station.
 
-\[caption id="attachment\_391" align="alignnone" width="1600"\][![Dimapur has geared up for Christmas. Al the buildings have been decorated with  colourful LED bulbs.](DSC02456_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02456_1600_1200.jpg) Dimapur has geared up for Christmas. Al the buildings have been decorated with colourful LED bulbs.\[/caption\]
+{{< figure src="DSC02456_1600_1200.jpg" caption="Dimapur has geared up for Christmas. Al the buildings have been decorated with colourful LED bulbs." >}}
 
 We had our dinner at a restaurant called Raj Nandini in Naga Shopping Complex near the railway station. The mixed fried rice and the pepper chicken was pretty good.
 
-\[caption id="attachment\_388" align="alignnone" width="1600"\][![Raj Nandini restaurant at Dimapur. Surprisingly, it is not listed online.](DSC02453_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02453_1600_1200.jpg) Raj Nandini restaurant at Dimapur. Surprisingly, it is not listed online.\[/caption\]
+{{< figure src="DSC02453_1600_1200.jpg" caption="Raj Nandini restaurant at Dimapur. Surprisingly, it is not listed online." >}}
 
 A group of children came in to the restaurant to seek donations for Christmas celebrations. I felt that it was very similar to kids asking donations for Saraswati Puja in Bengal.
 
-\[caption id="attachment\_389" align="alignnone" width="1600"\][![Kids asking for Christmas donations at the restaurant.](DSC02454_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02454_1600_1200.jpg) Kids asking for Christmas donations at the restaurant.\[/caption\]
+{{< figure src="DSC02454_1600_1200.jpg" caption="Kids asking for Christmas donations at the restaurant." >}}
 
 We ended our dinner with some Bengali style Rasmalai in a sweet shop. There are a lot of Bengalis in Dimapur due to the vicinity of Bangadesh and Tripura. In fact, I heard a lot of Bengali locals in the train. On asking our hotel caretaker at Dimapur (who himself was a Bengali), he said that there are a lot of Bengalis who live in Assam, especially away from Guwahati towards the East (Lanka and beyond).
 
-\[caption id="attachment\_390" align="alignnone" width="1600"\][![Bengali style Rasmalai at Dimapur.](DSC02455_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02455_1600_1200.jpg) Bengali style Rasmalai at Dimapur.\[/caption\]
+{{< figure src="DSC02455_1600_1200.jpg" caption="Bengali style Rasmalai at Dimapur." >}}

@@ -25,19 +25,19 @@ We visited two temples and a church inside the city.
 
 First was the Kudroli Gokarnatheshwara temple. It’s right in the heart of the city. There used to be an old temple but the entire complex was renovated in 1991 by the then prime minister Rajiv Gandhi. Looking around the plaques that promptly display the donors’ and inaugurators’ names, it becomes pretty evident that there is some bit of political influence by a certain party. However, common folk aren’t interested in politics. They come as nothing more than devotees. We were nothing more than ordinary tourists either. My mom debuted her smartphone camera by clicking a lot of pictures. The temple premises were clean and serene.
 
-\[caption id="attachment\_2999" align="alignnone" width="6000"\][![](DSC03474.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03474.jpg) The main premise of the temple.\[/caption\]
+{{< figure src="DSC03474.jpg" caption="The main premise of the temple." >}}
 
 Next, we visited St. Aloysius Church. It houses frescos, murals and paintings done by [Antonio Moscheni](https://en.wikipedia.org/wiki/Antonio_Moscheni) and has quite a bit of historical significance. It is one of the few (and probably the most elaborate) Italian style paintings available in India. The saline winds and the humid weather of Mangalore hasn’t been kind to the frescos. Photography wasn’t allowed inside the chapel. Every twenty-five years or so, experts are called to clean the paintings. The last record shows that Indian National Trust for Art and Cultural Heritage had worked on the restoration in mid-90s.
 
-\[caption id="attachment\_3000" align="alignnone" width="4000"\][![](DSC03485.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03485.jpg) St. Aloysius High School and St. Aloysius College are on the left and right side of this sculpture. The chapel is the adjacent building to the left.\[/caption\]
+{{< figure src="DSC03485.jpg" caption="St. Aloysius High School and St. Aloysius College are on the left and right side of this sculpture. The chapel is the adjacent building to the left." >}}
 
 Finally, we went to Kadri Manjunath temple. At the suggestion of Ramnath, we started at the top (near Kadri Park), visited the _ashrams_ and _mathas_ before descending to the temple. We were barefoot the whole time. (We had left our shoes in the cab.) By the time we exited the temple, the sun had heated the tarmac up so much that it felt like the ritual of walking on fire. Inside the complex, there were many hoardings that announced and advertised events that made it pretty evident that there is some bit of political influence by a certain party that is not the same as the certain party that patronises the temple we had visited earlier. Again, just like the other temple, common folk and the ascetics are nothing more than devotees and tourists.
 
-\[caption id="attachment\_3003" align="alignnone" width="5110"\][![](DSC03493.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03493.jpg) A sadhu resting inside the ashram courtyard.\[/caption\]
+{{< figure src="DSC03493.jpg" caption="A sadhu resting inside the ashram courtyard." >}}
 
-\[caption id="attachment\_3005" align="alignnone" width="6000"\][![](DSC03501.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03501.jpg) View of Mangalore from Kadri hill.\[/caption\]
+{{< figure src="DSC03501.jpg" caption="View of Mangalore from Kadri hill." >}}
 
-\[caption id="attachment\_3006" align="alignnone" width="4000"\][![](DSC03505.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03505.jpg) The gopurams of the temple located in the lower courtyard.\[/caption\]
+{{< figure src="DSC03505.jpg" caption="The gopurams of the temple located in the lower courtyard." >}}
 
 After that, Ramnath took us to Pilikula. We spent the rest of the time walking through the zoo (named Pilikula Biological Park), followed by some vegetarian food at the only restaurant (named Pilikula Restaurant) and taking a boat ride in Pilikula Lake inside Pilikula gardens. Inside the garden was a large sculpture of a fish and a replica of Eiffel Tower.
 
@@ -63,7 +63,7 @@ Being the Diwali weekend, most of the hotels were either full or were charging e
 
 The easiest way to get to the beach is to reach a place called Sultan Battery (not the Wayanad one) and take a 5 minutes ferry ride across Gurupura river. There is a drivable route but that would have taken us much longer as the accessibility point is about eight kilometres from Bunder area and one has to drive another three or four kilometres to reach the beach parking space. (I had booked an Ola but the driver himself suggested this route instead.)
 
-\[caption id="attachment\_3013" align="alignnone" width="6000"\][![](DSC03611.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03611.jpg) The ferry ghat from Sultan Battery\[/caption\]
+{{< figure src="DSC03611.jpg" caption="The ferry ghat from Sultan Battery" >}}
 
 Right behind the ferry ghat on the other side, was St. Fatima’s Church; and in front of it was a shack called Waves Cafe. It was a very nice place for our lunch. We had originally intended to have our lunch at the hotel before heading off to the beach but Bunder area, mostly populated by Muslims, virtually shuts down at Friday noon owing to their communal prayer session. The food at the cafe wasn’t extraordinary but had tremendous value for money. Not to mention, whatever we were served was fresh and piping hot.
 
@@ -71,14 +71,14 @@ We spent the entire afternoon and evening getting our feet wet, collecting shell
 
 [![](DSC03622.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03622.jpg)
 
-\[caption id="attachment\_3014" align="alignnone" width="3712"\][![](DSC03648.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03648.jpg) I had chased a lot of crabs. This was the only one that I managed to take a proper photograph of.\[/caption\]
+{{< figure src="DSC03648.jpg" caption="I had chased a lot of crabs. This was the only one that I managed to take a proper photograph of." >}}
 
-\[caption id="attachment\_3015" align="alignnone" width="6000"\][![](DSC03655.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03655.jpg) Live oyster colonies on rock.\[/caption\]
+{{< figure src="DSC03655.jpg" caption="Live oyster colonies on rock." >}}
 
-\[caption id="attachment\_3016" align="alignnone" width="6000"\][![](DSC03671.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03671.jpg) Kids making "sandcastles in the sand".\[/caption\]
+{{< figure src="DSC03671.jpg" caption="Kids making _sandcastles in the sand_." >}}
 
 The last ferry back to Sulthan Battery is at 7:20 pm. We had this idea of visiting Pabbas for our dinner. The restaurant maintained a queuing system, wherein I had to collect a token number and wait until I was called. This ensured that here was no rush inside the restaurant and our order was properly attended to. We shared the famous _Gadbad_ sundae of Mangalore, a Parfait sundae, a pizza sandwich and some cutlets (my mom really liked those) before taking an Ola back to our hotel.
 
-\[caption id="attachment\_3012" align="alignnone" width="6000"\][![](DSC03592.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03592.jpg) The queue outside Pabbas\[/caption\]
+{{< figure src="DSC03592.jpg" caption="The queue outside Pabbas" >}}
 
 _**Note:** This blog entry documents our trip on October 19-20, 2017._

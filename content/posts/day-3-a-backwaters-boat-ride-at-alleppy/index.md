@@ -15,7 +15,7 @@ tags:
 
 The simplest way to reach Alleppy from Kochi is to take a KSRTC bus from Vyttilla Mobility Hub. For just 40 rupees, one can comfortably reach Alleppy in one and half hours.
 
-\[caption id="attachment\_645" align="alignnone" width="800"\][![Vyttilla Mobility Hub](DSC03282_800_600.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03282_800_600.jpg) Vyttilla Mobility Hub\[/caption\]
+{{< figure src="DSC03282_800_600.jpg" caption="Vyttilla Mobility Hub" >}}
 
 In this brief journey, I cam across two interesting things. The first one was a couple of lorries transporting elephants. The second was a board advertising "Shaolin Jackie Chan Matial Arts Academy", with the trainer's face Photoshopped on the billboard. The trainer looked more like a South Indian politician than a sensei. Sadly, the bus moved too fast for me to capture these gems.
 
@@ -33,32 +33,32 @@ It might have been a good decision to book a motorboat for the trip and reserve 
 8. The small islands grow paddy. These paddy fields are at a mean level that is lower than the water level of the canals!
 9. There are a few man made islands, too. Most of the newer ones are being built by big shot companies. These will become the foundation to luxurious resorts. The locals aren't much happy about it.
 
-\[caption id="attachment\_646" align="alignnone" width="1600"\][![Houseboats parked at Alleppy backwaters.](DSC03312_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03312_1600_1200.jpg) Houseboats parked at Alleppy backwaters.\[/caption\]
+{{< figure src="DSC03312_1600_1200.jpg" caption="Houseboats parked at Alleppy backwaters." >}}
 
-\[caption id="attachment\_647" align="alignnone" width="1600"\][![The finishing point of Nehru Trophy boat race.](DSC03314_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03314_1600_1200.jpg) The finishing point of Nehru Trophy boat race.\[/caption\]
+{{< figure src="DSC03314_1600_1200.jpg" caption="The finishing point of Nehru Trophy boat race." >}}
 
-\[caption id="attachment\_648" align="alignnone" width="1600"\][![Cabin overhauling of a house boat in progress.](DSC03321_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03321_1600_1200.jpg) Cabin overhauling of a house boat in progress.\[/caption\]
+{{< figure src="DSC03321_1600_1200.jpg" caption="Cabin overhauling of a house boat in progress." >}}
 
-\[caption id="attachment\_649" align="alignnone" width="1600"\][![Island restaurants like these offer refreshments to the tourists.](DSC03332_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03332_1600_1200.jpg) Island restaurants like these offer refreshments to the tourists.\[/caption\]
+{{< figure src="DSC03332_1600_1200.jpg" caption="Island restaurants like these offer refreshments to the tourists." >}}
 
-\[caption id="attachment\_650" align="alignnone" width="1600"\][![Our driver Babu. He allowed us to steer the boat for sometime.](DSC03340_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03340_1600_1200.jpg) Our driver Babu. He allowed us to steer the boat for sometime.\[/caption\]
+{{< figure src="DSC03340_1600_1200.jpg" caption="Our driver Babu. He allowed us to steer the boat for sometime." >}}
 
-\[caption id="attachment\_651" align="alignnone" width="1600"\][![Island extension in progress for some upcoming luxury resort.](DSC03325_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03325_1600_1200.jpg) Island extension in progress for some upcoming luxury resort.\[/caption\]
+{{< figure src="DSC03325_1600_1200.jpg" caption="Island extension in progress for some upcoming luxury resort." >}}
 
-\[caption id="attachment\_652" align="alignnone" width="1600"\][![Locals transporting hay on canoe.](DSC03335_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03335_1600_1200.jpg) Locals transporting hay on canoe.\[/caption\]
+{{< figure src="DSC03335_1600_1200.jpg" caption="Locals transporting hay on canoe." >}}
 
-\[caption id="attachment\_653" align="alignnone" width="1600"\][![Sea birds taking refuge on a floating log.](DSC03369_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03369_1600_1200.jpg) Sea birds taking refuge on a floating log.\[/caption\]
+{{< figure src="DSC03369_1600_1200.jpg" caption="Sea birds taking refuge on a floating log." >}}
 
-\[caption id="attachment\_654" align="alignnone" width="1600"\][![Sunset at the backwaters.](DSC03382_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03382_1600_1200.jpg) Sunset at the backwaters.\[/caption\]
+{{< figure src="DSC03382_1600_1200.jpg" caption="Sunset at the backwaters." >}}
 
 ## A night at the beach
 
 Alleppy beach is beautiful at night. The municipality and police have taken good care of it. The rusted remains of a sea bridge looked like a haunted relic against a pitch black sea. There are quite a few restaurants lining the beach. If the lights of these places are dimmed, the beach would have truly looked haunted.
 
-\[caption id="attachment\_655" align="alignnone" width="1600"\][![Camels at the beach.](DSC03413_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03413_1600_1200.jpg) Camels at the beach.\[/caption\]
+{{< figure src="DSC03413_1600_1200.jpg" caption="Camels at the beach." >}}
 
-\[caption id="attachment\_657" align="alignnone" width="1600"\][![A rusted beam of the destroyed sea bridge. Series of rusted beams made the scene quite mysterious.](DSC03416_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03416_1600_1200.jpg) A rusted beam of the destroyed sea bridge. Series of rusted beams made the scene quite mysterious.\[/caption\]
+{{< figure src="DSC03416_1600_1200.jpg" caption="A rusted beam of the destroyed sea bridge. Series of rusted beams made the scene quite mysterious." >}}
 
-\[caption id="attachment\_656" align="alignnone" width="1600"\][![We were greeted by a sudden downpour.](DSC03425_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03425_1600_1200.jpg) We were greeted by a sudden downpour.\[/caption\]
+{{< figure src="DSC03425_1600_1200.jpg" caption="We were greeted by a sudden downpour." >}}
 
-\[caption id="attachment\_658" align="alignnone" width="1600"\][![The ambience of Dreamers Restaurant and Cafe at the beach. The food was good. Their veg momo had a very peculiar taste. Not bad, but very unique.](DSC03432_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/03/DSC03432_1600_1200.jpg) The ambience of Dreamers Restaurant and Cafe at the beach. The food was good. Their veg momo had a very peculiar taste. Not bad, but very unique.\[/caption\]
+{{< figure src="DSC03432_1600_1200.jpg" caption="The ambience of Dreamers Restaurant and Cafe at the beach. The food was good. Their veg momo had a very peculiar taste. Not bad, but very unique." >}}

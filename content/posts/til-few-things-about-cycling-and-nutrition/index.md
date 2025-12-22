@@ -19,4 +19,4 @@ d) My hands were repeatedly going numb due to pressure. It is called [cyclist's 
 
 I have improved marginally in a few departments - especially, regular intake of water and food. I have not even gotten closer to the art of pacing.
 
-\[caption id="attachment\_1983" align="alignnone" width="4032"\][![The view from Kolar (Narasapura CCD)](IMG_20160220_090000.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/02/IMG_20160220_090000.jpg) The view from Kolar (Narasapura CCD)\[/caption\]
+{{< figure src="Narasapura CCD" caption="The view from Kolar (Narasapura CCD)" >}}

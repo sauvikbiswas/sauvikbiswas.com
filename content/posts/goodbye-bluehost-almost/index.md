@@ -18,7 +18,7 @@ Incase you are wondering how to sing that line, [you can use this song as a refe
 
 About three years ago, I wanted to migrate my anime blog (Line of Flow, later merged with my personal blog) from the shared Wordpress.com servers. I wanted to do so because I wanted more control over the customisations. Previously, I had maintained the website of my (now defunct) band Dark Project. I had used free servers like cjb.net before moving on to paid services from GoDaddy.
 
-\[caption id="attachment\_2357" align="alignnone" width="571"\][![This is the back cover of our oldest release. On the left side, the earliest URL of our webspace is still visible: darkproject.cjb.net](Back.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/Back.jpg) This is the back cover of our oldest release. On the left side, the earliest URL of our webspace is still visible: darkproject.cjb.net\[/caption\]
+{{< figure src="Back.jpg" caption="This is the back cover of our oldest release. On the left side, the earliest URL of our webspace is still visible: darkproject.cjb.net" >}}
 
 My experience with GoDaddy was one of the worst. That piece of history has been aptly logged in my erstwhile blogspace on Blogger. You can read about it here: [http://54uv1k.blogspot.in/2011/07/issues-with-go-daddy.html](http://54uv1k.blogspot.in/2011/07/issues-with-go-daddy.html). Long story short, I moved the entire data to Hostgator.
 
@@ -26,7 +26,7 @@ So, when it came to spawning my own Wordpress.org based site, I did not think tw
 
 I was pretty happy with them for an year or so, until one fine day I realised that my website took too long to load. I wasn't bothered too much about that. My visitors aren't that many. Also, since I write mostly longform entries, I assumed that whoever they were, would have enough patience to wait a few extra seconds.
 
-\[caption id="attachment\_2358" align="alignnone" width="1326"\][![Google Now card still lists Bluehost as one of the best. I don't know how that's even possible.](Screenshot-2016-08-31-18.57.53.png)](http://sauvikbiswas.com/wp-content/uploads/2016/08/Screenshot-2016-08-31-18.57.53.png) Google Now card still lists Bluehost as one of the best. I don't know how that's even possible.\[/caption\]
+{{< figure src="Screenshot-2016-08-31-18.57.53.png" caption="Google Now card still lists Bluehost as one of the best. I don't know how that's even possible." >}}
 
 Sometime during January / February this year, my website became inaccessible. If anyone has ever tried to contact Bluehost support via mail, you'd know how frustrating it is.
 
@@ -36,7 +36,7 @@ Here is one of the umpteen chats I had with their support staff back in January.
 
 And for sure, I got a reply. There was a delay.
 
-\[caption id="attachment\_2359" align="alignnone" width="1606"\][![That's one month between escalation and reply.](Screenshot-2016-08-31-19.05.06.png)](http://sauvikbiswas.com/wp-content/uploads/2016/08/Screenshot-2016-08-31-19.05.06.png) That's one month between escalation and reply.\[/caption\]
+{{< figure src="Screenshot-2016-08-31-19.05.06.png" caption="That's one month between escalation and reply." >}}
 
 It was at this point that I had decided to migrate away from Bluehost. I still had some 8 months of subscription left.
 
@@ -46,7 +46,7 @@ I wasn't ready to fork out some hefty money for hosting my website. My requireme
 
 I asked Nandy what could I do. He suggested that I move my data and hosting to a VPS. He had used [Linode](https://www.linode.com/) for his business for years. It was only due to the load that they migrated to AWS. Linode itself was quite costly. I wasn't ready to shell out 10 USD per month. Luckily for me, [Digital Ocean](https://www.digitalocean.com/) had a VPS configuration that was slightly underpowered than the least powerful Linode VPS for half its cost. It was fine for me. I did not need so much power in the first place.
 
-\[caption id="attachment\_2361" align="alignnone" width="750"\][![Left: Digital Ocean, Right: Linode. 512 MB RAM and 1TB transfer is overkill.](Screenshot-2016-08-31-19.37.14.png)](http://sauvikbiswas.com/wp-content/uploads/2016/08/Screenshot-2016-08-31-19.37.14.png) Left: Digital Ocean, Right: Linode. 512 MB RAM and 1TB transfer is overkill.\[/caption\]
+{{< figure src="Screenshot-2016-08-31-19.37.14.png" caption="Left: Digital Ocean, Right: Linode. 512 MB RAM and 1TB transfer is overkill." >}}
 
 I asked Nandy about the config and he replied that it is good enough to run four concurrent websites. Right now I have two - one being this and the other being [Vapour Sea](http://vapoursea.com), an electronica / rock project I have been trying to bootstrap with Sudipto after the demise of [Dark Project](http://darkproject.bandcamp.com).
 
@@ -54,4 +54,4 @@ I asked Nandy about the config and he replied that it is good enough to run four
 
 I still have my domain name registered with Bluehost. This means that I will still have to bear with them till next February until my registration expires.
 
-\[caption id="attachment\_2363" align="alignnone" width="1254"\][![Enough of this rant. Here is the surreal image of the day.](IMG_20160819_130922.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_20160819_130922.jpg) Enough of this rant. Here is the surreal image of the day.\[/caption\]
+{{< figure src="IMG_20160819_130922.jpg" caption="Enough of this rant. Here is the surreal image of the day." >}}

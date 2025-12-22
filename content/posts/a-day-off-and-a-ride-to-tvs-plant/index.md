@@ -15,11 +15,11 @@ I had never cycled beyond Silk Board, towards the Tamil Nadu border. So, I deci
 
 I wanted to start early but low visibility, early in the morning, delayed my plans. Eventually, I started at around 8:00 am. Mogit had advised me not to take the Electronic City expressway. Instead, I used the regular, traffic-signal regulated road that runs beneath it. The traffic wasn't as bad as I had thought it to be. The route was relatively traffic free. One of the reasons that I can think of would be people taking a day off just to get an extended weekend - just like what I had done.
 
-\[caption id="attachment\_2765" align="alignnone" width="4032"\][![](IMG_20170127_085140.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/IMG_20170127_085140.jpg) This is right after Electronic City flyover. A layer of fog reduced the visibility even though it was 9:00 am.\[/caption\]
+{{< figure src="IMG_20170127_085140.jpg" caption="This is right after Electronic City flyover. A layer of fog reduced the visibility even though it was 9:00 am." >}}
 
 The road to Hosur is quite flat. There are a few nice flyovers that overarch the chaos of settlements. This isn't unlike the Kolar route that I frequent. The following picture was taken atop one of those flyovers.
 
-\[caption id="attachment\_2766" align="alignnone" width="4032"\][![](IMG_20170127_085655.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/IMG_20170127_085655.jpg) I believe this is [Kammasandra Lake](https://goo.gl/maps/qH4aj6B9bL42).\[/caption\]
+{{< figure src="IMG_20170127_085655.jpg" caption="I believe this is [Kammasandra Lake](https://goo.gl/maps/qH4aj6B9bL42)." >}}
 
 There are a few ways to get to TVS factory. I continued on National Highway 44 and crossed Karnataka-Tamil Nadu border, took a U-turn at Sipcot and headed into a village road (Ballur road?) that lead to Amritha, another area near the border where TVS two wheeler factory is located.
 
@@ -27,7 +27,7 @@ I gave Mogit a call and asked him to join me for some tea (and chocolates). It t
 
 There wasn't any tea shop nearby. We walked for about half a kilometre to reach the nearest bakery. As usual, I refilled my water bottle. Although this time, I had to fill it with water from an RO filter as the shop did not stock packaged drinking water.
 
-\[caption id="attachment\_2767" align="alignnone" width="4032"\][![](IMG_20170127_102040.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/01/IMG_20170127_102040.jpg) Mogit took this photograph of me in front of TVS's three wheeler factory located about 300 metres from the two wheeler one.\[/caption\]
+{{< figure src="IMG_20170127_102040.jpg" caption="Mogit took this photograph of me in front of TVS's three wheeler factory located about 300 metres from the two wheeler one." >}}
 
 While returning, I decided to take the inside route that connected Amritha to Attibele, a town on the National Highway.
 

@@ -18,7 +18,7 @@ After many outings to the "Chinese" and North-Eastern restaurants, I came across
 
 [Click here for map](https://www.google.com/maps/place/Yak+kitchen/@12.973829,77.606591,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x31829bf8265731e1)
 
-\[caption id="attachment\_141" align="alignnone" width="3264"\][![2014-08-16 21.02.25](2014-08-16-21.02.25.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/08/2014-08-16-21.02.25.jpg) Amit staring at my mobile camera while I clicked a photograph of the place.\[/caption\]
+{{< figure src="2014-08-16-21.02.25.jpg" caption="Amit staring at my mobile camera while I clicked a photograph of the place." >}}
 
 There are six tables in total with a seating capacity of no more than twenty two. You place the order at the counter. It takes some time but hot and fresh food is served on the table.
 

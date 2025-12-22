@@ -25,13 +25,13 @@ One of the passengers gave Mohan a flash drive with songs. The playlist started
 
 I rushed back to Hotel Govind Palace, picked up my rucksack, headed back to the same taxi stand and got on a cab that was headed towards Dehradun. It would pass through Mussoorie, where I intended to get down.
 
-\[caption id="attachment\_3299" align="alignnone" width="4032"\][![](IMG_20171211_093221.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/IMG_20171211_093221.jpg) Uttarkashi bus stand area. Even at 9:30 AM it looked deserted.\[/caption\]
+{{< figure src="IMG_20171211_093221.jpg" caption="Uttarkashi bus stand area. Even at 9:30 AM it looked deserted." >}}
 
-\[caption id="attachment\_3300" align="alignnone" width="4032"\][![](IMG_20171211_094149.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/IMG_20171211_094149.jpg) Vishwanath auto union stand, also known as the taxi stand behind the _peepal_ tree.\[/caption\]
+{{< figure src="IMG_20171211_094149.jpg" caption="Vishwanath auto union stand, also known as the taxi stand behind the _peepal_ tree." >}}
 
 Co-incidentally, Vishwanath Bhandari, an employee of [Indiahikes](https://indiahikes.com/), the organisation with whom I had booked the trek, was also travelling to Dehradun. Mr. Bhandari was with Indiahikes for the last one year. Before that he had been involved in the rescue missions that followed the [devastating 2013 floods](https://en.wikipedia.org/wiki/2013_North_India_floods). While exchanging some documents with Indiahike's truck, he dropped his smaller cellphone. The phone did not have much monetary value but it had a lot of important contacts saved in it. He kept dialling it over and over throughout the duration of the journey.
 
-\[caption id="attachment\_3301" align="alignnone" width="6000"\][![](DSC04253.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04253.jpg) Vishwanath Bhandari posing in front of the meal point at Rautu ki Beli.\[/caption\]
+{{< figure src="DSC04253.jpg" caption="Vishwanath Bhandari posing in front of the meal point at Rautu ki Beli." >}}
 
 I did not have the opportunity to have a proper breakfast. I had been munching on some biscuits to keep my hunger at bay. Thankfully, the cab stopped at Rautu-ki-Beli, where I had a proper meal.
 
@@ -43,22 +43,22 @@ Later, I ventured out to explore the Landour area on foot.
 
 [![](DSC04254.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04254.jpg)
 
-\[caption id="attachment\_3306" align="alignnone" width="6000"\][![](DSC04257.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04257.jpg) St. Paul's Church in Landour.\[/caption\]
+{{< figure src="DSC04257.jpg" caption="St. Paul's Church in Landour." >}}
 
-\[caption id="attachment\_3307" align="alignnone" width="6000"\][![](DSC04258.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04258.jpg) This spot is known as "Char dukan" (translation: four shops). There were actually five shops.\[/caption\]
+{{< figure src="DSC04258.jpg" caption="This spot is known as _Char dukan_ (translation: four shops). There were actually five shops." >}}
 
 Lal Tibba, a raised hill in Landour, had a binocular that could be used to view the Himalayas in Tibet. The entry price was fifty rupees but was wavered off if an order was placed in the cafe below. I was not sure of the peaks that were visible. No one was able to give any credible answer. The binoculars hadn't been serviced in ages; the view being doubly obscured by clouds and greenish spots on the glass. In spite of that, I enjoyed the ginger-lemon-honey tea in the windy open terrace.
 
-\[caption id="attachment\_3303" align="alignnone" width="6000"\][![](DSC04267.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04267.jpg) Visitors were trying to see farthest hills in the centre through the mounted binocular.\[/caption\]
+{{< figure src="DSC04267.jpg" caption="Visitors were trying to see farthest hills in the centre through the mounted binocular." >}}
 
-\[caption id="attachment\_3304" align="alignnone" width="6000"\][![](DSC04268.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04268.jpg) Mussoorie from Lal Tibba.\[/caption\]
+{{< figure src="DSC04268.jpg" caption="Mussoorie from Lal Tibba." >}}
 
 Later that night I walked around the Landour Bazaar area. The section connecting the Mall road looked like a posh, upmarket place.
 
-\[caption id="attachment\_3311" align="alignnone" width="6000"\][![](DSC04270.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04270.jpg) The settlement around market area at night.\[/caption\]
+{{< figure src="DSC04270.jpg" caption="The settlement around market area at night." >}}
 
-\[caption id="attachment\_3312" align="alignnone" width="3024"\][![](IMG_20171211_182655.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/IMG_20171211_182655.jpg) Landour bazaar area.\[/caption\]
+{{< figure src="IMG_20171211_182655.jpg" caption="Landour bazaar area." >}}
 
 TripAdvisor app recommended Little Llama Cafe. I was surprised to find that they had Naga style pork with bamboo shoot curry. It was not exactly as spicy as the one I had in Nagaland but was very good.
 
-\[caption id="attachment\_3313" align="alignnone" width="6000"\][![](DSC04271.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04271.jpg) The two kids of the owners of Little Llama cafe (not in the picture) played with a remote-operated toy.\[/caption\]
+{{< figure src="DSC04271.jpg" caption="The two kids of the owners of Little Llama cafe (not in the picture) played with a remote-operated toy." >}}

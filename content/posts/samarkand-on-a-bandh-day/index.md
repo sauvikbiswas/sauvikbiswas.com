@@ -16,30 +16,30 @@ Rueben's son, Rehaan, was very quiet throughout the ongoing journey. Apparently,
 
 I have been to Samarkand before. I knew that the Biriyani is good and we had to reach there before 8.00 pm to sample the Biriyani\[see note\]. Rueben and his wife, Krithika, liked the ambience. (I rarely pay attention as long as the place is clean.)
 
-\[caption id="attachment\_1149" align="alignnone" width="3264"\][![The menu resembles a four-sheet tabloid newspaper.](IMG_20150926_203524.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG_20150926_203524.jpg) The menu resembles a four-sheet tabloid newspaper.\[/caption\]
+{{< figure src="IMG_20150926_203524.jpg" caption="The menu resembles a four-sheet tabloid newspaper." >}}
 
 They provide some complimentary breadsticks and an assortment of dips. We had three starters - Khumb Khazana (some mushrooms stuffed with spinach and cheese), Cheese Kurkure (mini wraps with mushroom and cheese) and Gosht ke pasande (a spicy slice of mutton grilled in tandoor). Meanwhile, Rehaan, enjoyed dipping his breadstick in lemon, mayo and curd and then sucking it. He accidentally dipped his breadstick in a chilli dip. It was so piquant that even we had trouble holding back our tears and mucus. You can imagine what the kid's reaction would have been.
 
-\[caption id="attachment\_1148" align="alignnone" width="3264"\][![The assortment of dips placed on a decorative pedestal that plays a tree motif.](IMG_20150926_200617.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG_20150926_200617.jpg) The assortment of dips placed on a decorative pedestal that plays a tree motif.\[/caption\]
+{{< figure src="IMG_20150926_200617.jpg" caption="The assortment of dips placed on a decorative pedestal that plays a tree motif." >}}
 
 We ordered a Mutton Biriyani, a Chicken Biriyani for our main course. Being a vegetarian, Krithika ordered a Roomali Roti and Corn Methi Palak. It is a good desicion to skip the Vegetarian Biriyani and get some other dishes.
 
-\[caption id="attachment\_1150" align="alignnone" width="3264"\][![Rehaan giving me a slice of lemon.](IMG_20150926_204407.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG_20150926_204407.jpg) Rehaan giving me a slice of lemon.\[/caption\]
+{{< figure src="IMG_20150926_204407.jpg" caption="Rehaan giving me a slice of lemon." >}}
 
 The biriyanis are cooked [dum style](https://en.wikipedia.org/wiki/Dum_pukht) (cooked over slow flame with a layer of wheat dough preventing any moisture to escape). Regarding quantity, if you have filled yourself up with quite a bit of starters, one biriyani would be good for two. Since we hadn't done that, two biriyanis were perfect for three of us. The mutton tasted far better than the chicken (it's not bad but it falls short of its former variant.) The biriyanis have a subtle sweet taste to them and the piquancy is not very apparent while eating. You start getting that burning sensation in your tongue slowly.
 
-\[caption id="attachment\_1151" align="alignnone" width="3264"\][![Biriyani on plates and inside the earthen handi. The biriyanis are accompanied by suran and raita.](IMG_20150926_204930.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG_20150926_204930.jpg) Biriyani on plates and inside the earthen handi. The biriyanis are accompanied by salan and raita.\[/caption\]
+{{< figure src="IMG_20150926_204930.jpg" caption="Biriyani on plates and inside the earthen handi. The biriyanis are accompanied by salan and raita." >}}
 
 We rounded up the evening with some kulfis. They are expensive and I wouldn't say that they are priced for what they are worth. Still, it is the only place that I know of that serves kulfis made with jaggery. You might as well pay for this novelty.
 
-\[caption id="attachment\_1154" align="alignnone" width="1536"\][![Rueben, Krithika and Rehaan](IMG-20150926-WA0008.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG-20150926-WA0008.jpg) Rueben, Krithika and Rehaan\[/caption\]
+{{< figure src="IMG-20150926-WA0008.jpg" caption="Rueben, Krithika and Rehaan" >}}
 
-\[caption id="attachment\_1152" align="alignnone" width="1536"\][![Mainak and me.](IMG-20150926-WA0009.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG-20150926-WA0009.jpg) Mainak and me.\[/caption\]
+{{< figure src="IMG-20150926-WA0009.jpg" caption="Mainak and me." >}}
 
 Samarkand is on a tad bit expensive side. They charge about 33% over their listed price which includes a 10% service charge.
 
 While we were busy savouring the kulfi, Rehaan, who had been sitting quiet until then, started running around. He wanted to get in the car and get back to what he loves doing best - observing traffic.
 
-\[caption id="attachment\_1153" align="alignnone" width="1536"\][![We pose for a photograph. A passerby who was definitely not a professional photographer took this snap.](IMG-20150926-WA0010.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/09/IMG-20150926-WA0010.jpg) We pose for a photograph. A passerby who was definitely not a professional photographer took this snap.\[/caption\]
+{{< figure src="IMG-20150926-WA0010.jpg" caption="We pose for a photograph. A passerby who was definitely not a professional photographer took this snap." >}}
 
 **Note:** Samarkand cooks a very limited stock of biriyani. I think it is a sign of a good restaurant. That way, they can have a tight control over quality. One of my friends, [Tapas](https://thepastaanagram.wordpress.com/), had given me a heads up. Hence, I knew that if we had to eat biriyani, we should place the order before 8.00 pm. In fact, it might be a good idea to reserve a table by 7.30 pm. In weekends, the waiting list piles up by 9.00 pm. Most people, who came after 8.30 pm were disappointed to hear that they are not going to get any biriyani. Two couples got into an argument with the management because they were not informed about the unavailability _a priori_ when they had booked the restaurant specifically for that. I think that would have been overkill on the restaurant's part.

@@ -23,7 +23,7 @@ As the lectures progressed, my understanding became more and more convoluted. By
 
 I searched for some additional materials on the net and came across Andrej Karpathy's (as of today) incomplete [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/). Although most of the chapters aren't written, the first chapter is excellent and gave me enough fodder to untangle the mess myself.
 
-\[caption id="attachment\_2446" align="alignnone" width="1068"\][![Well, this quote also helped.](Screenshot-2016-09-11-20.46.34.png)](http://sauvikbiswas.com/wp-content/uploads/2016/09/Screenshot-2016-09-11-20.46.34.png) Well, this quote on Andrej's guide also helped.\[/caption\]
+{{< figure src="Screenshot-2016-09-11-20.46.34.png" caption="Well, this quote on Andrej's guide also helped." >}}
 
 Ultimately, I realised that the approach taken to solve the problem is based on two principles already described in the first few lectures - that there is a cost function and there are all the gradient functions of that cost function. One uses whatever trick to find a point where the cost function is minimised. For that we have tons of minimisation functions like gradient descent or fminunc. This is no different from the basic regression and classification problems I had already studied.
 
