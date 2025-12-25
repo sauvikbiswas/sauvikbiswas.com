@@ -27,18 +27,18 @@ I got a room for five hundred rupees in Hotel Govind Palace. The hotel was decen
 
 Uttarkashi is situated on the banks of Bhagirathi river. En route to the river, I chanced upon a local cricket match. It was some kind of championship between thirty-two teams from neighbouring areas. The organisers even had a guy, who sat atop a single-storey building and gave a running commentary in Garhwali Hindi. Even though I am not a big fan of cricket, I enjoyed spending an hour basking in the sun while watching the guys move around.
 
-[![](DSC04181.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04181.jpg)
+{{< figure src="DSC04181.jpg" >}}
 
 Most of my evening was spent walking along the banks of the river and clicking photographs.
 
-[![](DSC04182.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04182.jpg)
+{{< figure src="DSC04182.jpg" >}}
 
-[![](DSC04193.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04193.jpg)
+{{< figure src="DSC04193.jpg" >}}
 
-[![](DSC04194.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04194.jpg)
+{{< figure src="DSC04194.jpg" >}}
 
 I have not mentioned in my earlier posts but I had been munching on peanuts ever since I had landed in Uttarakhand. Roadside vendors displayed peanuts in heaps with a pot containing charcoal fire kept in the middle to heat the peanuts up.
 
-[![](IMG_20171209_180022.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171209_180022.jpg)
+{{< figure src="IMG_20171209_180022.jpg" >}}
 
 {{< figure src="IMG_20171209_192335.jpg" caption="View of Uttarkashi bus stop from my hotel veranda." >}}

@@ -61,7 +61,7 @@ The exhibitions were pretty good. Especially, after reading all the infoboxes fo
 
 One of the largest bookshops was right across the street. Luxor, a chain of bookstores has their flagship shop near the museum. It is a four-floor shop that had a small non-Czech section, too. I straightaway showed the image of Tintin to a worker and even though she couldn't speak a word of English, she pointed me to the right section. I picked up "King Ottokar's Sceptre" in Czech. It's the only Tintin adventure to take place in this country.
 
-[![](IMG_20181209_002904-e1544311873567-768x979.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/IMG_20181209_002904-e1544311873567.jpg)
+{{< figure src="IMG_20181209_002904-e1544311873567-768x979.jpg" >}}
 
 On my way back to the hostel, I had a traditional sweet dish called [Trdelník](https://en.wikipedia.org/wiki/Trdeln%C3%ADk). Even though I don't have a sweet tooth, I enjoyed the warm sweet bread after a cold day.
 

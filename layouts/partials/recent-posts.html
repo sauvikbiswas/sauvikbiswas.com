@@ -1,9 +1,21 @@
 <h2>Recent Posts</h2>
-<ul>
-  {{ range first 5 (where .Site.RegularPages "Type" "posts") }}
-    <li>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <span class="date">{{ .Date.Format "January 1, 2024" }}</span>
-    </li>
-  {{ end }}
-</ul>
+{{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+<div class="post-line">
+    {{ $dateFormat := .Site.Params.listDateFormat | default "2 Jan 2006" }}
+    <p class="line-date">{{ .Date | time.Format $dateFormat }} </p>
+    <div>
+        <p class="line-title">
+            <a href="{{ .RelPermalink }}">
+                {{ .Title }}
+            </a>
+        </p>
+        {{ if .Site.Params.listSummaries }}
+        <p class="line-summary"> {{ .Summary }} </p>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+</br>
+<a href="/posts">Click here</a> to see a list of all posts.
+</br>
+<a href="/tags">Click here</a> to browse all tags.

@@ -66,6 +66,6 @@ I was more surprised to find only one album from each of the three double albums
 
 I had later visited a lot of Souvenir shops and have always come across canvas hangings, embroideries or photo prints with images like this
 
-[![](DSC04321.jpg)](http://i1.wp.com/sauvikbiswas.com/wp-content/uploads/2015/07/DSC04321.jpg)
+{{< figure src="DSC04321.jpg" >}}
 
 Even if Herge had not sent him to Vietnam, the Vietnamese people have brought him to their land.

@@ -41,7 +41,7 @@ Finally, we went to Kadri Manjunath temple. At the suggestion of Ramnath, we sta
 
 After that, Ramnath took us to Pilikula. We spent the rest of the time walking through the zoo (named Pilikula Biological Park), followed by some vegetarian food at the only restaurant (named Pilikula Restaurant) and taking a boat ride in Pilikula Lake inside Pilikula gardens. Inside the garden was a large sculpture of a fish and a replica of Eiffel Tower.
 
-[![](DSC03582.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03582.jpg)
+{{< figure src="DSC03582.jpg" >}}
 
 ## Exploring central Mangalore on foot
 
@@ -53,7 +53,7 @@ Mangalore was hosting National Consumer Fare near Lalbagh. A ferris wheel was vi
 
 There was a replica of Eiffel Tower here, too. I have no idea what fascination do Mangaloreans have with a monument that is roughly 7650 kilometres away. Meanwhile, my sister was busy observing the rides inside the fare and reminiscing about the ones she had ridden when she was a kid.
 
-[![](DSC03600.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03600.jpg) [![](DSC03602.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03602.jpg)
+{{< figure src="DSC03600.jpg" >}}
 
 Later that night, we stopped by Sizzler’s Ranch, an upmarket restaurant. Although the food was decent, I had higher hopes for the prawn dish we were served.
 
@@ -69,7 +69,7 @@ Right behind the ferry ghat on the other side, was St. Fatima’s Church; and in
 
 We spent the entire afternoon and evening getting our feet wet, collecting shells, chasing sand crabs and drinking lime soda. We stayed there until the sun had set beyond the horizon.
 
-[![](DSC03622.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03622.jpg)
+{{< figure src="DSC03622.jpg" >}}
 
 {{< figure src="DSC03648.jpg" caption="I had chased a lot of crabs. This was the only one that I managed to take a proper photograph of." >}}
 

@@ -19,7 +19,7 @@ Maninder, the hotel's manager had asked the driver of the earliest cab to come a
 
 We did not depart until 7:30 AM. One of the passengers had obtained two puppies and transported them to Uttarkashi in a cardboard box. Unlike the one that travelled from Chamoli to Joshimath, these were quiet and did not mind the jerks and gyration of the locomotion.
 
-[![](IMG_20171211_085258.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/IMG_20171211_085258.jpg)
+{{< figure src="IMG_20171211_085258.jpg" >}}
 
 One of the passengers gave Mohan a flash drive with songs. The playlist started out with some traditional Garhwali _bhajans_ but by the time I was in Uttarkashi, the speakers were blasting devotional songs remixed with some kind of trance beats and some DJ repeating his name through an effects-laden signal chain.
 
@@ -41,7 +41,7 @@ The cab dropped me off near Landour Clock Tower, Mussoorie in the afternoon. I t
 
 Later, I ventured out to explore the Landour area on foot.
 
-[![](DSC04254.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/DSC04254.jpg)
+{{< figure src="DSC04254.jpg" >}}
 
 {{< figure src="DSC04257.jpg" caption="St. Paul's Church in Landour." >}}
 

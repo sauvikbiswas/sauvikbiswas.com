@@ -25,7 +25,7 @@ During flag-off Satish reiterated about the importance of safety. Yesterday, May
 
 The roads out of Mysore were very good. On such a rolling terrain, cycling feels so liberating. There was one point when the road took a direct plunge downward. The scenery was breathtaking. The image below doesn’t do much justice.
 
-[![](IMG_20161217_083959.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161217_083959.jpg)
+{{< figure src="IMG_20161217_083959.jpg" >}}
 
 One of my roommates is Siddharth Iyer Verma. He is a 19 year-old rider (the youngest) and rides a Giant Roam, a hybrid. He accompanied me out of Mysore until I left him somewhere in the hills.
 

@@ -26,7 +26,7 @@ The terrain was unforgiving. There were constant ups and downs. At times I was u
 
 You wouldn't know how happy I was to see the lunch station at the 84 kilometre mark.
 
-[![](IMG_20161218_133711.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161218_133711.jpg)
+{{< figure src="IMG_20161218_133711.jpg" >}}
 
 ## A guided ride through Mudumalai
 

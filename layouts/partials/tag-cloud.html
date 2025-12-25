@@ -1,0 +1,11 @@
+<h2>Top Tags</h2>
+{{ $minFont := 1.0 }}
+{{ $maxFont := 1.4 }}
+{{ $max := add (len (index $.Site.Taxonomies.tags.ByCount 0).Pages) 1 }}
+{{ $min := len (index $.Site.Taxonomies.tags.ByCount.Reverse 0).Pages }}
+{{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
+  {{ $count := len $taxonomy.Pages }}
+  {{ $weight := div (sub (math.Log $count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+  {{ $size := add $minFont (mul (sub $maxFont $minFont) $weight) }}
+  <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}" style="font-size: {{ $size }}rem;">{{ $name }}</a>
+{{ end }}

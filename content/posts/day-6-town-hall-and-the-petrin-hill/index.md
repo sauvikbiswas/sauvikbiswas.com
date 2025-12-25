@@ -45,13 +45,13 @@ There are many statues on either sides of the bridge. [Wikipedia has a nice list
 
 {{< figure src="DSC5442-768x1152.jpg" caption="Statue of John, the Nepomunk. This is the oldest statue. He was thrown from the bridge. People touched the base for good luck." >}}
 
-[![](DSC5444-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5444.jpg)
+{{< figure src="DSC5444-768x512.jpg" >}}
 
 ## Climbing Petřín Hill
 
 Petřín hill has a large number of statues and sights. In the absence of any mobile network, I had to resort to the image of a slightly vandalised map I had taken earlier at the base of the hill. In fact, this map was so handy that I was able to later direct an American couple to the observation tower.
 
-[![](IMG_20181206_143837-768x576.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/IMG_20181206_143837.jpg)
+{{< figure src="IMG_20181206_143837-768x576.jpg" >}}
 
 {{< figure src="DSC5456-768x475.jpg" caption="A wall called _Hunger Wall_ split the hill into two. As I climbed up, occasionally switching sides through the archways, I couldn't make out what purpose it served in the first place. It made no sense. Well, you can read all about that [here](https://en.wikipedia.org/wiki/Hunger_Wall), including the fact that _hunger wall_ is a Czech euphemism for useless public works." >}}
 

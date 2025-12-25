@@ -37,7 +37,7 @@ I was busy taking photographs when one of the guys who cleaned ears came near me
 
 {{< figure src="DSC04048.jpg" caption="Some people had come to offer puja before marriage at the ghat. They had brought an entire band to accompany them." >}}
 
-[![](DSC04041.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04041.jpg)
+{{< figure src="DSC04041.jpg" >}}
 
 {{< figure src="DSC04031.jpg" caption="A lone heron taking flight." >}}
 
@@ -63,4 +63,4 @@ I took my dinner at Little Buddha Cafe—a small shack overlooking the river. It
 
 The area near Lakshman Jhula is where most foreigners, backpackers and hippies come and stay. I found innumerable places that taught yoga and meditation, each claiming to have some kind of ancestral authenticity exclusive to them. As such it was impossible to say where an aspiring yogi should really go to. In the end, these places ran themselves like any other business with a strong online presence and a decent marketing budget. There was a demand for which the locals had created a supply and had established an ecosystem to facilitate the fulfilment of the same. Customer satisfaction was the key—did the centre put their customers' minds at rest? That's what determined the success of these centres.
 
-[![](DSC04000.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04000.jpg)
+{{< figure src="DSC04000.jpg" >}}

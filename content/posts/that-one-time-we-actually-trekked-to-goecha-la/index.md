@@ -269,4 +269,4 @@ There are a couple of leanings that I would want to share. This trek is strenuou
 
 I was personally happy with my performance. I wrote in in my earlier blog, "Someday I might revisit the trail. For sure, I wouldn’t be doing it in six days." Well, I have revisited the trail and I have finally done it—this time in ten days! It felt good.
 
-[![](DSC09245-683x1024.jpeg)](https://sauvikbiswas.com/wp-content/uploads/2023/07/DSC09245-scaled.jpeg)
+{{< figure src="DSC09245-683x1024.jpeg" >}}

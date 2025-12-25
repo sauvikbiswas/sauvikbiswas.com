@@ -21,7 +21,7 @@ The lady at the hostel gave me my keycard but mentioned that I wouldn't be able 
 
 I was not actively looking for any churches or cathedrals. I chanced upon this while walking in the city. It is Belgium's national church and hosts royal weddings and funerals.
 
-[![](DSC5691-1-768x1152.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5691-1.jpg)
+{{< figure src="DSC5691-1-768x1152.jpg" >}}
 
 {{< figure src="DSC5692-768x1152.jpg" caption="This was the only church/cathedral that had its pipe organ mounted on one of the sides of the nave." >}}
 

@@ -48,4 +48,4 @@ We were given gaiters and micro-crampons. Karthik and Dev demonstrated us on how
 
 At night, post dinner, Dev told us the story of [Shiva and Bhasmasu](https://en.wikipedia.org/wiki/Bhasmasur)r. Kedarkantha peak is marked by an incomplete shrine. According to local folklore, this shrine, built by Shiva himself, remained incomplete as Bhasmasur managed to locate Shiva and he had to flee before he could finish it.
 
-[![](DSC04492.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04492.jpg)
+{{< figure src="DSC04492.jpg" >}}
