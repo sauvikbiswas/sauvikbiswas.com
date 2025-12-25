@@ -15,3 +15,12 @@ figure .img-container {
     max-width: calc(var(--w) * 1px);
     max-height: min(calc(var(--h) * 1px), var(--figure-img-max-height));
 }
+
+.header-menu a {
+    text-decoration: none;
+}
+
+.header-menu a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
