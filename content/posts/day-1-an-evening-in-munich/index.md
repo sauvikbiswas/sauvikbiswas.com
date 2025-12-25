@@ -43,7 +43,7 @@ Later we walked around Marienplatz and absorbed the consumerism floating all aro
 
 A colleague of mine had suggested that I should visit Augustine Keller. It's a renowned brewery in Munich. Partho did not want anything cold (he had a mild discomfort in his throat) and settled for coffee while I took a lager.
 
-[![](DSC5207-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5207.jpg)
+{{< figure src="DSC5207-768x512.jpg" >}}
 
 We sat beside two Koreans. Partho knew a few words in Korean and struck up a conversation. They were currently doing their [mandatory military training](https://en.wikipedia.org/wiki/Conscription_in_South_Korea). Needless to say, they both hated the military drills. They wanted to do a Euro trip before they were free men. We bonded over movies, having seen a lot of Korean movies and also over the fact that both the societies promoted a very linear study-work-die culture. In fact, this is the exact reason why "3 idiots" had done well in Korea (and these guys were big fans of the movie).
 

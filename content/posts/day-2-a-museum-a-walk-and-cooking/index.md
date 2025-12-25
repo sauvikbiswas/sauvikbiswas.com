@@ -49,7 +49,7 @@ We even entered the Toy Museum and St. Peter's Church. However, we decided to a
 
 Instead, we walked around the plaza. I was personally very intrigued by a cello player basking with a basic piano backing track. He had an excellent projection and intonation. We stood for his rendition of [Despacito](https://www.youtube.com/watch?v=kJQP7kiw5Fk) and [Only Time](https://www.youtube.com/watch?v=7wfYIMyS_dI).
 
-[![](DSC5268-768x401.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5268.jpg)
+{{< figure src="DSC5268-768x401.jpg" >}}
 
 ## Partho, the cook
 

@@ -46,4 +46,4 @@ What made the day extra special was that we had about a hundred people turn up. 
 
 After the show we took a few pics and had our dinner. By the time I reached home, it was already close to 1 O'Clock. That was an evening well worth the effort!
 
-[![](DSC03393-1-768x619.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/09/DSC03393-1.jpg)
+{{< figure src="DSC03393-1-768x619.jpg" >}}

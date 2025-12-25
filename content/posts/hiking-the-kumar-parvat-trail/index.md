@@ -41,9 +41,9 @@ The first five kilometres of the trail passed through sufficiently dense foliag
 
 {{< figure src="IMG_20171125_121248.jpg" caption="Arka navigating a fallen tree trunk." >}}
 
-[![](IMG_20171125_134510.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171125_134510.jpg)
+{{< figure src="IMG_20171125_134510.jpg" >}}
 
-[![](IMG_20171125_140646.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171125_140646.jpg)
+{{< figure src="IMG_20171125_140646.jpg" >}}
 
 {{< figure src="IMG_20171125_142247.jpg" caption="Sujit giving a fist bump to his wife, Bidisha." >}}
 
@@ -57,7 +57,7 @@ The two kilometre ascent to the peak was characterised by three walls — large 
 
 By the time we reached the summit it was 4:00 pm. There is a small temple at the hilltop. We had our lunch — _chitranna_, eggs and peanuts. Yudhajit complained of a slight pain in his knee. Arka gave him his trekking pole. This and Anupam’s constant support throughout the following seven kilometres is what kept him going.
 
-[![](DSC03889.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03889.jpg)
+{{< figure src="DSC03889.jpg" >}}
 
 {{< figure src="IMG_20171125_160047.jpg" caption="Temple at the top of the hill." >}}
 

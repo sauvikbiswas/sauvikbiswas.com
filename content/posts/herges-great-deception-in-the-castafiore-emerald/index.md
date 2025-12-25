@@ -15,7 +15,7 @@ If there is one word that describes _The Castafiore Emerald_, it has to be _**de
 
 This is a show about nothing. That being said, a show about nothing requires a lot of events and subplots to hold itself up—just ask Jerry Seinfeld and Larry Davis. I have no idea how Hergé came up with the idea of plotting an entire Tintin story inside and around a mansion. The opening deception is the emerald band that runs across the entire cover page announcing the album to contain one of "The Adventures of Tintin". Tintin himself appears on the cover with his index finger on his lips, as if he is signalling the readers to keep the deception a secret.
 
-[![](castafiore05.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/02/castafiore05.jpg)
+{{< figure src="castafiore05.jpg" >}}
 
 ## The subplots of deception
 
@@ -71,4 +71,4 @@ The Castafiore Emerald is definitely an acquired taste. It is hard to recommend 
 
 If you are a fan of satirical works, this is an excellent comic book. If you are an adult fan of Tintin but have always detested the weirdness of this book, I urge you to revisit this album with an open mind and some contextual background. If you are a teenager who has stumbled upon Tintin, please give yourself a few years to soak in some life experiences—you'll appreciate this deceptive satire even more.
 
-[![](castafiore03.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/02/castafiore03.jpg)
+{{< figure src="castafiore03.jpg" >}}

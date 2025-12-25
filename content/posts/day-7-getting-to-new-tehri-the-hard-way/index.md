@@ -23,7 +23,7 @@ The last bus that headed in that direction had already left at 9:00 AM. The owne
 
 In the end, I was relieved to find a shared cab bound for Rishikesh that was almost full. The driver agreed to drop me at Srinagar-Garhwal, from where I could catch a bus to New Tehri. The cab driver stopped at a god-forsaken place near Narkota for lunch. There wasn't anything besides that one shop that called itself _Negi da Restaurant_.
 
-[![](IMG_20171208_135208.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171208_135208.jpg)
+{{< figure src="IMG_20171208_135208.jpg" >}}
 
 This stop caused a huge problem for me. The hour long stop caused me to miss the last bus to New Tehri from Srinagar-Garhwal. The farthest I could co to was Peepaldali on a 3:30 PM bus. In the worst case, I would have to stay at Peepaldali.
 

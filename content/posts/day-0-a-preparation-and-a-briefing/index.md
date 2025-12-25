@@ -29,7 +29,7 @@ As I rode these long distances on weekends, I realised how my bike was not setup
 
 The final item list and the packed version looks like this:
 
-[![](DSC02929.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/DSC02929.jpg)
+{{< figure src="DSC02929.jpg" >}}
 
 ## Meeting an old friend
 
@@ -53,4 +53,4 @@ The TfN goodie bags were so full of stuff that I decided to repack my bag and de
 
 There the three important items in the lower-left corner of the photograph. My bib number is 80. I have a sticker that I must place on my backpack so that it can be placed in the right room at the next location. Then there are a set of top-tube stickers that are essentially cue sheets for each leg of the race. There is also a wrist-band ([Wiz ID](http://www.wizbiker.com/wizid)) that has medical information and emergency contact.
 
-[![](IMG_20161215_195632-1-253x300.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161215_195632-1-e1481812508749.jpg)
+{{< figure src="IMG_20161215_195632-1-253x300.jpg" >}}

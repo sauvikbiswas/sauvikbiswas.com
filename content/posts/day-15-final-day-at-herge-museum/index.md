@@ -49,8 +49,8 @@ The museum not only focuses on Tintin but also Hergé's other works. Not many or
 
 And finally, the room of albums. I was disappointed to not find a Bengali edition in there.
 
-[![](DSC5760-768x512.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/DSC5760.jpg)
+{{< figure src="DSC5760-768x512.jpg" >}}
 
 I got back to Brussels and wasted some time at the Christmas market before heading back to the hostel to pick up my rucksack. My bus departed from Brussels-Nord and dropped me in front of Amsterdam Schiphol airport at 2:00 AM. It was snowing heavily. I was headed for a warmer climate in a couple of hours.
 
-## [![](2245f6069e5695cca7af6ecdaab296c1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/12/2245f6069e5695cca7af6ecdaab296c1.jpg)
+## {{< figure src="2245f6069e5695cca7af6ecdaab296c1.jpg" >}}

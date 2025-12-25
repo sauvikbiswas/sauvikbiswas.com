@@ -17,7 +17,7 @@ I must admit that the cold made me a lot lazier. I didn't feel like waking up be
 
 The span of working hours in those remote hills were pretty narrow. Shared cabs to Joshimath weren't available until 8:30 AM. A kid, who was travelling in the taxi also carried a crossbred Tibetan Mastiff puppy. The puppy did not like the shakes and twists throughout the stretch of the journey. It kept squealing all the way to Joshimath.
 
-[![](IMG_20171206_082108.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171206_082108.jpg)
+{{< figure src="IMG_20171206_082108.jpg" >}}
 
 Once I was off the cab, I entered the first hotel that I saw—Hotel Sriman Palace. Their reception had a rate list hung behind the counter. The cheapest being a dormitory bed at five hundred. I asked if dormitories were available. The owner instead gave me a a twin bed room with a balcony for the same price. Off-season travelling had its own perks.
 
@@ -55,4 +55,4 @@ While I was a Vishnuprayag, it started to drizzle. I waited for about half an ho
 
 **A note on the food:** I had really good food at Joshimath. The block canteen at the block office served me _aloo parathas_ without oil. In the afternoon, I had really good (and hot) _chhole samose_. I was actually lucky to enter a sweet shop that were still frying a batch of samosas. At night, I went to a roadside vendor who sold momos and soup in front of the Joshimath Gurudwara. The mutton momos were some of the best I have had.
 
-[![](DSC04111.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04111.jpg)
+{{< figure src="DSC04111.jpg" >}}

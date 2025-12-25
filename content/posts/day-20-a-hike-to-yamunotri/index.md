@@ -62,4 +62,4 @@ It took us even less time to descend—probably under an hour. Once we were at J
 
 That night, we met the hooch drinking, _charas_ smoking gang of porters again. I grilled one of them for not keeping their promise. His intoxicated responses followed by occasional displeasure made for a somewhat sadistic entertainment. I was sure he wouldn't remember it either.
 
-[![](DSC04610.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04610.jpg)
+{{< figure src="DSC04610.jpg" >}}

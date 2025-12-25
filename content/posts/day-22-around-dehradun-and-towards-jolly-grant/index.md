@@ -28,7 +28,7 @@ Gandhi Park was right opposite to the bookstores. I met [Deepak Topal](https://w
 
 Dev, our guide at Kedarkantha, told me about some Joshi's momos in Indira Market. Sadly I wasn't able to find the shop. Instead, I had my lunch at a Tibetan restaurant called Jamyang that served pretty good momos but maybe not as good as Yak's Kitchen in Bangalore.
 
-[![](IMG_20171223_130350.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/01/IMG_20171223_130350.jpg)
+{{< figure src="IMG_20171223_130350.jpg" >}}
 
 I still had some time left. I decided to go to FRI. There was considerable jam on the road and by the time I was at the entrance of FRI, I knew that I wouldn't be able to visit the museums. I just enjoyed a walk on the lawns and a view of the old building from the outside. The clean and green campus was a welcome departure from the dusty and polluted city.
 

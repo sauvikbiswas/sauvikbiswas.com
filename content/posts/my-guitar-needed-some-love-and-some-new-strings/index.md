@@ -23,4 +23,4 @@ I always use a reverse hook at the tip of the wire and let the bend in the hook 
 
 I have used Ernie Ball Slinky in the past. They are great. I like the tone of Slinkys better than the D'Addario EXLs I am using. While the tone of both these strings degrade in a similar fashion, Slinkys tend to rust faster. I am sure that if I had the Slinkys on, my strings would have snapped during a bend after an year of usage. That being said, I think I should have changed the strings at least three years ago.
 
-[![](IMG_20170812_173147-768x462.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/08/IMG_20170812_173147.jpg)
+{{< figure src="IMG_20170812_173147-768x462.jpg" >}}

@@ -14,7 +14,7 @@ Until last night, I had not decided my next destination. After a brief chat with
 
 Oblivious to the timings and schedules, I woke up early, filled my flask with some tea and went to the nearby ghat to spend some time.
 
-[![](DSC04086.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04086.jpg)
+{{< figure src="DSC04086.jpg" >}}
 
 {{< figure src="DSC04087.jpg" caption="Murals on Cafe de Goa. I clicked these while I was on my way back to the bus stand. They had China and Free Tibet in the same frame along with a smoked up Bob Marley." >}}
 

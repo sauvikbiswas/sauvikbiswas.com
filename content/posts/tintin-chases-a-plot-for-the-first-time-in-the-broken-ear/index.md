@@ -41,19 +41,19 @@ When the serialisation of _The Broken Ear_ began, Bolivia and Paraguay had jus
 
 In _The Broken Ear_, General American oil tries to make a deal for oil in Nuevo-Rican territory. We even see a representative trying to bribe Tintin in exchange for concession over the territory. One of the main triggers of the real Chaco War was the conflict between oil companies who wanted exploration and drilling rights in the Gran Chaco basin; Royal Dutch Shell supported Paraguay, while Standard Oil supported Bolivia. The countries signed a border treaty in 1938 with the majority of Gran Chaco going towards Paraguay—much after the serialisation of _The Broken Ear_ had ended.
 
-[![](TBE1.png)](https://sauvikbiswas.com/wp-content/uploads/2024/03/TBE1.png)
+{{< figure src="TBE1.png" >}}
 
 A fictional arms company—Korrupt Arms GmbH—sells weapons to both parties. Hergé doesn't shy away from satirising our current world where geopolitical conflicts are fuelled by corporations that supply war materials to both parties. Note how Bazarov manages to strike the same deal with both sides of the war. The character Basil Bazarov is modelled after Basil Zaharoff—a Greek arms dealer—who profited by supplying arms to both Paraguay and Bolivia.
 
-[![](TBE3.png)](https://sauvikbiswas.com/wp-content/uploads/2024/03/TBE3.png)
+{{< figure src="TBE3.png" >}}
 
 The armed police who catch Tintin changes their alliance based on who is in power. This is a caricature, almost a parody of sorts, that shows how those at the lowest level are least bothered about who is in power.
 
-[![](TBE4.png)](https://sauvikbiswas.com/wp-content/uploads/2024/03/TBE4.png)
+{{< figure src="TBE4.png" >}}
 
 General Alcazar is portrayed as an incompetent and impressionable leader. He prefers playing chess and massaging his ego over managing the actual affairs of the state. Although General Tapioca doesn't make an appearance, we can almost deduce that he is no better than Alcazar.
 
-[![](TBE2-1024x356.png)](https://sauvikbiswas.com/wp-content/uploads/2024/03/TBE2.png)
+{{< figure src="TBE2-1024x356.png" >}}
 
 The conflict between the two groups would later resurface in _Tintin and the Picaros_.
 

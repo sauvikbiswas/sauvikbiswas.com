@@ -30,7 +30,7 @@ Sumeet had left me behind pretty early on as I missed two cue points right insid
 
 Inside Chikaballapur, I rode with Vivek, who took my checkpoint photograph. He decided to wait for some of his friends. I bid him adieu and moved on.
 
-[![](IMG_20171101_092458.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_092458.jpg)
+{{< figure src="IMG_20171101_092458.jpg" >}}
 
 The route from Chikaballapur to Chintamani wasn't that good. The rough roads killed my momentum very frequently. Someone on a local cycling group had put out a warning. It wasn't as bad as he had claimed it to be. Still the constant jerks caused a lot of upper body fatigue. I could feel the pain in my lower back return. The constant drizzle didn't help either.
 
@@ -46,7 +46,7 @@ The route from Chintamani to Kolar was very scenic. It passed through villages s
 
 The jerks from the last stage adversely affected my speed. I was barely holding on to 19 km/h. At times my speed dropped to 15 or 16 and I had a hard time accelerating again. This is when I had the thought if I should retire my pair of puncture-proof Marathon Plus tyres. These were heavy (900 gms each) and had a lot more rolling resistance (>20% when compared to Conti's puncture resistant tyres). I did not find that many tea shops in this stretch either. Most were closed and I had to rely on my stock of biscuits.
 
-I reached Kolar at 2:00 pm, took a selfie at KSRTC bus stand and moved on. There was so much traffic and chaos that I wanted to get on the highway as soon as possible. [![](IMG_20171101_140011.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/IMG_20171101_140011.jpg)
+I reached Kolar at 2:00 pm, took a selfie at KSRTC bus stand and moved on. There was so much traffic and chaos that I wanted to get on the highway as soon as possible. {{< figure src="IMG_20171101_140011.jpg" >}}
 
 Once I was on the highway, I was on familiar roads again. About 10 kms ahead of Narsapura CCD, I got a call from Sumeet. He was somewhere behind. I did not understand exactly where he was but he said he was with some fellow riders. I did not realise that I had crossed him.
 

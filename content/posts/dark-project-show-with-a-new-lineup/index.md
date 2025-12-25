@@ -62,4 +62,4 @@ By the time I had returned home, it was already 2:00 AM. I had to carry all thos
 
 We'll sit down this Sunday to analyse the gig and work on various aspects.
 
-[![](29790891_10155515822581375_1374025626435977216_o.jpg)](http://sauvikbiswas.com/wp-content/uploads/2018/04/29790891_10155515822581375_1374025626435977216_o.jpg)
+{{< figure src="29790891_10155515822581375_1374025626435977216_o.jpg" >}}

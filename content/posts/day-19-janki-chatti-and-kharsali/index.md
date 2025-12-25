@@ -28,11 +28,11 @@ We were unable to find a suitable spot to have our lunch. Being off-season, most
 
 Kharadi State Inter College School was located right behind the shop. We kind of trespassed into their compounds. Classes were being held outside, underneath the Sun, on one side of the vast ground. Few students played on the other side. This is a usual practice in schools during the winters. One of the teachers, Mr. Sangeet, approached us and stirred up a conversation. While it started off with usual fare, it soon turned into a discussion regarding Karnataka's politics. He was a right leaning guy who had good amount of awareness regarding the political fabric of the southern states.
 
-[![](DSC04578.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04578.jpg)
+{{< figure src="DSC04578.jpg" >}}
 
 En route, we also had to stop for quite some time to let workers fell a large pine tree and subsequently chop it into pieces and clear the road. It was all part of the ambitious [Char Dham Expressway NH project](https://en.wikipedia.org/wiki/Char_Dham_Highway).
 
-[![](IMG_20171220_141558.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171220_141558.jpg)
+{{< figure src="IMG_20171220_141558.jpg" >}}
 
 We also drove across the [massive landslide near Sayanchatti](https://www.amarujala.com/dehradun/yamunotri-highway-collapse-due-to-landslide) that had occurred last September and had trapped almost 1300 pilgrims and tourists on the Yamunotri side. The landslide had damaged almost two kilometres of the road and damaged anything and everything till the riverbed. I was unable to take a good photograph. I made a mental note to take one on my way back.
 

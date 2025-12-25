@@ -102,15 +102,15 @@ As I rode through the beautiful scenery, I crossed a number of waterfalls that h
 
 {{< figure src="20221226_104136-1024x768.jpg" caption="We took a long break here." >}}
 
-[![](20221226_093928-1024x768.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221226_093928-scaled.jpg)
+{{< figure src="20221226_093928-1024x768.jpg" >}}
 
-[![](20221226_104613-1024x768.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221226_104613-scaled.jpg)
+{{< figure src="20221226_104613-1024x768.jpg" >}}
 
-[![](20221226_105946-1024x768.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221226_105946-scaled.jpg)
+{{< figure src="20221226_105946-1024x768.jpg" >}}
 
-[![](20221226_105711-768x1024.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221226_105711-scaled.jpg)
+{{< figure src="20221226_105711-768x1024.jpg" >}}
 
-[![](20221226_122731-1024x768.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221226_122731-scaled.jpg)
+{{< figure src="20221226_122731-1024x768.jpg" >}}
 
 {{< figure src="20221226_111828-1024x768.jpg" caption="The temple and the vehicle pile-up at Attigere." >}}
 
@@ -140,9 +140,9 @@ We saw a number of school students at Belur Channakeshava Temple. They had come 
 
 {{< figure src="20221227_073214-1024x768.jpg" caption="A sculpture of the Hoysala Crest" >}}
 
-[![](20221227_073237-1024x768.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221227_073237-scaled.jpg)
+{{< figure src="20221227_073237-1024x768.jpg" >}}
 
-[![](20221227_0738331-683x1024.jpg)](https://sauvikbiswas.com/wp-content/uploads/2023/01/20221227_0738331.jpg)
+{{< figure src="20221227_0738331-683x1024.jpg" >}}
 
 We headed towards Yagachi reservoir. Unfortunately, the dam is inaccessible to the general public. Disappointed, we took some photographs from outside and headed towards NH373 for Hassan.
 

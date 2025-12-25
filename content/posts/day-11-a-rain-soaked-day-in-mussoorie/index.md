@@ -57,11 +57,11 @@ A few steps away from the temple was the famous Flag Hill. Innumerable _lung-ta_
 
 {{< figure src="DSC04312.jpg" caption="One must navigate through these flags to get to the top." >}}
 
-[![](DSC04316.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04316.jpg)
+{{< figure src="DSC04316.jpg" >}}
 
 A trail headed west of Flag Hill, down into the valleys and all the way to Kempty Falls. By the time I had reached the trail, it was too late to venture towards Kempty Falls and get back before sunset. Here I met four Tibetan students. They were singing Tibetan, Hindi and English songs, busting their stress after a hectic exam. One of the guys was quite old for school. He and his family had fled from Tibet when he was twelve years old and had lost a few years of education.
 
-[![](DSC04323.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04323.jpg)
+{{< figure src="DSC04323.jpg" >}}
 
 ## A long walk and two books
 
@@ -69,7 +69,7 @@ I walked back to the mall via Camel's Back Road. The views, for which this road 
 
 On my way back I stopped at Cambridge Book Shop. They stocked signed copies of Ruskin Bond's titles. I picked up two books by a different author—[Stephen Alter](https://en.wikipedia.org/wiki/Stephen_Alter), who also hailed from Mussoorie. The owner showed me many other books by authors based out of the place.
 
-[![](DSC04331.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/DSC04331.jpg)
+{{< figure src="DSC04331.jpg" >}}
 
 I finished my day with a bowl of _thentuk_ at Momo's Tibetan Restaurant. It was one of the few days where I had not over-eaten.
 

@@ -21,7 +21,7 @@ While I was fully ready in due time, I was unable to get out of the hotel! The c
 
 My only option was to go to the maxi-cab union stand (technically, Vishwanath taxi union stand; colloquially, taxi-stand behind the _peepal_ tree). I found a vehicle for Harsil but it wouldn't leave until it there were adequate number of passengers. For the first half an hour, I stood beside a fire that was kept alive by burning old tyres. Later, I went inside the cab and slept in the stationary cab for a good one-and-a-half hours.
 
-[![](IMG_20171210_082640.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/12/IMG_20171210_082640.jpg)
+{{< figure src="IMG_20171210_082640.jpg" >}}
 
 I was saved by a family from Nepal who wanted to go till Jangla—few kilometres ahead of Harsil. The only man was a migrant worker who worked as a contractual labour with BRO. Since they had paid a huge chunk of money, they made stops at innumerable locations—either to visit their relatives or to buy supplies for their migrant workers' camp. The driver himself picked stuff up for shopkeepers who had their businesses on the route, including a huge jerrycan of petrol. Survival is a co-operative business. Such is the life in these remote hills.
 

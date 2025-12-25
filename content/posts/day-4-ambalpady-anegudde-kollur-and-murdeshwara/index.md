@@ -21,13 +21,13 @@ We visited four temples in succession. One thing about these temples in Karnatak
 
 Ambalpady temple is located close to Udupi. We were early. There weren’t too many visitors. We spent quite a bit of time inside.
 
-## [![](DSC03743.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03743.jpg)
+## {{< figure src="DSC03743.jpg" >}}
 
-[![](DSC03745.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03745.jpg)
+{{< figure src="DSC03745.jpg" >}}
 
 Our driver then took us to Anegudde Hanuman temple. We were there by 10:15 am. The Sun rays were yet to become unbearable. A nice spread of greenery around the temple kept the area cool.
 
-[![](DSC03747.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03747.jpg)
+{{< figure src="DSC03747.jpg" >}}
 
 {{< figure src="DSC03750.jpg" caption="This beautiful mural was on one of the walls." >}}
 
@@ -37,13 +37,13 @@ The driver took a detour from the National Highway and drove through Mookambika 
 
 {{< figure src="DSC03760.jpg" caption="The queue wrapped itself around the temple" >}}
 
-[![](DSC03762.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03762.jpg)
+{{< figure src="DSC03762.jpg" >}}
 
 ## Murdeshwara
 
 We were fortunate enough to reach Murdeshwara sometime around 2:30 pm. The temple closes at 1:00 pm and re-opens at 3:00 pm. There wasn’t much of a crowd when we entered. By the time we were done visiting the interiors of the temple, there was a long queue for catching a glimpse of the idol. There was an even longer queue for the lift that takes one to the top of the tall gopuram.
 
-[![](DSC03764.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03764.jpg) [![](DSC03768.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03768.jpg)
+{{< figure src="DSC03764.jpg" >}}
 
 The beach at Murdeshwara wasn’t as good as Tannirbhavi in Mangalore or Malpe in Udupi. Still, devotees flocked in the hot sun to entertain themselves with some standard water-sports on the northern side of the temple. This made the beach much more crowded than the ones that I have mentioned earlier.
 
@@ -53,7 +53,7 @@ What I did not like about Kollur and Murdeshwara is the over-commercialisation o
 
 On our way back, we stopped and saw a glimpse of the setting sun at Maravanthe beach. This place is right beside the highway. There weren’t too many people either, which made it an excellent place to catch some nice and cool sea breeze.
 
-[![](DSC03788.jpg)](http://sauvikbiswas.com/wp-content/uploads/2017/11/DSC03788.jpg)
+{{< figure src="DSC03788.jpg" >}}
 
 The cab driver dropped us at Service Bus Stop (There are two more in Udupi — City Bus Stop and Government Bus Stop). We had ample time to re-visit Woodlands Restaurant for some dosa (thus, keeping our dinner light) before embarking on a bone shattering journey back to Bangalore.
 

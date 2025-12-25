@@ -25,7 +25,7 @@ A few people formed their own group and gathered around a veteran rider, Srinath
 
 Nils gave a small briefing about how to do technical descends. After a while we were off to a staggered start (bunch of 20) escorted by a four wheeler for the first ten kilometres.
 
-[![](IMG_20161220_081315.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/12/IMG_20161220_081315.jpg)
+{{< figure src="IMG_20161220_081315.jpg" >}}
 
 ## Ups and downs
 

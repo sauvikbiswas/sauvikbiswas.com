@@ -9,7 +9,7 @@ tags:
 coverImage: "tibet-tibet.png"
 ---
 
-[![](tibet-tibet.png)](http://sauvikbiswas.com/wp-content/uploads/2018/05/tibet-tibet.png)
+{{< figure src="tibet-tibet.png" >}}
 
 Amongst all the books on Tibet (and Tibetan Buddhism), _Tibet, Tibet_ holds a very unique position. It's part travelogue, part history text and part socio-political analysis. Patrick French—in a very risky fashion—ventured into remote locations of Tibet. With all the security and the active efforts of the Chinese troops to veil their internal situations to the outer world, I must say that Mr. French's venture might have turned into a disaster. He could have been killed, or worse, captured.
 
