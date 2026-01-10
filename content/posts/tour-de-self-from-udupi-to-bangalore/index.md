@@ -2,8 +2,10 @@
 title: "Tour de Self: From Udupi to Bangalore"
 date: 2023-01-03
 categories: 
-  - "biking-cycling"
+  - "cycling"
+  - "travel"
 tags: 
+  - "cycling"
   - "belur"
   - "charmady"
   - "hirisave"
