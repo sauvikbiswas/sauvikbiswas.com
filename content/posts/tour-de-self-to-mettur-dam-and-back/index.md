@@ -2,8 +2,10 @@
 title: "Tour De Self: To Mettur Dam and Back"
 date: 2019-11-06
 categories: 
-  - "biking-cycling"
+  - "cycling"
+  - "travel"
 tags: 
+  - "cycling"
   - "anchetty"
   - "anekal"
   - "dharmapuri"
@@ -58,8 +60,6 @@ Mittal made sense. However, Dharmapuri was about forty-five kilometres from wher
 
 The owner of the stall where we had our last tea break mentioned that there was a nice lodge called DNG right before Dharmapuri. By the time we reached the place, it was already 7:30 pm. For 800 rupees, the room was excellent. We both took showers and headed towards the bar where we were served some beer, some fried rice and chicken. After all that, both of us went back to our room and crashed on our beds.
 
-{{< iframe "https://ridewithgps.com/embeds?type=trip&amp;id=41639368&amp;metricUnits=true&amp;sampleGraph=true" "1px" "700px" >}}
-
 ## D2.1 Some time wasted
 
 #### [_Dharmapuri-Thoppur-Mechheri-Mettur Dam_](https://goo.gl/maps/hAjCb666Dcq9Xt4k7)
@@ -110,8 +110,6 @@ Once we were near Pennagram bypass, it was pitch black. Mittal was heavily in fa
 
 We checked in at Hotel Tamil Nadu at 8:00 pm. For 995 rupees, the room was even better than the one we had in Dharmagiri. They also allowed us to keep our cycles inside the hotel room. Their bar and restaurant were in two different buildings with no way to have a beer while eating food. They even had different closing times. We made it to the restaurant well ahead of the deadline. Yet, the restaurant was almost out of food. We scavenged whatever was available—few chapatis, some dal, a couple of fish fries, dosa and omlette.
 
-{{< iframe "https://ridewithgps.com/embeds?type=trip&amp;id=41641873&amp;metricUnits=true&amp;sampleGraph=true" "1px" "700px" >}}
-
 ## D3.1 Three climbs
 
 #### [_Hogenakkal-Oddapatty-Anchetty-Kundukottai-Denkanikottai_](https://goo.gl/maps/27MfLhJLPKx7R1ix5)
@@ -161,7 +159,5 @@ We rested for about an hour. Our final point was Chandapura—the southernmost t
 That final stretch of eleven kilometres between Anekal and Chandapura was a bliss. It was all a gentle downhill. The entire area on either sides of the road had developed a lot in the last few years with many apartment complexes and a large number of restaurants. In no time we were there.
 
 {{< figure src="IMG_20191101_200731-1024x768.jpg" caption="Fin." >}}
-
-{{< iframe "https://ridewithgps.com/embeds?type=trip&amp;id=41642051&amp;metricUnits=true&amp;sampleGraph=true" "1px" "700px" >}}
 
 That's our final stats. Three days of riding, three hundred and seventy kilometres of distance covered, three thousand two hundred and thirty metres of elevation gain.
