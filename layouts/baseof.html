@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.Locale site.Language.Lang }}"
+  dir="{{ or site.Language.Direction `ltr` }}">
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+{{ $theme := "auto"}}
+
+{{ with .Param "theme" }}
+{{ $theme = .}}
+{{ end }}
+
+<body class="{{ $theme }}">
+
+  <div class="content">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+
+    <main class="main">
+      {{ block "main" . }}{{ end }}
+    </main>
+  </div>
+
+  {{/* Mermaid diagram modal */}}
+  <div id="mermaidModal" class="mermaid-modal">
+    <div class="mermaid-modal-content">
+      <button class="mermaid-modal-close" onclick="closeMermaidModal()">&times;</button>
+      <div id="mermaidModalBody"></div>
+    </div>
+  </div>
+
+  {{/* Body end hook */}}
+  {{ partial "functions/get_hook.html" (dict "hook" "body_end" "context" .) }}
+
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+
+  {{ if .Param "math" }}
+  {{ partialCached "math.html" . }}
+  {{ end }}
+
+  {{ if .Store.Get "hasMermaid" }}
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ 
+      startOnLoad: true,
+      zoom: {
+        enabled: true
+      }
+    });
+
+    window.openMermaidModal = function(element) {
+      const modal = document.getElementById('mermaidModal');
+      const modalBody = document.getElementById('mermaidModalBody');
+      
+      // Clone the mermaid diagram
+      const clone = element.cloneNode(true);
+      clone.style.cursor = 'default';
+      clone.style.margin = '0';
+      
+      modalBody.innerHTML = '';
+      modalBody.appendChild(clone);
+      
+      modal.classList.add('active');
+    };
+
+    window.closeMermaidModal = function() {
+      const modal = document.getElementById('mermaidModal');
+      modal.classList.remove('active');
+    };
+
+    // Close modal when clicking outside the content
+    document.getElementById('mermaidModal').addEventListener('click', function(e) {
+      if (e.target === this) {
+        closeMermaidModal();
+      }
+    });
+
+    // Close modal on Escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeMermaidModal();
+      }
+    });
+
+    // Add click handlers to all mermaid diagrams
+    document.addEventListener('DOMContentLoaded', function() {
+      setTimeout(() => {
+        document.querySelectorAll('.mermaid').forEach(function(diagram) {
+          if (diagram.id !== 'mermaidModalBody') {
+            diagram.addEventListener('click', function() {
+              openMermaidModal(this);
+            });
+          }
+        });
+      }, 100);
+    });
+  </script>
+  {{ end }}
+</body>
+
+<script src="{{ "js/theme-switch.js" | relURL }}"></script>
+<script defer src="{{ "js/copy-code.js" | relURL }}"></script>
+</html>
