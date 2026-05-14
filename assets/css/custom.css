@@ -6,6 +6,14 @@ a:hover {
     color: rgb(255, 0, 0);
 }
 
+.dark a {
+    color: rgb(255, 120, 120);
+}
+
+.dark a:hover {
+    color: rgb(255, 150, 150);
+}
+
 .light {
     background-color: rgb(255, 255, 255);
 }
