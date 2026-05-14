@@ -1,5 +1,5 @@
 baseURL = 'https://sauvikbiswas.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Sauvik Biswas'
 theme = 'typo'
 
@@ -40,3 +40,12 @@ url = "/now"
 [markup]
 [markup.goldmark]
 renderer.unsafe = true
+
+[markup.highlight]
+noClasses = false
+noDl = false
+anchorLineNos = false
+lineAnchors = ""
+lineNos = false
+lineNumbersInTable = false
+tabWidth = 4

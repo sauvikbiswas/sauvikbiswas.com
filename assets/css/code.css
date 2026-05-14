@@ -1,0 +1,92 @@
+/* Light mode syntax highlighting - friendly style */
+:root {
+    --chroma-k: #007020;  /* Keyword */
+    --chroma-kt: #902000; /* KeywordType */
+    --chroma-na: #4070a0; /* NameAttribute */
+    --chroma-nc: #0e84b5; /* NameClass */
+    --chroma-nf: #06287e; /* NameFunction */
+    --chroma-s: #4070a0;  /* String */
+    --chroma-m: #40a070;  /* Number */
+    --chroma-c: #60a0b0;  /* Comment */
+}
+
+/* Dark mode syntax highlighting - adjusted for readability */
+.dark {
+    --chroma-k: #66d9ef;  /* Keyword - bright cyan */
+    --chroma-kt: #a1efe4; /* KeywordType - bright cyan */
+    --chroma-na: #a6e22e; /* NameAttribute - bright green */
+    --chroma-nc: #a6e22e; /* NameClass - bright green */
+    --chroma-nf: #a6e22e; /* NameFunction - bright green */
+    --chroma-s: #e6db74;  /* String - bright yellow */
+    --chroma-m: #ae81ff;  /* Number - bright magenta */
+    --chroma-c: #75715e;  /* Comment - muted gray */
+}
+
+/* Chroma syntax highlighting styles */
+.chroma {
+    background-color: var(--code-background);
+    color: var(--content-primary);
+}
+
+.chroma .k  { color: var(--chroma-k); font-weight: bold; }
+.chroma .kc { color: var(--chroma-k); font-weight: bold; }
+.chroma .kd { color: var(--chroma-k); font-weight: bold; }
+.chroma .kn { color: var(--chroma-k); font-weight: bold; }
+.chroma .kp { color: var(--chroma-k); }
+.chroma .kr { color: var(--chroma-k); font-weight: bold; }
+.chroma .kt { color: var(--chroma-kt); }
+
+.chroma .na { color: var(--chroma-na); }
+.chroma .nc { color: var(--chroma-nc); font-weight: bold; }
+.chroma .nd { color: var(--chroma-na); font-weight: bold; }
+.chroma .nf { color: var(--chroma-nf); }
+.chroma .nn { color: var(--chroma-nc); font-weight: bold; }
+.chroma .nt { color: var(--chroma-nc); font-weight: bold; }
+
+.chroma .s  { color: var(--chroma-s); }
+.chroma .sa { color: var(--chroma-s); }
+.chroma .sb { color: var(--chroma-s); }
+.chroma .sc { color: var(--chroma-s); }
+.chroma .s1 { color: var(--chroma-s); }
+.chroma .s2 { color: var(--chroma-s); }
+.chroma .se { color: var(--chroma-s); font-weight: bold; }
+.chroma .sh { color: var(--chroma-s); }
+
+.chroma .m  { color: var(--chroma-m); }
+.chroma .mb { color: var(--chroma-m); }
+.chroma .mf { color: var(--chroma-m); }
+.chroma .mh { color: var(--chroma-m); }
+.chroma .mi { color: var(--chroma-m); }
+.chroma .mo { color: var(--chroma-m); }
+
+.chroma .c  { color: var(--chroma-c); font-style: italic; }
+.chroma .c1 { color: var(--chroma-c); font-style: italic; }
+.chroma .cm { color: var(--chroma-c); font-style: italic; }
+.chroma .ch { color: var(--chroma-c); font-style: italic; }
+
+.chroma .o  { color: var(--content-primary); }
+.chroma .ow { color: var(--chroma-k); font-weight: bold; }
+
+/* Prevent line wrapping in code blocks */
+.chroma .line { 
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: pre;
+}
+
+.chroma code {
+    white-space: pre;
+    word-break: normal;
+}
+
+/* Ensure pre and code don't constrain width */
+pre.chroma {
+    width: 100%;
+    min-width: 100%;
+}
+
+pre code {
+    display: block;
+    white-space: pre;
+    overflow-x: auto;
+}
