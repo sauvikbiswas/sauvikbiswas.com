@@ -34,7 +34,7 @@ The _gekiga_ genre's cinematic influence is also evident in many panels where th
 
 {{< figure src="mw2.png" caption="This is a colour page that has been flattened to black and white for publication. The long-shot setting, followed by silhouettes of characters and then a close-up is a classic film-making technique. Such techniques are widely used throughout the manga." >}}
 
-{{< figure src="mw5-1-1024x765.png" caption="I liked this spread a lot. It alludes to a number of famous paintings. Tezuka's use of this bizarre dream-like sequence makes me feel like these two characters are trapped." >}}
+{{< figure src="mw5-1-1024x765.png" caption="I liked this spread a lot. It alludes to a number of famous paintings. Tezuka's use of this bizarre dream-like sequence makes me feel like these two characters are trapped."  link="/posts/mw-tezukas-darkest-work/mw5-1.png">}}
 
 {{< figure src="mw3.png" caption="Tezuka uses lens distortion of a wide-angle lens to capture the setting." >}}
 

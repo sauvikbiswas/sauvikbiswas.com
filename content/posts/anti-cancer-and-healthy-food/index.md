@@ -9,7 +9,7 @@ tags:
 coverImage: "IMG_20170615_071227.jpg"
 ---
 
-This book has changed the way I look at food. ![](IMG_20170615_071227-768x1024.jpg)
+This book has changed the way I look at food. [![](IMG_20170615_071227-768x1024.jpg)](/posts/anti-cancer-and-healthy-food/IMG_20170615_071227.jpg)
 
 I accidentally came across this book in [Blossoms](https://en.wikipedia.org/wiki/Blossom_Book_House) while I was busy picking up some books on business. I had my hands full, so I promised myself that I will pick it up later. In recent years, a lot of my acquaintances and friends have been affected by cancer, so the title intrigued me. I couldn't shake it off my mind even after I was back at home. So, the following week, I made another trip to Blossoms and (after two-and-half hours of search) picked up the book.
 
@@ -27,7 +27,7 @@ It is no surprise that Dr. Servan-Schreiber devotes about one-third of the book 
 
 Here is a pie chart that shows the ratio of various foods we should take.
 
-![](IMG_20170615_081918-768x576.jpg)
+[![](IMG_20170615_081918-768x576.jpg)](/posts/anti-cancer-and-healthy-food/IMG_20170615_081918.jpg)
 
 A key concept in the entire discourse is treating the _body as a terrain_. While food is one part of it, exercise and mental well-being is equally important.
 

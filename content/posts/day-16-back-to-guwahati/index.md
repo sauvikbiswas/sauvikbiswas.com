@@ -32,4 +32,4 @@ Subhajit was also in Guwahati. He had decided to temporarily move away from Bang
 
 And that marked the end of my trip. I had my flight back to Kolkata the next day.
 
-{{< figure src="IMG_20201220_210254-300x300.jpg" caption="**Fin!** (This Maine Coon is Subhajit's niece's pet.)" >}}
+{{< figure src="IMG_20201220_210254-300x300.jpg" caption="**Fin!** (This Maine Coon is Subhajit's niece's pet.)"  link="/posts/day-16-back-to-guwahati/IMG_20201220_210254.jpg">}}

@@ -31,4 +31,4 @@ The crucial step in understanding lies in the fact that there are tons of parame
 
 In short, this is what happens -
 
-[![pict_20160911_204354](PICT_20160911_204354.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/PICT_20160911_204354.jpg)
+[![pict_20160911_204354](PICT_20160911_204354.jpg)](/posts/learning-artificial-neural-network-has-been-tough/PICT_20160911_204354.jpg)

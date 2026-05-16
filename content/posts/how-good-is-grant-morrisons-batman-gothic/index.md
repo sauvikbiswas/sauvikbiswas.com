@@ -11,7 +11,7 @@ tags:
   - "klaus-jansen"
 ---
 
-[![gothic_cover](gothic_cover.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/11/gothic_cover.jpg)
+[![gothic_cover](gothic_cover.jpg)](/posts/how-good-is-grant-morrisons-batman-gothic/gothic_cover.jpg)
 
 [_**Batman: Gothic**_](http://en.wikipedia.org/wiki/Batman:_Gothic) is trade paperback (TP) that collects _The Legend of the Dark Night_ issues #6-#10. Written by [Grant Morrison](http://en.wikipedia.org/wiki/Grant_Morrison) and illustrated by  [Klaus Jansen](http://en.wikipedia.org/wiki/Klaus_Janson), Gothic tells a very unusual tale of the Dark Knight. That too, of one that directly attributes the supernatural as the cause of many events.
 
@@ -27,13 +27,13 @@ What follows is Batman's attempt to confront the last of the surviving syndicate
 
 1. This is a very unusual tale of Batman. But then, I haven't come across a Morrison story that isn't unusual. Reading through the story, I was convinced that Batman's setting can make a hell of a breeding ground for supernatural plots.
 2. At only 120 pages, this is one of the shortest Batman TP I own. The plot moves fast and never did I feel that the story dragged on.
-3. The cursive handwriting based lettering of the narration pages. These are amazing and very very unusual for a superhero comic. [![gothic_flashback](gothic_flashback.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/11/gothic_flashback.jpg)
+3. The cursive handwriting based lettering of the narration pages. These are amazing and very very unusual for a superhero comic. [![gothic_flashback](gothic_flashback.jpg)](/posts/how-good-is-grant-morrisons-batman-gothic/gothic_flashback.jpg)
 4. The flashback panels with minimal colour palette. Somehow these feel more artistic than the normal panels.
 
 ### What I did not like about Gothic
 
 1. Certain segments of the artwork. Or maybe its the colouring of the panels. For some reason there are panels that felt cluttered instead of imparting the sense of grandiose. At times I felt that a B&W treatment would have been better. But then, DC doesn't release B&W issues\[1\].
-2. Bruce's dream sequence early on in the story. It is confusing. Granted, that it was necessary for the author to introduce some mechanism that would allow Bruce's dead father to communicate what he knew about the principal. The reader would also need to know that "Unlock the Rose" would have some significance later on in the story. [![gothic_dream](gothic_dream.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/11/gothic_dream.jpg) Also, I am yet to read a Morrison Batman story that does not involve dreams.
+2. Bruce's dream sequence early on in the story. It is confusing. Granted, that it was necessary for the author to introduce some mechanism that would allow Bruce's dead father to communicate what he knew about the principal. The reader would also need to know that "Unlock the Rose" would have some significance later on in the story. [![gothic_dream](gothic_dream.jpg)](/posts/how-good-is-grant-morrisons-batman-gothic/gothic_dream.jpg) Also, I am yet to read a Morrison Batman story that does not involve dreams.
 3. The strange coincidence involving tapes - the one that makes Bruce travel to Lake Dess in Austria in search of a drowned cathedral. It was sudden. It was weird. It was sudden and weird.
 4. A very pointless (and cliched) attempt to kill Batman using a [Rube Goldberg machine](http://en.wikipedia.org/wiki/Rube_Goldberg_machine).
 

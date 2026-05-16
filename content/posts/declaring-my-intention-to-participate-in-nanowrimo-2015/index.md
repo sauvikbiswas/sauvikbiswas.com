@@ -8,7 +8,7 @@ tags:
   - "novel"
 ---
 
-[![crest-05e1a637392425b4d5225780797e5a76](crest-05e1a637392425b4d5225780797e5a76.png)](http://sauvikbiswas.com/wp-content/uploads/2015/10/crest-05e1a637392425b4d5225780797e5a76.png)
+[![crest-05e1a637392425b4d5225780797e5a76](crest-05e1a637392425b4d5225780797e5a76.png)](/posts/declaring-my-intention-to-participate-in-nanowrimo-2015/crest-05e1a637392425b4d5225780797e5a76.png)
 
 The challenge statement of NaNoWriMo is simple. Write a novel of 50,000 words in 30 days. I will have the time between November 1st 0000 hrs to November 30th 2359 hrs to accomplish this task. I will also be attempting this marathon for the first time. This makes me a bit nervous. I have put up a small widget in the right sidebar that will allow anyone to see my progress. I will be uploading segments and chapters to my website for archival during the entire month.
 

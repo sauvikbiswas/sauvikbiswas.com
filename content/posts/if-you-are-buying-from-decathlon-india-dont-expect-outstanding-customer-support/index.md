@@ -26,11 +26,11 @@ So, I wrote a mail:
 
 I attached a few pictures, too.
 
-{{< figure src="IMG_20170630_161658-225x300.jpg" caption="A copy of the bill" >}}
+{{< figure src="IMG_20170630_161658-225x300.jpg" caption="A copy of the bill"  link="/posts/if-you-are-buying-from-decathlon-india-dont-expect-outstanding-customer-support/IMG_20170630_161658.jpg">}}
 
-{{< figure src="IMG_20170630_161717-768x576.jpg" caption="The right shoe with the mesh cut." >}}
+{{< figure src="IMG_20170630_161717-768x576.jpg" caption="The right shoe with the mesh cut."  link="/posts/if-you-are-buying-from-decathlon-india-dont-expect-outstanding-customer-support/IMG_20170630_161717.jpg">}}
 
-{{< figure src="IMG_20170630_161729-768x576.jpg" caption="The left shoe with material thinning outat a similar position." >}}
+{{< figure src="IMG_20170630_161729-768x576.jpg" caption="The left shoe with material thinning outat a similar position."  link="/posts/if-you-are-buying-from-decathlon-india-dont-expect-outstanding-customer-support/IMG_20170630_161729.jpg">}}
 
 I had obtained some India customer care address from the store : incustomerhappiness@decathlon.net. No sooner did I hit send, than I got a mail failure delivery notification. I rushed back to the store and mailed it to the inbox of a staff and asked him to forward it to the concerned department. I have no clue if he did that or not. Just to be safe, I had contacted Decathlon India via Twitter.
 
@@ -75,4 +75,4 @@ A staff from Decathlon Whitefield called me up exactly one week after my complai
 
 Here is my replacement pair -
 
-![](IMG_20170710_200406-768x1024.jpg)
+[![](IMG_20170710_200406-768x1024.jpg)](/posts/if-you-are-buying-from-decathlon-india-dont-expect-outstanding-customer-support/IMG_20170710_200406.jpg)

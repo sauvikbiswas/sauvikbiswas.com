@@ -23,9 +23,9 @@ I should mention that we weren't trying to build anything that even remotely r
 
 We ended up inserting a few forms, too. Stuff that could help us add a segment, a thread or a to-do.
 
-{{< figure src="Screenshot-2017-02-08-22.38.41-768x437.png" caption="This is how one of the segment page with all the discussion threads looked like." >}}
+{{< figure src="Screenshot-2017-02-08-22.38.41-768x437.png" caption="This is how one of the segment page with all the discussion threads looked like."  link="/posts/how-useful-can-an-app-made-in-3-days-be/Screenshot-2017-02-08-22.38.41.png">}}
 
-{{< figure src="Screenshot-2017-02-08-22.53.25-768x419.png" caption="And this is how a single discussion thread looked like. We even put up things that were causing errors." >}}
+{{< figure src="Screenshot-2017-02-08-22.53.25-768x419.png" caption="And this is how a single discussion thread looked like. We even put up things that were causing errors."  link="/posts/how-useful-can-an-app-made-in-3-days-be/Screenshot-2017-02-08-22.53.25.png">}}
 
 I think I spend just short of 36 hours in building this prototype. It was more like a self-created hackathon. If I work for another 30-40 hours, I can have a production ready, small-scale implementation of the webapp.
 

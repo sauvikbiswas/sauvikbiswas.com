@@ -17,7 +17,7 @@ The myth of Banasura, her daughter Usha, and Anirudhha—Krishna's grandson—is
 
 The entire hillock has been converted into a park. In the absence of tourists and local visitors, it had become an ideal spot for young couples to spend some quite time. At the top of the hillock is an observation deck from where the entire Tezpur is visible on one side while the other side opens up to a nice wide view of the Brahmaputra river. A small auditorium has been constructed on one of the sides of the hillock. I presume that this space is used for cultural programs on important days.
 
-{{< figure src="DSC07009-1024x684.jpg" caption="The entrance to Agnigarh Hill. There is a nominal entry fee. This is one of the places that still charges a separate fee for usage of still camera in the premises. In the age of cellphones and mobile photography, this doesn't make much sense." >}}
+{{< figure src="DSC07009-1024x684.jpg" caption="The entrance to Agnigarh Hill. There is a nominal entry fee. This is one of the places that still charges a separate fee for usage of still camera in the premises. In the age of cellphones and mobile photography, this doesn't make much sense."  link="/posts/day-2-exploring-tezpur/DSC07009.jpg">}}
 
 {{< figure src="DSC07020.jpg" caption="From the myth: Chitralekha trying to draw Anirudhha from Usha's description of him. I liked how the sculptor has depicted a stack of Chitralekha's failed attempts at drawing." >}}
 
@@ -41,21 +41,21 @@ The hillock itself is maintained by the Archaeological Survey of India (ASI). Th
 
 The ruins of the temple—in the form of carved stones—are scattered all across the hillock like rocks along the shores of a river with no visible erect remains. A raised stone platform at the top of the hillock suggest the original location of the temple. Not much is known about the site and temple. ASI dates the temple to the 10th and 12th century AD. It is presumed that this temple was dedicated to Lord Vishnu.
 
-{{< figure src="DSC07030-1024x685.jpg" caption="These carved stones might have been pillars of the temple. In the absence of any preserved structure, it is hard to know. ASI hasn't put up any information, either." >}}
+{{< figure src="DSC07030-1024x685.jpg" caption="These carved stones might have been pillars of the temple. In the absence of any preserved structure, it is hard to know. ASI hasn't put up any information, either."  link="/posts/day-2-exploring-tezpur/DSC07030.jpg">}}
 
-{{< figure src="DSC07032-1024x683.jpg" caption="One of the prominent sculptures that is still intact." >}}
+{{< figure src="DSC07032-1024x683.jpg" caption="One of the prominent sculptures that is still intact."  link="/posts/day-2-exploring-tezpur/DSC07032.jpg">}}
 
 ## Sunset from the banks of Brahmaputra
 
 One of the best place to watch Tezpur's sunset is from [Ganesh Ghat](https://goo.gl/maps/fMCyD2abrRUzrSUv7). Fortunately, it was only five minutes walk from ASTC bus stop and my hotel. The namesake of the place is a Ganesh temple right across the road. Locals flock the _ghat_ in the mornings and in the evenings to get some fresh air and chat with their friends. Many photographers come to this place to capture a glimpse of the sunset. I met a couple of young ones who saw a camera in my hands and presumed that I was one of them. Some of them even showed me their Instagram profile. A number of villagers and hobby anglers dip their fishing hooks into the waters and rest against the rocks that line the shore while serious fishermen venture with their row boats and fishing nets into deeper waters. There is a ferry service available from Ganesh Ghat to other places along the banks of Tezpur, too—one that wasn't running when I visited the place.
 
-{{< figure src="DSC07005-1024x682.jpg" caption="Fishermen returning from the deep waters in the boat. The angler sitting on the rocks was also packing his things up." >}}
+{{< figure src="DSC07005-1024x682.jpg" caption="Fishermen returning from the deep waters in the boat. The angler sitting on the rocks was also packing his things up."  link="/posts/day-2-exploring-tezpur/DSC07005.jpg">}}
 
-{{< figure src="DSC07004-1024x683.jpg" caption="Sunset at Ganesh Ghat." >}}
+{{< figure src="DSC07004-1024x683.jpg" caption="Sunset at Ganesh Ghat."  link="/posts/day-2-exploring-tezpur/DSC07004.jpg">}}
 
 Once the Sun had bet beyond the horizon, I made my way back to the market. I had to buy some chocolates for the kids at Manjushree in Tawang. I did not know how many kids were there. After a call with Partho, I bought a box of Dairy Milk for them. As the evening progressed, the market livened up with people flocking at sweet shops and _chaat_ stalls. I had also not brought any medicines with me. I bought a couple of essential ones from [my usual long-list](/posts/my-medical-kit-for-travel/) knowing that I would not be venturing out on any multi-day treks in remote locations this time around.
 
-{{< figure src="DSC07006-1024x683.jpg" caption="One of the lanes in Tezpur market that specialises in sweets and _chaats_. I had some _chaat_ for my dinner here." >}}
+{{< figure src="DSC07006-1024x683.jpg" caption="One of the lanes in Tezpur market that specialises in sweets and _chaats_. I had some _chaat_ for my dinner here."  link="/posts/day-2-exploring-tezpur/DSC07006.jpg">}}
 
 I booked a seat on a Tawang-bound Sumo for the next day from the counter at ASTC bus stop. It cost me INR 1800. It used to be half the price before the pandemic, but the operators have increased the rates as the authorities allow only five passengers in a Sumo as compared to eight earlier. I would soon get to know that no one cared about the authorities or the rule—the operators just made more per trip. It may even be justified as the decrease in tourism and inter-state travel have decreased the frequency of trips for them. Kirti Hotel manager wasn't too happy about me independently booking the Sumo. He managed the travel agency in the ground floor and lost his commission.
 

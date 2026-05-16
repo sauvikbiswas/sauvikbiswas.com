@@ -21,7 +21,7 @@ The journey was over 4 hours long. There were a short break of about 30 mins whe
 
 As the bus drove along the coast, I snapped a few pictures through my window.
 
-[![DSC04257](DSC04257.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/07/DSC04257.jpg)
+[![DSC04257](DSC04257.jpg)](/posts/day-7-making-our-way-to-hoi-an/DSC04257.jpg)
 
 ## Redemption at Hoi An
 
@@ -47,7 +47,7 @@ We rode about 3 km to the beach. The beach was very crowded. I felt stuffed and 
 
 I caught the sunset on my camera while riding on my way to the beach.
 
-[![DSC04269](DSC04269.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/07/DSC04269.jpg)
+[![DSC04269](DSC04269.jpg)](/posts/day-7-making-our-way-to-hoi-an/DSC04269.jpg)
 
 The beach got less interesting after the sunset. We pedalled our way back into the ancient town to check out some action and grab some street food. Here are some pictures.
 

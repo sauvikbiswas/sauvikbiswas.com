@@ -12,7 +12,7 @@ coverImage: "81RdveuYXWL.jpg"
 
 _**Guns, Germs and Steel**_ is a seminal book by the ethnographer Jared Diamond. At its core, it is a multi-disciplinary study of why the west has overtaken the world.
 
-{{< figure src="81RdveuYXWL-768x1179.jpg" >}}
+{{< figure src="81RdveuYXWL-768x1179.jpg"  link="/posts/jared-diamond-explains-western-dominance-in-the-age-of-enlightenment/81RdveuYXWL.jpg">}}
 
 Jared Diamond starts off with a simple question—one that was posed to him by a Papua New Guinean politician, Yali—"Why is it that you white people developed so much cargo and brought it to New Guinea, but we black people had little cargo of our own?" The word "cargo" here referred to steel tools, soft drinks, clothing, utilitarian apparatus and everything that we consider to be part of the fabric of a modern society.
 

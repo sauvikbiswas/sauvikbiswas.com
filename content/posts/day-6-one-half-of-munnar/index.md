@@ -21,9 +21,9 @@ This is a small horticulture campus maintained by Kerala Ecotourism Corporation.
 
 {{< figure src="DSC03681_1600_1200.jpg" caption="Rose Garden had an entire section of cacti." >}}
 
-[![DSC03660_1600_1200](DSC03660_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03660_1600_1200.jpg)
+[![DSC03660_1600_1200](DSC03660_1600_1200.jpg)](/posts/day-6-one-half-of-munnar/DSC03660_1600_1200.jpg)
 
-[![DSC03662_1600_1200](DSC03662_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/DSC03662_1600_1200.jpg)
+[![DSC03662_1600_1200](DSC03662_1600_1200.jpg)](/posts/day-6-one-half-of-munnar/DSC03662_1600_1200.jpg)
 
 ## There are more boating places than you need
 

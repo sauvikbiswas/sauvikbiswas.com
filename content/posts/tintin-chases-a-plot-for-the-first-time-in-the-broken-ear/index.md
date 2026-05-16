@@ -53,7 +53,7 @@ The armed police who catch Tintin changes their alliance based on who is in powe
 
 General Alcazar is portrayed as an incompetent and impressionable leader. He prefers playing chess and massaging his ego over managing the actual affairs of the state. Although General Tapioca doesn't make an appearance, we can almost deduce that he is no better than Alcazar.
 
-{{< figure src="TBE2-1024x356.png" >}}
+{{< figure src="TBE2-1024x356.png"  link="/posts/tintin-chases-a-plot-for-the-first-time-in-the-broken-ear/TBE2.png">}}
 
 The conflict between the two groups would later resurface in _Tintin and the Picaros_.
 

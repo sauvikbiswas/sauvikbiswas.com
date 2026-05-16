@@ -25,7 +25,7 @@ The core idea is to have the interfaces defined and write a number of good test 
 
 ## Implementation
 
-{{< figure src="Architecture-of-DBMS-649x1024.png" caption="Block-level implementation of a generalised database. Ref: Database Internals by Alex Petrov" >}}
+{{< figure src="Architecture-of-DBMS-649x1024.png" caption="Block-level implementation of a generalised database. Ref: Database Internals by Alex Petrov"  link="/posts/a-naive-implementation-of-file-based-storage/Architecture-of-DBMS.png">}}
 
 From an implementation standpoint, the Query Parser is rudimentary and the Query Optimizer is non existent. Sending a Record to the `Write` method analyses the underlying Type and constructs a unique filename based on the Primary Key. For reading data we have to send a Record to the `Read` method and it fetches all records that match the Type; in that sense, sending an empty Record to `Read` works as well. This is good enough for the skeletal implementation of a Query Processor.
 

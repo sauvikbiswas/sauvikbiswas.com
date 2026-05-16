@@ -13,7 +13,7 @@ tags:
   - "yukichi-yamamatsu"
 ---
 
-[![Stupid Guy Goes to India](stgti.jpg)](http://www.sauvikbiswas.com/wp-content/uploads/2013/11/stgti.jpg)
+[![Stupid Guy Goes to India](stgti.jpg)](/posts/stupid-japanese-mangaka-comes-to-india/stgti.jpg)
 
 In 2004, Yukichi Yamamatsu, a 56 year old, technically challenged, mangaka arrives in India to translate mature mangas to Hindi and sell them. Needless to say, it was a futile attempt. Without sufficient money, without sufficient knowledge of English or Hindi, without sigmoid colon and without any concrete plan whatsoever, he steps foot in India. What happens here is documented in a manga called [_**Indo e Baka ga Yattekita**_](http://www.amazon.co.jp/dp/4537255676/ref=nosim/?tag=vc-1-179432-22&linkCode=as1). Three years after the release of the book, Blaft Publication, an Indian publishing house in Chennai, decide to translate it to English and call it [_**Stupid Guy Goes to India**_](http://www.amazon.com/Stupid-Guy-Goes-India-Yamamatsu/dp/9381626391).
 
@@ -21,7 +21,7 @@ The author himself becomes the butt of all the jokes as the narration progresses
 
 I was quite happy to see that Blaft Publication has retained the original right to left reading order of the manga. The translator, Kumar Shivasubramaniam, has done an excellent job in annotating the book thoroughly to preserve what is lost in the translation - both linguistically and culturally. The cover was changed, presumably in order to avoid any controversy that may arise from Hindu fanatics (The original cover has Ganesha on it, a Hindu deity - see below).
 
-[![Stupid Guy Goes to India Japanese](sggti_jp1.jpg)](http://www.sauvikbiswas.com/wp-content/uploads/2013/11/sggti_jp1.jpg)
+[![Stupid Guy Goes to India Japanese](sggti_jp1.jpg)](/posts/stupid-japanese-mangaka-comes-to-india/sggti_jp1.jpg)
 
 I have two off topic queries.
 

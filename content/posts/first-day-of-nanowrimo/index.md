@@ -19,4 +19,4 @@ I also understood that in order to play out the middle portion of the novel, I w
 
 Since my poor health did not allow me to get out of the bed, my distraction came from marathoning on Bakuman. I have already finished the 12th tome.
 
-[![Photo on 01-11-15 at 9.49 PM](Photo-on-01-11-15-at-9.49-PM.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/11/Photo-on-01-11-15-at-9.49-PM.jpg)
+[![Photo on 01-11-15 at 9.49 PM](Photo-on-01-11-15-at-9.49-PM.jpg)](/posts/first-day-of-nanowrimo/Photo-on-01-11-15-at-9.49-PM.jpg)

@@ -20,7 +20,7 @@ Digital Ocean offers a service for automatic backups. It carries a fixed cost of
 
 As of now, the snapshot hasn't even touched 10 GB.
 
-[![screenshot-2016-09-12-21-57-22](Screenshot-2016-09-12-21.57.22.png)](http://sauvikbiswas.com/wp-content/uploads/2016/09/Screenshot-2016-09-12-21.57.22.png)
+[![screenshot-2016-09-12-21-57-22](Screenshot-2016-09-12-21.57.22.png)](/posts/backing-up-data/Screenshot-2016-09-12-21.57.22.png)
 
 I always ensure that there is at least one snapshot that I can use to re-instantiate the webserver and the data. This snapshot will allow me to resurrect the entire configuration. As of today, I have two websites running on this VM (or Droplets as Digital Ocean likes to call it).
 

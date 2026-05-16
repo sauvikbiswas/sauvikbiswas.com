@@ -12,7 +12,7 @@ tags:
 coverImage: "Screenshot-2014-11-08-20.47.23-1.png"
 ---
 
-[![Screenshot 2014-11-08 20.47.23](Screenshot-2014-11-08-20.47.23.png)](http://sauvikbiswas.com/wp-content/uploads/2014/11/Screenshot-2014-11-08-20.47.23.png)
+[![Screenshot 2014-11-08 20.47.23](Screenshot-2014-11-08-20.47.23.png)](/posts/naruto-comes-to-an-end-thank-you-kishimoto-sensei/Screenshot-2014-11-08-20.47.23.png)
 
 ## My history with the manga (and anime)
 
@@ -38,7 +38,7 @@ For the last 15 years, Kishimoto _sensei_ has worked hard to give us the best ev
 
 I have rooted for this pair for a long time. Simply because a loudmouth and a sophisticated+silent types make a better combo\[4\]. During the Chunin Exams arc, Hinata stole the panels that she was in. She was one of my favourite supporting character. Kishimoto _sensei_ gave it away on the cover of volume 64 \[[Watch this link: This rant was speculative back then](https://www.youtube.com/watch?v=o5nGxQcMdGg)\].
 
-[![Screenshot-2014-11-08-20.51](Screenshot-2014-11-08-20.51-1024x611.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/11/Screenshot-2014-11-08-20.51.jpg)
+[![Screenshot-2014-11-08-20.51](Screenshot-2014-11-08-20.51-1024x611.jpg)](/posts/naruto-comes-to-an-end-thank-you-kishimoto-sensei/Screenshot-2014-11-08-20.51.jpg)
 
 We know what Boruto and Himawari are like from the final chapter.
 
@@ -50,7 +50,7 @@ Asuma and Kurenai's kid had the best character amongst the newer generation. She
 
 ## There is cannon fodder left
 
-[![the_official_naruto_the_last_movie_poster_by_sashun08-d82d7wz](the_official_naruto_the_last_movie_poster_by_sashun08-d82d7wz.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/11/the_official_naruto_the_last_movie_poster_by_sashun08-d82d7wz.jpg)
+[![the_official_naruto_the_last_movie_poster_by_sashun08-d82d7wz](the_official_naruto_the_last_movie_poster_by_sashun08-d82d7wz.jpg)](/posts/naruto-comes-to-an-end-thank-you-kishimoto-sensei/the_official_naruto_the_last_movie_poster_by_sashun08-d82d7wz.jpg)
 
 Officially, **_The Last_** movie is a part of the canon. It fills up the gap between the penultimate and the final chapter. Kishimoto _sensei_ has mentioned that it is a love story at its core. I can't wait for it to be released. Sadly, I will have to watch it on some _kaizoku_ channel as there are no distributors of anime in India. And unlike the printed manga, anime DVDs and BRs are not region free.
 
@@ -63,6 +63,6 @@ Officially, **_The Last_** movie is a part of the canon. It fills up the gap bet
 
 ## Thank you Masashi Kishimoto _sensei_ for the last 15 years.
 
-[![Masashi_Kishimoto](Masashi_Kishimoto.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/11/Masashi_Kishimoto.jpg)
+[![Masashi_Kishimoto](Masashi_Kishimoto.jpg)](/posts/naruto-comes-to-an-end-thank-you-kishimoto-sensei/Masashi_Kishimoto.jpg)
 
 This is a shout-out from one of your eternal fans. I still have 32 more volumes to buy.

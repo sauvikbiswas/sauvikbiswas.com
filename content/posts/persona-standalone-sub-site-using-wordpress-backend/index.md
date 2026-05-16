@@ -18,7 +18,7 @@ The source code is available here: [https://github.com/sauvikbiswas/persona](htt
 
 Fortunately, there was a workaround. I could publish these as pages and not link the pages to any menu. That way, unless I share the permalink of the page, there was no way that anyone could ever find it out on their own.
 
-{{< figure src="Screen-Shot-2020-07-09-at-10.38.11-PM-1024x513.png" caption="This is how a page looks on my site. This text is accessible from the unlisted URL." >}}
+{{< figure src="Screen-Shot-2020-07-09-at-10.38.11-PM-1024x513.png" caption="This is how a page looks on my site. This text is accessible from the unlisted URL."  link="/posts/persona-standalone-sub-site-using-wordpress-backend/Screen-Shot-2020-07-09-at-10.38.11-PM.png">}}
 
 After I had written a couple of poems (and I have the desire to publish some essays and other standalone pieces of work in the future), I wanted to segregate them. One way would be to prepare another page with links of all these unlisted pages and place them on my site. Since I wanted to use a different look and feel, I had to decouple the sub-page from the Wordpress rendering engine—or, more aptly, generate a sub-site. In order to do this, I had to take a slightly different route.
 
@@ -30,7 +30,7 @@ The next step was to run a direct SQL query in the Wordpress database and filter
 
 The taxonomy storage and relationship is not so straightforward. Fortunately, Wordpress codex has a nice diagram that explains much of the relationships and has some documentation regarding the various fields of the tables in the database. Also, I must mention that it is easy to fetch the database credentials directly from the wp-config.php file present in the default installation of Wordpress in order to access the database. That way the shared project code remains secure.
 
-{{< figure src="WP4.4.2-ERD-726x1024.png" caption="[https://codex.wordpress.org/Database\_Description](https://codex.wordpress.org/Database_Description)" >}}
+{{< figure src="WP4.4.2-ERD-726x1024.png" caption="[https://codex.wordpress.org/Database\_Description](https://codex.wordpress.org/Database_Description)"  link="/posts/persona-standalone-sub-site-using-wordpress-backend/WP4.4.2-ERD.png">}}
 
 Here is the code that fetches a page based on the permalink. The page has to be classified as that category (the "slug" in wp\_terms table) in order to get a non-null output.
 
@@ -109,9 +109,9 @@ $page_file = "page.php";
 
 I realised that I would not need any more than two specific files to generate a landing page and an individual page. In fact, one can code the whole thing into a single file and set $page\_file = $landing\_file. These files and a couple of helper files are located in the theme folder.
 
-{{< figure src="Screen-Shot-2020-07-09-at-11.29.43-PM-1024x292.png" caption="My current landing page" >}}
+{{< figure src="Screen-Shot-2020-07-09-at-11.29.43-PM-1024x292.png" caption="My current landing page"  link="/posts/persona-standalone-sub-site-using-wordpress-backend/Screen-Shot-2020-07-09-at-11.29.43-PM.png">}}
 
-{{< figure src="Screen-Shot-2020-07-09-at-11.31.00-PM-1024x404.png" caption="This is my current individual page. This is the same data that was rendered on the unlisted page." >}}
+{{< figure src="Screen-Shot-2020-07-09-at-11.31.00-PM-1024x404.png" caption="This is my current individual page. This is the same data that was rendered on the unlisted page."  link="/posts/persona-standalone-sub-site-using-wordpress-backend/Screen-Shot-2020-07-09-at-11.31.00-PM.png">}}
 
 ```
 persona |

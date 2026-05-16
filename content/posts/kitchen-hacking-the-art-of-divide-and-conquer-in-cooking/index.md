@@ -9,7 +9,7 @@ tags:
 
 This is a good technique I came across. If you have a large pan, you can work with separate ingredients cocooned in their own little zones.
 
-[![2015-02-21 12.46.19](2015-02-21-12.46.19.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/02/2015-02-21-12.46.19.jpg)
+[![2015-02-21 12.46.19](2015-02-21-12.46.19.jpg)](/posts/kitchen-hacking-the-art-of-divide-and-conquer-in-cooking/2015-02-21-12.46.19.jpg)
 
 In the picture above, the potato takes the longest time to cook, so it was placed first, once it was time for the carrots, the diced potato was collected in one of the corners (I speak as if a circular cross section has a corner!). It's the same with the ginger-tomato fry that was exposed to the heat afterwards.
 

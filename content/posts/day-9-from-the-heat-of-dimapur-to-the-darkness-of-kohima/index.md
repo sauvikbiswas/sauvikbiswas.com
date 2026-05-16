@@ -62,11 +62,11 @@ We finished our dinner at around 5:00 pm. By the time we were out of the restaur
 
 Kohima had that Christmas vibe in the air. The entire landscape looked like a backlit canopy with holes punched in (ref: [Wish You Were Here by Incubus](http://www.youtube.com/watch?v=8295rOMvtQI)). The following images don't do much justice. One has to see with ones own eyes.
 
-[![DSC02483_1600_1200](DSC02483_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02483_1600_1200.jpg)
+[![DSC02483_1600_1200](DSC02483_1600_1200.jpg)](/posts/day-9-from-the-heat-of-dimapur-to-the-darkness-of-kohima/DSC02483_1600_1200.jpg)
 
-[![DSC02486_1600_1200](DSC02486_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02486_1600_1200.jpg)
+[![DSC02486_1600_1200](DSC02486_1600_1200.jpg)](/posts/day-9-from-the-heat-of-dimapur-to-the-darkness-of-kohima/DSC02486_1600_1200.jpg)
 
-[![DSC02488_1600_1200](DSC02488_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02488_1600_1200.jpg)
+[![DSC02488_1600_1200](DSC02488_1600_1200.jpg)](/posts/day-9-from-the-heat-of-dimapur-to-the-darkness-of-kohima/DSC02488_1600_1200.jpg)
 
 ## The guys at BRO have a post-retirement career as copywriters
 

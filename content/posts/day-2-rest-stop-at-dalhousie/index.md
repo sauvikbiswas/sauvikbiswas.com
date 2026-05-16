@@ -76,10 +76,10 @@ There is a small Indo-Tibetan market nearby. Most shops were closed but some sou
 
 {{< figure src="DSC04754.jpg" caption="The kid finally managed to light up the wood. She said that her finals were over and when the school will open after three months, she will be in sixth grade." >}}
 
-On my way back, I stopped by the military displays near the exit of DPS campus. [![DSC04756](DSC04756.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04756.jpg)
+On my way back, I stopped by the military displays near the exit of DPS campus. [![DSC04756](DSC04756.jpg)](/posts/day-2-rest-stop-at-dalhousie/DSC04756.jpg)
 
-[![DSC04758](DSC04758.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04758.jpg)
+[![DSC04758](DSC04758.jpg)](/posts/day-2-rest-stop-at-dalhousie/DSC04758.jpg)
 
-[![DSC04760](DSC04760.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/12/DSC04760.jpg)
+[![DSC04760](DSC04760.jpg)](/posts/day-2-rest-stop-at-dalhousie/DSC04760.jpg)
 
 I spent some time sitting near a bench beside the tank and gazing at the amazingly clear sky before heading back to my hotel room.

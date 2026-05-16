@@ -41,11 +41,11 @@ Ha Long caves (on Monkey Island) are huge formations of stalactites and stalagmi
 
 Here are a few photographs of the stalactites and stalagmites.
 
-[![DSC04001](DSC04001.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04001.jpg)
+[![DSC04001](DSC04001.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04001.jpg)
 
-[![DSC04003](DSC04003.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04003.jpg)
+[![DSC04003](DSC04003.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04003.jpg)
 
-[![DSC03993](DSC03993.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC03993.jpg)
+[![DSC03993](DSC03993.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC03993.jpg)
 
 Phuong explained the turmoil of the families who lived in Ha Long bay. These families traditionally earned their livelihood from fishing, diving for pearls or catching shellfish. The ecological shift has caused the number of fishes to diminish over the years. Fifty years ago, a fisherman could catch tons of fish everyday. Nowadays, if they are lucky, they would get fifty kilos of fish. Often times they come back with much less. Government has been driving these families into the mainland by providing them with alternative employment and giving them places to stay. Government cites pollution and shift in ecosystem as the cause of this movement but true motives might be different. I might not be in a position to comment much about this third hand information.
 
@@ -53,17 +53,17 @@ Phuong explained the turmoil of the families who lived in Ha Long bay. These fam
 
 The anchoring point was about 45 mins from the Ha Long caves. The temperature was 37 degrees and humidity must have been about 90%. We sat on the corridor outside our room to grab some cool but humid breeze. En route, I came across many nice rock formations and scenic beauty.
 
-[![DSC04012](DSC04012.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04012.jpg)
+[![DSC04012](DSC04012.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04012.jpg)
 
-[![DSC04015](DSC04015.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04015.jpg)
+[![DSC04015](DSC04015.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04015.jpg)
 
-[![DSC04017](DSC04017.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04017.jpg)
+[![DSC04017](DSC04017.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04017.jpg)
 
-[![DSC04020](DSC04020.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04020.jpg)
+[![DSC04020](DSC04020.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04020.jpg)
 
 Interestingly, we also saw a vessel ferrying cars across the bay.
 
-[![DSC04024](DSC04024.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/06/DSC04024.jpg)
+[![DSC04024](DSC04024.jpg)](/posts/day-3-first-day-and-first-night-at-ha-long-bay/DSC04024.jpg)
 
 The crew members were busy playing Chinese chess and fishing. Some of them chilled out on the front deck with some local cigarettes.
 

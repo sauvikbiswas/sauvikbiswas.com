@@ -13,7 +13,7 @@ tags:
   - "tony-s-daniel"
 ---
 
-[![Batman R.I.P.](rip.jpg)](http://www.sauvikbiswas.com/wp-content/uploads/2013/11/rip.jpg)
+[![Batman R.I.P.](rip.jpg)](/posts/batman-r-i-p-an-exercise-in-deconstructing-batman-by-grant-morrison/rip.jpg)
 
 I find [_**Batman R.I.P**_](http://en.wikipedia.org/wiki/Batman_R.I.P.) to be intriguing. So much so, that I have read the trade paperback countless number of times. Yet, it is like bitter medicine to me. I can't get over the fact that the plot appears to be very jittery and full of unnecessary twists and turns. Maybe I find it too smart for its own good. [Grant Morrison](http://en.wikipedia.org/wiki/Grant_Morrison "Grant Morrison") is not the only one who has deconstructed Batman. I believe this trend started off with [Frank Miller](http://en.wikipedia.org/wiki/Frank_Miller_%28comics%29)'s [_**Year One**_](http://en.wikipedia.org/wiki/Batman:_Year_One). A prelude set in DC Universe #0 serves as a prologue to the events that span Batman #676-681. The trade paperback also collects two subsequent issues (Batman #682-683) as "Last Rites".
 
@@ -25,11 +25,11 @@ Eric Norris wrote a two part article on Grant Morrison's run of Batman (that inc
 
 No matter how weird the story is, the artwork by Tony S. Daniel is top notch. Some of the spreads will take your breath away. (Sorry for the reflective light, the pages are glossy)
 
-[![Batman R.I.P. Joker](rip_joker.jpg)](http://www.sauvikbiswas.com/wp-content/uploads/2013/11/rip_joker.jpg)
+[![Batman R.I.P. Joker](rip_joker.jpg)](/posts/batman-r-i-p-an-exercise-in-deconstructing-batman-by-grant-morrison/rip_joker.jpg)
 
-[![Batman R.I.P. Transform](rip_transform.jpg)](http://www.sauvikbiswas.com/wp-content/uploads/2013/11/rip_transform.jpg)
+[![Batman R.I.P. Transform](rip_transform.jpg)](/posts/batman-r-i-p-an-exercise-in-deconstructing-batman-by-grant-morrison/rip_transform.jpg)
 
-[![Batman R.I.P. Faint](rip_faint.jpg)](http://www.sauvikbiswas.com/wp-content/uploads/2013/11/rip_faint.jpg)
+[![Batman R.I.P. Faint](rip_faint.jpg)](/posts/batman-r-i-p-an-exercise-in-deconstructing-batman-by-grant-morrison/rip_faint.jpg)
 
 The covers were done by [Alex Ross](http://en.wikipedia.org/wiki/Alex_Ross "Alex Ross") - master of realistic artwork (Kingdom Come is one of the most gorgeous photo-realistic comics available). The trade paperback collects all the original covers and places them appropriately. he trade paperback also includes alternate covers drawn by Tony S. Daniel.
 

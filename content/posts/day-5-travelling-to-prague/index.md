@@ -20,10 +20,10 @@ It took about five hours to reach Prague from Munich. As the bus moved north, th
 
 The hostel was about twenty minutes walk from the Main Railway station. Before I could do anything, I needed to exchange some Euros into Czech Korunas. The exchange shops near the railway station charged a very high commission. I exchanged whatever bare minimum was necessary to last me until the next day. I will go to a different shop for my next exchange.
 
-{{< figure src="DSC5412-768x512.jpg" caption="Národní Museum (National Museum) at night." >}}
+{{< figure src="DSC5412-768x512.jpg" caption="Národní Museum (National Museum) at night."  link="/posts/day-5-travelling-to-prague/DSC5412.jpg">}}
 
-{{< figure src="DSC5407-768x512.jpg" caption="The park outside Church of Saint Ludmila hosted a big christmas market." >}}
+{{< figure src="DSC5407-768x512.jpg" caption="The park outside Church of Saint Ludmila hosted a big christmas market."  link="/posts/day-5-travelling-to-prague/DSC5407.jpg">}}
 
-{{< figure src="IMG_20181205_182806-768x576.jpg" caption="I had a very wintery dinner at the christmas maket— Glühwein and Goulash." >}}
+{{< figure src="IMG_20181205_182806-768x576.jpg" caption="I had a very wintery dinner at the christmas maket— Glühwein and Goulash."  link="/posts/day-5-travelling-to-prague/IMG_20181205_182806.jpg">}}
 
 I had not yet planned for anything in Prague. I was quite tired. I felt that the best was to go to sleep, wake up the next day and plan out the visits.

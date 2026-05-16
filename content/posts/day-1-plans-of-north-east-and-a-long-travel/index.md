@@ -24,9 +24,9 @@ At this point, I would like to introduce—or more aptly, re-introduce—two fri
 
 Arunachal had resumed its ILP services since the first of September. I applied for an eILP via [their official portal](https://www.arunachalilp.com/) in the morning of the fourth of December and received the approval the very same evening. After a nominal payment of INR 111, the link to download my eILP was activated. Arunachal issues ILP based on the districts one intends to visit. This would determine which checkpoints one can enter and exit through. I had applied for a permit that allowed me to travel through West Kameng and Tawang districts.
 
-{{< figure src="IMG_20201204_181405-1024x558.jpg" caption="I had decided to trim the number of things I would carry for the trip. This is my usual shot of things I had planned to carry for the trip arranged on a floor..." >}}
+{{< figure src="IMG_20201204_181405-1024x558.jpg" caption="I had decided to trim the number of things I would carry for the trip. This is my usual shot of things I had planned to carry for the trip arranged on a floor..."  link="/posts/day-1-plans-of-north-east-and-a-long-travel/IMG_20201204_181405.jpg">}}
 
-{{< figure src="IMG_20201204_224742-1024x954.jpg" caption="...and after they have been packed in the bags." >}}
+{{< figure src="IMG_20201204_224742-1024x954.jpg" caption="...and after they have been packed in the bags."  link="/posts/day-1-plans-of-north-east-and-a-long-travel/IMG_20201204_224742.jpg">}}
 
 ## Escaping Cities
 
@@ -40,11 +40,11 @@ The lack of social distancing and face masks was evident on the roads of Guwahat
 
 Guwahati ISBT was relatively empty. The pandemic had reduced tourism and inter-city movements. I booked a 10:30 am bus to Tezpur from the ASTC counter and bought some snacks to munch on during the trip before taking my seat in a relatively empty bus.
 
-{{< figure src="IMG_20201205_102210-1024x768.jpg" caption="Guwahati ISBT. Note the lack of din and hustle that is characteristic of such nodal ISBTs. Also note that no one is wearing face masks." >}}
+{{< figure src="IMG_20201205_102210-1024x768.jpg" caption="Guwahati ISBT. Note the lack of din and hustle that is characteristic of such nodal ISBTs. Also note that no one is wearing face masks."  link="/posts/day-1-plans-of-north-east-and-a-long-travel/IMG_20201205_102210.jpg">}}
 
 The bus reached [Tezpur ASTC bus stand](https://goo.gl/maps/WcGPm214nupKR4Fc6) at 3:30 pm.
 
-{{< figure src="IMG_20201206_172007-1024x768.jpg" caption="I took this image at around 5:00 pm. During winter season, sunset at Tezpur occurs at 4:00 pm." >}}
+{{< figure src="IMG_20201206_172007-1024x768.jpg" caption="I took this image at around 5:00 pm. During winter season, sunset at Tezpur occurs at 4:00 pm."  link="/posts/day-1-plans-of-north-east-and-a-long-travel/IMG_20201206_172007.jpg">}}
 
 Shared SUVs to Arunachal—namely, Bomdila, Dirang and Tawang can be booked from a private counter in the ASTC stand itself. These vehicles depart between 5:30 am and 6:30 am in the morning. Thus, it was necessary for me to stay nearby. I booked a room at [Kriti Lodge](https://goo.gl/maps/VN4iLXEf4jCuMN9UA)—a shabby and cheap hotel adjacent to the ASTC stand. In hindsight, I wouldn't recommend the place unless you are on an extreme budget.
 

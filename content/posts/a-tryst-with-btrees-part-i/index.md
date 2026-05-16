@@ -34,7 +34,7 @@ One option is to traverse through multiple layers of an _m_\-ary tree, where eac
 
 B+Trees is an augmentation of B-Trees that connects one leaf node to the next one directly. It may seem trivial, but range-based queries are so ubiquitous that even MongoDB made a switch from B-Tree to B+Tree (WiredTiger) as its storage engine from version 3.2.
 
-{{< figure src="1-Vo1jqDg99frwUbXR_xV_tA-1024x713.webp" caption="[](https://sauvikbiswas.com/wp-content/uploads/2024/03/1-Vo1jqDg99frwUbXR_xV_tA.webp)[](https://sauvikbiswas.com/wp-content/uploads/2024/03/1-Vo1jqDg99frwUbXR_xV_tA.webp)Comparison between a B-Tree and a B+Tree. The connected leaves help with range queries. Image courtesy: [Gianluca](https://echo-bravo-fox.medium.com/formulae-for-b-tree-and-b-tree-in-db-f445fecc21d)" >}}
+{{< figure src="1-Vo1jqDg99frwUbXR_xV_tA-1024x713.webp" caption="[](https://sauvikbiswas.com/wp-content/uploads/2024/03/1-Vo1jqDg99frwUbXR_xV_tA.webp)[](https://sauvikbiswas.com/wp-content/uploads/2024/03/1-Vo1jqDg99frwUbXR_xV_tA.webp)Comparison between a B-Tree and a B+Tree. The connected leaves help with range queries. Image courtesy: [Gianluca](https://echo-bravo-fox.medium.com/formulae-for-b-tree-and-b-tree-in-db-f445fecc21d)"  link="/posts/a-tryst-with-btrees-part-i/1-Vo1jqDg99frwUbXR_xV_tA.webp">}}
 
 ## Studying B+Tree algorithm
 

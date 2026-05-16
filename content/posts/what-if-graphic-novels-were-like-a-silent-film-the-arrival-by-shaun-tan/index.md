@@ -10,7 +10,7 @@ tags:
   - "the-arrival"
 ---
 
-[![the_arrival](the_arrival-225x300.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/12/the_arrival.jpg)
+[![the_arrival](the_arrival-225x300.jpg)](/posts/what-if-graphic-novels-were-like-a-silent-film-the-arrival-by-shaun-tan/the_arrival.jpg)
 
 I got hold of [_**The Arrival**_](https://www.goodreads.com/book/show/920607.The_Arrival) back when it was released in 2007. I knew _a priori_ that there were no recognisable words in the book. What I wasn't prepared for was the sheer awesomeness of the book. [**Shaun Tan**](http://en.wikipedia.org/wiki/Shaun_Tan) was able to create something that partly pushed the boundaries of the medium itself - or to be more apt, he reinvented the classic form of graphic storytelling that has been used to adore countless houses, tombs and religious monuments since human beings existed.
 
@@ -20,7 +20,7 @@ The Arrival is a gorgeous book. The artwork is almost exclusively done in pencil
 
 There are many places where Mr. Tan uses small mundane snippets arranged in an order to denote passage of time. These may be clouds that the protagonist observes through the peephole of a sailing ship or the phases of an unknown plant gracing a spread.
 
-[![DSC01203](DSC01203.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01203.jpg)
+[![DSC01203](DSC01203.jpg)](/posts/what-if-graphic-novels-were-like-a-silent-film-the-arrival-by-shaun-tan/DSC01203.jpg)
 
 Shaun Tan also uses hues to denote the warmth or coldness of the environment. The above panel is a good example of this technique. The snow clad sceneries are devoid of sepia tones while the sepia in blazing factory scenes and hot summer border on amber.
 
@@ -32,7 +32,7 @@ At it's heart, the book is about immigration. The nameless protagonist, modelled
 
 The protagonist himself escapes a strange corrupting Dragon's shadow that lurks in his homeland. He also interacts with a person who has escaped a Holocaust like scenario, an old person who was physically handipped by a waging war in his homeland, and a teenager who escaped slavery. While these depictions may have strong ties to real life events, the absence of words forces the reader to interprete these harrowing events with their own experience and knowledge.
 
- [![DSC01196](DSC01196.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01196.jpg)[![DSC01197](DSC01197.jpg) ](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01197.jpg)[![DSC01199](DSC01199.jpg) ](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01199.jpg)[![DSC01202](DSC01202.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01202.jpg)
+ [![DSC01196](DSC01196.jpg)](/posts/what-if-graphic-novels-were-like-a-silent-film-the-arrival-by-shaun-tan/DSC01196.jpg)[![DSC01197](DSC01197.jpg) ](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01197.jpg)[![DSC01199](DSC01199.jpg) ](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01199.jpg)[![DSC01202](DSC01202.jpg)](/posts/what-if-graphic-novels-were-like-a-silent-film-the-arrival-by-shaun-tan/DSC01202.jpg)
 
 Mr. Tan uses an imaginary script, strange animals, unusual objects and even stranger monuments to depict the universality of feelings and interactions between human beings and their surroundings in an alien land. Mr. Tan himself admits that the migration hub has been influenced by New York of early 1900s. The reaction to huge strange statues at the port might be an indication of how the immigrants back then felt about The Statue of Liberty.
 
@@ -40,7 +40,7 @@ Mr. Tan uses an imaginary script, strange animals, unusual objects and even stra
 
 The book itself has a very happy ending. There are a few pages near the end that mirror the opening sequences. While the functionality of the objects remain the same, the objects themselves have different shapes, sizes, mechanisms, etc.
 
-[![DSC01201](DSC01201.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01201.jpg) [![DSC01200](DSC01200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2013/12/DSC01200.jpg)
+[![DSC01201](DSC01201.jpg)](/posts/what-if-graphic-novels-were-like-a-silent-film-the-arrival-by-shaun-tan/DSC01201.jpg) [![DSC01200](DSC01200.jpg)](/posts/what-if-graphic-novels-were-like-a-silent-film-the-arrival-by-shaun-tan/DSC01200.jpg)
 
 The reader will note the changes in origamis (bird vs the strange pet), the vegetables, the clock mechanism, the cutlary as well as the vibe (tone, warmth, etc.) once the transition is complete.
 

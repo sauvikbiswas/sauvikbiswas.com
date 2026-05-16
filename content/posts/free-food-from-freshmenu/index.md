@@ -31,4 +31,4 @@ By the time I was done with my bowl, I got another call from a third Freshmenu d
 
 I was already full. I did not have the appetite for another bowl. Instead, I packed it for dinner. Well, it tasted pretty good with some mini _papad_.
 
-[![IMG_20160811_195239](IMG_20160811_195239.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/IMG_20160811_195239.jpg)
+[![IMG_20160811_195239](IMG_20160811_195239.jpg)](/posts/free-food-from-freshmenu/IMG_20160811_195239.jpg)

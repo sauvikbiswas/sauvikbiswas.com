@@ -12,7 +12,7 @@ tags:
 coverImage: "Cover.jpg"
 ---
 
-[![banner](banner.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/06/banner.jpg)
+[![banner](banner.jpg)](/posts/one-last-step-publishing-long-way-from-home/banner.jpg)
 
 Making music is one thing and getting it out is a whole different beast. After a two year long ordeal of finalising the album, conformity comes into play.
 
@@ -24,7 +24,7 @@ A long time ago, I had [written a post](http://54uv1k.blogspot.in/2013/12/making
 
 We printed up the singles cover, packaged everything and mailed it via speed post.
 
-[![10001426_10154061163040720_2583380342181146791_n](10001426_10154061163040720_2583380342181146791_n.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/06/10001426_10154061163040720_2583380342181146791_n.jpg)
+[![10001426_10154061163040720_2583380342181146791_n](10001426_10154061163040720_2583380342181146791_n.jpg)](/posts/one-last-step-publishing-long-way-from-home/10001426_10154061163040720_2583380342181146791_n.jpg)
 
 As luck would have had it, the mail never reached the intended recipient! We did not know about it until about a month from the dispatch date. We had to re-mail the package - this time without the nice artwork.
 
@@ -72,14 +72,14 @@ One of the ideas that came up was that the phrase 'Long Way From Home' may mean 
 
 I have a soft corner for acrylic. The cover art was painted with acrylic and permanent marker on canvas.
 
-[![1796914_10154189423810720_130068826830848726_o](1796914_10154189423810720_130068826830848726_o.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/06/1796914_10154189423810720_130068826830848726_o.jpg)
+[![1796914_10154189423810720_130068826830848726_o](1796914_10154189423810720_130068826830848726_o.jpg)](/posts/one-last-step-publishing-long-way-from-home/1796914_10154189423810720_130068826830848726_o.jpg)
 
 A bit of post processing yielded the final version of the cover.
 
-[![Cover](Cover.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/06/Cover.jpg)
+[![Cover](Cover.jpg)](/posts/one-last-step-publishing-long-way-from-home/Cover.jpg)
 
 ## Making the booklet and publishing the music
 
 The booklet was the simplest thing to make. Once everything was done, we uploaded it to OneRPM for [iTunes](https://itunes.apple.com/in/album/long-way-from-home/id890047546). Google Play and Amazon. Our trusted [Bandcamp store](http://darkproject.bandcamp.com/album/long-way-from-home) also has the album for those who wish to get the HQ version of the album. iTunes and Bandcamp stores also have full booklet on download of the entire album. We have thanked a lot of people. See if your name is there (You'll have to purchase the album though :D).
 
-[![inside_spread](inside_spread.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/06/inside_spread.jpg)
+[![inside_spread](inside_spread.jpg)](/posts/one-last-step-publishing-long-way-from-home/inside_spread.jpg)

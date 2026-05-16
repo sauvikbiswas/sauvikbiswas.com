@@ -19,19 +19,19 @@ Urgeling is about 5 kms from Old Market. There is a board at the entrance of the
 
 The name of the village and the monastery comes from its founder—Ugyen Zangpo. Urgeling is a corruption of Ugyenling that must have happened during transliteration from Tibetan. Built around 1487, the monastery is famous for being the birthplace of the 6th Dalai Lama—[Tsangyang Gyatso](https://en.wikipedia.org/wiki/6th_Dalai_Lama)—who was born three centuries later in 1683 to a direct decedent of Ugyen Zangpo.
 
-{{< figure src="DSC07092-1024x683.jpg" caption="Urgeling Monastry. The prayer hall is on the first floor. The entrance on the ground floor (right) leads to the chapel of protective deities along with a series of chortens." >}}
+{{< figure src="DSC07092-1024x683.jpg" caption="Urgeling Monastry. The prayer hall is on the first floor. The entrance on the ground floor (right) leads to the chapel of protective deities along with a series of chortens."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07092.jpg">}}
 
 The prayer hall was one of the most peaceful places I had sat on during the entire trip. I cannot pin-point what it was but the solitude, the clean wooden floors, the warm sunlight and the cold breeze coming in through the windows definitely contributed to that feeling.
 
-{{< figure src="DSC07086-1024x683.jpg" caption="Urgeling Monastery's main prayer hall." >}}
+{{< figure src="DSC07086-1024x683.jpg" caption="Urgeling Monastery's main prayer hall."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07086.jpg">}}
 
 I stirred up a conversation with Lama Chimpa who was cleaning the windowpanes of the prayer hall. At my time of visit there were three lamas stationed at Urgeling. Lamas from Tawang Monastery are sent there for two or three years for learning, performing rituals and maintaining the monastery. Lama Chimpa had been there for over two-and-a-half years and would leave for Tawang Monastery in a couple of months. Someone else would take his place.
 
-{{< figure src="DSC07088-1024x683.jpg" caption="Lama Chimpa cleaned the windowpanes and conversed with me while I sat on the floors of the prayer hall." >}}
+{{< figure src="DSC07088-1024x683.jpg" caption="Lama Chimpa cleaned the windowpanes and conversed with me while I sat on the floors of the prayer hall."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07088.jpg">}}
 
-{{< figure src="DSC07090-683x1024.jpg" caption="Gyalwa Tsangyang Gyatso—the 6th Dalai Lama. The prayer hall had paintings of all the Dalai Lamas including..." >}}
+{{< figure src="DSC07090-683x1024.jpg" caption="Gyalwa Tsangyang Gyatso—the 6th Dalai Lama. The prayer hall had paintings of all the Dalai Lamas including..."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07090.jpg">}}
 
-{{< figure src="DSC07089-1024x683.jpg" caption="...the current one, Tenzing Gyatso—the 14th Dalai Lama" >}}
+{{< figure src="DSC07089-1024x683.jpg" caption="...the current one, Tenzing Gyatso—the 14th Dalai Lama"  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07089.jpg">}}
 
 ## Manjushree Vidyapith
 
@@ -39,11 +39,11 @@ Lama Chimpa showed me the building of Manjushree that was visible through the fo
 
 Since the school is not marked on Google Maps, here are the coordinates: [27°35'03.1"N 91°52'41.0"E](https://goo.gl/maps/PCDbYkCtoQ6jQarT9)
 
-{{< figure src="DSC07109-1024x683.jpg" caption="Manjushree Vidhyapith School Building." >}}
+{{< figure src="DSC07109-1024x683.jpg" caption="Manjushree Vidhyapith School Building."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07109.jpg">}}
 
-{{< figure src="DSC07110-1024x683.jpg" caption="The living quarters of Manjushree Orphanage. The construction on the roof is for a place to dry clothes during rainy season as well as a greenhouse. There is also a football field below." >}}
+{{< figure src="DSC07110-1024x683.jpg" caption="The living quarters of Manjushree Orphanage. The construction on the roof is for a place to dry clothes during rainy season as well as a greenhouse. There is also a football field below."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07110.jpg">}}
 
-{{< figure src="DSC07111-1024x683.jpg" caption="Sarasvati—the goddess of wisdom and learning in Hinduism—is worshiped in Tibetan Buddhism, too." >}}
+{{< figure src="DSC07111-1024x683.jpg" caption="Sarasvati—the goddess of wisdom and learning in Hinduism—is worshiped in Tibetan Buddhism, too."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07111.jpg">}}
 
 Manjushree is run by Lama Thupten Phuntsok. It is a school and an orphanage that he had set up. He has come a long way from the humble beginnings of 1998 when he had established Manjushree with 18 kids from the region. For his social work, he was awarded the prestigious Padma Shree in 2007. For more information, [there is an informative article](http://www.stewardshipreport.com/lama-thupten-phuntsok-tibetan-monks-life-outside-monastery/) by Jim Luce oh the background and current work of Lama Thupten Phuntsok.
 
@@ -57,15 +57,15 @@ I wasn't able to meet the orphans. I really wanted to meet them to get a first-h
 
 I did meet the headmaster—Amar Gurung—and the teachers along with the their children. They were the only ones in the school. I took a number of photos of them. A couple of the kids were interested in my camera—it was fun to watch them pose for a photo and make strange noises as if the noises would be captured in the still photograph.
 
-{{< figure src="DSC07095-1024x683.jpg" caption="The teacher's kids in a classroom. The other classrooms were closed as no formal classes were being held during the pandemic." >}}
+{{< figure src="DSC07095-1024x683.jpg" caption="The teacher's kids in a classroom. The other classrooms were closed as no formal classes were being held during the pandemic."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07095.jpg">}}
 
-{{< figure src="DSC07097-1024x683.jpg" caption="The teachers of Manjushree. The one on the right of Lama Thupten is the headmaster—Amar Gurung." >}}
+{{< figure src="DSC07097-1024x683.jpg" caption="The teachers of Manjushree. The one on the right of Lama Thupten is the headmaster—Amar Gurung."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07097.jpg">}}
 
-{{< figure src="DSC07098-1024x683.jpg" caption="It was hard to have the kids pose for the camera." >}}
+{{< figure src="DSC07098-1024x683.jpg" caption="It was hard to have the kids pose for the camera."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07098.jpg">}}
 
-{{< figure src="DSC07101-1024x682.jpg" caption="Kids were interested in seeing how my phone acted as a viewfinder and remote for my camera." >}}
+{{< figure src="DSC07101-1024x682.jpg" caption="Kids were interested in seeing how my phone acted as a viewfinder and remote for my camera."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07101.jpg">}}
 
-{{< figure src="DSC07107-1024x682.jpg" caption="The kids loved posing for the camera. They were unlike the camera-shy young lamas I met during my trip." >}}
+{{< figure src="DSC07107-1024x682.jpg" caption="The kids loved posing for the camera. They were unlike the camera-shy young lamas I met during my trip."  link="/posts/day-5-urgeling-monastery-and-manjushree-vidyapith/DSC07107.jpg">}}
 
 After a couple of hours, I bid farewell to Lama Thupten and the teachers. He asked his driver to drop me off.
 

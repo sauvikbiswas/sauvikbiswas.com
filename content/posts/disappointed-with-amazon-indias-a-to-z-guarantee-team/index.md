@@ -12,7 +12,7 @@ tags:
 
 Let me start with a super-short version of the order. I had ordered a book from a seller who was covered by Amazon's A-to-Z buyer's guarantee. It was supposed to reach me by 13th but it did not. The seller had also shared a tracking id. Sadly, it never worked.
 
-{{< figure src="Screenshot-2017-07-22-00.39.09-768x300.png" caption="Try it yourself. Ref: 20035152141" >}}
+{{< figure src="Screenshot-2017-07-22-00.39.09-768x300.png" caption="Try it yourself. Ref: 20035152141"  link="/posts/disappointed-with-amazon-indias-a-to-z-guarantee-team/Screenshot-2017-07-22-00.39.09.png">}}
 
 A kind customer rep asked me to file a guarantee claim. In fact, she did that on my behalf. What was supposed to be a simple solution to a problem turned into a long, painful and exhausting situation for me. But, little did I know about it then.
 
@@ -78,7 +78,7 @@ I wrote back to the seller
 
 The problem remained the same, I asked the seller a few more times for a working tracking id, but they selectively chose not to answer that question.
 
-Interestingly, the seller's recent ratings have plummeted to a near 50:50 good-is-to-bad ratio. ![](Screenshot-2017-07-25-00.23.14-768x327.png)
+Interestingly, the seller's recent ratings have plummeted to a near 50:50 good-is-to-bad ratio. [![](Screenshot-2017-07-25-00.23.14-768x327.png)](/posts/disappointed-with-amazon-indias-a-to-z-guarantee-team/Screenshot-2017-07-25-00.23.14.png)
 
 By this time I had already received another claim denied from the guarantee team.
 
@@ -109,7 +109,7 @@ I will summarise my troubles so far here -
 > 
 > _That claim has been reopened and closed twice even after giving them concrete evidences including a screenshot of tracking number that doesn't work, the seller himself admitting that it is in transit and my correspondence with the seller where he has refused to give me a correct tracking id._
 
-By the way, for all I know, this is what my order page looks like: ![](Screenshot-2017-07-25-00.11.31-768x432.png) Even their page shows that the package is not delivered!
+By the way, for all I know, this is what my order page looks like: [![](Screenshot-2017-07-25-00.11.31-768x432.png)](/posts/disappointed-with-amazon-indias-a-to-z-guarantee-team/Screenshot-2017-07-25-00.11.31.png) Even their page shows that the package is not delivered!
 
 ## Jeff Bezos to the rescue?
 

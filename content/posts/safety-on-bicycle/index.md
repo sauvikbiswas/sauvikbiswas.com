@@ -9,7 +9,7 @@ tags:
   - "safety"
 ---
 
-After reading through the pages of a manga called Noririn, I was convinced that I should buy a helmet. So, after two years of owning my Schwinn, I decided to buy a helmet. [![2014-10-20 21.17.30](2014-10-20-21.17.30.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/10/2014-10-20-21.17.30.jpg)
+After reading through the pages of a manga called Noririn, I was convinced that I should buy a helmet. So, after two years of owning my Schwinn, I decided to buy a helmet. [![2014-10-20 21.17.30](2014-10-20-21.17.30.jpg)](/posts/safety-on-bicycle/2014-10-20-21.17.30.jpg)
 
 Here are my tips for riding safe on the roads of Bangalore (or any city for that matter).
 
