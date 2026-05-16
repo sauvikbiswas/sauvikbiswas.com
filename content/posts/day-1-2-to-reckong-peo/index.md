@@ -14,7 +14,7 @@ It took me thirty-three hours to reach Reckong Peo! I left my house at 7:00 AM y
 
 It was raining heavily outside. The weather report on my phone showed that the temperature was twenty-six degrees. It didn't feel like so. The humidity made me uncomfortable. The rains forced me to stay indoors. I had a badly prepared plate of _Rajma-Chawal_ (kidney beans and rice); post which I had not else to do but observe the crowd for the next five hours. My bus to Reckong Peo was scheduled at 8:00 PM.
 
-{{< figure src="IMG_20190727_185522-1024x768.jpg" caption="The general commotion and lack of cleanliness at ISBT." >}}
+{{< figure src="IMG_20190727_185522-1024x768.jpg" caption="The general commotion and lack of cleanliness at ISBT."  link="/posts/day-1-2-to-reckong-peo/IMG_20190727_185522.jpg">}}
 
 The HRTC (Himachal Pradesh Road Transport Corporation) bus arrived on time. I had a plate of Maggi before boarding the bus. I don't like Maggi anymore but that's the best thing I could have had at that point, not knowing when I'll be able to have my next meal. I bought a packet of biscuits to take care of any emergencies.
 
@@ -28,9 +28,9 @@ The orderly reservation based seating and uninterrupted stretches of long distan
 
 The bus stopped at two places on either side of Rampur for breakfast and lunch. The bus halted at Rampur for over half and hour. Earlier this week a colleague had shared a picture of the Rampur–Peo road closed due to a landslide. I believe it was right after Kinnaur gate. Thankfully, BRO had cleared up most of the road. The whole stretch of the road between Rampur and Kinnaur Gate was also being widened.
 
-{{< figure src="IMG_20190728_103848-1024x768.jpg" caption="Rampur bus stand. The bus was early to this place and waited for over half an hour. Buses in Himachal are usually very punctual at major bus stands." >}}
+{{< figure src="IMG_20190728_103848-1024x768.jpg" caption="Rampur bus stand. The bus was early to this place and waited for over half an hour. Buses in Himachal are usually very punctual at major bus stands."  link="/posts/day-1-2-to-reckong-peo/IMG_20190728_103848.jpg">}}
 
-{{< figure src="Kinnaur-Gate-Landslide-1024x768.jpg" caption="Road being cleared of rubble and rebuilt after Kinnaur Gate. (Inset) The photograph of the landslide that my colleague had shared earlier this week." >}}
+{{< figure src="Kinnaur-Gate-Landslide-1024x768.jpg" caption="Road being cleared of rubble and rebuilt after Kinnaur Gate. (Inset) The photograph of the landslide that my colleague had shared earlier this week."  link="/posts/day-1-2-to-reckong-peo/Kinnaur-Gate-Landslide.jpg">}}
 
 For most part, the ride was alongside Sutlej river. As the bus moved farther towards Reckong Peo, the density of settlements visibly thinned out. The green slopes were intermittently interjected by the sights of military barracks.
 
@@ -40,4 +40,4 @@ I didn't realise how tired I was until I lay on the bed. I slept for over four h
 
 I chatted up with Shravan, the caretaker and the resident cook, as he warmed up some food for my dinner. _Rajma-Chawal_ seems to be some sort of staple in this region. He served me some potato-peas curry, too. Shravan works in Reckong Peo only during the tourist season—June to November. He explained me about the various kinds of tourists he meets during various timeframes. June and July is the time for motorbike-packers. They had all moved ahead or had completed the trip. This was a down time as monsoons at Shimla and Manali had chocked up the tourist inflow. The season would pick-up once again after August. In October, the area sees a surge of Bengalis who cash-in on their Durga Puja vacation. After that, once the season is over, he would move back to his village as work as a contract farmer in someone's apple orchards.
 
-{{< figure src="DSC06065-1024x683.jpg" caption="Shravan wears multiple hats during the tourist season. Apart from being a cook and hotel caretaker, he also arranges trekking in Kinnaur region and tells supernatural stories from the local lore." >}}
+{{< figure src="DSC06065-1024x683.jpg" caption="Shravan wears multiple hats during the tourist season. Apart from being a cook and hotel caretaker, he also arranges trekking in Kinnaur region and tells supernatural stories from the local lore."  link="/posts/day-1-2-to-reckong-peo/DSC06065.jpg">}}

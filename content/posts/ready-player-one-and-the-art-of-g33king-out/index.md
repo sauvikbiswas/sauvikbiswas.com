@@ -15,7 +15,7 @@ coverImage: "DSC01545.jpg"
 
 _Ready Player One_ is a dystopian, science fiction novel by Ernest Cline. I had picked this title up on a whim after I had read the blurb on a Goodreads list. If you call yourself a geek, and come across a text like this, how can you not resist?
 
-[![dsc01543](DSC01543.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01543.jpg)
+[![dsc01543](DSC01543.jpg)](/posts/ready-player-one-and-the-art-of-g33king-out/DSC01543.jpg)
 
 ## My connection with this book
 

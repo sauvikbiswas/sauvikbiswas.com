@@ -18,7 +18,7 @@ coverImage: "ornoir.jpg"
 Of all the albums of Tintin, _**Land of Black Gold**_ remains the sketchiest book in my opinion. When I was a kid, I read this in Bengali and never got my head around many things that were happening in the story. I enjoyed the parts where the Thompsons were lost in the desert and the most of the second half where Tintin invades Dr. Muller's stronghold and confronts the gang. It was not until my early 20s that I found out why the story is so scratchy in the first place.
 
 ## 
-[![tintin-lobg-cover](tintin-lobg-cover-745x1024.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/04/tintin-lobg-cover.jpg)
+[![tintin-lobg-cover](tintin-lobg-cover-745x1024.jpg)](/posts/tintin-land-of-the-black-gold/tintin-lobg-cover.jpg)
 
 It turns out that there are four versions of this album. The first one, published in Le Petit Vingtième from 1939, was in black and white. This serialisation began immediately after the serialisation of King Ottokar's Sceptre.
 
@@ -48,11 +48,11 @@ Tintin is captured and taken to Khemed because of documents that were planted in
 
 In the album, the first half is densely packed with events - a hallmark of earlier Tintin albums. There are also quite a few panels devoted to the Thompsons and their antics. I found their misadventures in the desert quite funny. They end up rescuing Tintin from the desert.
 
-{{< figure src="tintin-lobg-p1-1024x703.jpg" caption="Wow! A tank of petrol? In the desert? This is divine luck." >}}
+{{< figure src="tintin-lobg-p1-1024x703.jpg" caption="Wow! A tank of petrol? In the desert? This is divine luck."  link="/posts/tintin-land-of-the-black-gold/tintin-lobg-p1.jpg">}}
 
 The second half is more action oriented. Muller kidnaps amir's son, Abdullah, and threatens him. Tintin, with the help of Oliviera de Figuera, invades Muller's stronghold to rescue Abdullah. The pacing and the narrative is more reminiscent of Hergé's later albums, like Prisoners of the Sun.
 
-{{< figure src="tintin-lobg-p2-687x1024.jpg" caption="Captain Haddock finally manages to show up on page 54." >}}
+{{< figure src="tintin-lobg-p2-687x1024.jpg" caption="Captain Haddock finally manages to show up on page 54."  link="/posts/tintin-land-of-the-black-gold/tintin-lobg-p2.jpg">}}
 
 ## A tale of two storytellers
 
@@ -62,7 +62,7 @@ What starts out as a political conspiracy, ends in a very personal fight between
 
 Over the years Hergé had become more tolerant and considerate towards other ethnic groups and cultures. As such Land of Black Gold remains a tad bit offensive in nature - mostly because of the contribution of the prejudiced Hergé of the 1940s.
 
-{{< figure src="tintin-lobg-p3-710x1024.jpg" caption="This entire page might be offensive to Muslims. Even the updated 70s version couldn't get rid of many such offensive panels present in the first half of the story." >}}
+{{< figure src="tintin-lobg-p3-710x1024.jpg" caption="This entire page might be offensive to Muslims. Even the updated 70s version couldn't get rid of many such offensive panels present in the first half of the story."  link="/posts/tintin-land-of-the-black-gold/tintin-lobg-p3.jpg">}}
 
 ## A final word about this book
 

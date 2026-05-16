@@ -16,7 +16,7 @@ For the sake of privacy, I will not put up the photographs from the activities a
 
 There were a lot of dogs in the premises. There was at least one Husky and one Saint Bernard. Since both breeds are native to colder (Arctic) climates, I do not know how they were coping up with the weather of Bangalore. As such both of them were pretty docile and sleepy.
 
-[![dsc01656](DSC01656.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01656.jpg) [![dsc01762](DSC01762.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01762.jpg)
+[![dsc01656](DSC01656.jpg)](/posts/an-annual-outing-and-some-thoughts-on-photography/DSC01656.jpg) [![dsc01762](DSC01762.jpg)](/posts/an-annual-outing-and-some-thoughts-on-photography/DSC01762.jpg)
 
 The group had some fun dancing to songs that were blasted through speakers stationed at the DJ booth. A few of our colleagues asked them to play some Tamil peppy numbers. They refused. I guess this has to do with the recent acts of hostility towards Tamilians by Kannadigas triggered by the Cauvery water issue. (On a side note, en route, I saw a few lorries that had partially blackened their number plate in order to hide the 'TN' prefix of their registration numbers.)
 

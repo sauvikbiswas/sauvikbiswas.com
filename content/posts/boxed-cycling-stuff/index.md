@@ -27,7 +27,7 @@ One of my colleagues, Dhananjay Deshmukh (a tech enthusiast in general and an a
 
 I had the mount of [my stolen bike light](/posts/theft-of-bicycle-accessories-from-my-office-parking-lot/). I unscrewed the top channel. And lo and behold! I was left with the nicest bike mount for the Mobius cam. Two zip ties did the rest of the job.
 
-[![DSC01492](DSC01492.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/09/DSC01492.jpg)
+[![DSC01492](DSC01492.jpg)](/posts/boxed-cycling-stuff/DSC01492.jpg)
 
 I mounted it on the handlebar and took some sample videos. The quality is pretty good. I will swap out Dhananjay's 2 GB MicroSD card with a spare 16 GB one lying somewhere in my boxes. That would give me some extra minutes of footage.
 

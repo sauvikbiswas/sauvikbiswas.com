@@ -10,7 +10,7 @@ This album took about three years of on and off hard labour - often in bursts. A
 
 I had this sheet up on my walls for about two years now.
 
-[![sheet_n](sheet_n.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/05/sheet_n.jpg)
+[![sheet_n](sheet_n.jpg)](/posts/engineering-and-mixing-dark-projects-new-album-long-way-from-home/sheet_n.jpg)
 
 ## The Cursed Recording Process
 

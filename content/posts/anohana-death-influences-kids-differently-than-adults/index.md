@@ -16,7 +16,7 @@ tags:
 
 [_**AnoHana**_](http://en.wikipedia.org/wiki/Anohana:_The_Flower_We_Saw_That_Day) (short for _Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai - We still do not know the name of the flower we saw that day_) is a very touching drama. Like all other kids, there were six kids who are the central characters to the story. Like all other kids they made a small secret group and called themselves Super Peaceful Busters. Like all other kids they had a secret hideout where they met and planned to save the world. Until that day, when one among them died and their friendships started to drift apart.
 
-[![vlcsnap-2013-12-01-22h09m34s45](vlcsnap-2013-12-01-22h09m34s45.png)](http://sauvikbiswas.com/wp-content/uploads/2013/12/vlcsnap-2013-12-01-22h09m34s45.png) [![vlcsnap-2013-12-01-22h11m06s129](vlcsnap-2013-12-01-22h11m06s129.png)](http://sauvikbiswas.com/wp-content/uploads/2013/12/vlcsnap-2013-12-01-22h11m06s129.png)
+[![vlcsnap-2013-12-01-22h09m34s45](vlcsnap-2013-12-01-22h09m34s45.png)](/posts/anohana-death-influences-kids-differently-than-adults/vlcsnap-2013-12-01-22h09m34s45.png) [![vlcsnap-2013-12-01-22h11m06s129](vlcsnap-2013-12-01-22h11m06s129.png)](/posts/anohana-death-influences-kids-differently-than-adults/vlcsnap-2013-12-01-22h11m06s129.png)
 
 _(L to R) Poppo, Anaru, Jintan, Menma, Yukiatsu and Tsuruko_
 
@@ -30,7 +30,7 @@ One by one, the other kids - Poppo, Anaru, Yukiatsu and Tsuruko - come to terms 
 
 The animation is very well done by [A-1 pictures](http://en.wikipedia.org/wiki/A-1_Pictures). The flashback scenes involving their childhood have a haziness to them which contrasts well with the sharp animation that is used to depict the present day.
 
-[![vlcsnap-2013-12-01-22h18m46s204](vlcsnap-2013-12-01-22h18m46s204.png)](http://sauvikbiswas.com/wp-content/uploads/2013/12/vlcsnap-2013-12-01-22h18m46s204.png) [![vlcsnap-2013-12-01-22h21m07s85](vlcsnap-2013-12-01-22h21m07s85.png)](http://sauvikbiswas.com/wp-content/uploads/2013/12/vlcsnap-2013-12-01-22h21m07s85.png)
+[![vlcsnap-2013-12-01-22h18m46s204](vlcsnap-2013-12-01-22h18m46s204.png)](/posts/anohana-death-influences-kids-differently-than-adults/vlcsnap-2013-12-01-22h18m46s204.png) [![vlcsnap-2013-12-01-22h21m07s85](vlcsnap-2013-12-01-22h21m07s85.png)](/posts/anohana-death-influences-kids-differently-than-adults/vlcsnap-2013-12-01-22h21m07s85.png)
 
 I am usually ambivalent to opening and ending titles of anime. However, I was hooked to the OP (_Aoi Shiori - Blue Bookmark_ by Galileo Galilei) and ED (_Secret Base: Kimi ga Kureta Mono - What you Gave Me_ by Ai Kayano, Haruka Tomatsu, and Saori Hayami - the voice actresses of the girls in the series) in this case and never skipped them. Somehow they suited the tone of the series. So was the ambient piano work throughout the series. It managed to support yet never overpowered the scenes with an unnecessary emotional soundtrack.
 

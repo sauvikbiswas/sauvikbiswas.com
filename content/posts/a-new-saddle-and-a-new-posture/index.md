@@ -55,7 +55,7 @@ On my way back I paid a visit to my school friend Nabyendu. His parents stay wit
 
 He let me borrow this book from him:
 
-[![DSC01268](DSC01268-e1471801028318.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/DSC01268-e1471801028318.jpg)
+[![DSC01268](DSC01268-e1471801028318.jpg)](/posts/a-new-saddle-and-a-new-posture/DSC01268-e1471801028318.jpg)
 
 I have watched many documentaries featuring [Ed Viesturs](https://en.wikipedia.org/wiki/Ed_Viesturs). He is a legend. One of his most prominent appearances is the Everest IMAX documentary that chronicled the infamous [1996 Everest disaster](https://en.wikipedia.org/wiki/1996_Mount_Everest_disaster). By the way, Nabyendu also has a copy of John Krauker's _Into Thin Air_, one of the books that details the incident. In fact, of all the accounts of the disaster, Into Thin Air is the best.
 

@@ -11,7 +11,7 @@ At this point in time I have almost completed half of my novel. This constitutes
 
 The segments marked red are completed segments. I cannot truly say that they are completed. It's just that some events have been dished out to make the story flow.
 
-[![Screenshot 2015-11-12 23.47.38](Screenshot-2015-11-12-23.47.38.png)](http://sauvikbiswas.com/wp-content/uploads/2015/11/Screenshot-2015-11-12-23.47.38.png)
+[![Screenshot 2015-11-12 23.47.38](Screenshot-2015-11-12-23.47.38.png)](/posts/somewhat-crawling-to-the-half-way-point-on-nanowrimo/Screenshot-2015-11-12-23.47.38.png)
 
 There are few things that I have realised.
 

@@ -73,11 +73,11 @@ Kisama Heritage village must be buzzing with lots of people from all over India 
 
 Here are a few pictures of the tribal huts. These are [_morungs_](http://en.wikipedia.org/wiki/Naga_people#Morung_system) or bachelor huts. They serve as learning center for the young. Each tribe has a different style of hut and different decorations.
 
-[![DSC02555_1600_1200](DSC02555_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02555_1600_1200.jpg)
+[![DSC02555_1600_1200](DSC02555_1600_1200.jpg)](/posts/day-10-heritage-of-nagaland/DSC02555_1600_1200.jpg)
 
-[![DSC02557_1600_1200](DSC02557_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02557_1600_1200.jpg)
+[![DSC02557_1600_1200](DSC02557_1600_1200.jpg)](/posts/day-10-heritage-of-nagaland/DSC02557_1600_1200.jpg)
 
-[![DSC02558_1600_1200](DSC02558_1600_1200.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/12/DSC02558_1600_1200.jpg)
+[![DSC02558_1600_1200](DSC02558_1600_1200.jpg)](/posts/day-10-heritage-of-nagaland/DSC02558_1600_1200.jpg)
 
 For a deserted venue, it was pretty clean. Barring a small playground, where children occupied the slides, and a spot where two groups were having a picnic, there were no signs of human life.
 

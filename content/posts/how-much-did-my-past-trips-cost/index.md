@@ -17,13 +17,13 @@ I had computed the cost of my Kerala trip after I had completed it. For three of
 
 When I did my Vietnam trip with Nandy, I used a different approach towards tracking expenses. Since there was a conversion fee and a fee on each ATM withdrawal, we tried to minimise our transactions with the bank. In the end, this is how I had settled the expenses with my fellow travellers -
 
-[![Screenshot 2016-04-10 17.43.20](Screenshot-2016-04-10-17.43.20-300x196.png)](http://sauvikbiswas.com/wp-content/uploads/2016/04/Screenshot-2016-04-10-17.43.20.png)
+[![Screenshot 2016-04-10 17.43.20](Screenshot-2016-04-10-17.43.20-300x196.png)](/posts/how-much-did-my-past-trips-cost/Screenshot-2016-04-10-17.43.20.png)
 
 Sadly, this was exactly how I had tracked our finances. It doesn't say much but my individual expenditure was about 53,000 INR.
 
 When I had embarked on my Himachal trip, I made a point to note down my expenses in categories. These were, transport, food and supply, lodging and miscellaneous. A standard monthly planner template on my Mac came pretty handy in tracking cash exchanges. The spreadsheet looked like this -
 
-[![Screenshot 2016-04-10 17.48.18](Screenshot-2016-04-10-17.48.18.png)](http://sauvikbiswas.com/wp-content/uploads/2016/04/Screenshot-2016-04-10-17.48.18.png)
+[![Screenshot 2016-04-10 17.48.18](Screenshot-2016-04-10-17.48.18.png)](/posts/how-much-did-my-past-trips-cost/Screenshot-2016-04-10-17.48.18.png)
 
 There were a few places where I had used my credit card to pay for stuff. Tracking them from my December and January statements was easy. I had spent about 33,500 INR. Here is a summary, rounded off to hundreds -
 

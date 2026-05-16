@@ -35,8 +35,8 @@ Long story short, these tyres were bombproof enough to warrant two things. First
 Here are a few pictures after three years of usage.
  
 
-{{< figure src="IMG_20170310_084545-768x1024.jpg" caption="The front tyre tread." >}}
+{{< figure src="IMG_20170310_084545-768x1024.jpg" caption="The front tyre tread."  link="/posts/a-long-term-review-of-schwalbe-delta-cruiser/IMG_20170310_084545.jpg">}}
 
-{{< figure src="IMG_20170310_084623-768x1024.jpg" caption="The read tread. This has worn past the porous rubber (visible in the front tyres)." >}}
+{{< figure src="IMG_20170310_084623-768x1024.jpg" caption="The read tread. This has worn past the porous rubber (visible in the front tyres)."  link="/posts/a-long-term-review-of-schwalbe-delta-cruiser/IMG_20170310_084623.jpg">}}
 
-{{< figure src="IMG_20170310_084552-768x576.jpg" caption="In case you cant read the text, it says (or used to say) Schwalbe Delta Cruiser. In the background, Marathon Plus on my road bike is clearly visible." >}}
+{{< figure src="IMG_20170310_084552-768x576.jpg" caption="In case you cant read the text, it says (or used to say) Schwalbe Delta Cruiser. In the background, Marathon Plus on my road bike is clearly visible."  link="/posts/a-long-term-review-of-schwalbe-delta-cruiser/IMG_20170310_084552.jpg">}}

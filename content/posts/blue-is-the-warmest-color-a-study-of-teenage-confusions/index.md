@@ -19,11 +19,11 @@ Story-wise, it is very poignant. There is an underlying drift of melancholy. Jul
 
 The narrative ends when Clementine is ousted from her house at the age of seventeen—when her parents find out that she is a lesbian. The page following that is a montage of events that fast-forwards the timeline by thirteen years.
 
-{{< figure src="Screenshot-2019-04-23-22.20.52-747x1024.jpg" caption="From edge of seventeen to the boundaries of thirty." >}}
+{{< figure src="Screenshot-2019-04-23-22.20.52-747x1024.jpg" caption="From edge of seventeen to the boundaries of thirty."  link="/posts/blue-is-the-warmest-color-a-study-of-teenage-confusions/Screenshot-2019-04-23-22.20.52.jpg">}}
 
 The ulterior point of the story is to acknowledge the variations in the idea of what love and sexuality could mean. Even though Clementine is the main protagonist, and her final letter clearly mentions what it meant for her, and how Emma had contributed to the meaning, the other characters also have different notion of what it means. We—as readers—observe the manifestation of this difference with Thomas—the first guy whom Clementine dates, with Valentin—who is happy to pick up guys at bars—as well as with Emma. This is mentioned in one of the panels where Clementine observes, "For Emma, her sexuality is something that draws her to others, a social and political thing."
 
-{{< figure src="Screenshot-2019-04-23-21.42.58-723x1024.jpg" caption="The final page sums up Clementine's notion of love." >}}
+{{< figure src="Screenshot-2019-04-23-21.42.58-723x1024.jpg" caption="The final page sums up Clementine's notion of love."  link="/posts/blue-is-the-warmest-color-a-study-of-teenage-confusions/Screenshot-2019-04-23-21.42.58.jpg">}}
 
 ## Blue is a character
 
@@ -31,13 +31,13 @@ The artwork gives away the fact that the graphic novel is a _Bande Dessinée_. J
 
 The artwork is mostly done with ink and water colour. The timelines of the narrative have distinct colour palette. The present is colourful but feels very soggy. The colours are applied with a lot of wash. This goes well with the theme of melancholy. The past is depicted in black and white. Except for certain objects that have a nice wash of ultramarine blue over the otherwise near-grayscale images. These objects pop out of the panels for the reader. These are the things that the protagonist—Clementine—is attracted to. These are the things that stand out in her memories.
 
-{{< figure src="Screenshot-2019-04-23-22.24.33-1-1024x718.jpg" caption="A splash of blue in an otherwise black and white memory." >}}
+{{< figure src="Screenshot-2019-04-23-22.24.33-1-1024x718.jpg" caption="A splash of blue in an otherwise black and white memory."  link="/posts/blue-is-the-warmest-color-a-study-of-teenage-confusions/Screenshot-2019-04-23-22.24.33-1.jpg">}}
 
 {{< figure src="Screenshot-2019-04-23-22.28.41.png" caption="Blue is the colour of happiness as it slowly cloaks one of Clementine's fond memories." >}}
 
 The transitions between the scenes—and there are quite a handful of them in the beginning—are also well made.
 
-{{< figure src="Screenshot-2019-04-23-20.45.47-748x1024.jpg" caption="This transition uses a diary as an anchor-object." >}}
+{{< figure src="Screenshot-2019-04-23-20.45.47-748x1024.jpg" caption="This transition uses a diary as an anchor-object."  link="/posts/blue-is-the-warmest-color-a-study-of-teenage-confusions/Screenshot-2019-04-23-20.45.47.jpg">}}
 
 {{< figure src="Screenshot-2019-04-23-20.50.10.png" caption="This transition uses a fade and a similar set of framings between the two timelines to establish continuity." >}}
 

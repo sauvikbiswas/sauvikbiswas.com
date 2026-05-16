@@ -17,11 +17,11 @@ I agree with most of the things he has outlined. I spend less time browsing thro
 
 An year ago, I had put up this as my display picture.
 
-[![1001492_10151726769657803_1250669585_a](1001492_10151726769657803_1250669585_a.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/03/1001492_10151726769657803_1250669585_a.jpg)
+[![1001492_10151726769657803_1250669585_a](1001492_10151726769657803_1250669585_a.jpg)](/posts/why-i-hate-facebook-and-what-i-am-doing-with-it/1001492_10151726769657803_1250669585_a.jpg)
 
 I also added the following disclaimer on my profile header.
 
-[![1016662_10151726770557803_1840599802_n](1016662_10151726770557803_1840599802_n.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/03/1016662_10151726770557803_1840599802_n.jpg)
+[![1016662_10151726770557803_1840599802_n](1016662_10151726770557803_1840599802_n.jpg)](/posts/why-i-hate-facebook-and-what-i-am-doing-with-it/1016662_10151726770557803_1840599802_n.jpg)
 
 My stance was a bit aggressive. It had to be. Beyond anyone else, it was pure a standpoint to counter my own bad habit of spending countless hours on the rants of psudo-political intelligentsia, cat videos, finding out what my batchmates were doing, etc, etc.
 
@@ -37,7 +37,7 @@ As promised in the disclaimer header, I had replied to almost all significant me
 
 A month ago, I put up a new disclaimer. By then I had reduced my Facebook access counts to not more than once a week, that too for a few seconds to check if there is a message pending.
 
-[![1017125_10152345816602803_514560805_n](1017125_10152345816602803_514560805_n.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/03/1017125_10152345816602803_514560805_n.jpg)
+[![1017125_10152345816602803_514560805_n](1017125_10152345816602803_514560805_n.jpg)](/posts/why-i-hate-facebook-and-what-i-am-doing-with-it/1017125_10152345816602803_514560805_n.jpg)
 
 I had also put up the two websites that I currently maintain. These are still good places to know my thoughts and actions that I have decided to make public.
 

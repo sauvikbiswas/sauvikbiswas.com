@@ -9,7 +9,7 @@ tags:
   - "sherlock-holmes"
 ---
 
-[![keep-calm-it-s-elementary-my-dear-watson](keep-calm-it-s-elementary-my-dear-watson-257x300.png)](http://sauvikbiswas.com/wp-content/uploads/2016/02/keep-calm-it-s-elementary-my-dear-watson.png)
+[![keep-calm-it-s-elementary-my-dear-watson](keep-calm-it-s-elementary-my-dear-watson-257x300.png)](/posts/36-likely-that-sherlock-said-elementary-my-dear-watson/keep-calm-it-s-elementary-my-dear-watson.png)
 
 I had built a crude N-Gram parser and resorted to the Sherlock Holmes books on Project Gutenberg as my training data set (training corpus). I was toying around with various phrases and the likelihood of their appearance in the books. One such phrase was "Elementary, my dear Watson".
 

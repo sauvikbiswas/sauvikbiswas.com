@@ -16,33 +16,33 @@ We left on a Friday and rode an overnight bus to Pondicherry. It dropped us in f
 
 It was quite hot outside. Proximity to the rock beach helped aerate the grid-like streets, thus making the walk somewhat manageable. Our first stop was [Bharati Park](https://goo.gl/maps/ZZ8KBfre5my)—a decently sized park right next to the beach. It acted more as a respite for my mother. She has grown up in the lap of nature. The trees, fruits and birds made her very happy.
 
-{{< figure src="DSC05924-1024x682.jpg" caption="The lush greenery of Bharti Park." >}}
+{{< figure src="DSC05924-1024x682.jpg" caption="The lush greenery of Bharti Park."  link="/posts/pondicherry-summer-weekend/DSC05924.jpg">}}
 
 Most of the places of interest were located nearby. Our host had given us a good overview of the place and I had noted some of the things down. Our afternoon was spent walking around the area and visiting these places.
 
-{{< figure src="DSC05926-1024x682.jpg" caption="Photography was not allowed inside [Pondicherry Museum](https://goo.gl/maps/NoqLjP2rGXF2). These stone deities were just before the \"No Photography\" sign." >}}
+{{< figure src="DSC05926-1024x682.jpg" caption="Photography was not allowed inside [Pondicherry Museum](https://goo.gl/maps/NoqLjP2rGXF2). These stone deities were just before the \"No Photography\" sign."  link="/posts/pondicherry-summer-weekend/DSC05926.jpg">}}
 
-{{< figure src="DSC05929-1024x575.jpg" caption="A [famous Ganesha temple](https://goo.gl/maps/n4WJy8ACpUD2) in front of Aurobindo Ashram. It was not that crowded when we stepped in. There was a gradual increase in footfall." >}}
+{{< figure src="DSC05929-1024x575.jpg" caption="A [famous Ganesha temple](https://goo.gl/maps/n4WJy8ACpUD2) in front of Aurobindo Ashram. It was not that crowded when we stepped in. There was a gradual increase in footfall."  link="/posts/pondicherry-summer-weekend/DSC05929.jpg">}}
 
-{{< figure src="DSC05940-1024x1024.jpg" caption="This [memorial](https://goo.gl/maps/a4EsMtrdeFA2) was erected for the Indian French who died in World War I." >}}
+{{< figure src="DSC05940-1024x1024.jpg" caption="This [memorial](https://goo.gl/maps/a4EsMtrdeFA2) was erected for the Indian French who died in World War I."  link="/posts/pondicherry-summer-weekend/DSC05940.jpg">}}
 
 It was very hot in the noon. There wasn't enough green coverage on the beach. Once we were tired, we had our lunch at one of the many restaurants near the beach and went back to the comfort of our guest house. We would eventually return to the promenade adjacent to the Rock Beach in the evening once the temperature had subsided.
 
 The beach is closed to all motorised vehicle from 6:00 PM to 8:30 AM. As such, a lot of people from all walks of life flock there to spend some quality time with their friends and families. It gets a bit crowded during the weekends but the din and hustle adds to the charm.
 
-{{< figure src="DSC05958-1024x1024.jpg" caption="This is the [famous Gandhi statue](https://goo.gl/maps/4rY8Y5WfFbE2) on the beach." >}}
+{{< figure src="DSC05958-1024x1024.jpg" caption="This is the [famous Gandhi statue](https://goo.gl/maps/4rY8Y5WfFbE2) on the beach."  link="/posts/pondicherry-summer-weekend/DSC05958.jpg">}}
 
 Many walls in White Town are covered with nice artworks.
 
-![](DSC05978-1024x575.jpg)
+[![](DSC05978-1024x575.jpg)](/posts/pondicherry-summer-weekend/DSC05978.jpg)
 
-![](DSC05941-1-1024x682.jpg)
+[![](DSC05941-1-1024x682.jpg)](/posts/pondicherry-summer-weekend/DSC05941-1.jpg)
 
-![](DSC05953-1-1024x682.jpg)
+[![](DSC05953-1-1024x682.jpg)](/posts/pondicherry-summer-weekend/DSC05953-1.jpg)
 
-![](DSC05963-1-1024x1024.jpg)
+[![](DSC05963-1-1024x1024.jpg)](/posts/pondicherry-summer-weekend/DSC05963-1.jpg)
 
-![](DSC05969-1-1024x682.jpg)
+[![](DSC05969-1-1024x682.jpg)](/posts/pondicherry-summer-weekend/DSC05969-1.jpg)
 
 ## Day Two: A sunrise and a different beach
 
@@ -50,23 +50,23 @@ Since the Rock Beach is an east-facing beach, it is a great place to see the sun
 
 We managed to reach there in time but the horizon was covered with clouds. There were a lot of people on the beach. Many of them had specifically come to watch and photograph the sunrise.
 
-{{< figure src="DSC05982-682x1024.jpg" caption="The reflected colours in the sea waters were amazing. This was inspite of the clouds covering up the Sun." >}}
+{{< figure src="DSC05982-682x1024.jpg" caption="The reflected colours in the sea waters were amazing. This was inspite of the clouds covering up the Sun."  link="/posts/pondicherry-summer-weekend/DSC05982.jpg">}}
 
-{{< figure src="DSC05991-1024x682.jpg" caption="I think they were shooting for an wedding album." >}}
+{{< figure src="DSC05991-1024x682.jpg" caption="I think they were shooting for an wedding album."  link="/posts/pondicherry-summer-weekend/DSC05991.jpg">}}
 
 We had plans of visiting Auroville later that day. However, we found out from our host that Auroville closes early on Sundays. On top of that, it gets quite crowded during the weekends. Since we were staying there for another day, I decided to postpone our visit.
 
 Instead, we made our way to Paradise Beach. We took an Ola (It's limited service but it's available unlike Uber, who only operate their Uber Eats service in Pondicherry.) and made our way to the [Chunnambar Boat House](https://goo.gl/maps/RrYu8kGsWJx). We had to pay INR 13 for entry into the boat house and INR 300 per person for a ferry over the backwaters to the beach itself. The northern side of the beach is maintained and controlled by the boat house authorities. They had guards who ensured that there wasn't any infiltration without the payment of appropriate fees.
 
-{{< figure src="DSC05994-1024x576.jpg" caption="This is the ticket counter for the ferry ride to Paradise Beach." >}}
+{{< figure src="DSC05994-1024x576.jpg" caption="This is the ticket counter for the ferry ride to Paradise Beach."  link="/posts/pondicherry-summer-weekend/DSC05994.jpg">}}
 
 We found a quiet little spot near the border. Me and my sister dipped our feet in the salty water while my mother sat under one of the thatched shades and clicked a lot of photographs.
 
-{{< figure src="DSC06008-1024x682.jpg" caption="There was an area for rain dance right before the beach." >}}
+{{< figure src="DSC06008-1024x682.jpg" caption="There was an area for rain dance right before the beach."  link="/posts/pondicherry-summer-weekend/DSC06008.jpg">}}
 
-{{< figure src="DSC06013-1024x576.jpg" caption="Being a weekend, the beach saw a decent crowd." >}}
+{{< figure src="DSC06013-1024x576.jpg" caption="Being a weekend, the beach saw a decent crowd."  link="/posts/pondicherry-summer-weekend/DSC06013.jpg">}}
 
-{{< figure src="DSC06012-682x1024.jpg" caption="Vendors sold popsicles on these bicycles." >}}
+{{< figure src="DSC06012-682x1024.jpg" caption="Vendors sold popsicles on these bicycles."  link="/posts/pondicherry-summer-weekend/DSC06012.jpg">}}
 
 After spending a good amount of time at the beach and some more time in Sea Gull—the only restaurant on the beach—we headed back to the city in a bus. Theses buses pass over the New Bus Stand but I did not know that and got down at Indira Circle. I had to pay an auto to take us to the Botanical Garden.
 
@@ -80,25 +80,25 @@ We couldn't visit the [Aurobindo Ashram](https://goo.gl/maps/4MJzWqPkKL52) in Wh
 
 We made our way to [Auroville](https://goo.gl/maps/EocG2jKjiQN2) via the East Coast Road. One has to walk quite a bit inside Auroville. The information centre has a large exhibition hall. It's also the place where we had to obtain a printed slip that would allow us to visit _Matrimandir_—the iconic ellipsoid work of architecture that forms the epicentre of the township. It serves as a meditation chamber but one has to apply early to get a reservation. The walk to the geodesic structure's viewpoint was quite pleasant. Perennial trees covered the unmetalled road and a lot of art and artefacts flaked the sides. It wasn't so green when the township was set up. There is a stone plaque documenting a mythological tale that concludes with a divine prophecy—people from far-away lands would one day make the place prosperous. It is said that this was the reason why locals welcomed the foreigners when they wanted to build the place.
 
-{{< figure src="DSC06026-1024x682.jpg" caption="A bunch of French-speaking tourists were getting an explanation from their guide." >}}
+{{< figure src="DSC06026-1024x682.jpg" caption="A bunch of French-speaking tourists were getting an explanation from their guide."  link="/posts/pondicherry-summer-weekend/DSC06026.jpg">}}
 
-{{< figure src="DSC06027-1024x682.jpg" caption="Visitors' information centre neatly exhibited the history and philosophy of the place. The Charter was displayed prominently at the centre in four languages—French, English, Hindi and Tamil." >}}
+{{< figure src="DSC06027-1024x682.jpg" caption="Visitors' information centre neatly exhibited the history and philosophy of the place. The Charter was displayed prominently at the centre in four languages—French, English, Hindi and Tamil."  link="/posts/pondicherry-summer-weekend/DSC06027.jpg">}}
 
-{{< figure src="DSC06041-1024x575.jpg" caption="One of the art installations en route to _Matrimandir_." >}}
+{{< figure src="DSC06041-1024x575.jpg" caption="One of the art installations en route to _Matrimandir_."  link="/posts/pondicherry-summer-weekend/DSC06041.jpg">}}
 
-{{< figure src="DSC06034-1024x682.jpg" caption="Sustainable development is one of the goals of the township. These were one of the arrays of solar panels that powered the _Matrimandir_ area." >}}
+{{< figure src="DSC06034-1024x682.jpg" caption="Sustainable development is one of the goals of the township. These were one of the arrays of solar panels that powered the _Matrimandir_ area."  link="/posts/pondicherry-summer-weekend/DSC06034.jpg">}}
 
-{{< figure src="DSC06039-1024x682.jpg" caption="The _Matrimandir_." >}}
+{{< figure src="DSC06039-1024x682.jpg" caption="The _Matrimandir_."  link="/posts/pondicherry-summer-weekend/DSC06039.jpg">}}
 
 [Auroville Beach](https://goo.gl/maps/9hNvuZa2swx) was a few kilometres away. There weren't many people around. Bamboo structures—skeletons of shops—and plastic spoons scattered all around the beach suggested that the beach sees decent footfall during holidays and weekends. Monday noon wasn't one of those times.
 
-{{< figure src="DSC06055-1024x682.jpg" caption="Bamboo skeletons of empty shops spread across Auroville beach." >}}
+{{< figure src="DSC06055-1024x682.jpg" caption="Bamboo skeletons of empty shops spread across Auroville beach."  link="/posts/pondicherry-summer-weekend/DSC06055.jpg">}}
 
-{{< figure src="DSC06057-1024x682.jpg" caption="A lot of fishing boats paced over the waters along the stretch of the beach" >}}
+{{< figure src="DSC06057-1024x682.jpg" caption="A lot of fishing boats paced over the waters along the stretch of the beach"  link="/posts/pondicherry-summer-weekend/DSC06057.jpg">}}
 
 Our evening was mostly spend visiting the churches in White Town. Once the sun had set, we ventured into Nehru street—the commercial area of Pondicherry. It's like any regular market in an old city or a larger town where one could buy all necessary items at reasonable prices. My mother even peeked into the fish market area inside [Goubert Market](https://goo.gl/maps/VG8EP94X3bH2). She is more familiar with freshwater fishes. She couldn't identify the ones that were on sale.
 
-{{< figure src="IMG_20190408_154355-e1555125266661-768x1024.jpg" caption="The interiors of [The Church of Our Lady of Angels](https://goo.gl/maps/64i54f5wMbS2) was really good. All instructions and notices were in French." >}}
+{{< figure src="IMG_20190408_154355-e1555125266661-768x1024.jpg" caption="The interiors of [The Church of Our Lady of Angels](https://goo.gl/maps/64i54f5wMbS2) was really good. All instructions and notices were in French."  link="/posts/pondicherry-summer-weekend/IMG_20190408_154355-e1555125266661.jpg">}}
 
 ## Some final thoughts about the place
 
@@ -110,4 +110,4 @@ We had _kulfis_ twice. Once on Paradise Beach and once in Auroville. The former 
 
 The other thing that I observed was the laid-back vibe of the city. It's something that we all enjoyed. The streets are wide and the layout follows a grid pattern. This makes the city a joy to walk around. I can't stress how important it is to make a city walkable. This is something that I miss staying in Bangalore.
 
-![](DSC05939-1024x682.jpg)
+[![](DSC05939-1024x682.jpg)](/posts/pondicherry-summer-weekend/DSC05939.jpg)

@@ -18,15 +18,15 @@ I had [recently installed new brake pads](/posts/replacing-brake-shoes-unearthed
 
 I cleaned up the brake posts on my fork and the rear stays with some de-greaser and wiped/dried it off before applying a new coating of grease. The shaft surface wasn't that smooth. Years of rub against accumulated sand and dirt wore the surface a bit. The grease surely helped.
 
-{{< figure src="IMG_20170207_190401-768x793.jpg" caption="This is before cleaning, de-greasing and re-greasing." >}}
+{{< figure src="IMG_20170207_190401-768x793.jpg" caption="This is before cleaning, de-greasing and re-greasing."  link="/posts/new-brakes-on-my-hybrid/IMG_20170207_190401.jpg">}}
 
 ## The old brake arms were damaged
 
-{{< figure src="IMG_20170207_194954-768x682.jpg" caption="Old brake arms." >}}
+{{< figure src="IMG_20170207_194954-768x682.jpg" caption="Old brake arms."  link="/posts/new-brakes-on-my-hybrid/IMG_20170207_194954.jpg">}}
 
 [In an earlier post](/posts/replacing-brake-shoes-unearthed-a-can-of-worms/), I had mentioned that the springs were damaged. Today I found out that was not the only problem. On each of the brake arms, the index pin (roll pin) that rests inside one of the three holes beside a brake post was bent out of shape. This was one of the major reasons why the arms did not have much resistance against the cable pull.
 
-{{< figure src="IMG_20170207_195019-768x761.jpg" caption="See how the index pin is bent upwards." >}}
+{{< figure src="IMG_20170207_195019-768x761.jpg" caption="See how the index pin is bent upwards."  link="/posts/new-brakes-on-my-hybrid/IMG_20170207_195019.jpg">}}
 
 ## A partial installation
 
@@ -38,4 +38,4 @@ Speaking of rust, a portion of the rear cable and the housing had rusted. Since 
 
 As for the new brakes, they are snappier than the callipers on my road bike. There is also enough tension to keep the exposed, rear-brake wire running along my top tube taut.
 
-{{< figure src="IMG_20170207_194938-768x908.jpg" caption="New brakes!" >}}
+{{< figure src="IMG_20170207_194938-768x908.jpg" caption="New brakes!"  link="/posts/new-brakes-on-my-hybrid/IMG_20170207_194938.jpg">}}

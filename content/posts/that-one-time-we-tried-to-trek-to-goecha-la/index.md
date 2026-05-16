@@ -50,11 +50,11 @@ The next morning, we sat in one of the rented inns at Yuksom and negotiated our 
 
 At the end of the day, we had a solid six-day plan to Dzongri and back. We would be ascending the twenty-six kilometre route in three days. After that, we would stay there for a day and descend in two days.
 
-{{< figure src="Trekking2008-55-1024x766.jpg" caption="Bahadur's nephew and Bahadur." >}}
+{{< figure src="Trekking2008-55-1024x766.jpg" caption="Bahadur's nephew and Bahadur."  link="/posts/that-one-time-we-tried-to-trek-to-goecha-la/Trekking2008-55.jpg">}}
 
 For most of our two-night-and-one-day stay in Yuksom, we had food at Yak restaurant. I don't know if that place is still open. It is there that we met a young film-maker who was heavily inspired by Dogme 95 films and the tongba he drank—fermented millet in hot water served in a bamboo container. He kept pouring hot water in his bamboo tumbler containing fermented millets and explaining all the things that made Dogme 95 films great. It had already been three years that the movement had broken up; and eleven years later, it feels like an elitist genre. I believe his passion wore off the next morning along with the tongba.
 
-{{< figure src="trekking2008-94-1024x768.jpg" caption="Prabir and Bhanu trying out tongba. I remember that none of us liked it." >}}
+{{< figure src="trekking2008-94-1024x768.jpg" caption="Prabir and Bhanu trying out tongba. I remember that none of us liked it."  link="/posts/that-one-time-we-tried-to-trek-to-goecha-la/trekking2008-94.jpg">}}
 
 ## Chapter 3: Choice expletives can alleviate exhaustion
 
@@ -62,15 +62,15 @@ On the day the trek began, Bahadur got his nephew to assist him. I don't remembe
 
 We were also carrying a ton of weight. All of us had a rucksack on our back and a daypack hung in front. (See specimen below.) I had personally stuffed whatever I thought would be good for the temperatures in my bags along with chocolates and dry fruits—lots of them.
 
-{{< figure src="trekking2008-89-2-1024x773.jpg" caption="This is how Bhanu and I carried our stuff. Partho and Prabir only had a rucksack on their back." >}}
+{{< figure src="trekking2008-89-2-1024x773.jpg" caption="This is how Bhanu and I carried our stuff. Partho and Prabir only had a rucksack on their back."  link="/posts/that-one-time-we-tried-to-trek-to-goecha-la/trekking2008-89-2.jpg">}}
 
 We did not have to go that far. Prabir and Partho were quite exhausted at Sachen—a place somewhere in between Yuksom and Bakhim. I remember that place having a solitary, uninhabited trekker's hut. This place wasn't mentioned on the map! We all rested inside while Bahadur and Nephew prepared food for us. They were not prepared for this stop but in retrospect I think they kind of expected it from us. The only thing I remember from that night is that I went out to defecate and the cold was punishing my bare bottoms.
 
 Bahadur had sensed that we wouldn't be able to do the trek without some motivation. The next day, he pushed and encouraged us. Just after Sachen was a two-kilometre-long steep descend into Prek valley and another two kilometres of equally steep ascend. The gradient at places was close to 100%. (I can not vouch for the accuracy of that data but it definitely felt like so.) That stretch had tired Prabir and Partho even more. So much so that they did not want to hike all the way to Bakhim. Instead they took a weird shortcut that had clear warning signs posted near the onset. Bhanu and I took the usual route.
 
-{{< figure src="trekking2008-133-2-773x1024.jpg" caption="Most of the terrain was pretty steep. Prabir's vertical orientation can be used for a sense of the gradient." >}}
+{{< figure src="trekking2008-133-2-773x1024.jpg" caption="Most of the terrain was pretty steep. Prabir's vertical orientation can be used for a sense of the gradient."  link="/posts/that-one-time-we-tried-to-trek-to-goecha-la/trekking2008-133-2.jpg">}}
 
-{{< figure src="trekking2008-4-2-768x1024.jpg" caption="Just to reinforce the idea of \"a steep gradient\"." >}}
+{{< figure src="trekking2008-4-2-768x1024.jpg" caption="Just to reinforce the idea of \"a steep gradient\"."  link="/posts/that-one-time-we-tried-to-trek-to-goecha-la/trekking2008-4-2.jpg">}}
 
 We reached Bakhim much earlier than Partho or Prabir, who were lost somewhere in the woods. About half an hour to an hour later, we heard loud expletives. Their exhaustion manifested in a few curses directed at the terrain—and possibly themselves—as they emerged out of the woods. Partho threw a filled one-litre PET bottle into the valley below as a drastic measure to reduce weight. Meanwhile, Bhanu tried to coach them with some yoga-inspired breathing techniques. He claimed that it would ease their exhaustion. Needless to say, some of those expletives ricocheted off the valley to hit Bhanu.
 

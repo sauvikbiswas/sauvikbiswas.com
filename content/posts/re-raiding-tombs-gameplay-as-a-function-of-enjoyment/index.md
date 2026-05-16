@@ -10,7 +10,7 @@ tags:
 coverImage: "tomb_raider_collage_by_hdgymnastics-d376ho2.jpg"
 ---
 
-[![TR](TR.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/07/TR.jpg)
+[![TR](TR.jpg)](/posts/re-raiding-tombs-gameplay-as-a-function-of-enjoyment/TR.jpg)
 
 It so happened that a few months ago I was showing my friend the Tomb Raider game that was released last year (TR9). I kept on playing even after he left and in a few days I had completed the game (again). This time I was playing with a controller instead of the usual keyboard + mouse combo, so the experience was considerably different from the last time I had done so.
 

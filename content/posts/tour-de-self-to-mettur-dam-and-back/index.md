@@ -42,11 +42,11 @@ We stopped a few kilometres before Shoolagiri to have food at a roadside eatery.
 
 We made it to Krishnagiri bypass at around 4:30 pm.
 
-{{< figure src="IMG_20191030_124011-1024x768.jpg" caption="Our lunch stop before Shoolagiri." >}}
+{{< figure src="IMG_20191030_124011-1024x768.jpg" caption="Our lunch stop before Shoolagiri."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191030_124011.jpg">}}
 
-{{< figure src="IMG_20191030_154018-1024x768.jpg" caption="On the highway before Krishnagiri with a view of the hills." >}}
+{{< figure src="IMG_20191030_154018-1024x768.jpg" caption="On the highway before Krishnagiri with a view of the hills."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191030_154018.jpg">}}
 
-{{< figure src="20191030_161101-1024x576.jpg" caption="Stopping at Krishnagiri." >}}
+{{< figure src="20191030_161101-1024x576.jpg" caption="Stopping at Krishnagiri."  link="/posts/tour-de-self-to-mettur-dam-and-back/20191030_161101.jpg">}}
 
 ## D1.3 Stretch, pull, bonk. Do anything to get to Dharmapuri.
 
@@ -56,7 +56,7 @@ If we had stuck to our original plan, we should have halted at Shoolagiri. Then 
 
 Mittal made sense. However, Dharmapuri was about forty-five kilometres from where we stood. We were tired, too. At best we had another hour of daylight. Krishnagiri to Dharmapuri is a rolling terrain with very frequent climbs and descents. I insisted that we took five to ten minute tea-break every fifteen kilometres. After the twenty kilometre mark, we had to turn on our lights and keep pedalling.
 
-{{< figure src="IMG_20191030_171432-1024x768.jpg" caption="One of the highway-bridges that we crossed en route to Dharmapuri." >}}
+{{< figure src="IMG_20191030_171432-1024x768.jpg" caption="One of the highway-bridges that we crossed en route to Dharmapuri."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191030_171432.jpg">}}
 
 The owner of the stall where we had our last tea break mentioned that there was a nice lodge called DNG right before Dharmapuri. By the time we reached the place, it was already 7:30 pm. For 800 rupees, the room was excellent. We both took showers and headed towards the bar where we were served some beer, some fried rice and chicken. After all that, both of us went back to our room and crashed on our beds.
 
@@ -70,9 +70,9 @@ Our next destination was Mechheri—another small town that's about nineteen kil
 
 These roads that snaked their way through small villages were some of the best we had ridden. Coupled with the cool weather due to overcast, they made for a pleasing ride.
 
-![](IMG_20191031_071043-1024x768.jpg)
+[![](IMG_20191031_071043-1024x768.jpg)](/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191031_071043.jpg)
 
-![](20191031_092140-1024x576.jpg)
+[![](20191031_092140-1024x576.jpg)](/posts/tour-de-self-to-mettur-dam-and-back/20191031_092140.jpg)
 
 It was somewhere during this time that my drivetrain started to creak a little. It wasn't too loud. It wasn't catastrophic. It was slightly annoying.
 
@@ -82,23 +82,23 @@ It was somewhere during this time that my drivetrain started to creak a little. 
 
 Mettur dam is a lovely site to see. One of its side is visible while entering Mettur. This side is usually dry and is probably used to control overflows. The other side side involves a short ascent and a nice long descent onto a picturesque bridge. Had we followed our original plan, we would have ended our trip there. Instead, we took a short break, clicked a few photographs and moved forward towards Pannavadi.
 
-{{< figure src="IMG_20191031_131745-1024x768.jpg" caption="The drier side of the dam." >}}
+{{< figure src="IMG_20191031_131745-1024x768.jpg" caption="The drier side of the dam."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191031_131745.jpg">}}
 
-{{< figure src="IMG_20191031_133508-1024x768.jpg" caption="The view of the dam from the bridge." >}}
+{{< figure src="IMG_20191031_133508-1024x768.jpg" caption="The view of the dam from the bridge."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191031_133508.jpg">}}
 
-{{< figure src="IMG_20191031_134929-1024x768.jpg" caption="Mittal crossing the bridge at Mettur." >}}
+{{< figure src="IMG_20191031_134929-1024x768.jpg" caption="Mittal crossing the bridge at Mettur."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191031_134929.jpg">}}
 
 Pannavadi is about eighteen kilometeres from Mettur. The road was beautiful and passed through rural farmlands. We had our lunch at a restaurant in Kolatthur—a small village from where we had to take a right to reach Pannavadi. The owner of the restaurant was very happy to see us cycling. He used to be an army guy who retired in 2003 after serving the army for seventeen years. He gave us quite a lot of information about the timings of the ferry service. The last ferry usually left Pannavadi at 6:30 pm. We had ample amount of time. It was only 2:30 pm then.
 
 There was only one ferry. It was a very slow one. We had to wait for about half an hour in order for it to reach the shores of Pannavadi. The ferry had a large coracle attached to it which was used to transport motorbikes. Not wearing shoes turned out to be good decision. We had to wade through the water in order to get on the coracle. The river is about four kilometres wide here. The ferry took about forty-five minutes to reach Nagamarai on the other side. Mittal clicked photographs while I rested my legs.
 
-{{< figure src="20191031_153006-1024x576.jpg" caption="Mittal posing in front of Kavery river." >}}
+{{< figure src="20191031_153006-1024x576.jpg" caption="Mittal posing in front of Kavery river."  link="/posts/tour-de-self-to-mettur-dam-and-back/20191031_153006.jpg">}}
 
-{{< figure src="IMG_20191031_153251-1024x768.jpg" caption="The motorboat and the coracle." >}}
+{{< figure src="IMG_20191031_153251-1024x768.jpg" caption="The motorboat and the coracle."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191031_153251.jpg">}}
 
-{{< figure src="IMG_20191031_155307-1024x768.jpg" caption="The coracle with motorbikes and our bicycles was dragged by the motorboat." >}}
+{{< figure src="IMG_20191031_155307-1024x768.jpg" caption="The coracle with motorbikes and our bicycles was dragged by the motorboat."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191031_155307.jpg">}}
 
-{{< figure src="20191031_154932-1024x576.jpg" caption="Me and my bicycle resting on the coracle." >}}
+{{< figure src="20191031_154932-1024x576.jpg" caption="Me and my bicycle resting on the coracle."  link="/posts/tour-de-self-to-mettur-dam-and-back/20191031_154932.jpg">}}
 
 ## D2.3 A climb and a descent
 
@@ -116,9 +116,9 @@ We checked in at Hotel Tamil Nadu at 8:00 pm. For 995 rupees, the room was even 
 
 Mittal had lost a lot of sleep the night before while looking at the elevation profile. We had three climbs ahead of us. Yet, we took a small detour. We paid a visit to the bathing area near Hogenakkal falls and a view of the hanging bridge. The actual falls are not visible and require a boat ride of about an hour. One of the boatmen caught Mittal and insisted that we ride his boat. We did not have that much time to spare.
 
-{{< figure src="IMG_20191101_073314-1024x768.jpg" caption="The bathing area near Hogenakkal falls." >}}
+{{< figure src="IMG_20191101_073314-1024x768.jpg" caption="The bathing area near Hogenakkal falls."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191101_073314.jpg">}}
 
-{{< figure src="IMG_20191101_073302-1024x768.jpg" caption="This hanging bridge connects Tamil Nadu to Karnataka." >}}
+{{< figure src="IMG_20191101_073302-1024x768.jpg" caption="This hanging bridge connects Tamil Nadu to Karnataka."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191101_073302.jpg">}}
 
 Mittal knew that the entire stretch was sparsely populated and it would be difficult to get any food inside the reserve forest areas. We stopped at a roadside stall right before the start of Oddapatty and had some dosas. Mittal bought some bananas and peanut-chikkis before hitting our first climb.
 
@@ -126,11 +126,11 @@ I was on a pretty low gear. Along with the slope, the road surface wasn't the be
 
 The next climb was a long and gradual one. The road circumvented a large cluster of villages. There was no shade. The harsh Sun compensated for the overcast and the occasional drizzle that had been our companion in the last two days. (After two days I can see that my right side is more tanned than my left side. It's all because of this stretch.) This road eventually joined the Pennagram-Anchetty road. The junction had quite a few shops. I had a cup of tea and water. Anchetty was about five kilometres from there and it was all downhill.
 
-{{< figure src="IMG_20191101_122515-1024x768.jpg" caption="Cornfields!" >}}
+{{< figure src="IMG_20191101_122515-1024x768.jpg" caption="Cornfields!"  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191101_122515.jpg">}}
 
 Anchetty to Denkanikottai road is part of Anchetty 200K BRM. This is one of the tougher BRMs in India, thanks to the stretch of road that lay ahead of us. This twenty-five kilometre stretch had some brutal stretches including one where the route passed through Ponai reserve forest and the gradient peaked at eleven percent. Mittal took a few breaks. During one of those breaks, a random car stoped by and asked him to beware of elephants! I left Mittal and pedalled at a pretty low gear. Whenever I was tired, I took a sip and moved on. My target was to reach Kundukottai—a settlement after the reserve forest area located midway between Anchetty and Denkanikottai.
 
-{{< figure src="IMG_20191101_131820-1024x768.jpg" caption="Krishnagiri range view-point after a taxing climb." >}}
+{{< figure src="IMG_20191101_131820-1024x768.jpg" caption="Krishnagiri range view-point after a taxing climb."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191101_131820.jpg">}}
 
 I had two small packets of corn flakes and a packet of biscuit while sitting underneath a banyan tree and waiting for Mittal. His location data hadn't been updated ever since he had entered the reserve forest area. I waited for over half an hour for Mittal—who was on his own break and hydration cycle—only to be passed by him. He did not notice me. I had asked a tea shop to prepare some tea for him. I cancelled the order once I saw him ride past.
 
@@ -140,7 +140,7 @@ I had two small packets of corn flakes and a packet of biscuit while sitting und
 
 We halted at a small bakery in Denkanikottai to refill our water bottles and have some food. At this point, I was practically pushing Mittal to not take any long breaks. In fact, he had already taken a long one prior to reaching Denkanikottai where he had stopped to have some deep-fried pakodas. He did not want any lunch while I did not have anything for lunch yet. It was already 3:30 pm and I wanted to reach Anekal before dark. Still, we ended up stopping for about thirty minutes before hitting the amazing road that connected Thally-Denkanikottai state highway and Thalli-Hosur state highway.
 
-{{< figure src="IMG_20191101_162330-768x1024.jpg" caption="This stretch of the road was amazing." >}}
+{{< figure src="IMG_20191101_162330-768x1024.jpg" caption="This stretch of the road was amazing."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191101_162330.jpg">}}
 
 Although the stretch was relatively flatter compared to what we had already done, the relentless undulations and my creaking drivetrain made for a suboptimal enjoyment. Mittal on Githin's bike was slower. I pushed through to the Thalli-Hosur state highway and waited for Mittal while having some chips and a packet of rusk biscuits. It was definitely a poor choice for mid-day meal but I found no other options.
 
@@ -158,6 +158,6 @@ We rested for about an hour. Our final point was Chandapura—the southernmost t
 
 That final stretch of eleven kilometres between Anekal and Chandapura was a bliss. It was all a gentle downhill. The entire area on either sides of the road had developed a lot in the last few years with many apartment complexes and a large number of restaurants. In no time we were there.
 
-{{< figure src="IMG_20191101_200731-1024x768.jpg" caption="Fin." >}}
+{{< figure src="IMG_20191101_200731-1024x768.jpg" caption="Fin."  link="/posts/tour-de-self-to-mettur-dam-and-back/IMG_20191101_200731.jpg">}}
 
 That's our final stats. Three days of riding, three hundred and seventy kilometres of distance covered, three thousand two hundred and thirty metres of elevation gain.

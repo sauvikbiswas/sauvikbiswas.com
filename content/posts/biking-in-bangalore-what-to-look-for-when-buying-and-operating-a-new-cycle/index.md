@@ -12,7 +12,7 @@ coverImage: "bicyclewheels.jpg"
 
 Some of my friends are either switching to cycle as their primary mode of transport (while most of them are busy looking for cars!). I often see people as being clueless to the whole notion. They usually have a budget and they want to buy something that would help them commute to their workplace and back. As a result they post an innocent looking question on Facebook - "I have a budget of so-and-so. I want to buy a new cycle. Please give me some advice". I can assure you that most of them have a preconceived notion of what they are buying / targeting even before they ask for opinion. Due to this buyer's bias, they often don't judge the pros and cons of the scenario they are about to enter.
 
-[![22-cycle-1](22-cycle-1.jpg)](http://sauvikbiswas.com/wp-content/uploads/2014/03/22-cycle-1.jpg) _You can circumvent the stupid blockade imposed by an ignorant driver_.
+[![22-cycle-1](22-cycle-1.jpg)](/posts/biking-in-bangalore-what-to-look-for-when-buying-and-operating-a-new-cycle/22-cycle-1.jpg) _You can circumvent the stupid blockade imposed by an ignorant driver_.
 
 ## Biking as a choice of commute in Bangalore
 

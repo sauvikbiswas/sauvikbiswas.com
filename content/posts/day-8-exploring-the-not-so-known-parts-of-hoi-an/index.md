@@ -38,7 +38,7 @@ There are two main beaches in Hoi An - the Cua Dai beach and the An Bang beach. 
 
 We went there after the sunset and spent quite some time sitting on reclining chairs.
 
-[![DSC04345](DSC04345.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/07/DSC04345.jpg)
+[![DSC04345](DSC04345.jpg)](/posts/day-8-exploring-the-not-so-known-parts-of-hoi-an/DSC04345.jpg)
 
 If you want to reach this place, here are the co-ordinates, [15°54'20.7"N 108°21'10.8"E](https://www.google.com/maps/place/15%C2%B054'20.7%22N+108%C2%B021'10.8%22E/@15.905747,108.353014,18z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0).
 
@@ -56,7 +56,7 @@ Not many Indians travel around these places. That's why a lot of Vietnamese peop
 
 ## The beauty of silence
 
-[![DSC04351](DSC04351.jpg)](http://sauvikbiswas.com/wp-content/uploads/2015/07/DSC04351.jpg)
+[![DSC04351](DSC04351.jpg)](/posts/day-8-exploring-the-not-so-known-parts-of-hoi-an/DSC04351.jpg)
 
 Inside the ancient town of Hoi An, the quietest place is reserved for those who wish to cleanse their mind of the noise over a cup of tea or coffee. This place is called Reaching Out Tea House. Housed in an ancient building, this entire place is run by people with hearing disability. They serve only boutique teas and coffees, so the prices are a bit on the higher side. I had their local Jasmine tea and I can't praise it enough. The tea tastes better when the leaves are soaked in hot water for the second time. The harshness from the first dip is washed off and what's left is a nice, soothing and aromatic tea.
 

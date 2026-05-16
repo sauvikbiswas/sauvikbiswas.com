@@ -17,7 +17,7 @@ Ed Viesturs is a great thinker. Well, he is a great climber, too. Reading throug
 
 A few days ago, [I had borrowed](/posts/a-new-saddle-and-a-new-posture/) his autobiography from Nabyendu. It's aptly called _No Shortcuts to the Top_. It is a narrative of Ed's legendary feat of summiting the fourteen beasts without supplemental oxygen during the period from 1987 through 2005.
 
-[![81f3VbMxEzL](81f3VbMxEzL.jpg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/81f3VbMxEzL.jpg)
+[![81f3VbMxEzL](81f3VbMxEzL.jpg)](/posts/the-legend-that-is-ed-viesturs/81f3VbMxEzL.jpg)
 
 For someone who finds solace in the lap of the mountains, there is something soothing about reading a personal account of such extreme encounters. The more I read, the more I appreciated his motto - '_Getting to the top is optional. Getting down is mandatory_'. It's a simple motto. Yet, in the harrowing conditions where summit fever and acute shortage of oxygen can cloud even the best man's judgement, this man had stuck to it. His approach to mountaineering did not change even when he had a family waiting for him back home.
 
@@ -29,7 +29,7 @@ Getting back to the narrative if book itself. Ed follows a strange clustering to
 
 An entire chapter is dedicated to the events of [1996 Everest](https://en.wikipedia.org/wiki/1996_Mount_Everest_disaster) season. I have read almost every account of that tragedy (barring [Boukreev's The Climb](https://en.wikipedia.org/wiki/The_Climb_\(book\))). I was so moved by the actions of David Breashears in this passage that I watched the [1998 Everest IMAX documentary](https://en.wikipedia.org/wiki/Everest_\(1998_film\)) once more.
 
-[![WhatsApp Image 2016-08-27 at 11.37.00 AM](WhatsApp-Image-2016-08-27-at-11.37.00-AM.jpeg)](http://sauvikbiswas.com/wp-content/uploads/2016/08/WhatsApp-Image-2016-08-27-at-11.37.00-AM.jpeg)
+[![WhatsApp Image 2016-08-27 at 11.37.00 AM](WhatsApp-Image-2016-08-27-at-11.37.00-AM.jpeg)](/posts/the-legend-that-is-ed-viesturs/WhatsApp-Image-2016-08-27-at-11.37.00-AM.jpeg)
 
 Annapurna, the elusive and bloodthirsty peak gets the final two and half chapters. It had to be so. For years, Ed had no clue as to how to get to the top of Annapurna. Right at the end of his successful descent, just when he thought Annapurna had shown mercy on those who had set foot on her, the mighty mountain took the life of [Christian Kuntner](http://www.mounteverest.net/story/stories/ChristianKuntner-amountaineeringlegendisgoneMay202005.shtml).
 

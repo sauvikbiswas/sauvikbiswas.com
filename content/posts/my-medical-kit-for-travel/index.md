@@ -8,7 +8,7 @@ tags:
 coverImage: "DSC060622.jpg"
 ---
 
-{{< figure src="DSC060622-1024x713.jpg" caption="Top row: stomach ailment, skin care, sprain and wound care. Bottom row: antibiotics, fever and pain management, and speciality medicine." >}}
+{{< figure src="DSC060622-1024x713.jpg" caption="Top row: stomach ailment, skin care, sprain and wound care. Bottom row: antibiotics, fever and pain management, and speciality medicine."  link="/posts/my-medical-kit-for-travel/DSC060622.jpg">}}
 
 The medical kit that I carry around has six distinct components—stomach ailment, antibiotics, fever and pain management, skin care, sprain and wound care, and speciality medicine.
 

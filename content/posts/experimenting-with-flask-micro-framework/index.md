@@ -30,7 +30,7 @@ A few months ago, I had sat down and completed [this entire tutorial](https://do
 
 ## A micro-framework that does very little
 
-![](flask-768x301.png)
+[![](flask-768x301.png)](/posts/experimenting-with-flask-micro-framework/flask.png)
 
 The solution to this problem came out of a few answers on Quora and some replies on StackExchange. [Flask](http://flask.pocoo.org/) seemed to be the choice of many. (In fact, many had suggested [Sinatra](http://www.sinatrarb.com/) over Rails for the exact same reasons.)
 

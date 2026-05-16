@@ -26,7 +26,7 @@ A hybrid is a catch-all term for a bike that is has a bit of features borrowed f
 
 If you are a beginner and would want to get into cycling, it is a great entry point for either of those specialised sports (road or MTB). You can even test out the waters and see if some discipline is for you. If you want to bikepack or tour on tarmac, they are great to learn the ins and outs of bicycle touring without the hefty investment of a touring specific cycle. If you want to ride around in the city, this is all you'll need. In fact, this can be your workhorse even when you have bought a specific bike for some specific need and would look great alongside it's brother.
 
-{{< figure src="hybrid-1024x603.jpg" caption="Now compare this shape with the BSO above. They also come in a variety of names and geometries." >}}
+{{< figure src="hybrid-1024x603.jpg" caption="Now compare this shape with the BSO above. They also come in a variety of names and geometries."  link="/posts/hybrid-bikes-for-someone-starting-out-cycling-in-indian-cities/hybrid.jpg">}}
 
 However, if you know that you want to get into a specific discipline upfront, be prepared to shell out good money for a specialised (not Specialized, the brand; although they are good, too) bike.
 
@@ -52,7 +52,7 @@ For a commuter bike, this is essential. Especially, if you are riding in the rai
 
 Stay away from the plastic fenders. These are mounted like a cantilever and will vibrate while riding. The ends will throw more mud on your back.
 
-{{< figure src="IMG_6267-1024x768.jpg" caption="These are plastic, cantilever, clip-on fenders used on MTBs for temporary protection. If you are riding trails, you wouldn't mind a few splashes on your back. Image: patski@MTBR" >}}
+{{< figure src="IMG_6267-1024x768.jpg" caption="These are plastic, cantilever, clip-on fenders used on MTBs for temporary protection. If you are riding trails, you wouldn't mind a few splashes on your back. Image: patski@MTBR"  link="/posts/hybrid-bikes-for-someone-starting-out-cycling-in-indian-cities/IMG_6267.jpg">}}
 
 {{< figure src="rambouillet_frontquarter.jpg" caption="However, you wouldn't want a line of mud spray on your back if you plan to go to office. These are the kind of fenders you should look for. Image: Sheldon Brown" >}}
 
@@ -63,7 +63,7 @@ Sheldon Brown [has a nice article](http://www.sheldonbrown.com/fenders.html) on 
 1. If you have a front suspension fork, chances are that it will not have eyelets for full fenders. There are workarounds but this kind of gives away the fact that such bikes are not designed keeping daily commute in mind.
 2. If you have aspirations to be a bikepacker or tourer and you are testing waters with this hybrid bike, look for dual eyelets on each side of the frame along with a par of attachment points on the rear stay. You can attach pannier racks. It is possible to mount both on the same eyelet but I wouldn't advise that.
 
-{{< figure src="mounts-1024x683.jpg" caption="Notice the two mounting points near the rear dropout for fenders and panniers." >}}
+{{< figure src="mounts-1024x683.jpg" caption="Notice the two mounting points near the rear dropout for fenders and panniers."  link="/posts/hybrid-bikes-for-someone-starting-out-cycling-in-indian-cities/mounts.jpg">}}
 
 ### d) Know that there is a right sized frame for _you_.
 
