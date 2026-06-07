@@ -13,7 +13,7 @@ coverImage: "DSC01058.jpg"
 
 ## How I almost did not make it to Hampi
 
-While I was at the Narsapura CCD, [halfway through my cycling trip](/posts/either-the-wind-is-against-you-or-you-are-having-a-good-day/), [Mogit](http://manpurpost.blogspot.in/) called me up and told me that he had booked tickets to and from Hampi. I later asked him about the schedule and he mentioned that the bus would depart from Anand Rao Circle at 11:15 pm. I left home at around 8:30 pm, hoping to reach at around 10:30 pm. My estimate was pretty close. After wading through Bangalore's Saturday traffic, I reached there at around 10:35 pm. It took me a while to find out the travel agency's office where we were supposed to report and asked the travel agent at the counter about our Hampi bus at 11:15 pm.
+While I was at the Narsapura CCD, [halfway through my cycling trip]({{< relref "posts/either-the-wind-is-against-you-or-you-are-having-a-good-day" >}}), [Mogit](http://manpurpost.blogspot.in/) called me up and told me that he had booked tickets to and from Hampi. I later asked him about the schedule and he mentioned that the bus would depart from Anand Rao Circle at 11:15 pm. I left home at around 8:30 pm, hoping to reach at around 10:30 pm. My estimate was pretty close. After wading through Bangalore's Saturday traffic, I reached there at around 10:35 pm. It took me a while to find out the travel agency's office where we were supposed to report and asked the travel agent at the counter about our Hampi bus at 11:15 pm.
 
 'There is no bus at 11:15 pm,' he said and followed it up with some sentences in Kannada that I did not fully comprehend.
 
@@ -97,7 +97,7 @@ We had plans of trekking up the Hanuman mandir but the rains foiled our plans.
 
 ## Food, beverages and weed
 
-Hampi island fashions itself like a mini [Kasol](http://sauvikbiswas.com/tag/kasol/). The food is mostly geared towards foreigners. The menus for all of the restaurants look identical. The restaurants also use a floor based sitting arrangement - something that I had experienced at [Jim Morrison's Cafe at Kasol](/posts/day-16-a-trail-along-the-parvati-river/). However, unlike the awesome Israeli food back in Kasol, most places serve some derivative of Italian food. There are a few that excel though. One of them is Gouthami German Bakery. Their pizzas were especially good.
+Hampi island fashions itself like a mini [Kasol](http://sauvikbiswas.com/tag/kasol/). The food is mostly geared towards foreigners. The menus for all of the restaurants look identical. The restaurants also use a floor based sitting arrangement - something that I had experienced at [Jim Morrison's Cafe at Kasol]({{< relref "posts/himachal-trip-2015-day-16-a-trail-along-the-parvati-river" >}}). However, unlike the awesome Israeli food back in Kasol, most places serve some derivative of Italian food. There are a few that excel though. One of them is Gouthami German Bakery. Their pizzas were especially good.
 
 {{< figure src="DSC01096.jpg" caption="The common sitting arrangement found in all restaurants." >}}
 

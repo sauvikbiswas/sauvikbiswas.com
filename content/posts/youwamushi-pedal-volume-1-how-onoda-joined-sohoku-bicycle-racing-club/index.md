@@ -13,7 +13,7 @@ coverImage: "IMG.jpg"
 
 [![IMG](IMG.jpg)](/posts/youwamushi-pedal-volume-1-how-onoda-joined-sohoku-bicycle-racing-club/IMG.jpg)
 
-A few days ago, I received my copies of Yowamushi Pedal Volumes 1 and 2 in English. I have already seen the anime and have read scanlations of the manga. It was [one of the bicycling mangas that I wanted to see translated](/posts/3-cycling-mangas-that-need-some-love-and-attention/) in English. I was happy to see Yen Press doing the translations. I really loved how they had handled Yotsuba&!
+A few days ago, I received my copies of Yowamushi Pedal Volumes 1 and 2 in English. I have already seen the anime and have read scanlations of the manga. It was [one of the bicycling mangas that I wanted to see translated]({{< relref "posts/3-cycling-mangas-that-need-some-love-and-attention" >}}) in English. I was happy to see Yen Press doing the translations. I really loved how they had handled Yotsuba&!
 
 These books are essentially two Japanese volumes translated into one English volume. The manga is thick. The trim size is bigger than usual - almost like the Viz Signature editions.
 

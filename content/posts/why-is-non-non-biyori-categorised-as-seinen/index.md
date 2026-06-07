@@ -10,7 +10,7 @@ tags:
   - "silver-link"
 ---
 
-In my opinion, _**Non Non Biyori**_ should be the gold standard in slice-of-life genre. With its likable characters and soothing atmosphere, it definitely makes a pleasant watch no matter what my mood is. I had [written about it](/posts/non-non-biyori-slice-of-life-doesnt-get-better-than-this/ "Non Non Biyori: Slice of life doesn’t get better than this") soon after the anime was over.
+In my opinion, _**Non Non Biyori**_ should be the gold standard in slice-of-life genre. With its likable characters and soothing atmosphere, it definitely makes a pleasant watch no matter what my mood is. I had [written about it]({{< relref "posts/non-non-biyori-slice-of-life-doesnt-get-better-than-this" >}} "Non Non Biyori: Slice of life doesn’t get better than this") soon after the anime was over.
 
 [![vlcsnap-2014-01-07-21h23m26s242](vlcsnap-2014-01-07-21h23m26s242-1024x576.png)](/posts/why-is-non-non-biyori-categorised-as-seinen/vlcsnap-2014-01-07-21h23m26s242.png)
 

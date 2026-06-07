@@ -41,7 +41,7 @@ The day Taneda dies, her life spirals into a state of absolute solitude. The m
 
 ## Melancholy comes in many forms
 
-While it is easy to focus on the melancholy of Meiko Inuoe, it may be important to step back and understand that it is not just her but a whole lot of other people who are equally devastated after the loss of Taneda. In some ways, this almost feels like a much [mature take on AnoHana](/posts/anohana-death-influences-kids-differently-than-adults/) - only that, unlike AnoHana, the loss of Taneda ends up drawing people closer to each other.
+While it is easy to focus on the melancholy of Meiko Inuoe, it may be important to step back and understand that it is not just her but a whole lot of other people who are equally devastated after the loss of Taneda. In some ways, this almost feels like a much [mature take on AnoHana]({{< relref "posts/anohana-death-influences-kids-differently-than-adults" >}}) - only that, unlike AnoHana, the loss of Taneda ends up drawing people closer to each other.
 
 There is one very poignant section of the book where Taneda's father comes to visit Meiko in order to collect Taneda's belongings. It felt almost like a study of two solitudes. In the end, he leaves Taneda's guitar with Meiko and passes on a flickering ray of optimism to her.
 

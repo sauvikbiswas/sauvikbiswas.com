@@ -11,13 +11,13 @@ tags:
 
 ## Some background
 
-A few weeks ago, [I was fooling around with Flask framework](/posts/experimenting-with-flask-micro-framework/). I loved it. As a consequence, I had this strange itch of creating something useful using the framework. My goal was not to write a production ready, industrial level software, but something that would give me some experience in dabbling with a modern toolkit for writing webapps. I had also [mentioned in an earlier blog](/posts/experimenting-with-flask-micro-framework/) that the last time I had tried building any form of webapp was nine years ago, for Dark Project's website and in PHP. (Can't believe how archaic that language even sounds!)
+A few weeks ago, [I was fooling around with Flask framework]({{< relref "posts/experimenting-with-flask-micro-framework" >}}). I loved it. As a consequence, I had this strange itch of creating something useful using the framework. My goal was not to write a production ready, industrial level software, but something that would give me some experience in dabbling with a modern toolkit for writing webapps. I had also [mentioned in an earlier blog]({{< relref "posts/experimenting-with-flask-micro-framework" >}}) that the last time I had tried building any form of webapp was nine years ago, for Dark Project's website and in PHP. (Can't believe how archaic that language even sounds!)
 
 Mogit was also interested in exploring the framework. Together, we decided to write a simple discussion board with an inherent to-do functionality. The core idea being that any discussion thread can become a to-do entry and any to-do entry can become a discussion thread. I can see a lot of real world application for such a webapp.
 
 ## A long weekend is a good time to fool around
 
-I crashed at Mogit's place on 26th of January. I had plans to cycle towards the south of Bangalore during the long weekend. ([I eventually went to Hosur](/posts/a-day-off-and-a-ride-to-tvs-plant/).) Needless to say, my non-cycling time involved writing some piece of code for an hour and then taking a half an hour break to have some tea. (And sleeping long hours at night.) I lost count of the number of cups of tea I had.
+I crashed at Mogit's place on 26th of January. I had plans to cycle towards the south of Bangalore during the long weekend. ([I eventually went to Hosur]({{< relref "posts/a-day-off-and-a-ride-to-tvs-plant" >}}).) Needless to say, my non-cycling time involved writing some piece of code for an hour and then taking a half an hour break to have some tea. (And sleeping long hours at night.) I lost count of the number of cups of tea I had.
 
 I should mention that we weren't trying to build anything that even remotely resembled a product or a solution. A simple invite-only registration system, a no-frills login (with indefinite persistence of login related cookies), a simple discussion segment list (or analogous to folders in the traditional forum), a discussion thread page inside each of those segments, and a thread page that formats and displays markdown text.
 

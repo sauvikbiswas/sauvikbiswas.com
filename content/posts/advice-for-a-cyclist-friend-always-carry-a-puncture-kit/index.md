@@ -8,7 +8,7 @@ tags:
   - "kolar"
 ---
 
-After a [small test ride](/posts/look-a-brand-new-drivetrain/) a few weeks ago, I decided to take my new old bicycle for a longer ride. The whole idea was to see if there are things that need more urgent attention than the others. Also, my other two companions were on a hybrid (KHS Ultrasport that is closer to a 29er hardtail) and a 26 Fuji Nevada hardtail. My Schwinn of Theseus was closer to the steeds of my fellowmen.
+After a [small test ride]({{< relref "posts/look-a-brand-new-drivetrain" >}}) a few weeks ago, I decided to take my new old bicycle for a longer ride. The whole idea was to see if there are things that need more urgent attention than the others. Also, my other two companions were on a hybrid (KHS Ultrasport that is closer to a 29er hardtail) and a 26 Fuji Nevada hardtail. My Schwinn of Theseus was closer to the steeds of my fellowmen.
 
 Ravish joined me in front of our office and Soham joined me near his home, 5 kms farther down the road. We decide to ride till our familiar Kolar CCD, have our breakfast and head back before lunch.
 

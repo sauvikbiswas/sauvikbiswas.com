@@ -31,6 +31,6 @@ There wasn't any tea shop nearby. We walked for about half a kilometre to reach 
 
 While returning, I decided to take the inside route that connected Amritha to Attibele, a town on the National Highway.
 
-I remember this one time when I had visited [an observatory located somewhere south-west of Hosur](/posts/a-visit-to-the-observatory-at-yoga-nikaya/). I recognised that area near Attibele junction where we stocked ourselves with some food and beverages before proceeding to the observatory.
+I remember this one time when I had visited [an observatory located somewhere south-west of Hosur]({{< relref "posts/a-visit-to-the-observatory-at-yoga-nikaya" >}}). I recognised that area near Attibele junction where we stocked ourselves with some food and beverages before proceeding to the observatory.
 
 I can definitely feel some improvements in my cycling. I know that I am nowhere near the base physical level required to challenge Kalahatty. I have to lose about 5 more kgs of fat from my body.

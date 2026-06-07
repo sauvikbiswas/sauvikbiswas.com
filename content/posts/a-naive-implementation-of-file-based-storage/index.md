@@ -9,7 +9,7 @@ tags:
 coverImage: "Architecture-of-DBMS.png"
 ---
 
-_Previous Post: [YetiDB: an academic exercise](/posts/yetidb-an-academic-exercise/)_
+_Previous Post: [YetiDB: an academic exercise]({{< relref "posts/yetidb-an-academic-exercise" >}})_
 
 We have a basic implementation of four interfaces—
 

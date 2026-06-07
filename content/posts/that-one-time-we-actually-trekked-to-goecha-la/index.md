@@ -18,11 +18,11 @@ tags:
 coverImage: "DSC09161-scaled.jpeg"
 ---
 
-Goecha-La was my first trek. Back in 2008, me and my friends made an attempt to reach there. Poor planning, poor fitness and general lack of awareness of what a trek entails resulted in a hilarious and failed trip. I haven't shied away from documenting that embarrassing piece of history. If you are interested, [please have a read](/posts/that-one-time-we-tried-to-trek-to-goecha-la/).
+Goecha-La was my first trek. Back in 2008, me and my friends made an attempt to reach there. Poor planning, poor fitness and general lack of awareness of what a trek entails resulted in a hilarious and failed trip. I haven't shied away from documenting that embarrassing piece of history. If you are interested, [please have a read]({{< relref "posts/that-one-time-we-tried-to-trek-to-goecha-la" >}}).
 
 Some of my friends (Rajdeep, Akash, Mayank—all ex-colleagues from Airbus) wanted to do this trip. Having known that I had some experience of the route and aware of my wish to successfully complete the trek, they approached me sometime in October. There are independent trek operators and local guides who still operate on this route just like they used to do it in 2008. However, things have changed in the last fifteen years. Nowadays, we have a couple of big organised trek operators (Trek the Himalayas or TTH, Indiahikes, Bikat Adventures) who are much more operationally reliable and much more safety focused. They charge a small premium for that but the experience is generally better.
 
-I had done [Kedarkantha](/posts/day-15-kedarkantha-sankri-to-juda-ka-talab/) with Indiahikes before and liked the experience. Some of my friends spoken well of TTH, too. It all boiled down to what slots would be available to us in April. Being one of the first seasons after the COVID restrictions were fully revoked, these organisations had opened up only a few slots for the September-October window (Autumn 2022, when we were weighing our options) and another few in April-May (Spring 2023, when we intended to do the trek). After some deliberations, we chose Indiahikes and booked their second batch that on 8th. There were only 9 batches that Indiahikes had planned for the Spring 2023 season; and if I remember correctly, TTH had planned 8 batches.
+I had done [Kedarkantha]({{< relref "posts/uttarakhand-trip-2017-day-15-kedarkantha-sankri-to-juda-ka-talab" >}}) with Indiahikes before and liked the experience. Some of my friends spoken well of TTH, too. It all boiled down to what slots would be available to us in April. Being one of the first seasons after the COVID restrictions were fully revoked, these organisations had opened up only a few slots for the September-October window (Autumn 2022, when we were weighing our options) and another few in April-May (Spring 2023, when we intended to do the trek). After some deliberations, we chose Indiahikes and booked their second batch that on 8th. There were only 9 batches that Indiahikes had planned for the Spring 2023 season; and if I remember correctly, TTH had planned 8 batches.
 
 This was the itinerary—
 
@@ -41,7 +41,7 @@ Now contrast this to the six-day itinerary we had made in 2008 to cover the same
 
 ## Chapter 6: A real preparation before reaching Yuksom
 
-Most of these big organised tour operators require some proof of fitness for being a part of the group. I didn't have them to tell me. I knew it first hand from my earlier experience. I started hitting the gym to do some strength training and tackling long-distance cycling trips to build my endurance. Multi-day cycling trips like [the Udupi-Bangalore one I did with Mittal](/posts/tour-de-self-from-udupi-to-bangalore/) in December also kept me fit and motivated.
+Most of these big organised tour operators require some proof of fitness for being a part of the group. I didn't have them to tell me. I knew it first hand from my earlier experience. I started hitting the gym to do some strength training and tackling long-distance cycling trips to build my endurance. Multi-day cycling trips like [the Udupi-Bangalore one I did with Mittal]({{< relref "posts/tour-de-self-from-udupi-to-bangalore" >}}) in December also kept me fit and motivated.
 
 {{< figure src="68d38275-0645-483a-a0eb-a66374fcbb35_Indiahikes-Goechala-Map-1024x722.jpg" caption="This map by Indiahikes is more informative than the ones we had in 2008."  link="/posts/that-one-time-we-actually-trekked-to-goecha-la/68d38275-0645-483a-a0eb-a66374fcbb35_Indiahikes-Goechala-Map.jpg">}}
 

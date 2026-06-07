@@ -16,7 +16,7 @@ coverImage: "DSC01258.jpg"
 
 Ravish, my weekend cycling partner, had injured his knee while running sometime earlier this week. I believe he wouldn't be cycling for the next few months.
 
-Last time during the [Kolar trip](/posts/either-the-wind-is-against-you-or-you-are-having-a-good-day/), I had chafed in my chamois. This always used to happened after I had ridden for about 3 hours or so. I thought the culprit was my saddle or my reach or both. I did not know what to do. One of the best places where I could have gotten some consultancy was [BOTS](http://www.bumsonthesaddle.com/).
+Last time during the [Kolar trip]({{< relref "posts/either-the-wind-is-against-you-or-you-are-having-a-good-day" >}}), I had chafed in my chamois. This always used to happened after I had ridden for about 3 hours or so. I thought the culprit was my saddle or my reach or both. I did not know what to do. One of the best places where I could have gotten some consultancy was [BOTS](http://www.bumsonthesaddle.com/).
 
 I wanted to go to their [Jayanagar store](https://goo.gl/maps/AuKxPSrYDjA2). I thought it was a good opportunity to ride through the chaos of smaller lanes in Bangalore for some fun.
 

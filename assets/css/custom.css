@@ -1,3 +1,40 @@
+:root {
+    --h1-font-size: 2.4em;
+    --h2-font-size: 1.65em;
+    --h3-font-size: 1.3em;
+    --h4-font-size: 1.1em;
+    --hx-font-size: 1.1em;
+    --h3-margin-top: 1.5rem;
+    --h3-margin-bottom: 0.75rem;
+    --h4-margin-top: 1.25rem;
+    --h4-margin-bottom: 0.5rem;
+}
+
+.single-title {
+    font-size: 2.4em;
+    font-weight: bold;
+}
+
+.single-content h2.heading {
+    font-size: var(--h2-font-size);
+}
+
+.single-content h1.heading {
+    font-size: var(--h2-font-size);
+}
+
+.single-content h3.heading {
+    font-size: var(--h3-font-size);
+    margin-top: var(--h3-margin-top);
+    margin-bottom: var(--h3-margin-bottom);
+}
+
+.single-content h4.heading {
+    font-size: var(--h4-font-size);
+    margin-top: var(--h4-margin-top);
+    margin-bottom: var(--h4-margin-bottom);
+}
+
 a {
     color: rgb(221, 51, 51);
 }

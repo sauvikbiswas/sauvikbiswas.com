@@ -8,7 +8,7 @@ tags:
   - "video"
 ---
 
-About two months ago I had mailed a copy of Duality video DVD to MTV Indies, which they never received. [I had to mail a second copy](/posts/one-last-step-publishing-long-way-from-home/ "One Last Step: Publishing Long Way From Home"). It turns out that even the second copy of Duality video DVD was misplaced.
+About two months ago I had mailed a copy of Duality video DVD to MTV Indies, which they never received. [I had to mail a second copy]({{< relref "posts/one-last-step-publishing-long-way-from-home" >}} "One Last Step: Publishing Long Way From Home"). It turns out that even the second copy of Duality video DVD was misplaced.
 
 [![2014-09-07 23.25.12](2014-09-07-23.25.12.jpg)](/posts/duality-music-video-third-time-lucky/2014-09-07-23.25.12.jpg)
 

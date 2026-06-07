@@ -15,7 +15,7 @@ coverImage: "81f3VbMxEzL.jpg"
 
 Ed Viesturs is a great thinker. Well, he is a great climber, too. Reading through his book, I could realise how much of a mental fortitude and clarity one needs to do tasks that are superhuman. In his case, it was climbing all fourteen eight-thousanders in the world.
 
-A few days ago, [I had borrowed](/posts/a-new-saddle-and-a-new-posture/) his autobiography from Nabyendu. It's aptly called _No Shortcuts to the Top_. It is a narrative of Ed's legendary feat of summiting the fourteen beasts without supplemental oxygen during the period from 1987 through 2005.
+A few days ago, [I had borrowed]({{< relref "posts/a-new-saddle-and-a-new-posture" >}}) his autobiography from Nabyendu. It's aptly called _No Shortcuts to the Top_. It is a narrative of Ed's legendary feat of summiting the fourteen beasts without supplemental oxygen during the period from 1987 through 2005.
 
 [![81f3VbMxEzL](81f3VbMxEzL.jpg)](/posts/the-legend-that-is-ed-viesturs/81f3VbMxEzL.jpg)
 

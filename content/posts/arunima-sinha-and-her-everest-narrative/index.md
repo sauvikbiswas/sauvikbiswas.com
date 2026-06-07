@@ -13,7 +13,7 @@ coverImage: "arunimasinha2015030306112454f5508cb1308.jpg"
 
 ## Exchanging books related to Himalayas with Nabyendu
 
-Last Sunday, I paid a visit to Nabyendu. [He had lent me Ed Viesturs' biography earlier](/posts/a-new-saddle-and-a-new-posture/) and I wanted to return it. (If you want to read my thoughts on that, please [click here](/posts/the-legend-that-is-ed-viesturs/).) I had also packed another book for him. This one to be precise:
+Last Sunday, I paid a visit to Nabyendu. [He had lent me Ed Viesturs' biography earlier]({{< relref "posts/a-new-saddle-and-a-new-posture" >}}) and I wanted to return it. (If you want to read my thoughts on that, please [click here]({{< relref "posts/the-legend-that-is-ed-viesturs" >}}).) I had also packed another book for him. This one to be precise:
 
 {{< figure src="Palin_Himalaya.jpg" caption="This is a very different take on a Himalayan travelogue." >}}
 

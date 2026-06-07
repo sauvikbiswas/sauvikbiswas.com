@@ -18,7 +18,7 @@ Homonyms and puns superficially seem to allude the former group. However, it can
 
 ## Joke or Jealousy?
 
-The classification theory started to fall apart when Rueben (the same colleague who had visited [Mosque Road](/posts/a-food-trip-to-mosque-road-in-bangalore/) and [Samarkand](/posts/samarkand-on-a-bandh-day/) with me) pointed out a great problem associated with the theory. What if the classification causes a desire to acquire the attributes of the other class?
+The classification theory started to fall apart when Rueben (the same colleague who had visited [Mosque Road]({{< relref "posts/a-food-trip-to-mosque-road-in-bangalore" >}}) and [Samarkand]({{< relref "posts/samarkand-on-a-bandh-day" >}}) with me) pointed out a great problem associated with the theory. What if the classification causes a desire to acquire the attributes of the other class?
 
 Let us take the case of "Your mama's so fat..." construct. This classification of fat vs lean body need not necessarily create a joke. I can construct one which goes like this - "Your mama's so thin that she got hired as a zero-sized model." It is no more funny. Here lies the catch. It is no more funny to people who think that being fat is not a desirable trait. It could be funny to people who view being [anorexia as a less than desirable trait](http://www.dailymail.co.uk/femail/article-3303021/Edyn-Mackney-exposed-sick-fashion-industry-reveals-s-flooded-messages-fellow-models-pushed-starve-careers.html).
 

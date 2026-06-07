@@ -10,7 +10,7 @@ tags:
 
 About two or three weeks ago, I started having pain in my lower back. It did not restrict any of my movements but prolonged sitting caused fatigue and pain.
 
-A visit to a physiotherapist confirmed that it was indeed caused by muscle stress. My poor sitting posture coupled with my [tight hamstrings](/posts/day-2-mysore-to-kalpetta/) were the culprit. The diagnosis sheet also read "core muscle weakness". The doctor administered ultrasound and interferential therapy on my back for five days.
+A visit to a physiotherapist confirmed that it was indeed caused by muscle stress. My poor sitting posture coupled with my [tight hamstrings]({{< relref "posts/tour-of-nilgiris-2016-day-02-mysore-to-kalpetta" >}}) were the culprit. The diagnosis sheet also read "core muscle weakness". The doctor administered ultrasound and interferential therapy on my back for five days.
 
 I was given some exercises that stretches the lower back and glutes. The exercises are pretty simple. I can barely feel anything while doing them. It's usually after an hour or so that I can feel some pain and discomfort. The doctor had warned me about this. She had mentioned that it was merely like the exercise induced pain one gets after a heavy workout. It should not deter me from performing regular movements.
 

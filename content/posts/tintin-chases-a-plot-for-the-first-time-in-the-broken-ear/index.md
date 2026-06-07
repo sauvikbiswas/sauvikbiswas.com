@@ -15,7 +15,7 @@ coverImage: "the-broken-ear.jpg"
 
 _The Broken Ear_ is the first book with a preconceived plot. In the previous serialisations, Hergé had covered the four cardinal directions—Soviet in the North, Congo in the South, America in the West and China in the East. His approach to stories had changed much after his chance encounter with a fellow artist, Chang. He started using a notebook to jot down plot points, notes, sketches and references.
 
-# Breaking down a plot
+## Breaking down a plot
 
 Hergé had to still serialise the story, at a rate of two pages per week. He had to pack enough excitement and pace in those two pages while keeping some semblance of an overarching plot. He came up with a solution. The characters follow—or chase—the fetish until the mystery is solved. Each situation is still a compartmentalised event. Thus, dividing the story into smaller arcs, each with their own setup, environments, actions and gags. I could count eight of them.
 
@@ -35,7 +35,7 @@ Hergé had to still serialise the story, at a rate of two pages per week. He had
 
 15. The final arc brings us back to Brussels. Balthazar's brother has started to make much more accurate replica of the fetish. These replicas are available everywhere. Tintin (as well as Alonso and Ramon) trace down the current owner of the original. A showdown ensues that damages the fetish. Alonso, Ramon and the diamond are lost to the sea. (This is also one of the two Tintin albums where the antagonists die!) The original fetish is all patched up and is placed back in the museum.
 
-## Portrayal of a conflict
+### Portrayal of a conflict
 
 When the serialisation of _The Broken Ear_ began, Bolivia and Paraguay had just declared ceasefire on Chaco War. The fictional nations of San Theodoros and Nuevo Rico are based on these two countries, respectively.
 
@@ -57,7 +57,7 @@ General Alcazar is portrayed as an incompetent and impressionable leader. He pre
 
 The conflict between the two groups would later resurface in _Tintin and the Picaros_.
 
-## Inventing a language
+### Inventing a language
 
 The English translators of the Tintin album—Leslie Lonsdale-Cooper and Michael Turner did a fabulous job in translating the "mock" language that the Arumbaya's spoke. They are basically English phrases—to be precise, Cockney slang broken after every one or to syllables. For example, the phrase, "Ahw wada lu’vali bahn chaco conats!" can be read as "Oh, what a lovely bunch of coconuts! Ha! Ha! Ha!", and "Goh' blimeh! Wa' samma ta, li li li va?... Lem eshohya!" is phonetically equivalent of "Oh, blimey! What's the matter, lily-livered? Let me show you!"
 

@@ -9,7 +9,7 @@ tags:
 coverImage: "1-Vo1jqDg99frwUbXR_xV_tA.webp"
 ---
 
-_Previous Post: [A naive implementation of file-based storage](/posts/a-naive-implementation-of-file-based-storage/)_
+_Previous Post: [A naive implementation of file-based storage]({{< relref "posts/a-naive-implementation-of-file-based-storage" >}})_
 
 It was impossible to not come across B-Trees or any of the variants (B+Trees) if I had to implement a database. I hadn't studied this data structure before.
 

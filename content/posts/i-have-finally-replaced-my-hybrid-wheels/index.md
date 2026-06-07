@@ -18,7 +18,7 @@ While replacing the tubes, I inspected both my tyres and found that there were g
 
 {{< figure src="IMG_20180218_122110.jpg" caption="The gashes are clearly visible" >}}
 
-As the old saying goes, "an issue is a non-issue until you notice it." I was so terrified of my tyres opening up that I rushed to [Crankmeister](https://www.facebook.com/crankmeisterbicycleworks/) and asked them to change the tyres. They didn't have Delta Cruisers in stock. I didn't want anything else and [I had good reasons for that](/posts/a-long-term-review-of-schwalbe-delta-cruiser/). I was disappointed and was scared to ride ten kilometres back home. "You rode all these months with this. Surely you can ride another week," Nikhil, one of the owners of Crankmeister, advised me.
+As the old saying goes, "an issue is a non-issue until you notice it." I was so terrified of my tyres opening up that I rushed to [Crankmeister](https://www.facebook.com/crankmeisterbicycleworks/) and asked them to change the tyres. They didn't have Delta Cruisers in stock. I didn't want anything else and [I had good reasons for that]({{< relref "posts/a-long-term-review-of-schwalbe-delta-cruiser" >}}). I was disappointed and was scared to ride ten kilometres back home. "You rode all these months with this. Surely you can ride another week," Nikhil, one of the owners of Crankmeister, advised me.
 
 Over the last week, I was very careful to avoid any pothole, manhole and any other general junk that might cause the blowout that I had pictured in my mind. Thankfully, these tyres survived the entire week's commute.
 

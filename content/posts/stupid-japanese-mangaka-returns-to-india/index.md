@@ -10,7 +10,7 @@ tags:
   - "yukichi-yamamatsu"
 ---
 
-A few months ago, [I had written a blurb](/posts/stupid-japanese-mangaka-comes-to-india/ "Stupid Japanese Mangaka Comes to India") about a book called "Stupid Guy Goes to India". I had thoroughly enjoyed it. I have observed that I like books, shows and documentary that gives me an outsider's view of my country (kind of like [TheSurfingViolinist's India adventures](https://www.youtube.com/user/thesurfingviolinist/videos)).
+A few months ago, [I had written a blurb]({{< relref "posts/stupid-japanese-mangaka-comes-to-india" >}} "Stupid Japanese Mangaka Comes to India") about a book called "Stupid Guy Goes to India". I had thoroughly enjoyed it. I have observed that I like books, shows and documentary that gives me an outsider's view of my country (kind of like [TheSurfingViolinist's India adventures](https://www.youtube.com/user/thesurfingviolinist/videos)).
 
 This post is about its sequel -  _**[Indo e Baka ga Yattekita: Matamata](http://www.amazon.co.jp/%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E3%82%A4%E3%83%B3%E3%83%89%E3%81%B8%E9%A6%AC%E9%B9%BF%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E6%9D%A5%E3%81%9F-%E5%B1%B1%E6%9D%BE-%E3%82%86%E3%81%86%E3%81%8D%E3%81%A1/dp/4537258373/ref=pd_bxgy_b_img_y/378-7082592-8454556)**_ - or known as _**Stupid Guy Goes Back to India**_.
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "DSC04619.jpg"
 ---
 
-# A problem in production
+## A problem in production
 
 A couple of days ago, our stack saw a massive rise in WAL. As a side effect, we weren't seeing Debezium emit CDC messages to Kafka, which in turn affected some critical workflows from advancing. This was not the first time this had happened. One idea that was thrown around was to limit the tables Debezium subscribes to. However, that doesn't help.
 
@@ -19,9 +19,9 @@ Limiting which tables Debezium subscribes to (via the Postgres `PUBLICATION`) re
 
 On doing a bit of research, I came across another mode of failure. It was clear that even when Debezium is not "quite", `pg_wal` can keep growing if there are long running transactions.
 
-## 1. Some PG concepts
+### 1. Some PG concepts
 
-### Write-Ahead Log (WAL)
+#### Write-Ahead Log (WAL)
 
 Postgres is a write-ahead-logged database: every change to any table (INSERT/UPDATE/DELETE/DDL/vacuum/etc.) is first appended as a record to the WAL, *then* applied to the heap. WAL is stored as 16 MB segment files in `$PGDATA/pg_wal/`.
 
@@ -32,7 +32,7 @@ WAL is used for:
 - **Logical replication / logical decoding** (what Debezium uses)
 - Point-in-time recovery (PITR)
 
-### Log Sequence Number (LSN)
+#### Log Sequence Number (LSN)
 
 A monotonically increasing 64-bit pointer into the WAL stream (e.g. `1A/3F8B0190`). Every WAL record has an LSN. "How far has the consumer read?" is always answered as an LSN.
 
@@ -48,7 +48,7 @@ The `current_wal_lsn`, also known as HEAD, can be found out using
 SELECT pg_current_wal_lsn();
 ```
 
-### Replication Slot
+#### Replication Slot
 
 This is a persistent, named bookmark inside Postgres that says:
 
@@ -65,7 +65,7 @@ A logical replication slot has two important LSN fields:
 | `restart_lsn`         | The oldest LSN Postgres must keep so the consumer can resume decoding. WAL files older than this can be recycled. |
 | `confirmed_flush_lsn` | The LSN the *consumer* has acknowledged it has durably persisted. `restart_lsn` is computed from this. |
 
-#### Relationship: `restart_lsn` ≤ `confirmed_flush_lsn`
+##### Relationship: `restart_lsn` ≤ `confirmed_flush_lsn`
 
 The two LSNs are related but not identical. The invariant is:
 
@@ -122,7 +122,7 @@ SELECT slot_name,
 FROM pg_replication_slots;
 ```
 
-### Publication
+#### Publication
 
 A `PUBLICATION` is just a **filter on what changes Debezium sees** when it calls the `pgoutput` decoder. It is a logical-layer concept:
 
@@ -150,7 +150,7 @@ And then all tables that are contained in the publication. This is database-spec
 SELECT * FROM pg_publication_tables;
 ```
 
-### Debezium Standby Status / Feedback
+#### Debezium Standby Status / Feedback
 
 The Postgres streaming-replication protocol expects the consumer to periodically send a **Standby Status Update** message back to the server saying "I have flushed up through LSN Y." Postgres uses this to advance `confirmed_flush_lsn` (and therefore `restart_lsn`).
 
@@ -161,7 +161,7 @@ Two key things to notice:
 1. **All writes** go into WAL, regardless of the publication.
 2. The slot's `restart_lsn` only moves when Debezium **sends feedback**, which only happens when it **commits an offset**, which only happens when it **emits an event**.
 
-## 3. The First Failure Mode: Debezium has nothing to process
+### 3. The First Failure Mode: Debezium has nothing to process
 
 Suppose your database has 105 tables. You publish only 5:
 
@@ -189,7 +189,7 @@ So, here's the killer:
 
 This is the classic "Debezium silently kills your database" failure mode, and it's well documented in production postmortems.
 
-### Sequence view
+#### Sequence view
 
 ```mermaid
 sequenceDiagram
@@ -217,7 +217,7 @@ sequenceDiagram
 
 You need to make Debezium acknowledge an LSN even when your published tables are quiet.
 
-### Fixing this problem
+#### Fixing this problem
 
 Configure the connector to periodically send itself a heartbeat.
 
@@ -254,7 +254,7 @@ flowchart LR
     SLOT -.->|advances → WAL recyclable| WAL
 ```
 
-## 4. The Other Failure Mode: a Long-Running Transaction
+### 4. The Other Failure Mode: a Long-Running Transaction
 
 Even with a perfectly healthy Debezium that acks every 30s, `pg_wal` can still grow without bound. The cause is the second clause in the `restart_lsn` formula from an **in-flight transaction** that started long ago and never committed.
 
@@ -262,7 +262,7 @@ If some tool or batch job opens a transaction at LSN `X` and then sits there for
 
 This is the same disk-bloat symptom as the Debezium-quiet failure, but the cause and the fix are completely different.
 
-### Sequence view
+#### Sequence view
 
 ```mermaid
 sequenceDiagram
@@ -294,7 +294,7 @@ sequenceDiagram
     Note over WAL: pg_wal grows → disk pressure / crash
 ```
 
-### Diagnosing it
+#### Diagnosing it
 
 Compare `restart_lsn` and `confirmed_flush_lsn` on the slot, and cross-check with `pg_stat_activity`:
 
@@ -323,7 +323,7 @@ ORDER BY xact_start;
 - If `gap_held_open_by_long_txn` ≈ 0 → the consumer is the bottleneck (the first failure mode described earlier).
 - If `gap_held_open_by_long_txn` is large → Debezium is fine; you have a long-running transaction surfaced by `pg_stat_activity`.
 
-### Fixing this problem
+#### Fixing this problem
 
 There is not much you can do on Postgres or Debezium side other than to find and kill / fix the offending transaction.
 
@@ -332,7 +332,7 @@ Once things are under control, you can do these but the fix is very product spec
 - Set `statement_timeout` to bound individual statements.
 - Audit application code for forgotten `BEGIN` without `COMMIT/ROLLBACK`.
 
-### Quick comparison with the first failure mode
+#### Quick comparison with the first failure mode
 
 | Symptom                                  | Debezium-quiet             | Long-running transaction.                      |
 |------------------------------------------|----------------------------|------------------------------------------------|
@@ -343,7 +343,7 @@ Once things are under control, you can do these but the fix is very product spec
 | `restart_lsn` ≈ `confirmed_flush_lsn`?   | yes                        | no large gap                                   |
 | Fix                                      | heartbeat + action query   | kill the txn / `idle_in_transaction_session_timeout` |
 
-# In closure
+## In closure
 
 If you have Debezium as your CDC, it is better to have databases with similar traffic in one cluster. If there is a massive discrepancy in traffic, it's better to have them in different instances. 
 
@@ -351,7 +351,7 @@ We ended up moving our high traffic database to a different instance. This safeg
 
 **Acknowledgement:** my colleagues [Monotosh](https://www.linkedin.com/in/dmonotosh/), who knows more about WAL than most of us, and [Sudipto](https://www.linkedin.com/in/sudipto-biswas-aa101611/), the architect of our platform. Together they had mitigated the production issues. I learned a bit more about these systems as an observer.
 
-# References
+## References
 
 - https://www.postgresql.org/docs/9.4/catalog-pg-replication-slots.html
 - https://debezium.io/documentation/reference/3.4/connectors/postgresql.html#postgresql-wal-disk-space

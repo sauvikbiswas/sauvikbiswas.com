@@ -16,7 +16,7 @@ I can officially declare myself as the king of punctures.
 
 I had plans to do an airport loop. En route, I met a guy, Ram, on his [Lynskey Titanium bike](https://lynskeyperformance.com/road/road-riding/r240/), who invited me to join him and two of his friends to Bagalur. These guys were rolling pretty nicely and were riding at a pace that is slightly higher than mine. But it was not something that I couldn't sustain over a three hour ride.
 
-{{< figure src="Screenshot-2016-09-04-09.05.11.png" caption="From L to R: Ram, Anantha and Venky. This is a screenshot from a clip that was recorded on the [Mobius mounted on my handlebar](/posts/boxed-cycling-stuff/)." >}}
+{{< figure src="Screenshot-2016-09-04-09.05.11.png" caption="From L to R: Ram, Anantha and Venky. This is a screenshot from a clip that was recorded on the [Mobius mounted on my handlebar]({{< relref \"posts/boxed-cycling-stuff\" >}})." >}}
 
 Midway through to Bagalur, I realised that I should exchange phone numbers with one of the guys. While Ram had stopped for a client call, I asked him for his number. Ram casually said, 'Not necessary for now. You are riding at the same pace.'
 
@@ -38,7 +38,7 @@ On my way back, I heard a hiss sound from my rear tyre. I pushed the bike to a s
 
 {{< figure src="DSC01501.jpg" caption="The culprit was something hard and sharp. It had managed to even notch the edge of the rim. Maybe it's time to invest in a pair of [Gatorskin Hardshells](http://www.continental-tires.com/bicycle/tyres/race-tyres/gator-hardshell)." >}}
 
-It's a sad truth about cycling. It's also known as the [golden truth of cycling](/posts/commuting-by-bicycle-in-bangalore-backpack-essentials/) - punctures are inevitable. I can only imagine some buddha, sitting underneath a tree that's as old as knowledge itself, preaching his disciples this existential truth. His disciples would be wondering, 'Yeah we have heard of the cycle od rebirth, but what is this bicycle?' Some of them would also (wrongly) deduce that the puncture that stops the act of cycling is an allusion to Nirvana that allows one to escape the cycle.
+It's a sad truth about cycling. It's also known as the [golden truth of cycling]({{< relref "posts/commuting-by-bicycle-in-bangalore-backpack-essentials" >}}) - punctures are inevitable. I can only imagine some buddha, sitting underneath a tree that's as old as knowledge itself, preaching his disciples this existential truth. His disciples would be wondering, 'Yeah we have heard of the cycle od rebirth, but what is this bicycle?' Some of them would also (wrongly) deduce that the puncture that stops the act of cycling is an allusion to Nirvana that allows one to escape the cycle.
 
 ## Riding back casually
 
