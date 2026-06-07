@@ -9,13 +9,13 @@ tags:
   - "kari"
 ---
 
-Last weekend, I came across a used copy of Kari. I [had bought](/posts/new-arrival-logicomix-adi-parva-clifton-and-lucky-luke/ "New Arrival: Logicomix, Adi Parva, Clifton and Lucky Luke") her later work, Adi Parva, about an year ago. When I saw the book for dirt cheap price, I couldn't help myself from buying it.
+Last weekend, I came across a used copy of Kari. I had bought her later work, Adi Parva, about an year ago. When I saw the book for dirt cheap price, I couldn't help myself from buying it.
 
 [![2015-02-25 18.57.24](2015-02-25-18.57.24-e1424871279545-706x1024.jpg)](/posts/reading-through-amruta-patils-cynical-kari/2015-02-25-18.57.24-e1424871279545.jpg)
 
 ## The story
 
-Kari is a narrative set in the same visceral Mumbai that played the backdrop to one of my recent favourites - [Mumbai Confidential](/posts/mumbai-confidential-a-nice-touch-of-noir/ "Mumbai Confidential: A nice touch of noir"). There is a difference though. Unlike Mumbai Confidential, Kari is very introspective in nature and the backdrop forms a minor part of the narrative, albeit an important one.
+Kari is a narrative set in the same visceral Mumbai that played the backdrop to one of my recent favourites - [Mumbai Confidential]({{< relref "posts/mumbai-confidential-a-nice-touch-of-noir" >}} "Mumbai Confidential: A nice touch of noir"). There is a difference though. Unlike Mumbai Confidential, Kari is very introspective in nature and the backdrop forms a minor part of the narrative, albeit an important one.
 
 The story follows the coming to terms with the realities of heartbreak by our protagonist, Kari, a lesbian who is in love with another woman, Ruth. Following a failed attempt at double suicide, where both of them were saved - Kari by sewer and Ruth by a building net, they part ways. What follows is Kari's attempt at healing herself and accepting who she is.
 

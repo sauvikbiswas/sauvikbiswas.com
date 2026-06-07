@@ -15,7 +15,7 @@ In 2011, I relocated to Bangalore and joined Airbus. Alongside my usual day job,
 
 Every year, my mother and sister would come to Bangalore and stay with me for a month or so. We would often plan a trip to some place in the southern part of India. Unrestricted movement meant that we all had this notion in the back of our minds that we could visit each other any time we wanted.
 
-No one had anticipated that such a notion would become impossible overnight. In March 2020, the entire world, including India, and my locality, went into a lock-down. I spent the next eight months stuck in an apartment, alone. The evening video calls with my mom and sister kept me sane. It was so excruciating that when December came and the restrictions had eased out to some extent, I decided to [head towards North-East India](/posts/day-1-plans-of-north-east-and-a-long-travel/).
+No one had anticipated that such a notion would become impossible overnight. In March 2020, the entire world, including India, and my locality, went into a lock-down. I spent the next eight months stuck in an apartment, alone. The evening video calls with my mom and sister kept me sane. It was so excruciating that when December came and the restrictions had eased out to some extent, I decided to [head towards North-East India]({{< relref "posts/north-east-trip-2020-day-01-plans-of-north-east-and-a-long-travel" >}}).
 
 When the second wave hit India the next year, things were even worse. In the last two weeks of April and first two weeks of May, there wasn't a day when I didn't receive the news of demise of someone that I knew. So in late May, I packed my work laptop and headed home—back to Kolkata.
 
@@ -41,7 +41,7 @@ I was open to any sub-domain but I am happy that I am in Networking. It gives me
 
 ## Getting married and ending the solo stint of my life
 
-My decision to get married came after I had settled some open points in my life that I had written about in [a 2019 post](/posts/all-that-have-defined-the-first-half-of-my-30s/). Sometime in mid 2018, I started dating with the prospect of finding the right person. I had dated one girl in 2018, three girls in 2019, and two in 2020. (The dates I had arranged for in 2020 were virtual owing to the pandemic.)
+My decision to get married came after I had settled some open points in my life that I had written about in [a 2019 post]({{< relref "posts/all-that-have-defined-the-first-half-of-my-30s" >}}). Sometime in mid 2018, I started dating with the prospect of finding the right person. I had dated one girl in 2018, three girls in 2019, and two in 2020. (The dates I had arranged for in 2020 were virtual owing to the pandemic.)
 
 I am happy that I had gone through that phase. It gave a lot of clarity on what I wanted. I do not have strong preferences or opinions about most things in this world (but have very strong opinions for a couple of things). I learned that the equation in each relationship is different. There are very few things one can carry over into the next relationship.
 

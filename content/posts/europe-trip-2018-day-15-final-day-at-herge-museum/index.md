@@ -1,0 +1,56 @@
+---
+title: "Day 15: Final day at Hergé Museum"
+date: 2018-12-15
+categories: 
+  - "travel"
+tags: 
+  - "brussels"
+  - "europe-trip-2018"
+  - "louvain-la-neuve"
+  - "tintin"
+coverImage: "DSC5718.jpg"
+---
+
+I saved the best for the last.
+
+I had to vacate the hostel room by 10 AM. I freshened up, took a bath, repacked by big rucksack for one last time and headed off to the reception. The free luggage storage facility was super handy. My bus was at 10:20 PM and I had the entire afternoon and evening to spend.
+
+## A visit to the Hergé Museum
+
+I had already planned my afternoon. I bought a return ticket for Louvain-la-Neuve to visit the Hergé museum. As a Tintinologist, it would have been great shame if I wasn't able to go there. I was greeted by Tintin multiple times at Brussels-Midi station.
+
+{{< figure src="DSC5716-768x512.jpg" caption="There is a Tintin sign visible right outside at Brussels-Midi station."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5716.jpg">}}
+
+{{< figure src="IMG_20181215_171856-768x797.jpg" caption="This panel is at the entrance of Brussels-Midi, towards the left."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/IMG_20181215_171856.jpg">}}
+
+{{< figure src="IMG_20181215_171825-768x489.jpg" caption="And this one, straight on near the entrance."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/IMG_20181215_171825.jpg">}}
+
+There weren't any direct train on weekends, so I had to change trains at Ottignies. The train journey lasted for about an hour. The museum itself is very close to the train station.
+
+{{< figure src="DSC5718-768x512.jpg" caption="Hergé Museum."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5718.jpg">}}
+
+I must have spent an entire afternoon there—playing the audioguide and reading, observing every detail. There were a lot of original panels drawn by Hergé and his assistants. I knew those images by heart but here I had a new appreciation for the creator's work.
+
+{{< figure src="DSC5740-768x1153.jpg" caption="All the named characters of Tintin."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5740.jpg">}}
+
+{{< figure src="DSC5742-768x512.jpg" caption="Edward P. Jacobs did this panel. Hergé had a scaled model of the ship made so that the drawings could have been accurate."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5742.jpg">}}
+
+{{< figure src="DSC5759-768x1152.jpg" caption="From The Explorers on the Moon. See the use of white gouache that has been used to erase a larger, different perspective of the spacecraft. There were other forms of editing, too. The cover of Explorers is actually constructed in fragments and then taped together."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5759.jpg">}}
+
+{{< figure src="DSC5748-768x512.jpg" caption="This is the museum of oddities. Models and paraphernalia found in the albums."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5748.jpg">}}
+
+The museum not only focuses on Tintin but also Hergé's other works. Not many original panels remain but still, the foundation was able to source a lot of things from the Joe, Zette and Jocko era, the old drawing books and some published sheets from Le Petit Vingtième, where most of Herge's earlier works were published.
+
+{{< figure src="DSC5761-768x512.jpg" caption="Hergé posing in front of a market in Brussels."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5761.jpg">}}
+
+{{< figure src="DSC5732-768x1152.jpg" caption="This is Hergé with Zhang Chongren, who would inspire the character Tchang from The Blue Lotus and Tintin in Tibet."  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5732.jpg">}}
+
+{{< figure src="DSC5721-768x565.jpg" caption="Herge's drawings of cats. Despite giving Tintin [a dog](https://en.wikipedia.org/wiki/Snowy_"  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5721.jpg">}}
+
+And finally, the room of albums. I was disappointed to not find a Bengali edition in there.
+
+{{< figure src="DSC5760-768x512.jpg"  link="/posts/europe-trip-2018-day-15-final-day-at-herge-museum/DSC5760.jpg">}}
+
+I got back to Brussels and wasted some time at the Christmas market before heading back to the hostel to pick up my rucksack. My bus departed from Brussels-Nord and dropped me in front of Amsterdam Schiphol airport at 2:00 AM. It was snowing heavily. I was headed for a warmer climate in a couple of hours.
+
+## {{< figure src="2245f6069e5695cca7af6ecdaab296c1.jpg" >}}

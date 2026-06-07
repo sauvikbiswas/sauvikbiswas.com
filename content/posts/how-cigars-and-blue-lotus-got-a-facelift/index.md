@@ -14,7 +14,7 @@ tags:
 
 [![tio-covers](tio-covers.jpg)](/posts/how-cigars-and-blue-lotus-got-a-facelift/tio-covers.jpg)
 
-[_**Cigars of the Pharaoh**_](http://en.wikipedia.org/wiki/Cigars_of_the_Pharaoh) and [_**The Blue Lotus**_](http://en.wikipedia.org/wiki/The_Blue_Lotus) form a larger story arc that is commonly dubbed as Tintin in the Orient. Indeed, it was the first time that [Hergé](http://en.wikipedia.org/wiki/Herg%C3%A9) ditched the episodic format in favour of strory arcs. Recently, I managed to get hold of these two albums in their original B&W format ([see here](/posts/new-arrival-tintin-in-the-orient-casterman-editions/ "New Arrival: Tintin in the Orient – Casterman Editions")). These are facsimile editions published by Casterman. The good news for the English fans is that these facsimiles are also translated by Michael Turner and Leslie Lonsdale-Cooper.
+[_**Cigars of the Pharaoh**_](http://en.wikipedia.org/wiki/Cigars_of_the_Pharaoh) and [_**The Blue Lotus**_](http://en.wikipedia.org/wiki/The_Blue_Lotus) form a larger story arc that is commonly dubbed as Tintin in the Orient. Indeed, it was the first time that [Hergé](http://en.wikipedia.org/wiki/Herg%C3%A9) ditched the episodic format in favour of strory arcs. Recently, I managed to get hold of these two albums in their original B&W format ([see here]({{< relref "posts/new-arrival-tintin-in-the-orient-casterman-editions" >}} "New Arrival: Tintin in the Orient – Casterman Editions")). These are facsimile editions published by Casterman. The good news for the English fans is that these facsimiles are also translated by Michael Turner and Leslie Lonsdale-Cooper.
 
 ### Original Cigars in retrospect
 

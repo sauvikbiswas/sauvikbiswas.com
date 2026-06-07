@@ -12,7 +12,7 @@ coverImage: "29790891_10155515822581375_1374025626435977216_o.jpg"
 
 ## A new lineup
 
-Our [last show with Korak](/posts/i-played-a-show-after-four-and-a-half-years/) was in November, post which he left to pursue his post-doc. After the show, I was out of Bangalore to enjoy [my yearly, month-long vacation](/posts/day-1-from-bangalore-to-rishikesh/). Once I was back in Bangalore, we were frantically looking for a drummer. Sudipto did most of the work in connecting with people who were interested in joining the band. One of the key things was to find someone who could lock well with Sricharan, our bassist. We eventually zeroed in on Shawn Jacobs.
+Our [last show with Korak]({{< relref "posts/i-played-a-show-after-four-and-a-half-years" >}}) was in November, post which he left to pursue his post-doc. After the show, I was out of Bangalore to enjoy [my yearly, month-long vacation]({{< relref "posts/uttarakhand-trip-2017-day-01-from-bangalore-to-rishikesh" >}}). Once I was back in Bangalore, we were frantically looking for a drummer. Sudipto did most of the work in connecting with people who were interested in joining the band. One of the key things was to find someone who could lock well with Sricharan, our bassist. We eventually zeroed in on Shawn Jacobs.
 
 Once we had our slots filled, we started working on our usual setlist. Most of February went in practicing our setlist until Shawn was somewhat comfortable. It was during this time that Shounak—the other guitarist—introduced us to Arpit, a violinist who had recently joined IISc. He played along with some of our songs and suddenly our sound felt like it had opened up.
 

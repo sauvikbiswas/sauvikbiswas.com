@@ -25,7 +25,7 @@ One of my colleagues, Dhananjay Deshmukh (a tech enthusiast in general and an a
 
 {{< figure src="DSC01489.jpg" caption="The camera has a base mount and an USB connector. There are some tidbits inside but they are of no use for me. Dhananjay threw in some zip ties that came handy." >}}
 
-I had the mount of [my stolen bike light](/posts/theft-of-bicycle-accessories-from-my-office-parking-lot/). I unscrewed the top channel. And lo and behold! I was left with the nicest bike mount for the Mobius cam. Two zip ties did the rest of the job.
+I had the mount of [my stolen bike light]({{< relref "posts/theft-of-bicycle-accessories-from-my-office-parking-lot" >}}). I unscrewed the top channel. And lo and behold! I was left with the nicest bike mount for the Mobius cam. Two zip ties did the rest of the job.
 
 [![DSC01492](DSC01492.jpg)](/posts/boxed-cycling-stuff/DSC01492.jpg)
 

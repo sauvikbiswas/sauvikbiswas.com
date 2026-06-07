@@ -14,7 +14,7 @@ coverImage: "IMG_20170207_194938.jpg"
 
 Two weeks ago, I had received a pair of Deore T610 brakes. They were sitting idle in my toolbox just because I did not have grease. I got a tube of Park Tool polylube for some decent price at [bikeme.co.in](http://bikeme.co.in) and while I was at it, I also placed an order for a set of Allen keys. I find a multitool cumbersome. They are great as a part of mobile toolkit, owing to their compact nature, but it's much easier to use full size ones.
 
-I had [recently installed new brake pads](/posts/replacing-brake-shoes-unearthed-a-can-of-worms/). These new brakes came with their own pairs. I put the current pads on the new brake arms and packed the new ones in by toolbox.
+I had [recently installed new brake pads]({{< relref "posts/replacing-brake-shoes-unearthed-a-can-of-worms" >}}). These new brakes came with their own pairs. I put the current pads on the new brake arms and packed the new ones in by toolbox.
 
 I cleaned up the brake posts on my fork and the rear stays with some de-greaser and wiped/dried it off before applying a new coating of grease. The shaft surface wasn't that smooth. Years of rub against accumulated sand and dirt wore the surface a bit. The grease surely helped.
 
@@ -24,7 +24,7 @@ I cleaned up the brake posts on my fork and the rear stays with some de-greaser 
 
 {{< figure src="IMG_20170207_194954-768x682.jpg" caption="Old brake arms."  link="/posts/new-brakes-on-my-hybrid/IMG_20170207_194954.jpg">}}
 
-[In an earlier post](/posts/replacing-brake-shoes-unearthed-a-can-of-worms/), I had mentioned that the springs were damaged. Today I found out that was not the only problem. On each of the brake arms, the index pin (roll pin) that rests inside one of the three holes beside a brake post was bent out of shape. This was one of the major reasons why the arms did not have much resistance against the cable pull.
+[In an earlier post]({{< relref "posts/replacing-brake-shoes-unearthed-a-can-of-worms" >}}), I had mentioned that the springs were damaged. Today I found out that was not the only problem. On each of the brake arms, the index pin (roll pin) that rests inside one of the three holes beside a brake post was bent out of shape. This was one of the major reasons why the arms did not have much resistance against the cable pull.
 
 {{< figure src="IMG_20170207_195019-768x761.jpg" caption="See how the index pin is bent upwards."  link="/posts/new-brakes-on-my-hybrid/IMG_20170207_195019.jpg">}}
 

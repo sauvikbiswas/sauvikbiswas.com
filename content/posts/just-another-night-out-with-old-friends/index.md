@@ -8,7 +8,7 @@ coverImage: "DSC01474.jpg"
 
 I have an opinion that the closest friends you make are the ones with whom you have spent your early twenties. That would roughly be from 18 to 25 years. The reason that happens is because that's when a person starts to construct his own _raison d'être_ or if not, at least constructs the axioms and principles that will form the basis.
 
-Parth Sarathi, a friend from my college days, called me up last Friday. The last time I met him was at Camp Linger ([where we did nothing](/posts/last-weekend-i-did-nothing-and-a-small-trek/)). It was the same group. Well, almost. We were joined by another of our batchmates this time, Manu Pratap.
+Parth Sarathi, a friend from my college days, called me up last Friday. The last time I met him was at Camp Linger ([where we did nothing]({{< relref "posts/last-weekend-i-did-nothing-and-a-small-trek" >}})). It was the same group. Well, almost. We were joined by another of our batchmates this time, Manu Pratap.
 
 It was not exactly a coincidence that majority of us were not married. Most of my batchmates are figuratively waiting to play with their grandchildren.
 

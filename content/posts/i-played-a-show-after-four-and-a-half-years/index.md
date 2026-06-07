@@ -32,7 +32,7 @@ This was also the first time that I was using my own amp in a live scenario. The
 
 {{< figure src="IMG_20170914_202916-768x576.jpg" caption="The empty stage after the soundcheck."  link="/posts/i-played-a-show-after-four-and-a-half-years/IMG_20170914_202916.jpg">}}
 
-A few colleagues of mine had come to watch our show (thanks Akhil, Akshay, Pawan, Ravish, Rima and Shivani). I also saw a few familiar faces from IISc and a few Kharagpur alumni. [Satish](/posts/day-0-a-preparation-and-a-briefing/) never missed a Dark Project show in Bangalore. Yesterday, was no exception either. (I also got to know that he is the Tour Director for Tour of Nilgiris for this year, too.)
+A few colleagues of mine had come to watch our show (thanks Akhil, Akshay, Pawan, Ravish, Rima and Shivani). I also saw a few familiar faces from IISc and a few Kharagpur alumni. [Satish]({{< relref "posts/tour-of-nilgiris-2016-day-00-a-preparation-and-a-briefing" >}}) never missed a Dark Project show in Bangalore. Yesterday, was no exception either. (I also got to know that he is the Tour Director for Tour of Nilgiris for this year, too.)
 
 At about 9 O'Clock, we went on stage. We played our twelve song setlist and finished at 11 O'Clock (including a small 15 minute break in between). I felt like we did very well considering the fact that we took a four-and-a-half year break. Judging from the feedback I had from my friends, we played a very tight show.
 

@@ -8,7 +8,7 @@ tags:
   - "food"
 ---
 
-Me and [two of my colleagues](/posts/a-food-trip-to-mosque-road-in-bangalore/) wanted to sample the food at [Samarkand](https://www.zomato.com/bangalore/samarkand-infantry-road) at Infantry Road. So, we booked a table for yesterday at 7.30 pm. One of my colleague, Rueben, also wanted to bring his wife and son (or maybe it was me who suggested that it would be a good idea - I don't remember). Sadly, the other colleague, Mainak, had to come alone as his wife won't be here until two weeks from now.
+Me and [two of my colleagues]({{< relref "posts/a-food-trip-to-mosque-road-in-bangalore" >}}) wanted to sample the food at [Samarkand](https://www.zomato.com/bangalore/samarkand-infantry-road) at Infantry Road. So, we booked a table for yesterday at 7.30 pm. One of my colleague, Rueben, also wanted to bring his wife and son (or maybe it was me who suggested that it would be a good idea - I don't remember). Sadly, the other colleague, Mainak, had to come alone as his wife won't be here until two weeks from now.
 
 Yesterday, there was a transportation strike (bandh) called by [KSRTC](https://en.wikipedia.org/wiki/Karnataka_State_Road_Transport_Corporation) and the auto unions demanding the implementation of [Kalasa Banduri project](https://en.wikipedia.org/wiki/The_Kalasa-Banduri_Nala_project). The bandh acted in our favour. It took Rueben to drive the entire 20 km stretch, pick both of us up and reach Infantry Road in 45 mins. Even as I draft this post, I can see huge stretches of jam at four places.
 

@@ -10,7 +10,7 @@ tags:
 coverImage: "Screenshot-2017-02-24-21.30.40.png"
 ---
 
-About a month ago, [I had worked for three days](/posts/how-useful-can-an-app-made-in-3-days-be/) to come up with a proof of concept for a project collaboration platform aimed at a small company - typically less than 40 people). The webapp was not something that could be actually used by anyone. There were glaring holes and missing functionalities that would be useless for any actual company.
+About a month ago, [I had worked for three days]({{< relref "posts/how-useful-can-an-app-made-in-3-days-be" >}}) to come up with a proof of concept for a project collaboration platform aimed at a small company - typically less than 40 people). The webapp was not something that could be actually used by anyone. There were glaring holes and missing functionalities that would be useless for any actual company.
 
 I still had no idea as to how much time would it take to polish it to a point that it would be a commercially viable product.
 

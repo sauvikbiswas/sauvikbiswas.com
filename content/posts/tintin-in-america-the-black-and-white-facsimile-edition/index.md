@@ -12,7 +12,7 @@ tags:
   - "tintin-in-america"
 ---
 
-Just like the [two volumes of Tintin in Orient](/posts/new-arrival-tintin-in-the-orient-casterman-editions/ "New Arrival: Tintin in the Orient – Casterman Editions"), there is a B&W facsimile edition of Tintin in America. Last month I managed to get my hands on one of the copies.
+Just like the [two volumes of Tintin in Orient]({{< relref "posts/new-arrival-tintin-in-the-orient-casterman-editions" >}} "New Arrival: Tintin in the Orient – Casterman Editions"), there is a B&W facsimile edition of Tintin in America. Last month I managed to get my hands on one of the copies.
 
 [![2014-11-12 18.22.44](2014-11-12-18.22.44-e1416189666787-1024x720.jpg)](/posts/tintin-in-america-the-black-and-white-facsimile-edition/2014-11-12-18.22.44.jpg)
 
@@ -36,7 +36,7 @@ Like the other volumes in the series, this book is set in Comic Sans. Personally
 
 [![tintin_america](tintin_america-e1416315777847-1024x723.jpg)](/posts/tintin-in-america-the-black-and-white-facsimile-edition/tintin_america.jpg)
 
-The original four-colour, full-page spreads are kept intact. The style of these panels are close to the panels that would become a staple of books emerging out of Studio Herge. Sadly, barring a few [full page panels in _**The Crab with Golden Claws**_](/posts/full-page-illustrations-in-the-crab-with-the-golden-claws/ "Full Page Illustrations in The Crab with the Golden Claws") and one blueprint in _**Destination Moon**_, the later books completely omitted this full page cinematic experience.
+The original four-colour, full-page spreads are kept intact. The style of these panels are close to the panels that would become a staple of books emerging out of Studio Herge. Sadly, barring a few full page panels in _**The Crab with Golden Claws**_ and one blueprint in _**Destination Moon**_, the later books completely omitted this full page cinematic experience.
 
 ### My childhood with Tintin kickstarted here
 

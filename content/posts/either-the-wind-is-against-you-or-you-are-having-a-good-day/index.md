@@ -11,7 +11,7 @@ tags:
 coverImage: "IMG_20160813_104650.jpg"
 ---
 
-Me and Ravish went for the same Narsapura CCD trip we have done [a few times before](/posts/til-few-things-about-cycling-and-nutrition/). This is a familiar route and was a good way for me to get back on the saddle after the rainy season.
+Me and Ravish went for the same Narsapura CCD trip we have done [a few times before]({{< relref "posts/til-few-things-about-cycling-and-nutrition" >}}). This is a familiar route and was a good way for me to get back on the saddle after the rainy season.
 
 On our way to the CCD, the pace was pretty sweet. We were hitting an average of 22 kmph in the city and pumped it up to 30s as soon as we hit the highway. Neither of us had any issues riding at that pace for an hour and half straight.
 

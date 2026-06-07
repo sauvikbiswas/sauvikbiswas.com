@@ -16,7 +16,7 @@ It is just a dumb image that I could have downloaded otherwise. However, it mean
 
 > Every day of this past month, you chose your novel, your voice, and your story. You stayed up late or got up early. You stole minutes here and there. You created time.
 
-That's exactly what I had to do. Here is a screenshot of my stats - [![Screenshot 2015-11-29 09.24.48](Screenshot-2015-11-29-09.24.48.png)](/posts/finishing-this-years-nanowrimo-challenge/Screenshot-2015-11-29-09.24.48.png) There were two points where I hit the slumps. The first one was the point where I was getting into the middle of the story. The second one was when I had exhausted all my scenes at around 46k words mark. [I managed to chalk out of the slump I had in the middle eventually](/posts/somewhat-crawling-to-the-half-way-point-on-nanowrimo/). Resolving the final 4k was not easy. It required me to write a very important thing about the fictional world - its history.
+That's exactly what I had to do. Here is a screenshot of my stats - [![Screenshot 2015-11-29 09.24.48](Screenshot-2015-11-29-09.24.48.png)](/posts/finishing-this-years-nanowrimo-challenge/Screenshot-2015-11-29-09.24.48.png) There were two points where I hit the slumps. The first one was the point where I was getting into the middle of the story. The second one was when I had exhausted all my scenes at around 46k words mark. [I managed to chalk out of the slump I had in the middle eventually]({{< relref "posts/somewhat-crawling-to-the-half-way-point-on-nanowrimo" >}}). Resolving the final 4k was not easy. It required me to write a very important thing about the fictional world - its history.
 
 ## Now What?
 
