@@ -54,11 +54,11 @@ What remains is the spine of the Authorization Code flow:
 sequenceDiagram
     participant Browser as Browser
 
-    box rgba(5,80,174,0.18) Client :5001
+    box rgba(5,80,174,0.18) Client :25001
         participant ClientApp as OAuth Client
     end
 
-    box rgba(196,30,58,0.18) Authorization Server :5000
+    box rgba(196,30,58,0.18) Authorization Server :25000
         participant AuthServer as Auth Server
     end
 
@@ -105,11 +105,11 @@ cp ../../../.env.example .env
 python3 app.py
 ```
 
-Open `http://localhost:5001` (client) and click **Start authorization**. The browser would take you to `http://localhost:5000/login` (server). Use `user0` / `password0` as credentials. The browser should redirect back to `http://localhost:5001/callback?code=<random-string>`.
+Open `http://localhost:25001` (client) and click **Start authorization**. The browser would take you to `http://localhost:25000/login` (server). Use `user0` / `password0` as credentials. The browser should redirect back to `http://localhost:25001/callback?code=<random-string>`.
 
 Notice what is **not** in that callback URL: there is no `state` parameter. That absence is deliberate for v01.
 
-You can inspect what the server stored by going to `http://localhost:5000/debug/state` after the flow completes. You would see something like this (dev-only — it dumps plaintext passwords, which is fine for learning and never acceptable in production):
+You can inspect what the server stored by going to `http://localhost:25000/debug/state` after the flow completes. You would see something like this (dev-only — it dumps plaintext passwords, which is fine for learning and never acceptable in production):
 
 ```json
 {
@@ -122,7 +122,7 @@ You can inspect what the server stored by going to `http://localhost:5000/debug/
     "authorization_codes": {
       "xK9mP2nQ7vR4sT8wY1zA3bC5dE6fG0h": {
         "client_id": "demo-client",
-        "redirect_uri": "http://localhost:5001/callback",
+        "redirect_uri": "http://localhost:25001/callback",
         "code_challenge": null,
         "user_id": "user0",
         "expires_at": "2026-06-06T14:30:00",
@@ -144,7 +144,7 @@ You can inspect what the server stored by going to `http://localhost:5000/debug/
       "demo-client": {
         "client_secret": "demo-secret",
         "redirect_uris": [
-          "http://localhost:5001/callback"
+          "http://localhost:25001/callback"
         ]
       }
     }
@@ -163,8 +163,8 @@ OAuth names [four roles in its specification](https://datatracker.ietf.org/doc/h
 | Role | In the lab |
 |------|------------|
 | **Resource owner** | Human, logging in as `user0` |
-| **Client** | Flask app on `http://localhost:5001` |
-| **Authorization server** | Flask app on `http://localhost:5000` |
+| **Client** | Flask app on `http://localhost:25001` |
+| **Authorization server** | Flask app on `http://localhost:25000` |
 | **Resource server** | Planned: same Flask app in later versions (`/api/me`) |
 
 What v01 actually implements: the authorization endpoint, login, client registry, `redirect_uri` validation, and issuing a one-time `code`. What it does not: the token endpoint, usable access tokens, OAuth `state`, PKCE, or a protected API.
