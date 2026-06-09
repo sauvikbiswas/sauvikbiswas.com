@@ -25,7 +25,7 @@ This is the classic attack that OAuth `state` was designed to stop.
 **Steps:**
 
 1. Attacker opens the client and starts authorization. They are already logged into the auth server as `user0` (or worse, the attacker's own account).
-2. Auth server redirects to: `http://localhost:5001/callback?code=ATTACKER_CODE`
+2. Auth server redirects to: `http://localhost:25001/callback?code=ATTACKER_CODE`
 3. Attacker copies that full URL (the code is tied to _their_ identity on the auth server).
 4. Attacker tricks the victim into opening it: email, Slack, forum post, etc.
 5. The victim's browser hits your client's callback. Without `state`, the client has no way to ask: "Was _I_ the one who started this login?"
@@ -45,7 +45,7 @@ The first example is malicious. This one is more common and needs no attacker.
 
 **Tab A:**
 
-1. You open `http://localhost:5001` and click **Start authorization**.
+1. You open `http://localhost:25001` and click **Start authorization**.
 2. You land on the auth server login page.
 3. Your phone rings. Tab A sits there half-finished.
 
@@ -53,13 +53,13 @@ The first example is malicious. This one is more common and needs no attacker.
 
 4. You open the client again in a new tab and click **Start authorization** again (you forgot about tab A).
 5. You log in as `user1` this time (or the same `user0`; does not matter).
-6. Auth server redirects to: `http://localhost:5001/callback?code=CODE_FROM_TAB_B&state=STATE_FROM_TAB_B`
+6. Auth server redirects to: `http://localhost:25001/callback?code=CODE_FROM_TAB_B&state=STATE_FROM_TAB_B`
 7. Tab B shows the callback page. Fine so far.
 
 **Tab A: you come back**
 
 8. You switch back to tab A, enter `user0` / `password0`, finish login.
-9. Auth server redirects tab A to: `http://localhost:5001/callback?code=CODE_FROM_TAB_A&state=STATE_FROM_TAB_A`
+9. Auth server redirects tab A to: `http://localhost:25001/callback?code=CODE_FROM_TAB_A&state=STATE_FROM_TAB_A`
 10. Now you have two codes from two separate authorization attempts. Imagine where the client sets "logged in" in a session cookie shared across tabs.
 
 **The confusion:**
@@ -72,7 +72,7 @@ The first example is malicious. This one is more common and needs no attacker.
 **Where an attacker fits (optional twist: same mechanics, slightly worse)**
 
 - Tab A: you start login.
-- Tab B (or a hidden redirect): opens `http://localhost:5001/callback?code=SOMEONE_ELSES_CODE&state=...` in the same browser profile (same cookies for `:5001`).
+- Tab B (or a hidden redirect): opens `http://localhost:25001/callback?code=SOMEONE_ELSES_CODE&state=...` in the same browser profile (same cookies for `:25001`).
 
 The client still cannot ask: "Was this for tab A's login?" It only sees a valid callback on a valid redirect URI.
 
@@ -90,10 +90,10 @@ Here is a diagram for Example 1 (v01: no `state`):
 sequenceDiagram
     participant Attacker as Attacker
     participant Victim as Victim browser
-    box rgba(5,80,174,0.18) Client :5001
+    box rgba(5,80,174,0.18) Client :25001
         participant ClientApp as OAuth Client
     end
-    box rgba(196,30,58,0.18) Authorization Server :5000
+    box rgba(196,30,58,0.18) Authorization Server :25000
         participant AuthServer as Auth Server
     end
 
@@ -140,11 +140,11 @@ The client must play its part in the security game. [RFC 6749 §4.1.1](https://d
 sequenceDiagram
     participant Browser as Browser
 
-    box rgba(5,80,174,0.18) Client :5001
+    box rgba(5,80,174,0.18) Client :25001
         participant ClientApp as OAuth Client
     end
 
-    box rgba(196,30,58,0.18) Authorization Server :5000
+    box rgba(196,30,58,0.18) Authorization Server :25000
         participant AuthServer as Auth Server
     end
 
@@ -169,7 +169,7 @@ The server changes are minimal. It requires `state` on the authorization request
 
 The client still does not know who the user is: that is the auth server's job. What v02 adds is **flow-scoped** storage: a random `state` in the Flask session, plus an in-memory mirror of pending and completed flows for the dev-only debug endpoint.
 
-You can inspect what the client has stored at any point by visiting `http://localhost:5001/debug/state`. After a successful single-tab flow, you would see something like this (dev-only):
+You can inspect what the client has stored at any point by visiting `http://localhost:25001/debug/state`. After a successful single-tab flow, you would see something like this (dev-only):
 
 ```json
 {
@@ -218,7 +218,7 @@ cp ../../../.env.example .env
 python3 app.py
 ```
 
-Open `http://localhost:5001` and click **Start authorization**. After login, the callback URL should include both `code` and `state`. The client home page also links to a negative test: starting authorization without `state`, which the server rejects with a 400.
+Open `http://localhost:25001` and click **Start authorization**. After login, the callback URL should include both `code` and `state`. The client home page also links to a negative test: starting authorization without `state`, which the server rejects with a 400.
 
 ### Simulating the two-tab confusion
 
@@ -226,11 +226,11 @@ This is the "got distracted / started login twice" scenario from Example 2. Both
 
 Steps:
 
-1. Start server (`:5000`) and client (`:5001`).
-2. Clear cookies for both `localhost:5000` and `localhost:5001` so the auth server forces a fresh login.
-3. **Tab A:** open `http://localhost:5001` → click **Start authorization**.
+1. Start server (`:25000`) and client (`:25001`).
+2. Clear cookies for both `localhost:25000` and `localhost:25001` so the auth server forces a fresh login.
+3. **Tab A:** open `http://localhost:25001` → click **Start authorization**.
 4. You land on the auth server login page: stop there (do not submit yet).
-5. **Tab B:** open `http://localhost:5001` again → click **Start authorization** again.
+5. **Tab B:** open `http://localhost:25001` again → click **Start authorization** again.
 6. In tab B, log in as `user0` / `password0` and finish the flow.
    - Tab B succeeds: callback shows `code` + `state`.
 7. Go back to **tab A**, log in and complete the flow.
@@ -240,7 +240,7 @@ Steps:
 
 Inspect the debug dumps:
 
-**Client** (`http://localhost:5001/debug/state`):
+**Client** (`http://localhost:25001/debug/state`):
 
 ```json
 {
@@ -268,7 +268,7 @@ Inspect the debug dumps:
 
 Two entries under `pending_oauth_states` (one per tab), one successful `authorization_codes` entry (tab B only).
 
-**Server** (`http://localhost:5000/debug/state`):
+**Server** (`http://localhost:25000/debug/state`):
 
 ```json
 {
@@ -281,7 +281,7 @@ Two entries under `pending_oauth_states` (one per tab), one successful `authoriz
     "authorization_codes": {
       "slQ6Zn9-s9VnI42v0Ypplp-3UhGnimbhTwJUMTXXf4Y": {
         "client_id": "demo-client",
-        "redirect_uri": "http://localhost:5001/callback",
+        "redirect_uri": "http://localhost:25001/callback",
         "code_challenge": null,
         "user_id": "user0",
         "expires_at": "2026-06-07T16:43:30.417677",
@@ -303,7 +303,7 @@ Two entries under `pending_oauth_states` (one per tab), one successful `authoriz
       "demo-client": {
         "client_secret": "demo-secret",
         "redirect_uris": [
-          "http://localhost:5001/callback"
+          "http://localhost:25001/callback"
         ]
       }
     }
