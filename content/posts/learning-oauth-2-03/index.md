@@ -267,6 +267,23 @@ Stealing the callback URL is not enough. Redeeming the `code` also requires the 
 
 Early in v03 I tried to read `code_challenge` from the callback query string and compare it to a locally computed value. The auth server never puts `code_challenge` in that redirect; only `code` and `state`. PKCE verification belongs at `POST /token`, not on `/callback`. If you see "code challenge mismatch" on the callback page, you are checking the wrong leg.
 
+# Cast of characters so far
+
+At this point there are a bunch of parameters that have gotten involved. Here is a quick reference for the parameters and artifacts that have been introduced so far.
+
+| Name | Who creates it | Where it travels | What it does |
+|------|----------------|------------------|--------------|
+| **`state`** | Client | `/authorize` query → echoed on callback `?state=...` | Binds the callback to the login **you** started (CSRF protection; v02). |
+| **`code`** (authorization code) | Auth server | Callback URL `?code=...` only | One-time voucher. Short-lived. Exchanged at `POST /token` for an `access_token`. |
+| **`code_verifier`** | Client | Client session >> `POST /token` body only (server-side) | Secret PKCE proof. Never in the browser redirect URL. |
+| **`code_challenge`** | Client (derived from verifier) | `/authorize` query only | `BASE64URL(SHA256(code_verifier))`. Sent instead of the verifier so the URL does not leak the secret. |
+| **`code_challenge_method`** | Client | `/authorize` query | How the challenge was derived. This lab uses `S256` only. |
+| **`access_token`** | Auth server | `POST /token` JSON response >> client displays it | Bearer credential for API calls (not implemented yet). |
+| **`client_id`** | Pre-registered | `/authorize` and `POST /token` | Identifies the OAuth app (`demo-client` in the lab). |
+| **`client_secret`** | Pre-registered | `POST /token` only (confidential clients) | Proves the token caller is the real backend app. Not used by public clients. |
+| **`redirect_uri`** | Client | `/authorize` and `POST /token` | Must match exactly on both legs. Where the auth server sends the browser after login. |
+| **`grant_type`** | Client | `POST /token` body | Must be `authorization_code` for this flow. |
+
 # What next?
 
 v03 completes Authorization Code + PKCE and a minimal token exchange. There is still no protected API (`GET /api/me`), no dedicated error routes, and no production-grade client session. Those are later versions.
