@@ -10,9 +10,9 @@ tags:
 
 # Why v02 needed a fix
 
-[v02]({{< relref "posts/learning-oauth-2-02" >}}) closed the **login CSRF** hole. The client generates random `state`, the auth server echoes it on the callback, and the client rejects mismatches. That answers: "Did _I_ start this login?"
+[v02]({{< relref "posts/learning-oauth-2-02" >}}) closed the login CSRF hole. The client generates random `state`, the auth server echoes it on the callback, and the client rejects mismatches. That answers: "Did _I_ start this login?"
 
-It does not answer a different question: "Is the person trying to **redeem this `code`** the same app that **requested** it?"
+It does not answer a different question: "Is the person trying to redeem this `code` the _same_ app that requested it?"
 
 The authorization `code` itself is a secret, but for a short time. It travels in the browser redirect URL:
 
