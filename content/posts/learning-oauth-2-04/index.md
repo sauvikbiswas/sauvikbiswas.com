@@ -153,7 +153,7 @@ Expired tokens are harder to demo without waiting an hour or editing `expires_at
 
 v04 logout clears the token from the client session only. The auth server still has the entry in `memory.access_tokens`. There is no revocation endpoint in the auth server. A copied token remains valid until expiry. That is fairly normal for real-world scenarios where "logout" means this app stops using the credential and is not treated as "invalidate everywhere." This is often acceptable as TTL of the token is typically short (5-15 mins).
 
-# What the client should remember about its users
+# What the client should remember
 
 v04 stores `access_token` in the Flask session and fetches profile from `/api/me` when you open `/profile` or the home page. That is session-scoped, not permanent storage; the cookie expires when the session ends.
 
@@ -168,25 +168,6 @@ Real apps often persist some user-related data, but the pattern depends on clien
 
 What is not usual is treating a cached profile as proof of identity without a valid token, or keeping access tokens forever without expiry, refresh, and secure storage.
 
-# Cast of characters
-
-Here is an updated quick reference for the parameters and artifacts that have been introduced so far.
-
-| Name | Who creates it | Where it travels | What it does |
-|------|----------------|------------------|--------------|
-| **`state`** | Client | `/authorize` query → echoed on callback `?state=...` | Binds the callback to the login **you** started (CSRF protection; v02). |
-| **`code`** (authorization code) | Auth server | Callback URL `?code=...` only | One-time voucher. Short-lived. Exchanged at `POST /token` for an `access_token`. |
-| **`code_verifier`** | Client | Client session >> `POST /token` body only (server-side) | Secret PKCE proof. Never in the browser redirect URL. |
-| **`code_challenge`** | Client (derived from verifier) | `/authorize` query only | `BASE64URL(SHA256(code_verifier))`. Sent instead of the verifier so the URL does not leak the secret. |
-| **`code_challenge_method`** | Client | `/authorize` query | How the challenge was derived. This lab uses `S256` only. |
-| **`access_token`** | Auth server | `POST /token` JSON response >> client displays it | Bearer credential for API calls (not implemented yet). |
-| **`client_id`** | Pre-registered | `/authorize` and `POST /token` | Identifies the OAuth app (`demo-client` in the lab). |
-| **`client_secret`** | Pre-registered | `POST /token` only (confidential clients) | Proves the token caller is the real backend app. Not used by public clients. |
-| **`redirect_uri`** | Client | `/authorize` and `POST /token` | Must match exactly on both legs. Where the auth server sends the browser after login. |
-| **`grant_type`** | Client | `POST /token` body | Must be `authorization_code` for this flow. |
-| **`access_token`** | Auth server | `POST /token` response → client session → `Authorization: Bearer` on API calls | Proves which user and client the token was issued to; v04 finally **spends** it on `/api/me`. |
-| **`Authorization` header** | Client | Client → resource server (`GET /api/me`) | Carries `Bearer <access_token>` per RFC 6750. |
-
 # What next?
 
 v04 completes the Authorization Code + PKCE loop through a protected API. I'll not work on deployment-style concerns (token revocation, database, splitting authorization and resource servers, error-page polish). There is one hard requirement that I'll address next. That is **refresh tokens**.
@@ -197,7 +178,7 @@ Diff adjacent snapshots:
 diff -ru versions/v04-protected-resource versions/v05-refresh-token
 ```
 
-[^logout-get]: Why not `GET /logout` in production? A logout route changes state by clearing the session. HTTP convention treats `GET` as safe. i.e., clients may request a URL without the user explicitly meaning to act. Modern browsers prefetch linked pages to speed up navigation. Security scanners and mail clients sometimes fetch every URL in an email to check for malware. If logout is a `GET` link, one of those background requests can hit `/logout` and log you out even though you never clicked. A `POST` (usually a form with a button) is not prefetched the same way, so accidental logouts are much rarer. I have used `GET` anyway. One-line template is easier while learning OAuth. When you ship something real, use `POST` (or a server-side session cookie cleared via a form).
+[^logout-get]: **Why we should not use `GET /logout` in production:** A logout route changes state by clearing the session. HTTP convention treats `GET` as safe. i.e., clients may request a URL without the user explicitly meaning to act. Modern browsers prefetch linked pages to speed up navigation. Security scanners and mail clients sometimes fetch every URL in an email to check for malware. If logout is a `GET` link, one of those background requests can hit `/logout` and log you out even though you never clicked. A `POST` (usually a form with a button) is not prefetched the same way, so accidental logouts are much rarer. I have used `GET` anyway. One-line template is easier while learning OAuth. When you ship something real, use `POST` (or a server-side session cookie cleared via a form).
 
 # Further reading
 

@@ -26,7 +26,7 @@ I did not want to work on boilerplate code. So, like any modern developer, I ask
 
 ### Why versioned snapshots?
 
-Most OAuth tutorials I have seen jump straight to the finished product: state, PKCE, token endpoint, protected API, refresh tokens, error pages. That is the right end state, but it is a terrible *first* state. When everything is wired together, you cannot tell which piece solved which problem. So, I took an incremental approach. You can download the code (and all its future evolutions) from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab).
+Most OAuth tutorials I have seen jump straight to the finished product: state, PKCE, token endpoint, protected API, refresh tokens, error pages. That is the right end state, but it is a terrible first state. When everything is wired together, you cannot tell which piece solved which problem. So, I took an incremental approach. You can download the code (and all its future evolutions) from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab).
 
 I intend to keep these versions in separate folders. Each folder under `versions/` is a **runnable** server + client pair.
 
@@ -107,7 +107,7 @@ python3 app.py
 
 Open `http://localhost:25001` (client) and click **Start authorization**. The browser would take you to `http://localhost:25000/login` (server). Use `user0` / `password0` as credentials. The browser should redirect back to `http://localhost:25001/callback?code=<random-string>`.
 
-Notice what is **not** in that callback URL: there is no `state` parameter. That absence is deliberate for v01.
+Notice what is not in that callback URL: there is no `state` parameter. That absence is deliberate for v01.
 
 You can inspect what the server stored by going to `http://localhost:25000/debug/state` after the flow completes. You would see something like this (dev-only — it dumps plaintext passwords, which is fine for learning and never acceptable in production):
 
@@ -177,7 +177,7 @@ The `server/storage` folder holds an in-memory store (`memory.py`): users, regis
 
 #### Param resume through login
 
-The subtlest part was not the redirect. It was **surviving the login detour**.
+The subtlest part was not the redirect. It was surviving the login detour.
 
 When an unauthenticated user hits `/authorize`, the server saves `request.args` into `session["authorize_params"]` and redirects to `/login`. After credentials check out, login pops those params and redirects back to `/authorize` with them restored. Without that stash, I would log in successfully and land on a dead-end welcome page with no code issued.
 
