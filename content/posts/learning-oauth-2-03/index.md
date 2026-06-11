@@ -10,9 +10,9 @@ tags:
 
 # Why v02 needed a fix
 
-[v02]({{< relref "posts/learning-oauth-2-02" >}}) closed the **login CSRF** hole. The client generates random `state`, the auth server echoes it on the callback, and the client rejects mismatches. That answers: "Did _I_ start this login?"
+[v02]({{< relref "posts/learning-oauth-2-02" >}}) closed the login CSRF hole. The client generates random `state`, the auth server echoes it on the callback, and the client rejects mismatches. That answers: "Did _I_ start this login?"
 
-It does not answer a different question: "Is the person trying to **redeem this `code`** the same app that **requested** it?"
+It does not answer a different question: "Is the person trying to redeem this `code` the _same_ app that requested it?"
 
 The authorization `code` itself is a secret, but for a short time. It travels in the browser redirect URL:
 
@@ -91,7 +91,7 @@ The auth server requires those parameters, stores `code_challenge` alongside the
 On `/callback`, after `state` checks pass, the client:
 
 1. Reads `code_verifier` from session.
-2. `POST`s to `/token` **server-side** (`requests` from the Flask client app) with `code`, `code_verifier`, `client_id`, `client_secret`, and `redirect_uri`.
+2. `POST`s to `/token` server-side (`requests` from the Flask client app) with `code`, `code_verifier`, `client_id`, `client_secret`, and `redirect_uri`.
 3. The auth server recomputes `BASE64URL(SHA256(code_verifier))` and compares it to the stored `code_challenge`. Match → mint `access_token`. Mismatch → `invalid_grant`.
 
 The browser never sees `code_verifier` or `client_secret`. That is intentional.
@@ -211,8 +211,8 @@ In production, an attacker might capture a `code` from browser history, a referr
 
 The auth server issues a real `code`, but the client never runs `/callback` to exchange it. Demos 1 and 3 below need this.
 
-1. Start **only** the auth server (`:25000`).
-2. Start the client long enough to click **Start authorization**, then **stop the client** before submitting login.
+1. Start only the auth server (`:25000`).
+2. Start the client long enough to click **Start authorization**, then stop the client before submitting login.
 3. On the auth server, log in as `user0` / `password0`.
 4. The browser redirects to  
    `http://localhost:25001/callback?code=THE_CODE&state=...`  
@@ -243,7 +243,7 @@ curl -s -X POST http://localhost:25000/token \
 
 **Setup:** Start both apps and complete a normal **Start authorization** flow. The callback page shows an `access_token`. Copy the `code` from the URL: the server has already marked it `used: true`.
 
-**Attack:** Run the same `curl` as Demo 1, but paste the **spent** code.
+**Attack:** Run the same `curl` as Demo 1, but paste the spent code.
 
 **Expected:**
 
@@ -253,7 +253,7 @@ curl -s -X POST http://localhost:25000/token \
 
 ### Demo 3: missing verifier
 
-**Attack:** Same `curl` as Demo 1, but omit the `code_verifier` line. Use a **fresh** unused code from **Getting an unused code** above: Demo 1 does not mark the code as used.
+**Attack:** Same `curl` as Demo 1, but omit the `code_verifier` line. Use a fresh unused code from [**Getting an unused code**](#getting-an-unused-code) above: Demo 1 does not mark the code as used.
 
 **Expected:**
 
@@ -267,6 +267,23 @@ Stealing the callback URL is not enough. Redeeming the `code` also requires the 
 
 Early in v03 I tried to read `code_challenge` from the callback query string and compare it to a locally computed value. The auth server never puts `code_challenge` in that redirect; only `code` and `state`. PKCE verification belongs at `POST /token`, not on `/callback`. If you see "code challenge mismatch" on the callback page, you are checking the wrong leg.
 
+# Cast of characters so far
+
+At this point there are a bunch of parameters that have gotten involved. Here is a quick reference for the parameters and artifacts that have been introduced so far.
+
+| Name | Who creates it | Where it travels | What it does |
+|------|----------------|------------------|--------------|
+| **`state`** | Client | `/authorize` query → echoed on callback `?state=...` | Binds the callback to the login **you** started (CSRF protection; v02). |
+| **`code`** (authorization code) | Auth server | Callback URL `?code=...` only | One-time voucher. Short-lived. Exchanged at `POST /token` for an `access_token`. |
+| **`code_verifier`** | Client | Client session >> `POST /token` body only (server-side) | Secret PKCE proof. Never in the browser redirect URL. |
+| **`code_challenge`** | Client (derived from verifier) | `/authorize` query only | `BASE64URL(SHA256(code_verifier))`. Sent instead of the verifier so the URL does not leak the secret. |
+| **`code_challenge_method`** | Client | `/authorize` query | How the challenge was derived. This lab uses `S256` only. |
+| **`access_token`** | Auth server | `POST /token` JSON response >> client displays it | Bearer credential for API calls (not implemented yet). |
+| **`client_id`** | Pre-registered | `/authorize` and `POST /token` | Identifies the OAuth app (`demo-client` in the lab). |
+| **`client_secret`** | Pre-registered | `POST /token` only (confidential clients) | Proves the token caller is the real backend app. Not used by public clients. |
+| **`redirect_uri`** | Client | `/authorize` and `POST /token` | Must match exactly on both legs. Where the auth server sends the browser after login. |
+| **`grant_type`** | Client | `POST /token` body | Must be `authorization_code` for this flow. |
+
 # What next?
 
 v03 completes Authorization Code + PKCE and a minimal token exchange. There is still no protected API (`GET /api/me`), no dedicated error routes, and no production-grade client session. Those are later versions.
@@ -277,7 +294,7 @@ Diff adjacent snapshots to see exactly what changed:
 diff -ru versions/v02-state-csrf versions/v03-pkce
 ```
 
-[^public-clients]: For **public clients** like SPAs, mobile apps, CLI tools, there is often no `client_secret` at all. The app binary or JavaScript is visible, so a secret cannot be kept. Those clients only have `client_id`. For them, stealing the `code` is especially dangerous without PKCE: an attacker needs only `code`, `client_id`, and `redirect_uri` to attempt redemption. Confidential clients (like this lab's one) also require `client_secret`, but that may be hardcoded in tutorials or leaked from a repo. PKCE protects both cases.
+[^public-clients]: For public clients like SPAs, mobile apps, CLI tools, there is often no `client_secret` at all. The app binary or JavaScript is visible, so a secret cannot be kept. Those clients only have `client_id`. For them, stealing the `code` is especially dangerous without PKCE: an attacker needs only `code`, `client_id`, and `redirect_uri` to attempt redemption. Confidential clients (like this lab's one) also require `client_secret`, but that may be hardcoded in tutorials or leaked from a repo. PKCE protects both cases.
 
 # Further reading
 

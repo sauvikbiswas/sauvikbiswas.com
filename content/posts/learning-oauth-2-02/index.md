@@ -108,7 +108,7 @@ sequenceDiagram
 
 ## How v02 adds `state`
 
-In OAuth, the **client app** is the thing that must know: "This callback with `?code=...` belongs to the login I started."
+In OAuth, the client app is the thing that must know: "This callback with `?code=...` belongs to the login I started."
 
 Without `state` (v01):
 
@@ -167,7 +167,7 @@ sequenceDiagram
 
 The server changes are minimal. It requires `state` on the authorization request and returns it unchanged as part of the callback redirect. The client does the heavy lifting: generate, store, verify.
 
-The client still does not know who the user is: that is the auth server's job. What v02 adds is **flow-scoped** storage: a random `state` in the Flask session, plus an in-memory mirror of pending and completed flows for the dev-only debug endpoint.
+The client still does not know who the user is: that is the auth server's job. What v02 adds is flow-scoped storage: a random `state` in the Flask session, plus an in-memory mirror of pending and completed flows for the dev-only debug endpoint.
 
 You can inspect what the client has stored at any point by visiting `http://localhost:25001/debug/state`. After a successful single-tab flow, you would see something like this (dev-only):
 
