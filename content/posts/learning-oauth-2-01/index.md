@@ -24,6 +24,8 @@ This is my attempt to understand the mechanics from scratch, eventually building
 
 I did not want to work on boilerplate code. So, like any modern developer, I asked a model in Cursor to generate all the boilerplate for me. It ended up creating two Flask apps: one for the server and the other for the client. I have even asked it to create a bit of CSS-styling so that it's visually easy on my eyes and I can clearly distinguish the server from client on my browser. You'll know it when you see it. The server uses red text for header, the client uses blue. While the boilerplate is generated, I intend to write the flow myself. (Duh! Else it defeats the purpose.)
 
+Also, I have used it to clean up these posts, format the tables and the mermaid diagrams.
+
 ### Why versioned snapshots?
 
 Most OAuth tutorials I have seen jump straight to the finished product: state, PKCE, token endpoint, protected API, refresh tokens, error pages. That is the right end state, but it is a terrible first state. When everything is wired together, you cannot tell which piece solved which problem. So, I took an incremental approach. You can download the code (and all its future evolutions) from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab).
