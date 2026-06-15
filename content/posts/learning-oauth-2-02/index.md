@@ -12,7 +12,7 @@ tags:
 
 [v01]({{< relref "posts/learning-oauth-2-01" >}}) got the Authorization Code redirect working, but it deliberately left out OAuth `state`. That absence is fine for learning the spine of the flow; it is not fine for anything you would ship.
 
-The next piece to add is a mechanism to stop **CSRF** (Cross-Site Request Forgery). CSRF is when a site you are on tricks your browser into making a request you did not mean to make. The browser automatically sends along your cookies and session, so the server thinks you did it. [RFC 6749 §10.12](https://datatracker.ietf.org/doc/html/rfc6749#section-10.12) calls this out for the authorization endpoint.
+The next piece to add is a mechanism to stop CSRF (Cross-Site Request Forgery). CSRF is when a site you are on tricks your browser into making a request you did not mean to make. The browser automatically sends along your cookies and session, so the server thinks you did it. [RFC 6749 §10.12](https://datatracker.ietf.org/doc/html/rfc6749#section-10.12) calls this out for the authorization endpoint.
 
 Let us look at two ways the missing `state` can cause issues.
 
@@ -194,11 +194,11 @@ You can inspect what the client has stored at any point by visiting `http://loca
 
 `session` is empty because the callback handler pops `oauth_state` after a successful match. `pending_oauth_states` still lists every state the client has ever generated, including completed flows. That is a debug convenience, not production hygiene.
 
-### How to run it
+## How to run it
 
 Same two-terminal setup as v01, different folder (from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab)):
 
-**Terminal 1: authorization server:**
+**Terminal 1: auth server** (`:25000`)
 
 ```bash
 cd versions/v02-state-csrf/server
@@ -208,7 +208,7 @@ cp ../../../.env.example .env
 python3 app.py
 ```
 
-**Terminal 2: client:**
+**Terminal 2: client app** (`:25001`)
 
 ```bash
 cd versions/v02-state-csrf/client
@@ -218,7 +218,13 @@ cp ../../../.env.example .env
 python3 app.py
 ```
 
-Open `http://localhost:25001` and click **Start authorization**. After login, the callback URL should include both `code` and `state`. The client home page also links to a negative test: starting authorization without `state`, which the server rejects with a 400.
+Open `http://localhost:25001` and click **Start authorization**. After login, the callback URL should include both `code` and `state`.
+
+### Negative tests
+
+| Test | How | Expected |
+|------|-----|----------|
+| Missing `state` | Client home page links to **authorize negative tests** — start authorization without `state` | 400 from auth server |
 
 ### Simulating the two-tab confusion
 
@@ -315,9 +321,9 @@ Only one authorization code was minted: the one tab B completed.
 
 ## What next?
 
-v02 closes the CSRF hole for the authorization redirect. I will try to add **PKCE** in the next version, which addresses a different threat: an attacker intercepting or replaying the authorization code itself.
+v02 closes the CSRF hole for the authorization redirect. I will try to add PKCE in the next version, which addresses a different threat: an attacker intercepting or replaying the authorization code itself.
 
-Since, each version stays in its own folder under `versions/` you can `diff` the adjacent snapshots shows exactly what changed:
+Each version stays in its own folder under `versions/`. Diff adjacent snapshots to see exactly what changed:
 
 ```bash
 diff -ru versions/v01-login-and-code versions/v02-state-csrf

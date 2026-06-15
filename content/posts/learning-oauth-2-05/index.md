@@ -8,17 +8,17 @@ tags:
   - "oauth2"
 ---
 
-# Why v04 was not the finish line
+## Why v04 was not the finish line
 
 [v04]({{< relref "posts/learning-oauth-2-04" >}}) closed the loop through a protected API: the client app stores an `access_token`, calls `GET /api/me` with `Authorization: Bearer …`, and shows a profile page. Login means the token works and the resource server agrees.
 
-That token has a TTL. v04 minted access tokens with `expires_in: 3600`. In production, short-lived access tokens are deliberate: if one leaks, damage is bounded. When it expires, `/api/me` returns **401** and the user would otherwise go through `/authorize` again: browser redirect, login form, callback.
+That token has a TTL. v04 minted access tokens with `expires_in: 3600`. In production, short-lived access tokens are deliberate: if one leaks, damage is bounded. When it expires, `/api/me` returns 401 and the user would otherwise go through `/authorize` again: browser redirect, login form, callback.
 
 Refresh tokens ([RFC 6749 §1.5](https://datatracker.ietf.org/doc/html/rfc6749#section-1.5), [§6](https://datatracker.ietf.org/doc/html/rfc6749#section-6)) fix that. After the initial code exchange, the auth server also issues a `refresh token`. The client app keeps it in its Flask session and exchanges it at `POST /token` with `grant_type=refresh_token` for a new `access token` without another browser login.
 
 v04's cast-of-characters table already flagged refresh tokens as the next step. v05 implements them.
 
-## Example: expired access token with no refresh path
+### Example: expired access token with no refresh path
 
 **Setup:** v04 user logged in yesterday. `access_token` in the client app's session is past `expires_at`.
 
@@ -26,12 +26,12 @@ v04's cast-of-characters table already flagged refresh tokens as the next step. 
 
 1. User opens `/profile` on the client app.
 2. Client app calls `GET /api/me` on the resource server with the stale Bearer token.
-3. Resource server returns **401** (`Token expired`).
+3. Resource server returns 401 (`Token expired`).
 4. Client app has no recovery path. User must click **Start authorization** and log in again.
 
-**What v05 fixes:** On **401**, the client app calls `POST /token` on the auth server with the refresh grant, gets a new access token, retries `/api/me`, and renders the profile. The browser never leaves the client app.
+**What v05 fixes:** On 401, the client app calls `POST /token` on the auth server with the refresh grant, gets a new access token, retries `/api/me`, and renders the profile. The browser never leaves the client app.
 
-# How v05 adds refresh tokens
+## How v05 adds refresh tokens
 
 This lab runs three separate Flask programs. Names matter in the sections below:
 
@@ -61,19 +61,19 @@ Both grants return the same JSON shape:
 }
 ```
 
-## Auth server: storage and token endpoint
+### Auth server: storage and token endpoint
 
-**`server/storage/memory.py`** (auth server codebase) adds a third dict:
+`server/storage/memory.py` (auth server codebase) adds a third dict:
 
 ```python
 # refresh_token -> {user_id, client_id, expires_at}
 refresh_tokens: dict = {}
 ```
 
-**`server/routes/token.py`** is refactored into grant-specific handlers:
+`server/routes/token.py` is refactored into grant-specific handlers:
 
-1. **`grant_type=authorization_code`**: unchanged validation (PKCE, code reuse, etc.), but `_mint_token_pair()` writes both `access_tokens` and `refresh_tokens`, and the response includes `refresh_token`.
-2. **`grant_type=refresh_token`**: validates `refresh_token`, `client_id`, and expiry; mints a new access token only; returns the same refresh token (reuse, not rotation; rotation is out of scope for this lab).
+1. `grant_type=authorization_code`: unchanged validation (PKCE, code reuse, etc.), but `_mint_token_pair()` writes both `access_tokens` and `refresh_tokens`, and the response includes `refresh_token`.
+2. `grant_type=refresh_token`: validates `refresh_token`, `client_id`, and expiry; mints a new access token only; returns the same refresh token (reuse, not rotation; rotation is out of scope for this lab).
 
 For the demo, access tokens use a short TTL (10 seconds in my current config; 60–90 seconds also works). Refresh tokens use a longer TTL (3600 seconds). You need access to expire before refresh so you can see silent refresh without waiting an hour.
 
@@ -89,7 +89,7 @@ curl -s -X POST http://localhost:25000/token \
 
 Copy `refresh_token` from the client app's or auth server's `/debug/state` after login.
 
-## Client app: store, refresh, retry
+### Client app: store, refresh, retry
 
 Three additions on top of v04 in the client app (`client/app.py`):
 
@@ -97,7 +97,7 @@ Three additions on top of v04 in the client app (`client/app.py`):
 
 **2. `refresh_access_token()`**: the client app backend calls `POST /token` on the auth server with the refresh grant (via `requests.post`, not from the browser). On success, it updates the client app's Flask session (`session["access_token"]`, etc.) and sets `token_grant` to `"refresh_token"`. On failure (`invalid_grant`), it clears token keys from that session.
 
-**3. Profile (`/profile`)**: on **401** from the resource server, calls `refresh_access_token()`, then retries `/api/me` with the new token from the client app's session. If refresh fails, shows "Session expired. Please log in again." The profile page also labels which grant minted the current access token.
+**3. Profile (`/profile`)**: on 401 from the resource server, calls `refresh_access_token()`, then retries `/api/me` with the new token from the client app's session. If refresh fails, shows "Session expired. Please log in again." The profile page also labels which grant minted the current access token.
 
 The browser only talks to the client app. It never calls `/token` directly.
 
@@ -131,7 +131,7 @@ sequenceDiagram
     ClientApp->>Browser: Profile page refresh token grant
 ```
 
-## What changed from v04
+### What changed from v04
 
 | Piece | v04 | v05 |
 |-------|-----|-----|
@@ -144,7 +144,7 @@ sequenceDiagram
 
 Authorization, PKCE, and Bearer validation on `/api/me` are unchanged.
 
-# How to run it
+## How to run it
 
 Two terminals (from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab)):
 
@@ -172,7 +172,7 @@ Open `http://localhost:25001`, log in as `user0` / `password0`, land on `/profil
 
 Wait for the access token to expire (check `ACCESS_TOKEN_TTL` in `server/routes/token.py`), reload `/profile`. It should still work and the label should switch to _refresh token_ grant.
 
-## Negative tests
+### Negative tests
 
 As usual, you can test out some failure cases as well.
 
@@ -183,11 +183,11 @@ As usual, you can test out some failure cases as well.
 | Profile without login | Fresh browser, visit `/profile` | Error: token missing |
 | Auth server restart | Restart the auth server process, reload `/profile` on the client app | Refresh fails; in-memory tokens gone |
 
-# Debugging: when localhost eats your session
+## Debugging: when localhost eats your session
 
 This section is a bug I hit while building v05. The OAuth logic was fine. The symptoms looked like refresh was "deleting" the client app's session or logging both apps out. I had fun debugging this and learned some new things as well.
 
-## Problem 1: wrong keys in the client app's session
+### Problem 1: wrong keys in the client app's session
 
 **Symptom:** Client app `/debug/state` showed:
 
@@ -207,6 +207,14 @@ The client app never sets `logged_in` or `username`. Those come from the auth se
 Cookies are matched by host and path, not port ([RFC 6265](https://datatracker.ietf.org/doc/html/rfc6265)). So both apps read and write the same `session` cookie for `localhost`. Last `Set-Cookie` wins.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {
+  'actorLineColor': '#1e293b',
+  'actorBorder': '#334155',
+  'signalColor': '#1e293b',
+  'lineColor': '#1e293b',
+  'noteBorderColor': '#b45309',
+  'noteBkgColor': '#fef9c3'
+}}}%%
 sequenceDiagram
     participant Browser
     participant Client as Client_25001
@@ -237,7 +245,7 @@ app.config["SESSION_COOKIE_NAME"] = "oauth_client_session"
 
 After deploying, I had to clear old `session` cookies for `localhost` once. That fixed the cross-app overwrite, but not everything below.
 
-## Problem 2: client app's session cookie disappears after reload
+### Problem 2: client app's session cookie disappears after reload
 
 **Symptom:** After waiting for token expiry and reloading `/profile`, Firefox devtools showed `oauth_client_session` gone. Only `oauth_server_session` remained. Profile said "Access token is missing from session."
 
@@ -255,7 +263,7 @@ On refresh failure the client app intentionally clears tokens. The first failed 
 
 **Fix:** keep refresh token TTL much longer than access token TTL on the auth server (e.g. access 10–60s, refresh 3600s). Expect to re-login after an auth server restart in this lab.
 
-## How to verify the fix
+### How to verify the fix
 
 1. Clear all `localhost` cookies.
 2. Log in. Check client app `/debug/state`: `session` has `access_token`, `refresh_token`, `token_grant`.
@@ -263,7 +271,7 @@ On refresh failure the client app intentionally clears tokens. The first failed 
 4. DevTools → Cookies: both `oauth_client_session` and `oauth_server_session` present.
 5. Wait for access token expiry. Reload `/profile` on the client app once. Both cookies still present; profile shows refresh token grant.
 
-# From toy lab to production
+## From toy lab to production
 
 v05 completes the protocol arc this lab set out to educate me on: Authorization Code + PKCE, a protected API, and refresh. The numbered versions are toy programs on purpose; they keep one idea visible at a time.
 
@@ -279,28 +287,30 @@ If you were hardening a real deployment, you would still need work beyond what a
 
 In v05, logout on the client app clears that app's Flask session only. The auth server still holds entries in `memory.access_tokens` and `memory.refresh_tokens` until restart. That is fine for learning; it is not a model for production logout semantics.
 
-# Cast of characters (v05 additions)
+## Cast of characters (v05 additions)
 
 | Name | Who creates it | Where it travels | What it does |
 |------|----------------|------------------|--------------|
-| **`refresh_token`** | Auth server | Auth server `POST /token` JSON → client app session → auth server `POST /token` body on refresh | Longer-lived credential to mint new access tokens without browser login. |
-| **`grant_type=refresh_token`** | Client app | Auth server `POST /token` body | Selects the refresh grant instead of authorization code. |
-| **`expires_in`** | Auth server | Token response JSON | Access token lifetime in seconds. Short in v05 for demo. |
-| **`token_grant`** | Client app (lab only) | Client app session only | Lab helper: tracks whether current access token came from `authorization_code` or `refresh_token`. Not part of OAuth. |
+| `refresh_token` | Auth server | Auth server `POST /token` JSON → client app session → auth server `POST /token` body on refresh | Longer-lived credential to mint new access tokens without browser login. |
+| `grant_type=refresh_token` | Client app | Auth server `POST /token` body | Selects the refresh grant instead of authorization code. |
+| `expires_in` | Auth server | Token response JSON | Access token lifetime in seconds. Short in v05 for demo. |
+| `token_grant` | Client app (lab only) | Client app session only | Lab helper: tracks whether current access token came from `authorization_code` or `refresh_token`. Not part of OAuth. |
 
-Updated **`grant_type`** row: `POST /token` body uses `authorization_code` for first login and `refresh_token` for silent renewal.
+Updated `grant_type` row: `POST /token` body uses `authorization_code` for first login and `refresh_token` for silent renewal.
 
-# What next?
+## What next?
 
-v05 is the last numbered snapshot for OAuth fundamentals in this lab. You can diff it against v04 to see exactly what refresh added:
+v05 completes the protocol arc for this lab: Authorization Code + PKCE, a protected API, and refresh. [v06]({{< relref "posts/learning-oauth-2-06" >}}) takes the next production step from the checklist above: split the auth server and resource server onto separate processes, with introspection or JWT validation across the boundary.
+
+Diff adjacent snapshots to see exactly what refresh added:
 
 ```bash
 diff -ru versions/v04-protected-resource versions/v05-refresh-token
 ```
 
-For production hardening, see the checklist above. Those changes belong in a real codebase, not in another toy step-by-step version here.
+For other deployment hardening (database storage, token revocation, refresh rotation), see the checklist above. Those changes belong in a real codebase, not in another toy step-by-step version here.
 
-# Further reading
+## Further reading
 
 - [RFC 6749 §1.5: Refresh token](https://datatracker.ietf.org/doc/html/rfc6749#section-1.5)
 - [RFC 6749 §6: Refreshing an Access Token](https://datatracker.ietf.org/doc/html/rfc6749#section-6)
