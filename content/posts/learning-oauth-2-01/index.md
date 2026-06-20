@@ -24,11 +24,13 @@ This is my attempt to understand the mechanics from scratch, eventually building
 
 I did not want to work on boilerplate code. So, like any modern developer, I asked a model in Cursor to generate all the boilerplate for me. It ended up creating two Flask apps: one for the server and the other for the client. I have even asked it to create a bit of CSS-styling so that it's visually easy on my eyes and I can clearly distinguish the server from client on my browser. You'll know it when you see it. The server uses red text for header, the client uses blue. While the boilerplate is generated, I intend to write the flow myself. (Duh! Else it defeats the purpose.)
 
+Also, I have used it to clean up these posts, check for factual accuracy, point me to the right RFCs, use it as a search tool, format the tables and the mermaid diagrams.
+
 ### Why versioned snapshots?
 
 Most OAuth tutorials I have seen jump straight to the finished product: state, PKCE, token endpoint, protected API, refresh tokens, error pages. That is the right end state, but it is a terrible first state. When everything is wired together, you cannot tell which piece solved which problem. So, I took an incremental approach. You can download the code (and all its future evolutions) from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab).
 
-I intend to keep these versions in separate folders. Each folder under `versions/` is a **runnable** server + client pair.
+I intend to keep these versions in separate folders. Each folder under `versions/` is a runnable server + client pair.
 
 ## The dumbest flow that works
 
@@ -81,11 +83,11 @@ sequenceDiagram
 
 That is it. It is ugly by production standards but is perfect for learning.
 
-### How to run it
+## How to run it
 
-You will need to have two terminals open.
+Two terminals (from [github.com/sauvikbiswas/oauth-lab](https://github.com/sauvikbiswas/oauth-lab)):
 
-**Terminal 1 — authorization server:**
+**Terminal 1: auth server** (`:25000`)
 
 ```bash
 cd versions/v01-login-and-code/server
@@ -95,7 +97,7 @@ cp ../../../.env.example .env
 python3 app.py
 ```
 
-**Terminal 2 — client:**
+**Terminal 2: client app** (`:25001`)
 
 ```bash
 cd versions/v01-login-and-code/client
@@ -108,6 +110,13 @@ python3 app.py
 Open `http://localhost:25001` (client) and click **Start authorization**. The browser would take you to `http://localhost:25000/login` (server). Use `user0` / `password0` as credentials. The browser should redirect back to `http://localhost:25001/callback?code=<random-string>`.
 
 Notice what is not in that callback URL: there is no `state` parameter. That absence is deliberate for v01.
+
+### Negative tests
+
+| Test | How | Expected |
+|------|-----|----------|
+| Unknown `client_id` | `GET /authorize` with a bogus `client_id` | 400 from auth server |
+| Wrong `redirect_uri` | `GET /authorize` with a `redirect_uri` not on the client's allow list | 400 from auth server |
 
 You can inspect what the server stored by going to `http://localhost:25000/debug/state` after the flow completes. You would see something like this (dev-only — it dumps plaintext passwords, which is fine for learning and never acceptable in production):
 
@@ -156,7 +165,7 @@ The authorization code you received in the callback URL appears as a key under `
 
 ## Can I call this v01 version OAuth?
 
-Not a complete OAuth 2.0 server, but not unrelated either. v01 is **OAuth-shaped**: it implements the first leg of the [Authorization Code grant](https://datatracker.ietf.org/doc/html/rfc6749#section-4.1) (authorize endpoint, login, code issuance) without the token exchange or the security extras the ecosystem expects today. I would not call it RFC-compliant yet; I *would* call it a honest step toward understanding OAuth.
+Not a complete OAuth 2.0 server, but not unrelated either. v01 is OAuth-shaped: it implements the first leg of the [Authorization Code grant](https://datatracker.ietf.org/doc/html/rfc6749#section-4.1) (authorize endpoint, login, code issuance) without the token exchange or the security extras the ecosystem expects today. I would not call it RFC-compliant yet; I *would* call it a honest step toward understanding OAuth.
 
 OAuth names [four roles in its specification](https://datatracker.ietf.org/doc/html/rfc6749#section-1.1). In this version, they map to running processes like this:
 
@@ -173,7 +182,7 @@ What v01 actually implements: the authorization endpoint, login, client registry
 
 This stripped-down version is not completely security-blind.
 
-The `server/storage` folder holds an in-memory store (`memory.py`): users, registered OAuth clients, issued authorization codes, and (empty for now) access tokens. Nothing fancy; data disappears on restart. But the **`clients` registry** is real OAuth client registration: the server will not redirect to a callback URL unless that `client_id` exists and the `redirect_uri` is on the client's allow list.
+The `server/storage` folder holds an in-memory store (`memory.py`): users, registered OAuth clients, issued authorization codes, and (empty for now) access tokens. Nothing fancy; data disappears on restart. But the `clients` registry is real OAuth client registration: the server will not redirect to a callback URL unless that `client_id` exists and the `redirect_uri` is on the client's allow list.
 
 #### Param resume through login
 
@@ -187,9 +196,13 @@ Even in v01, the server does not blindly redirect anywhere. It looks up `client_
 
 ## What next?
 
-v01 is the "before" picture. The subsequent versions will only add more on top. I do not know what the breakdown of the versions would be but I intend to understand OAuth `state` and PKCE next.
+v01 is the "before" picture. The subsequent versions add one concern at a time: [v02]({{< relref "posts/learning-oauth-2-02" >}}) adds OAuth `state` for CSRF, [v03]({{< relref "posts/learning-oauth-2-03" >}}) adds PKCE, then protected APIs, refresh tokens, and a split auth/resource deployment in later posts.
 
-Each version gets its own folder under `versions/` so that `diff`ing adjacent snapshots will show exactly what has been implemented.
+Each version gets its own folder under `versions/`. Diff adjacent snapshots to see exactly what changed:
+
+```bash
+diff -ru versions/v01-login-and-code versions/v02-state-csrf
+```
 
 ## Further reading
 
