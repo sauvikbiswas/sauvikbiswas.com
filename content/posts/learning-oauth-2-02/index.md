@@ -224,7 +224,7 @@ Open `http://localhost:25001` and click **Start authorization**. After login, th
 
 | Test | How | Expected |
 |------|-----|----------|
-| Missing `state` | Client home page links to **authorize negative tests** — start authorization without `state` | 400 from auth server |
+| Missing `state` | Client home page links to **authorize negative tests**: start authorization without `state` | 400 from auth server |
 
 ### Simulating the two-tab confusion
 
