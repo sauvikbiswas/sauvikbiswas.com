@@ -393,24 +393,6 @@ To try Mode B, set `ACCESS_TOKEN_FORMAT=jwt` and `TOKEN_VALIDATION=jwt` in all t
 |------|-----|----------|
 | Tampered `id_token` | Flip one character in session; reload `/profile` | 401 invalid token |
 
-**OIDC (unchanged from v07):**
-
-**Should fail:**
-
-| Test | How | Expected |
-|------|-----|----------|
-| Missing `nonce` | `/authorize` with `scope=openid` but no `nonce` | 400 |
-| UserInfo no token | `curl /userinfo` | 401 |
-
-**API (unchanged from v06/v07):**
-
-**Should fail:**
-
-| Test | How | Expected |
-|------|-----|----------|
-| No Bearer header | `curl -s http://localhost:25002/api/me` | 401 |
-| Fake token | `curl -s http://localhost:25002/api/me -H "Authorization: Bearer fake"` | 401 |
-
 ## Cast of characters (v08 additions)
 
 | Name | Who creates it | Where it travels | What it does |
