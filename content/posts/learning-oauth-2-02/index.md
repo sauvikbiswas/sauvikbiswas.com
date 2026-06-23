@@ -220,7 +220,7 @@ python3 app.py
 
 Open `http://localhost:25001` and click **Start authorization**. After login, the callback URL should include both `code` and `state`.
 
-### Negative tests
+### Failure cases
 
 | Test | How | Expected |
 |------|-----|----------|

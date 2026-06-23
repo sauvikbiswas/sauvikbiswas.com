@@ -172,9 +172,7 @@ Open `http://localhost:25001`, log in as `user0` / `password0`, land on `/profil
 
 Wait for the access token to expire (check `ACCESS_TOKEN_TTL` in `server/routes/token.py`), reload `/profile`. It should still work and the label should switch to _refresh token_ grant.
 
-### Negative tests
-
-As usual, you can test out some failure cases as well.
+### Failure cases
 
 | Test | How | Expected |
 |------|-----|----------|

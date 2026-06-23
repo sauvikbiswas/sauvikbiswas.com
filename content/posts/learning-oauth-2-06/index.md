@@ -352,25 +352,37 @@ Default env is Mode A (`ACCESS_TOKEN_FORMAT=opaque`, `TOKEN_VALIDATION=introspec
 
 To try Mode B, set `ACCESS_TOKEN_FORMAT=jwt` and `TOKEN_VALIDATION=jwt` in all three `.env` files, use the same `JWT_SECRET` on the auth server and resource server, restart all three processes, and log in again.
 
-### Negative tests
-
-As usual, you can test some failure cases as well.
+### Manual checks
 
 **Mode A (default):**
+
+**Should fail:**
 
 | Test | How | Expected |
 |------|-----|----------|
 | No Bearer header | `curl -s http://localhost:25002/api/me` | 401 |
 | Fake token | `curl -s http://localhost:25002/api/me -H "Authorization: Bearer not-a-real-token"` | 401 |
 | Auth server down | Stop the auth server process; reload `/profile` on the client app | Profile fails (introspection unreachable) |
+
+**Should succeed:**
+
+| Test | How | Expected |
+|------|-----|----------|
 | Access token expiry | Wait for `ACCESS_TOKEN_TTL` (60s in `auth-server/routes/token.py`); reload `/profile` | Silent refresh still works |
 
 **Mode B** (after flipping env and restarting):
+
+**Should succeed:**
 
 | Test | How | Expected |
 |------|-----|----------|
 | Valid API call | Log in; `curl` `/api/me` with Bearer token from client `/debug/state` | 200 with user JSON |
 | Auth server down | Stop auth server; call `/api/me` with an unexpired JWT | 200 until `exp` |
+
+**Should fail:**
+
+| Test | How | Expected |
+|------|-----|----------|
 | Expired JWT | Wait past access token expiry; call `/api/me` | 401; refresh needs auth server again |
 
 ## Cast of characters (v06 additions)

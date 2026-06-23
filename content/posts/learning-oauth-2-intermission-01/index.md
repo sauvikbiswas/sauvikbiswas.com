@@ -449,7 +449,7 @@ Gartner's 2025 AM MQ notes CIAM vendors adding machine IAM capabilities.[^gartne
 
 ## Closing
 
-Here are some of the things I'll keep in mind after building oauth-lab through v07:
+Now that I've build a significant chunk of the oauth-lab, I would keep some points in mind:
 
 1. **Read pricing model before API docs**: it predicts scale cost better than protocol debates.
 2. **Pick category by buyer**: engineering (B), IT (A workforce), enterprise sales (C), platform (D or E); hybrid stacks (B + C) are normal, not a migration failure.

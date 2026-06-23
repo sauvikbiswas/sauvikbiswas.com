@@ -193,11 +193,13 @@ Bearer `access_token` (not `id_token`). Lives on the auth server (`:25000`).
 
 | Claim | Returned when |
 |-------|----------------|
-| `sub` | `openid` in the access token's stored scope |
+| `sub` | `openid` in the access token's granted scope |
 | `email` | `email` in scope |
 | `name` | `profile` in scope |
 
 UserInfo answers: *who is this user right now, per granted scopes?* It is an authentication / identity artifact.
+
+**Mode A vs Mode B:** In **Mode A** (default), granted scope is stored server-side on the opaque access token and UserInfo reads it from memory. In **Mode B** (optional `ACCESS_TOKEN_FORMAT=jwt`), the access token is a JWT with no server-side store, so UserInfo cannot filter claims unless the JWT payload includes a `scope` claim (space-delimited, OAuth convention). Without it, `GET /userinfo` returns `200 {}` even though the token is valid. **Refresh:** scope must also be stored on the refresh token and passed through when minting a new access token, or UserInfo goes empty after silent refresh in both modes.
 
 ### Discovery
 
@@ -411,27 +413,39 @@ python3 app.py
 
 Default env is Mode A (`ACCESS_TOKEN_FORMAT=opaque`, `TOKEN_VALIDATION=introspection`). Open [http://localhost:25001](http://localhost:25001), click Start authorization, log in as `user0` / `password0`; `/profile` shows all three identity sections (id_token, UserInfo, `/api/me`). Compare local discovery JSON with [production examples above](#discovery).
 
-### Negative tests
-
-As usual, you can test some failure cases as well.
+### Manual checks
 
 **OIDC:**
+
+**Should succeed:**
+
+| Test | How | Expected |
+|------|-----|----------|
+| Discovery | `curl /.well-known/openid-configuration` | 200 JSON with endpoints |
+| `id_token` nonce | Decode JWT after login | `nonce` matches authorize request |
+
+**Should fail:**
 
 | Test | How | Expected |
 |------|-----|----------|
 | Missing `nonce` | `/authorize` with `scope=openid` but no `nonce` | 400 |
-| Discovery | `curl /.well-known/openid-configuration` | 200 JSON with endpoints |
 | UserInfo no token | `curl /userinfo` | 401 |
 | UserInfo fake token | `curl /userinfo -H "Authorization: Bearer fake"` | 401 |
-| `id_token` nonce | Decode JWT after login | `nonce` matches authorize request |
 
 **API (unchanged from v06):**
+
+**Should succeed:**
+
+| Test | How | Expected |
+|------|-----|----------|
+| `/api/me` on profile | Profile page third section after login | 200 with username/email |
+
+**Should fail:**
 
 | Test | How | Expected |
 |------|-----|----------|
 | No Bearer header | `curl -s http://localhost:25002/api/me` | 401 |
 | Fake token | `curl -s http://localhost:25002/api/me -H "Authorization: Bearer not-a-real-token"` | 401 |
-| `/api/me` on profile | Profile page third section after login | 200 with username/email |
 | Auth server down (Mode A) | Stop auth server; reload `/profile` | Profile fails (introspection unreachable) |
 
 ## Cast of characters (v07 additions)

@@ -111,7 +111,7 @@ Open `http://localhost:25001` (client) and click **Start authorization**. The br
 
 Notice what is not in that callback URL: there is no `state` parameter. That absence is deliberate for v01.
 
-### Negative tests
+### Failure cases
 
 | Test | How | Expected |
 |------|-----|----------|
