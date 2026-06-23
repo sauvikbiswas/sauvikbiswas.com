@@ -11,6 +11,10 @@ _Updated on 13th June, 2026_
 
 - _[The Valmiki Ramayana](https://www.amazon.in/Valmiki-Ramayana-Box-Set/dp/0143441140)_ translated by **Bibek Debroy**. So far I am halfway-through Ayodhya Kanda (2nd of the 7 sections).
 
+## Learning about OAuth2
+
+See [OAuth2-Lab]({{< relref "oauth2-lab" >}})
+
 ## Working as a Founding Engineer
 
 I am one of the founding engineers of [Andromeda Security](https://www.andromedasecurity.com/): an ISPM solution that focuses on IAM, IGA, PAM, solutions via its SAAS offering. At present I am leading a small team of engineers who develop and maintain it's JML, UAR and JIT offering.

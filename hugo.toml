@@ -30,6 +30,10 @@ name = "comics"
 url = "/comics"
 
 [[params.menu]]
+name = "oauth2-lab"
+url = "/oauth2-lab"
+
+[[params.menu]]
 name = "about"
 url = "/about"
 
