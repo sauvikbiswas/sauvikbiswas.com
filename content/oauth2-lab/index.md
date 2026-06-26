@@ -5,7 +5,7 @@ categories:
 hidePagination: true
 ---
 
-Companion posts for [oauth-lab on GitHub](https://github.com/sauvikbiswas/oauth-lab): incremental Flask snapshots from authorization code flow through JWKS and RS256. Read in order.
+Companion posts for [oauth-lab on GitHub](https://github.com/sauvikbiswas/oauth-lab): incremental Flask snapshots from authorization code flow through JWKS, RS256, and RFC 8707 resource indicators. Read in order.
 
 1. v01 – _[Learning OAuth 2 by Building It, One Version at a Time]({{< relref "posts/learning-oauth-2-01" >}})_
 2. v02 – _[Adding OAuth State to Stop CSRF]({{< relref "posts/learning-oauth-2-02" >}})_
@@ -16,6 +16,7 @@ Companion posts for [oauth-lab on GitHub](https://github.com/sauvikbiswas/oauth-
 7. v07 – _[Adding OpenID Connect on Top of OAuth 2]({{< relref "posts/learning-oauth-2-07" >}})_
 8. Intermission – _[What Industry Ships and Who Gets Paid]({{< relref "posts/learning-oauth-2-intermission-01" >}})_
 9. v08 – _[JWKS and RS256: Dropping the Shared JWT Secret]({{< relref "posts/learning-oauth-2-08" >}})_
+10. v09 – _[Resource Indicators: Binding Tokens to a Specific API]({{< relref "posts/learning-oauth-2-09" >}})_
 
 ## A note on usage of LLMs
 
