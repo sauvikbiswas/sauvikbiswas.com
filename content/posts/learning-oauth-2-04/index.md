@@ -136,9 +136,7 @@ python3 app.py
 
 Open `http://localhost:25001` and click **Start authorization**. Log in as `user0` / `password0`. You should land on `/profile` with a display name and email, not a raw token string.
 
-### Negative tests
-
-Since you can directly call the `/api/me` endpoint of the Resource Server, it's easy to test out some failure cases.
+### Failure cases
 
 | Test | How | Expected |
 |------|-----|----------|

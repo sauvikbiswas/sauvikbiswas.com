@@ -220,11 +220,11 @@ python3 app.py
 
 Open `http://localhost:25001` and click **Start authorization**. After login, the callback URL should include both `code` and `state`.
 
-### Negative tests
+### Failure cases
 
 | Test | How | Expected |
 |------|-----|----------|
-| Missing `state` | Client home page links to **authorize negative tests** — start authorization without `state` | 400 from auth server |
+| Missing `state` | Client home page links to **authorize negative tests**: start authorization without `state` | 400 from auth server |
 
 ### Simulating the two-tab confusion
 

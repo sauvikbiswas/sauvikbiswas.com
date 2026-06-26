@@ -201,7 +201,7 @@ python3 app.py
 
 Open `http://localhost:25001` and click **Start authorization**. After login, the callback should show `code`, `state`, and `access_token`.
 
-### Negative tests
+### Security exercises
 
 The client home page links to **authorize negative tests** (missing `state`, missing PKCE, `plain` challenge method). Each should return 400 from the auth server.
 

@@ -111,14 +111,14 @@ Open `http://localhost:25001` (client) and click **Start authorization**. The br
 
 Notice what is not in that callback URL: there is no `state` parameter. That absence is deliberate for v01.
 
-### Negative tests
+### Failure cases
 
 | Test | How | Expected |
 |------|-----|----------|
 | Unknown `client_id` | `GET /authorize` with a bogus `client_id` | 400 from auth server |
 | Wrong `redirect_uri` | `GET /authorize` with a `redirect_uri` not on the client's allow list | 400 from auth server |
 
-You can inspect what the server stored by going to `http://localhost:25000/debug/state` after the flow completes. You would see something like this (dev-only — it dumps plaintext passwords, which is fine for learning and never acceptable in production):
+You can inspect what the server stored by going to `http://localhost:25000/debug/state` after the flow completes. You would see something like this (dev-only: it dumps plaintext passwords, which is fine for learning and never acceptable in production):
 
 ```json
 {
