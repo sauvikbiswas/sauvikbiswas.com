@@ -19,7 +19,7 @@ In the last blog's production checklist, I had already mentioned this as part of
 
 > Split the auth server and resource server so `/authorize` and `/token` run separately from `/api/me`, and have each service validate tokens on its own (often via introspection or JWT verification).
 
-v06 is that step. The repo ships a working split under [`versions/v06-split-servers/`](https://github.com/sauvikbiswas/oauth-lab/tree/main/versions/v06-split-servers). It has three apps, both validation modes (introspection + JWT), and a Level 2 profile split (more on that later). This post outlines the ideas. In retrospect, I feel like it covers a lot more ground and introduces multiple concepts that are important for real world implementation.
+v06 is that step. The repo ships a working split under [`versions/v06-split-servers/`](https://github.com/sauvikbiswas/oauth-lab/tree/main/versions/v06-split-servers). It has three apps and a Level 2 profile split (more on that later). This post focuses on the split itself plus the default way the resource server trusts a token it never issued: **opaque tokens + introspection** (Mode A). The same code also supports a second, stateless validation path — HS256 JWTs verified locally (Mode B) — which gets its own walkthrough in the companion post, [v06b — JWT access tokens]({{< relref "posts/learning-oauth-2-06b" >}}). Splitting Mode A and Mode B into two posts keeps each one to a single idea.
 
 ### Example: why shared memory breaks with the split
 
@@ -69,17 +69,14 @@ sequenceDiagram
     ClientApp->>AuthServer: POST /token
     AuthServer-->>ClientApp: access_token
 
-    Note over ClientApp,ResourceServer: Mode A per API call
+    Note over ClientApp,ResourceServer: per API call (introspection)
     ClientApp->>ResourceServer: GET /api/me<br/>Authorization: Bearer opaque token
     ResourceServer->>AuthServer: POST /introspect
     AuthServer-->>ResourceServer: active + sub + exp
     ResourceServer-->>ClientApp: profile JSON
-
-    Note over ClientApp,ResourceServer: Mode B per API call
-    ClientApp->>ResourceServer: GET /api/me<br/>Authorization: Bearer JWT
-    Note over ResourceServer: verify JWT locally
-    ResourceServer-->>ClientApp: profile JSON
 ```
+
+(Mode B replaces the introspection call with a local JWT verification; see [v06b]({{< relref "posts/learning-oauth-2-06b" >}}).)
 
 ## What user data lives where?
 
@@ -102,7 +99,7 @@ OAuth separates identity proof (auth server) from protected resources (resource 
 
 For this lab, that's not necessary. v06 uses a realistic split. The auth server keeps `password` and `user_id` only, enough to log in and mint tokens. The resource server keeps `username` and `email` in `storage/profiles.py`; the API owns profile data.
 
-The auth server proves who you are (`sub` or subject; a JWT construct that we'll come to that in a moment). The resource server decides what to show from its own profile store.
+The auth server proves who you are (`sub`, the subject identifier returned by introspection). The resource server decides what to show from its own profile store.
 
 In production, the IdP typically holds credentials (or federated login) and a stable subject id (`sub`). The product API holds app-specific profile and business data, or fetches it from a user service keyed by `sub`. A client can call multiple resource servers to aggregate what it needs for that subject.
 
@@ -142,18 +139,16 @@ Production IdPs often store these in separate tables (`oauth_clients` versus ser
 
 `POST /introspect` validates against `service_clients` only. `POST /token` for the authorization code grant still validates against `clients`. You can check auth server `/debug/state`, both dicts are listed separately.
 
-## Two ways to validate a token across process boundaries
+## Validating a token across the process boundary
 
-Once auth and resource run separately, the resource server must answer whether the Bearer token is valid and who the user is. v06 implements both common answers, switchable via env.
+Once auth and resource run separately, the resource server must answer whether the Bearer token is valid and who the user is. v06's code supports two answers, switchable via env; they share the same login and authorization-code exchange and diverge only at `GET /api/me`.
 
 | Mode | Env | Auth server mints | Resource server validates |
 |------|-----|-------------------|---------------------------|
 | A: introspection | `ACCESS_TOKEN_FORMAT=opaque`, `TOKEN_VALIDATION=introspection` | Opaque string (v05 style) | `POST /introspect`, then `sub`, then profile lookup |
-| B: JWT | `ACCESS_TOKEN_FORMAT=jwt`, `TOKEN_VALIDATION=jwt` | HS256 JWT (`sub`, `client_id`, `exp`; plus `iss`, `aud`, `iat` for verify) | Local verify, then `sub`, then profile lookup |
+| B: JWT | `ACCESS_TOKEN_FORMAT=jwt`, `TOKEN_VALIDATION=jwt` | HS256 JWT | Local verify, then `sub`, then profile lookup |
 
-Both modes share the same login and authorization-code exchange. They diverge at `GET /api/me`: Mode A sends the opaque token to the auth server via `/introspect`; Mode B verifies a JWT locally on the resource server (see the diagram under [Three programs, three roles](#three-programs-three-roles)).
-
-Let us now go over each mode.
+This post covers **Mode A (introspection)** — the default, and the one that most directly answers "how does a separate resource server trust a token it never issued." Mode B (stateless HS256 JWTs verified locally) uses the same three-process code with the env flipped, and gets its own walkthrough in [v06b — JWT access tokens]({{< relref "posts/learning-oauth-2-06b" >}}).
 
 ### Mode A: opaque token + introspection (RFC 7662)
 
@@ -180,7 +175,7 @@ When introspection returns an active token to the resource server, the JSON incl
 
 `exp` lets a caller know when the token stops being valid without decoding anything. In production, resource servers often cache an introspection result until `exp` to avoid calling the auth server on every request.
 
-The same claim names appear inside JWT access tokens in Mode B; see [What the JWT claims mean](#what-the-jwt-claims-mean).
+The same claim names appear inside JWT access tokens in Mode B; see [v06b — JWT access tokens]({{< relref "posts/learning-oauth-2-06b" >}}).
 
 A fuller introspection response from a production IdP might also include `iat` (issued at), `scope`, `aud`, or `token_type`. v06 returns a minimal subset on purpose:
 
@@ -203,54 +198,11 @@ On the resource server in Mode A:
 - If `active` is true, read `sub` and look up `profiles[sub]`.
 - Return merged JSON from `GET /api/me`.
 
-### Mode B: JWT + local verification (RFC 7519)
+### Mode B: JWT + local verification (a preview)
 
-JWT (JSON Web Token) is defined in [RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519). This mechanism enables the client app to call the resource server directly with an access token obtained from the auth server; the resource server can verify the request without talking to the auth server on each API call.
+Introspection has a cost: the resource server calls the auth server on every `/api/me`. The alternative is a self-contained token the resource server can verify locally without that network hop — a signed JWT. v06's code implements this as Mode B (HS256), and it introduces the JWT claims (`sub`, `iss`, `aud`, `exp`, `iat`) that the rest of the series builds on.
 
-This is what the auth server does when minting a token:
-
-- When `ACCESS_TOKEN_FORMAT=jwt`, mint an HS256 JWT with `sub`, `client_id`, `exp`, plus `iss`, `aud`, and `iat`.
-- Do not store JWT access tokens in `memory.access_tokens`; validation in Mode B is fully local on the resource server.
-
-#### What the JWT claims mean
-
-A JWT on the wire is three Base64URL segments: `header.payload.signature`. The auth server signs the payload with `JWT_SECRET`; the resource server verifies the signature with the same secret (HS256). The decoded payload in v06 looks like this:
-
-```json
-{
-  "iss": "auth-server",
-  "aud": "resource-server",
-  "iat": 1718377200,
-  "sub": "user0",
-  "client_id": "demo-client",
-  "exp": 1718380800
-}
-```
-
-| Claim | RFC | Value in v06 | Why it matters |
-|-------|-----|--------------|----------------|
-| `sub` | Registered ([RFC 7519 §4.1.2](https://datatracker.ietf.org/doc/html/rfc7519#section-4.1.2)) | `user0` / `user1` | Subject: who the token represents; resource server keys `profiles` on this |
-| `exp` | Registered | Unix timestamp (~60s after mint) | Expiration; PyJWT rejects tokens past this time |
-| `iat` | Registered | Unix timestamp at mint | Issued-at; helps detect tokens used before they were minted |
-| `iss` | Registered | `"auth-server"` | Issuer; resource server expects this value when verifying |
-| `aud` | Registered | `"resource-server"` | Audience: token is meant for this API, not arbitrary services |
-| `client_id` | Custom (not in RFC 7519 registry) | `"demo-client"` | Which OAuth app received the token; useful for audit; v06 does not use it on `/api/me` |
-
-When the resource server receives a request from the client app, it does the following:
-
-- Verify JWT signature with `JWT_SECRET`; check `aud`, `iss`, and `exp`; extract `sub`.
-- Look up `profiles[sub]` for username and email.
-
-The resource server checks signature, `iss`, `aud`, and `exp` via PyJWT, then uses only `sub` for profile lookup. The end result matches introspection (identity from the token, profile from local storage); only the transport differs.
-
-Here is the nuance that makes JWT stateless. If you stop the auth server, already-issued JWTs still work until `exp`.
-
-| Concern | Mode A (opaque + introspection) | Mode B (JWT + local verify) |
-|---------|----------------------------------|-----------------------------|
-| Auth server down | `/api/me` fails (introspection unreachable) even if the client still holds a valid opaque token | Already-issued JWTs still verify until `exp` |
-| Revocation | Delete from `memory.access_tokens`; introspection then returns inactive | No server-side record; token stays valid until `exp` unless you add short TTLs or a denylist |
-
-Deleting an opaque token from `memory.access_tokens` makes introspection return inactive. Stateless JWTs still verify cryptographically until `exp`; production uses short TTLs or a denylist (out of scope for v06).
+Because Mode B is a distinct mental model — stateless verification, no per-call hop, and different failure and revocation behavior — it gets its own walkthrough in [v06b — JWT access tokens]({{< relref "posts/learning-oauth-2-06b" >}}). That post uses the same three-process code with `ACCESS_TOKEN_FORMAT=jwt` and `TOKEN_VALIDATION=jwt`. For now, the one difference worth holding onto: with introspection, stopping the auth server breaks `/api/me`; with a JWT, an already-issued token keeps verifying until `exp`.
 
 ## "On behalf of": two different meanings
 
@@ -270,41 +222,7 @@ v06 does not change this model. It only moves who validates the token to a separ
 
 ### Meaning 2: On-Behalf-Of (OBO) / token exchange (RFC 8693)
 
-OBO is a specific second-hop pattern. A middle service already has a user token, then exchanges it for a new token scoped to a downstream API. The user is the same; the audience is different.
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-  'actorLineColor': '#1e293b',
-  'actorBorder': '#334155',
-  'signalColor': '#1e293b',
-  'lineColor': '#1e293b',
-  'noteBorderColor': '#b45309',
-  'noteBkgColor': '#fef9c3'
-}}}%%
-sequenceDiagram
-    participant User as User
-    box rgba(5,80,174,0.18) MCP Client [client app :25001]
-        participant Client as OAuth Client
-    end
-    box rgba(22,101,52,0.18) MCP Server [resource server :25002]
-        participant Middle as Middle Service
-    end
-    box rgba(196,30,58,0.18) Authorization Server [auth server :25000]
-        participant AuthServer as Auth Server
-    end
-    box rgba(124,58,237,0.18) Downstream API [not yet in v06]
-        participant Downstream as External API
-    end
-
-    User->>Client: login
-    Client->>Middle: request<br/>Bearer token audience=MCP
-    Note over Middle,AuthServer: RFC 8693 token exchange (not yet in v06)
-    Middle->>AuthServer: token exchange OBO
-    AuthServer-->>Middle: new token audience=Downstream
-    Middle->>Downstream: call on behalf of User
-```
-
-In v06, the client holds the user's token and calls the resource server directly. There is no middle tier exchanging tokens. The diagram above sketches OBO (RFC 8693): a middle service swaps one token for another at the auth server, then calls an external API with the new token. v06 does not implement that path.
+OBO is a specific second-hop pattern: a middle service already holds a user token, then exchanges it for a new token scoped to a downstream API. The user is the same; the audience is different. v06 does not implement this — the client holds the user's token and calls the resource server directly, with no middle tier exchanging tokens. Multi-hop delegation lands later in [v10 — token exchange (RFC 8693)]({{< relref "posts/learning-oauth-2-10" >}}); this post just names the concept so the vocabulary is clear.
 
 ## What comes after v06 (briefly)
 
@@ -350,11 +268,9 @@ python3 app.py
 
 Default env is Mode A (`ACCESS_TOKEN_FORMAT=opaque`, `TOKEN_VALIDATION=introspection`). Open `http://localhost:25001`, log in as `user0` / `password0`, and `/profile` should show username and email fetched from the resource server on `:25002`.
 
-To try Mode B, set `ACCESS_TOKEN_FORMAT=jwt` and `TOKEN_VALIDATION=jwt` in all three `.env` files, use the same `JWT_SECRET` on the auth server and resource server, restart all three processes, and log in again.
+The same code also runs in Mode B (JWT); the companion post [v06b — JWT access tokens]({{< relref "posts/learning-oauth-2-06b" >}}) walks through flipping the env and what changes.
 
-### Manual checks
-
-**Mode A (default):**
+### Manual checks (Mode A)
 
 **Should fail:**
 
@@ -370,20 +286,7 @@ To try Mode B, set `ACCESS_TOKEN_FORMAT=jwt` and `TOKEN_VALIDATION=jwt` in all t
 |------|-----|----------|
 | Access token expiry | Wait for `ACCESS_TOKEN_TTL` (60s in `auth-server/routes/token.py`); reload `/profile` | Silent refresh still works |
 
-**Mode B** (after flipping env and restarting):
-
-**Should succeed:**
-
-| Test | How | Expected |
-|------|-----|----------|
-| Valid API call | Log in; `curl` `/api/me` with Bearer token from client `/debug/state` | 200 with user JSON |
-| Auth server down | Stop auth server; call `/api/me` with an unexpired JWT | 200 until `exp` |
-
-**Should fail:**
-
-| Test | How | Expected |
-|------|-----|----------|
-| Expired JWT | Wait past access token expiry; call `/api/me` | 401; refresh needs auth server again |
+Mode B has its own checks (valid JWT call, auth server down, expired JWT) in [v06b]({{< relref "posts/learning-oauth-2-06b" >}}).
 
 ## Cast of characters (v06 additions)
 
@@ -391,9 +294,9 @@ To try Mode B, set `ACCESS_TOKEN_FORMAT=jwt` and `TOKEN_VALIDATION=jwt` in all t
 |------|----------------|------------------|--------------|
 | `POST /introspect` | Auth server | Resource server to auth server (Mode A) | RFC 7662: is this token active, and who is the subject? |
 | `RESOURCE_SERVER_URL` | Config | Client to resource server | API base URL; separate from auth server. |
-| `ACCESS_TOKEN_FORMAT` | Config | Auth server mint path | `opaque` or `jwt`. |
-| `TOKEN_VALIDATION` | Config | Resource server | `introspection` or `jwt`; must match format. |
-| `JWT_SECRET` | Config | Auth and resource (Mode B) | Shared signing key for HS256 lab tokens. |
+| `ACCESS_TOKEN_FORMAT` | Config | Auth server mint path | `opaque` (Mode A, this post) or `jwt` (Mode B, [v06b]({{< relref "posts/learning-oauth-2-06b" >}})). |
+| `TOKEN_VALIDATION` | Config | Resource server | `introspection` (Mode A) or `jwt` (Mode B); must match format. |
+| `JWT_SECRET` | Config | Auth and resource (Mode B) | Shared signing key for HS256 lab tokens ([v06b]({{< relref "posts/learning-oauth-2-06b" >}})). |
 | `INTROSPECTION_CLIENT_*` | Config | Resource server to auth server | Service credentials for introspection. |
 
 Refresh tokens, PKCE, `state`, and Bearer headers are unchanged from v05.
@@ -406,12 +309,15 @@ v06 adds the split auth server and resource server on top of v05's refresh loop.
 diff -ru versions/v05-refresh-token versions/v06-split-servers
 ```
 
-I can think of the following possible continuations (not yet in the repo, might edit this section once I have worked on stuff):
+The immediate companion is [v06b — JWT access tokens]({{< relref "posts/learning-oauth-2-06b" >}}): the same three-process code, run in Mode B, where the resource server verifies a signed token locally instead of calling `/introspect`. After that, the lab continues in the order the snapshots actually shipped:
 
-1. RFC 8693 token exchange (OBO): middle service swaps tokens for downstream APIs.
-2. RFC 8707 `resource` parameter: bind tokens to a specific resource at mint time.
-3. RS256 and JWKS: replace HS256 shared secret for JWT mode.
-4. MCP and agent authorization: two-hop OAuth in practice (follow-up post).
+1. [v07 — OpenID Connect]({{< relref "posts/learning-oauth-2-07" >}}): add an identity layer (`id_token`, `nonce`, UserInfo, discovery) so the client learns *who* logged in, not just which API a token may call.
+2. [v08 — JWKS + RS256]({{< relref "posts/learning-oauth-2-08" >}}): drop the shared `JWT_SECRET`; verifiers fetch public keys and check RS256 signatures.
+3. [v09 — Resource indicators (RFC 8707)]({{< relref "posts/learning-oauth-2-09" >}}): bind a token to a specific API at mint time via the `resource` parameter and `aud`.
+4. [v10 — Token exchange (RFC 8693)]({{< relref "posts/learning-oauth-2-10" >}}): the OBO second hop — a middle service swaps one token for another scoped to a downstream API.
+5. v11 — MCP-style agent authorization: two-hop OAuth for AI tools calling protected APIs.
+
+The delegation arc (v08 → v09 → v10) is ordered deliberately: asymmetric trust (who can forge a token) comes before audience binding (which API may accept it), which comes before token exchange (how a middle tier swaps one token for another). Each step depends on the previous one.
 
 ## Further reading
 
