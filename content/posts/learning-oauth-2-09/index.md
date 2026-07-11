@@ -355,7 +355,7 @@ v09 binds access tokens to a named API at mint time. To see what changed, diff t
 diff -ru versions/v08-jwks-rs256 versions/v09-resource-indicators
 ```
 
-Next up is Token Exchange (On-Behalf-Of) ([RFC 8693](https://datatracker.ietf.org/doc/html/rfc8693)). In that pattern, a middle service presents one token and receives another with a tighter audience, scope, or subject. Agents and BFFs use it before calling downstream APIs.
+Next up: [v10 — Token Exchange (On-Behalf-Of)]({{< relref "posts/learning-oauth-2-10" >}}) ([RFC 8693](https://datatracker.ietf.org/doc/html/rfc8693)). In that pattern, a middle service presents one token and receives another with a tighter audience, scope, or subject. Agents and BFFs use it before calling downstream APIs.
 
 ## Further reading
 
