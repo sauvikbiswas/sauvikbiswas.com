@@ -1,6 +1,6 @@
 ---
 title: "Intermission: Agents, Consent, and the MCP Authorization Model"
-date: 2026-07-24
+date: 2027-07-24
 categories: 
   - "coding"
   - "software"
@@ -534,7 +534,7 @@ flowchart LR
 
 **Before this post:** [v08]({{< relref "posts/learning-oauth-2-08" >}}) (JWKS), [v09]({{< relref "posts/learning-oauth-2-09" >}}) (resource indicators), [v10]({{< relref "posts/learning-oauth-2-10" >}}) (token exchange).
 
-**After this post:** implement [v11]({{< relref "posts/learning-oauth-2-11" >}}) — MCP-style agent authorization in [oauth-lab](https://github.com/sauvikbiswas/oauth-lab): Protected Resource Metadata on `:25002`, discovery chain in the client, and client registration on `:25000`, reusing v09 `resource` binding and v08 JWKS verification.
+**After this post:** implement v11 — MCP-style agent authorization in [oauth-lab](https://github.com/sauvikbiswas/oauth-lab): Protected Resource Metadata on `:25002`, discovery chain in the client, and client registration on `:25000`, reusing v09 `resource` binding and v08 JWKS verification.
 
 If v08–v10 felt like RFC exercises, v11 is the payoff for [v01's]({{< relref "posts/learning-oauth-2-01" >}}) agent motivation: the same `:25000` / `:25001` / `:25002` topology, extended so a tool runtime can discover, register, consent, and call a protected MCP server the way the spec describes.
 
